@@ -1,0 +1,43 @@
+{
+  "version": 1,
+  "id": "archive.org:1bit_011/1bit011_-_02_-_Markus_Masuhr_-_Blunted_My_Transistor.mp3",
+  "source": "archive.org",
+  "title": "Blunted My Transistor",
+  "artist": "Markus Masuhr",
+  "album": "Body Dismorphic Disorder",
+  "pageUrl": "https://archive.org/details/1bit_011",
+  "audioUrl": "https://archive.org/download/1bit_011/1bit011_-_02_-_Markus_Masuhr_-_Blunted_My_Transistor.mp3",
+  "fileName": "1bit011_-_02_-_Markus_Masuhr_-_Blunted_My_Transistor.mp3",
+  "sizeBytes": 11049088,
+  "license": {
+    "code": "by-nc-sa",
+    "version": "2.5",
+    "label": "CC BY-NC-SA 2.5",
+    "url": "http://creativecommons.org/licenses/by-nc-sa/2.5/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": true,
+    "shareAlike": true,
+    "publicDomain": false
+  },
+  "genre": "Breakbeat",
+  "tags": [
+    "Breakbeat",
+    "Broken Beat",
+    "Minimal"
+  ],
+  "analysis": {
+    "durationSec": 345.18,
+    "bpm": 125,
+    "bpmConfidence": 1,
+    "beatOffset": 0.0056,
+    "key": {
+      "name": "C#",
+      "camelot": "3B",
+      "confidence": 0.48
+    },
+    "rmsDb": -10.8,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

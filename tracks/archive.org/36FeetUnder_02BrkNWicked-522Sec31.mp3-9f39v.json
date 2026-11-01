@@ -1,0 +1,52 @@
+{
+  "version": 1,
+  "id": "archive.org:36FeetUnder/02BrkNWicked-522Sec31.mp3",
+  "source": "archive.org",
+  "title": "# 5.22 % µSec & 31?",
+  "artist": "Brk&Wicked.",
+  "album": "36 Feet Under",
+  "pageUrl": "https://archive.org/details/36FeetUnder",
+  "audioUrl": "https://archive.org/download/36FeetUnder/02BrkNWicked-522Sec31.mp3",
+  "fileName": "02BrkNWicked-522Sec31.mp3",
+  "sizeBytes": 14945283,
+  "license": {
+    "code": "by-nc-nd",
+    "version": "2.0",
+    "label": "CC BY-NC-ND 2.0 FR",
+    "url": "http://creativecommons.org/licenses/by-nc-nd/2.0/fr/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": false,
+    "shareAlike": false,
+    "publicDomain": false
+  },
+  "genre": "Drum & Bass",
+  "tags": [
+    "Electronica",
+    "Drill & Bass",
+    "Breakcore",
+    "Glitch",
+    "IDM",
+    "Dubstep",
+    "Jungle",
+    "Ambient",
+    "Electro",
+    "Drum & Bass",
+    "Experimental",
+    "Braindance"
+  ],
+  "analysis": {
+    "durationSec": 373.6,
+    "bpm": 165,
+    "bpmConfidence": 1,
+    "beatOffset": 0.0838,
+    "key": {
+      "name": "C#",
+      "camelot": "3B",
+      "confidence": 0.74
+    },
+    "rmsDb": -13.6,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

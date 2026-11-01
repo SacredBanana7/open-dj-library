@@ -1,0 +1,47 @@
+{
+  "version": 1,
+  "id": "archive.org:mn006/mn006_01-dataman-mr_illusion.mp3",
+  "source": "archive.org",
+  "title": "mr. illusion",
+  "artist": "dataman",
+  "album": "[mn006] the most famous heroes ep",
+  "pageUrl": "https://archive.org/details/mn006",
+  "audioUrl": "https://archive.org/download/mn006/mn006_01-dataman-mr_illusion.mp3",
+  "fileName": "mn006_01-dataman-mr_illusion.mp3",
+  "sizeBytes": 9041041,
+  "license": {
+    "code": "by-nc-nd",
+    "version": "2.5",
+    "label": "CC BY-NC-ND 2.5",
+    "url": "http://creativecommons.org/licenses/by-nc-nd/2.5/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": false,
+    "shareAlike": false,
+    "publicDomain": false
+  },
+  "genre": "House",
+  "tags": [
+    "Experimental",
+    "Techno",
+    "House",
+    "Glitch",
+    "Electronic",
+    "Acid",
+    "Dance"
+  ],
+  "analysis": {
+    "durationSec": 376.61,
+    "bpm": 140.3,
+    "bpmConfidence": 0.39,
+    "beatOffset": 0.0501,
+    "key": {
+      "name": "D",
+      "camelot": "10B",
+      "confidence": 0.56
+    },
+    "rmsDb": -11.3,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

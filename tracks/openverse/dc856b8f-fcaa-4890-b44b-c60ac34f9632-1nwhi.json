@@ -1,0 +1,45 @@
+{
+  "version": 1,
+  "id": "openverse:dc856b8f-fcaa-4890-b44b-c60ac34f9632",
+  "source": "openverse",
+  "provider": "jamendo",
+  "title": "Techno Game",
+  "artist": "Dj Tibo",
+  "artistUrl": "https://www.jamendo.com/artist/336982/Dj_Tibo",
+  "album": "Mister Dee'Jay",
+  "pageUrl": "https://www.jamendo.com/track/101364",
+  "audioUrl": "https://prod-1.storage.jamendo.com/?trackid=101364&format=mp32",
+  "fileName": "Dj Tibo - Techno Game.mp3",
+  "license": {
+    "code": "by-sa",
+    "version": "3.0",
+    "label": "CC BY-SA 3.0",
+    "url": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "attribution": true,
+    "commercial": true,
+    "derivatives": true,
+    "shareAlike": true,
+    "publicDomain": false
+  },
+  "genre": "Techno",
+  "tags": [
+    "jumpstyle",
+    "male",
+    "speed_medium",
+    "vocal"
+  ],
+  "analysis": {
+    "durationSec": 151.38,
+    "bpm": 140,
+    "bpmConfidence": 0.67,
+    "beatOffset": 0.3101,
+    "key": {
+      "name": "Am",
+      "camelot": "8A",
+      "confidence": 0.79
+    },
+    "rmsDb": -11.4,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

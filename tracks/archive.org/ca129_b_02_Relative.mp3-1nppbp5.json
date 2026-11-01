@@ -1,0 +1,43 @@
+{
+  "version": 1,
+  "id": "archive.org:ca129_b/02_Relative.mp3",
+  "source": "archive.org",
+  "title": "Relative",
+  "artist": "Buben",
+  "album": "ca129 - Buben - Clinical Beats - (Dedicated to label Clinical Archives)",
+  "pageUrl": "https://archive.org/details/ca129_b",
+  "audioUrl": "https://archive.org/download/ca129_b/02_Relative.mp3",
+  "fileName": "02_Relative.mp3",
+  "sizeBytes": 13924341,
+  "license": {
+    "code": "by-nc-nd",
+    "version": "3.0",
+    "label": "CC BY-NC-ND 3.0",
+    "url": "http://creativecommons.org/licenses/by-nc-nd/3.0/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": false,
+    "shareAlike": false,
+    "publicDomain": false
+  },
+  "genre": "Experimental",
+  "tags": [
+    "experimental",
+    "noise",
+    "electronic"
+  ],
+  "analysis": {
+    "durationSec": 348.06,
+    "bpm": 120,
+    "bpmConfidence": 0.56,
+    "beatOffset": 0.5096,
+    "key": {
+      "name": "Bm",
+      "camelot": "10A",
+      "confidence": 0.44
+    },
+    "rmsDb": -12.3,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

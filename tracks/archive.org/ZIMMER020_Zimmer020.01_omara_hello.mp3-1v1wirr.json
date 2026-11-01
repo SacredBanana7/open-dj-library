@@ -1,0 +1,43 @@
+{
+  "version": 1,
+  "id": "archive.org:ZIMMER020/Zimmer020.01_omara__hello.mp3",
+  "source": "archive.org",
+  "title": "Zimmer020.01 - hello",
+  "artist": "omara",
+  "album": "Zimmer020",
+  "pageUrl": "https://archive.org/details/ZIMMER020",
+  "audioUrl": "https://archive.org/download/ZIMMER020/Zimmer020.01_omara__hello.mp3",
+  "fileName": "Zimmer020.01_omara__hello.mp3",
+  "sizeBytes": 10829824,
+  "license": {
+    "code": "by-nd",
+    "version": "2.5",
+    "label": "CC BY-ND 2.5",
+    "url": "http://creativecommons.org/licenses/by-nd/2.5/",
+    "attribution": true,
+    "commercial": true,
+    "derivatives": false,
+    "shareAlike": false,
+    "publicDomain": false
+  },
+  "genre": "Trance",
+  "tags": [
+    "trance",
+    "psychedelic",
+    "techno"
+  ],
+  "analysis": {
+    "durationSec": 451.84,
+    "bpm": 120,
+    "bpmConfidence": 1,
+    "beatOffset": 0.5392,
+    "key": {
+      "name": "Cm",
+      "camelot": "5A",
+      "confidence": 0.75
+    },
+    "rmsDb": -13.1,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

@@ -1,0 +1,42 @@
+{
+  "version": 1,
+  "id": "archive.org:foot017/foot017_02-dj_kirill_sergeew-big_big_world.mp3",
+  "source": "archive.org",
+  "title": "Big Big World",
+  "artist": "DJ Kirill Sergeew",
+  "album": "Down the Street",
+  "pageUrl": "https://archive.org/details/foot017",
+  "audioUrl": "https://archive.org/download/foot017/foot017_02-dj_kirill_sergeew-big_big_world.mp3",
+  "fileName": "foot017_02-dj_kirill_sergeew-big_big_world.mp3",
+  "sizeBytes": 4599111,
+  "license": {
+    "code": "by-nc-sa",
+    "version": "2.5",
+    "label": "CC BY-NC-SA 2.5",
+    "url": "http://creativecommons.org/licenses/by-nc-sa/2.5/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": true,
+    "shareAlike": true,
+    "publicDomain": false
+  },
+  "genre": "Breakbeat",
+  "tags": [
+    "Breakbeat",
+    "Trip-Hop"
+  ],
+  "analysis": {
+    "durationSec": 191.46,
+    "bpm": 150,
+    "bpmConfidence": 0.44,
+    "beatOffset": 1.2,
+    "key": {
+      "name": "G",
+      "camelot": "9B",
+      "confidence": 0.39
+    },
+    "rmsDb": -13.2,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

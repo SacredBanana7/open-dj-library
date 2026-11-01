@@ -1,0 +1,45 @@
+{
+  "version": 1,
+  "id": "archive.org:1bit_017/1bit017_-_01_-_Juno6_-_Argonaut.mp3",
+  "source": "archive.org",
+  "title": "Argonaut",
+  "artist": "Juno6",
+  "album": "Ita est",
+  "pageUrl": "https://archive.org/details/1bit_017",
+  "audioUrl": "https://archive.org/download/1bit_017/1bit017_-_01_-_Juno6_-_Argonaut.mp3",
+  "fileName": "1bit017_-_01_-_Juno6_-_Argonaut.mp3",
+  "sizeBytes": 13791360,
+  "license": {
+    "code": "by-nc-sa",
+    "version": "2.5",
+    "label": "CC BY-NC-SA 2.5",
+    "url": "http://creativecommons.org/licenses/by-nc-sa/2.5/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": true,
+    "shareAlike": true,
+    "publicDomain": false
+  },
+  "genre": "Techno",
+  "tags": [
+    "minimal",
+    "techno",
+    "detroit",
+    "downbeat",
+    "electronica"
+  ],
+  "analysis": {
+    "durationSec": 430.83,
+    "bpm": 129,
+    "bpmConfidence": 0.77,
+    "beatOffset": 0.6363,
+    "key": {
+      "name": "Dm",
+      "camelot": "7A",
+      "confidence": 0.97
+    },
+    "rmsDb": -14.2,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

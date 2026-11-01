@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "id": "openverse:a8d647ad-2d67-4257-a927-374949b8be31",
+  "source": "openverse",
+  "provider": "jamendo",
+  "title": "Love You Don't Go (Dubstep version)",
+  "artist": "JekK",
+  "artistUrl": "https://www.jamendo.com/artist/440692/JEKK",
+  "album": "Dear Dreams",
+  "pageUrl": "https://www.jamendo.com/track/1157360",
+  "audioUrl": "https://prod-1.storage.jamendo.com/?trackid=1157360&format=mp32",
+  "fileName": "JekK - Love You Don't Go (Dubstep version).mp3",
+  "license": {
+    "code": "by-nc-nd",
+    "version": "3.0",
+    "label": "CC BY-NC-ND 3.0",
+    "url": "https://creativecommons.org/licenses/by-nc-nd/3.0/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": false,
+    "shareAlike": false,
+    "publicDomain": false
+  },
+  "genre": "Dubstep",
+  "tags": [
+    "advertising",
+    "energetic",
+    "happy",
+    "love",
+    "male",
+    "speed_medium",
+    "vocal"
+  ],
+  "analysis": {
+    "durationSec": 199.22,
+    "bpm": 164,
+    "bpmConfidence": 0.41,
+    "beatOffset": 1.4453,
+    "key": {
+      "name": "C",
+      "camelot": "8B",
+      "confidence": 0.89
+    },
+    "rmsDb": -12.2,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

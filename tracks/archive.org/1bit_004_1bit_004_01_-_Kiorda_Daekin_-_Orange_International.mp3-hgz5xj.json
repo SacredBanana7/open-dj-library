@@ -1,0 +1,41 @@
+{
+  "version": 1,
+  "id": "archive.org:1bit_004/1bit_004_01_-_Kiorda_Daekin_-_Orange_International.mp3",
+  "source": "archive.org",
+  "title": "Orange International",
+  "artist": "Kiorda Däkin",
+  "album": "Interstellar Paradise",
+  "pageUrl": "https://archive.org/details/1bit_004",
+  "audioUrl": "https://archive.org/download/1bit_004/1bit_004_01_-_Kiorda_Daekin_-_Orange_International.mp3",
+  "fileName": "1bit_004_01_-_Kiorda_Daekin_-_Orange_International.mp3",
+  "sizeBytes": 6772864,
+  "license": {
+    "code": "by-nc-sa",
+    "version": "2.0",
+    "label": "CC BY-NC-SA 2.0",
+    "url": "http://creativecommons.org/licenses/by-nc-sa/2.0/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": true,
+    "shareAlike": true,
+    "publicDomain": false
+  },
+  "genre": "House",
+  "tags": [
+    "Deep House"
+  ],
+  "analysis": {
+    "durationSec": 282.04,
+    "bpm": 120,
+    "bpmConfidence": 1,
+    "beatOffset": 0.4594,
+    "key": {
+      "name": "F#",
+      "camelot": "2B",
+      "confidence": 0.62
+    },
+    "rmsDb": -20.3,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

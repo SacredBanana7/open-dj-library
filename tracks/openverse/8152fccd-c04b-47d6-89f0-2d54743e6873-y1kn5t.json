@@ -1,0 +1,43 @@
+{
+  "version": 1,
+  "id": "openverse:8152fccd-c04b-47d6-89f0-2d54743e6873",
+  "source": "openverse",
+  "provider": "jamendo",
+  "title": "Guf DJ 2004 Techno House Trance Acid Dance Hard Style Musik Sound Mr.Dötsch",
+  "artist": "Mr.Dötsch",
+  "artistUrl": "https://www.jamendo.com/artist/368930/Mr.Dotsch_(2)",
+  "album": "Mr.Dötsch",
+  "pageUrl": "https://www.jamendo.com/track/794046",
+  "audioUrl": "https://prod-1.storage.jamendo.com/?trackid=794046&format=mp32",
+  "fileName": "Mr.Dötsch - Guf DJ 2004 Techno House Trance Acid Dance Hard Style Musik Sound Mr.Dötsch.mp3",
+  "license": {
+    "code": "by-nd",
+    "version": "2.0",
+    "label": "CC BY-ND 2.0 DE",
+    "url": "https://creativecommons.org/licenses/by-nd/2.0/de/",
+    "attribution": true,
+    "commercial": true,
+    "derivatives": false,
+    "shareAlike": false,
+    "publicDomain": false
+  },
+  "genre": "Techno",
+  "tags": [
+    "speed_medium",
+    "vocal"
+  ],
+  "analysis": {
+    "durationSec": 187.2,
+    "bpm": 140,
+    "bpmConfidence": 1,
+    "beatOffset": 0.9337,
+    "key": {
+      "name": "G",
+      "camelot": "9B",
+      "confidence": 0.52
+    },
+    "rmsDb": -14.2,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

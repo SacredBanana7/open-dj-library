@@ -1,0 +1,51 @@
+{
+  "version": 1,
+  "id": "archive.org:fsz050/fsz050_03-chenard_walcker-danger_zone.mp3",
+  "source": "archive.org",
+  "title": "Danger Zone",
+  "artist": "Chenard Walcker",
+  "album": "The Pusher [fsz050]",
+  "pageUrl": "https://archive.org/details/fsz050",
+  "audioUrl": "https://archive.org/download/fsz050/fsz050_03-chenard_walcker-danger_zone.mp3",
+  "fileName": "fsz050_03-chenard_walcker-danger_zone.mp3",
+  "sizeBytes": 3829934,
+  "license": {
+    "code": "by-nc",
+    "version": "2.5",
+    "label": "CC BY-NC 2.5",
+    "url": "http://creativecommons.org/licenses/by-nc/2.5/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": true,
+    "shareAlike": false,
+    "publicDomain": false
+  },
+  "genre": "Disco / Funk",
+  "tags": [
+    "Alternative",
+    "Fuzzed Out Hardrock",
+    "Blues",
+    "Jazz+Funk",
+    "Psychedelia",
+    "Soul",
+    "Folk",
+    "Progressive",
+    "Heavy Rock",
+    "Sample Madness",
+    "Plunderphonics"
+  ],
+  "analysis": {
+    "durationSec": 159.53,
+    "bpm": 137,
+    "bpmConfidence": 0.66,
+    "beatOffset": 1.5759,
+    "key": {
+      "name": "C#",
+      "camelot": "3B",
+      "confidence": 0.8
+    },
+    "rmsDb": -15.9,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

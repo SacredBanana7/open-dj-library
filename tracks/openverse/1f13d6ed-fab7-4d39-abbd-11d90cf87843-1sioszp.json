@@ -1,0 +1,43 @@
+{
+  "version": 1,
+  "id": "openverse:1f13d6ed-fab7-4d39-abbd-11d90cf87843",
+  "source": "openverse",
+  "provider": "jamendo",
+  "title": "UndErgrOUnd tEchnO - ELEtrOnIc hEAvEn - TEchno Wizard t__hiroto",
+  "artist": "UndErgrOUnd tEchnO - rOAchEs pItchEs - Techno Wizard t__hiroto",
+  "artistUrl": "https://www.jamendo.com/artist/415062/t_hiroto",
+  "album": "UndErgrOUnd tEchnO - rOAchEs pItchEs - Techno Wizard t__hiroto",
+  "pageUrl": "https://www.jamendo.com/track/986244",
+  "audioUrl": "https://prod-1.storage.jamendo.com/?trackid=986244&format=mp32",
+  "fileName": "UndErgrOUnd tEchnO - rOAchEs pItchEs - Techno Wizard t__hiroto - UndErgrOUnd tEchnO - ELEtrOnIc hEAvEn - TEchno Wizard t.mp3",
+  "license": {
+    "code": "by-nc-nd",
+    "version": "2.1",
+    "label": "CC BY-NC-ND 2.1 JP",
+    "url": "https://creativecommons.org/licenses/by-nc-nd/2.1/jp/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": false,
+    "shareAlike": false,
+    "publicDomain": false
+  },
+  "genre": "Techno",
+  "tags": [
+    "instrumental",
+    "speed_high"
+  ],
+  "analysis": {
+    "durationSec": 327.81,
+    "bpm": 160,
+    "bpmConfidence": 0.43,
+    "beatOffset": 0.8368,
+    "key": {
+      "name": "D",
+      "camelot": "10B",
+      "confidence": 0.84
+    },
+    "rmsDb": -12,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

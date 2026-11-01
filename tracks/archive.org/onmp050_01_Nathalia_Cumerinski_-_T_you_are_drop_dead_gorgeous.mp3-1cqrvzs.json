@@ -1,0 +1,52 @@
+{
+  "version": 1,
+  "id": "archive.org:onmp050/01_Nathalia_Cumerinski_-_T_you_are_drop_dead_gorgeous.mp3",
+  "source": "archive.org",
+  "title": "T you are drop dead gorgeous",
+  "artist": "Nathalia Cumerinski",
+  "album": "Straight From The Heart mixed by Ekim (The Producers Cut Ekim - Mr. DeVo! - Zero V)",
+  "pageUrl": "https://archive.org/details/onmp050",
+  "audioUrl": "https://archive.org/download/onmp050/01_Nathalia_Cumerinski_-_T_you_are_drop_dead_gorgeous.mp3",
+  "fileName": "01_Nathalia_Cumerinski_-_T_you_are_drop_dead_gorgeous.mp3",
+  "sizeBytes": 5994496,
+  "license": {
+    "code": "by-nc",
+    "version": "3.0",
+    "label": "CC BY-NC 3.0",
+    "url": "http://creativecommons.org/licenses/by-nc/3.0/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": true,
+    "shareAlike": false,
+    "publicDomain": false
+  },
+  "genre": "Trance",
+  "tags": [
+    "Trance",
+    "Club",
+    "Techno",
+    "Lounge",
+    "House",
+    "Ambient",
+    "Down-Tempo",
+    "Tribal",
+    "Ekim",
+    "Mr. DeVo!",
+    "Zero V",
+    "Nathalia Cumerinski"
+  ],
+  "analysis": {
+    "durationSec": 249.73,
+    "bpm": 154,
+    "bpmConfidence": 0.4,
+    "beatOffset": 1.4501,
+    "key": {
+      "name": "F",
+      "camelot": "7B",
+      "confidence": 0.64
+    },
+    "rmsDb": -14.2,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

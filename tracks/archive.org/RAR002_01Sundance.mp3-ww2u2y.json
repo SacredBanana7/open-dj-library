@@ -1,0 +1,42 @@
+{
+  "version": 1,
+  "id": "archive.org:RAR002/01Sundance.mp3",
+  "source": "archive.org",
+  "title": "Sundance",
+  "artist": "Ben Crea",
+  "album": "Employee Of The Month",
+  "pageUrl": "https://archive.org/details/RAR002",
+  "audioUrl": "https://archive.org/download/RAR002/01Sundance.mp3",
+  "fileName": "01Sundance.mp3",
+  "sizeBytes": 9707676,
+  "license": {
+    "code": "by-nc-sa",
+    "version": "2.5",
+    "label": "CC BY-NC-SA 2.5",
+    "url": "http://creativecommons.org/licenses/by-nc-sa/2.5/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": true,
+    "shareAlike": true,
+    "publicDomain": false
+  },
+  "genre": "House",
+  "tags": [
+    "Techno",
+    "House"
+  ],
+  "analysis": {
+    "durationSec": 303.36,
+    "bpm": 125,
+    "bpmConfidence": 1,
+    "beatOffset": 1.0129,
+    "key": {
+      "name": "D#m",
+      "camelot": "2A",
+      "confidence": 0.41
+    },
+    "rmsDb": -16.8,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

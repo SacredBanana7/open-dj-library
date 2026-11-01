@@ -1,0 +1,45 @@
+{
+  "version": 1,
+  "id": "archive.org:fsz002/fsz002_02-chenard_walcker-cocktail.mp3",
+  "source": "archive.org",
+  "title": "Cocktail",
+  "artist": "Chenard Walcker",
+  "album": "L'Ane Vetu de la Peau de Lion [fsz002]",
+  "pageUrl": "https://archive.org/details/fsz002",
+  "audioUrl": "https://archive.org/download/fsz002/fsz002_02-chenard_walcker-cocktail.mp3",
+  "fileName": "fsz002_02-chenard_walcker-cocktail.mp3",
+  "sizeBytes": 5937152,
+  "license": {
+    "code": "by-nc",
+    "version": "2.5",
+    "label": "CC BY-NC 2.5",
+    "url": "http://creativecommons.org/licenses/by-nc/2.5/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": true,
+    "shareAlike": false,
+    "publicDomain": false
+  },
+  "genre": "Disco / Funk",
+  "tags": [
+    "Alternative",
+    "Avantgarde",
+    "Jazz+Funk",
+    "Sample Madness",
+    "Plunderphonics"
+  ],
+  "analysis": {
+    "durationSec": 247.28,
+    "bpm": 138.14,
+    "bpmConfidence": 0.43,
+    "beatOffset": 1.2232,
+    "key": {
+      "name": "Bm",
+      "camelot": "10A",
+      "confidence": 0.75
+    },
+    "rmsDb": -14.3,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

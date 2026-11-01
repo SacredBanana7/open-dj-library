@@ -1,0 +1,45 @@
+{
+  "version": 1,
+  "id": "archive.org:foot010/foot010_04-dj_kirill_sergeew-some_nasty_buzz.mp3",
+  "source": "archive.org",
+  "title": "Some Nasty Buzz",
+  "artist": "DJ Kirill Sergeew",
+  "album": "72",
+  "pageUrl": "https://archive.org/details/foot010",
+  "audioUrl": "https://archive.org/download/foot010/foot010_04-dj_kirill_sergeew-some_nasty_buzz.mp3",
+  "fileName": "foot010_04-dj_kirill_sergeew-some_nasty_buzz.mp3",
+  "sizeBytes": 4421560,
+  "license": {
+    "code": "by-nc-sa",
+    "version": "2.5",
+    "label": "CC BY-NC-SA 2.5",
+    "url": "http://creativecommons.org/licenses/by-nc-sa/2.5/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": true,
+    "shareAlike": true,
+    "publicDomain": false
+  },
+  "genre": "Breakbeat",
+  "tags": [
+    "Jazz",
+    "Trip-Hop",
+    "Breakbeat",
+    "Downtempo",
+    "Avantgarde"
+  ],
+  "analysis": {
+    "durationSec": 184.06,
+    "bpm": 127.5,
+    "bpmConfidence": 0.43,
+    "beatOffset": 1.2266,
+    "key": {
+      "name": "C",
+      "camelot": "8B",
+      "confidence": 0.52
+    },
+    "rmsDb": -17.4,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

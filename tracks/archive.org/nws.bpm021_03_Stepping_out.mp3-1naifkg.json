@@ -1,0 +1,49 @@
+{
+  "version": 1,
+  "id": "archive.org:nws.bpm021/03 Stepping out.mp3",
+  "source": "archive.org",
+  "title": "Stepping out",
+  "artist": "Alex Valentin",
+  "album": "[PWO 03] Urban sounds",
+  "pageUrl": "https://archive.org/details/nws.bpm021",
+  "audioUrl": "https://archive.org/download/nws.bpm021/03%20Stepping%20out.mp3",
+  "fileName": "03 Stepping out.mp3",
+  "sizeBytes": 9460821,
+  "license": {
+    "code": "by-nc-nd",
+    "version": "3.0",
+    "label": "CC BY-NC-ND 3.0",
+    "url": "http://creativecommons.org/licenses/by-nc-nd/3.0/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": false,
+    "shareAlike": false,
+    "publicDomain": false
+  },
+  "genre": "Disco / Funk",
+  "tags": [
+    "chillout",
+    "jazz-funk",
+    "lounge",
+    "minimal-pop",
+    "electronic",
+    "pop",
+    "triphop",
+    "funk",
+    "spoken-word"
+  ],
+  "analysis": {
+    "durationSec": 367.57,
+    "bpm": 120,
+    "bpmConfidence": 1,
+    "beatOffset": 0.6065,
+    "key": {
+      "name": "D#m",
+      "camelot": "2A",
+      "confidence": 0.85
+    },
+    "rmsDb": -10.2,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

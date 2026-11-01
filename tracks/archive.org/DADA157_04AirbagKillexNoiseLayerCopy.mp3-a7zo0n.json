@@ -1,0 +1,47 @@
+{
+  "version": 1,
+  "id": "archive.org:DADA157/04AirbagKillexNoiseLayerCopy.mp3",
+  "source": "archive.org",
+  "title": "Noise Layer Copy",
+  "artist": "Airbag Killex",
+  "album": "Colours : 0212am",
+  "pageUrl": "https://archive.org/details/DADA157",
+  "audioUrl": "https://archive.org/download/DADA157/04AirbagKillexNoiseLayerCopy.mp3",
+  "fileName": "04AirbagKillexNoiseLayerCopy.mp3",
+  "sizeBytes": 2819481,
+  "license": {
+    "code": "by-nc",
+    "version": "3.0",
+    "label": "CC BY-NC 3.0 NL",
+    "url": "http://creativecommons.org/licenses/by-nc/3.0/nl/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": true,
+    "shareAlike": false,
+    "publicDomain": false
+  },
+  "genre": "Electro",
+  "tags": [
+    "Airbag Killex",
+    "idm",
+    "breakcore",
+    "electro",
+    "industrial",
+    "atmospheric",
+    "DADA157"
+  ],
+  "analysis": {
+    "durationSec": 176.07,
+    "bpm": 152,
+    "bpmConfidence": 0.52,
+    "beatOffset": 0.9793,
+    "key": {
+      "name": "Bm",
+      "camelot": "10A",
+      "confidence": 0.68
+    },
+    "rmsDb": -14,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

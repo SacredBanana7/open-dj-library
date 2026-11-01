@@ -1,0 +1,45 @@
+{
+  "version": 1,
+  "id": "archive.org:subnet006_Kali-Frogz_Basement-EP/subnet006_Kali-Frogz_Basement-EP_02-The_Flatbone_fetish_remix.mp3",
+  "source": "archive.org",
+  "title": "02 - The Flatbone fetish remix",
+  "artist": "Kali-Frogz",
+  "album": "Basement EP",
+  "pageUrl": "https://archive.org/details/subnet006_Kali-Frogz_Basement-EP",
+  "audioUrl": "https://archive.org/download/subnet006_Kali-Frogz_Basement-EP/subnet006_Kali-Frogz_Basement-EP_02-The_Flatbone_fetish_remix.mp3",
+  "fileName": "subnet006_Kali-Frogz_Basement-EP_02-The_Flatbone_fetish_remix.mp3",
+  "sizeBytes": 14784512,
+  "license": {
+    "code": "by-nc-sa",
+    "version": "2.5",
+    "label": "CC BY-NC-SA 2.5",
+    "url": "http://creativecommons.org/licenses/by-nc-sa/2.5/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": true,
+    "shareAlike": true,
+    "publicDomain": false
+  },
+  "genre": "Trance",
+  "tags": [
+    "electronic",
+    "techno",
+    "trance",
+    "Kali Frogz",
+    "sub-machine.net"
+  ],
+  "analysis": {
+    "durationSec": 369.84,
+    "bpm": 135,
+    "bpmConfidence": 1,
+    "beatOffset": 0.0422,
+    "key": {
+      "name": "A#",
+      "camelot": "6B",
+      "confidence": 0.56
+    },
+    "rmsDb": -10.2,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

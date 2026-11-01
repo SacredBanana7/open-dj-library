@@ -1,0 +1,41 @@
+{
+  "version": 1,
+  "id": "archive.org:electronical_adm-014/adm-014-01-Mikael_Lind-Cupboard_XXX.mp3",
+  "source": "archive.org",
+  "title": "Cupboard XXX",
+  "artist": "Mikael Lind",
+  "album": "After Summer, Comes Fall",
+  "pageUrl": "https://archive.org/details/electronical_adm-014",
+  "audioUrl": "https://archive.org/download/electronical_adm-014/adm-014-01-Mikael_Lind-Cupboard_XXX.mp3",
+  "fileName": "adm-014-01-Mikael_Lind-Cupboard_XXX.mp3",
+  "sizeBytes": 5400704,
+  "license": {
+    "code": "by-nc-nd",
+    "version": "2.0",
+    "label": "CC BY-NC-ND 2.0",
+    "url": "http://creativecommons.org/licenses/by-nc-nd/2.0/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": false,
+    "shareAlike": false,
+    "publicDomain": false
+  },
+  "genre": "Breakbeat",
+  "tags": [
+    "Electro/IDM/Experimental/Breaks"
+  ],
+  "analysis": {
+    "durationSec": 224.99,
+    "bpm": 173.36,
+    "bpmConfidence": 0.47,
+    "beatOffset": 0.7483,
+    "key": {
+      "name": "D",
+      "camelot": "10B",
+      "confidence": 0.95
+    },
+    "rmsDb": -15,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

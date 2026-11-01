@@ -1,0 +1,45 @@
+{
+  "version": 1,
+  "id": "archive.org:P36-061/01_Mayhem_Perception_-_Our_Tribe_Of_Insomniacs.mp3",
+  "source": "archive.org",
+  "title": "Our Tribe Of Insomniacs",
+  "artist": "Mayhem Perception",
+  "album": "Out Of Da Brain",
+  "pageUrl": "https://archive.org/details/P36-061",
+  "audioUrl": "https://archive.org/download/P36-061/01_Mayhem_Perception_-_Our_Tribe_Of_Insomniacs.mp3",
+  "fileName": "01_Mayhem_Perception_-_Our_Tribe_Of_Insomniacs.mp3",
+  "sizeBytes": 14535529,
+  "license": {
+    "code": "by-nc-nd",
+    "version": "3.0",
+    "label": "CC BY-NC-ND 3.0",
+    "url": "http://creativecommons.org/licenses/by-nc-nd/3.0/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": false,
+    "shareAlike": false,
+    "publicDomain": false
+  },
+  "genre": "Dubstep",
+  "tags": [
+    "Dubstep",
+    "IDM",
+    "Abstract",
+    "Breakbeat",
+    "Drum & Bass"
+  ],
+  "analysis": {
+    "durationSec": 361.69,
+    "bpm": 173.06,
+    "bpmConfidence": 0.39,
+    "beatOffset": 0.7781,
+    "key": {
+      "name": "F",
+      "camelot": "7B",
+      "confidence": 0.73
+    },
+    "rmsDb": -10.6,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

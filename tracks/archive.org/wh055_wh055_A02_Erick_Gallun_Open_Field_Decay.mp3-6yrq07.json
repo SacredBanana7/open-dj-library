@@ -1,0 +1,51 @@
+{
+  "version": 1,
+  "id": "archive.org:wh055/wh055_A02_Erick_Gallun_Open_Field_Decay.mp3",
+  "source": "archive.org",
+  "title": "Open Field Decay",
+  "artist": "Erick Gallun",
+  "album": "Far Afield [Webbed Hand wh055]",
+  "pageUrl": "https://archive.org/details/wh055",
+  "audioUrl": "https://archive.org/download/wh055/wh055_A02_Erick_Gallun_Open_Field_Decay.mp3",
+  "fileName": "wh055_A02_Erick_Gallun_Open_Field_Decay.mp3",
+  "sizeBytes": 4325504,
+  "license": {
+    "code": "by-nc-nd",
+    "version": "3.0",
+    "label": "CC BY-NC-ND 3.0 US",
+    "url": "http://creativecommons.org/licenses/by-nc-nd/3.0/us/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": false,
+    "shareAlike": false,
+    "publicDomain": false
+  },
+  "genre": "Experimental",
+  "tags": [
+    "Field Recordings",
+    "Noise",
+    "Electroacoustic",
+    "Microsound",
+    "Sound Art",
+    "Experimental",
+    "Soundscape",
+    "Lowercase",
+    "Minimalism",
+    "musique concrete",
+    "Phonography"
+  ],
+  "analysis": {
+    "durationSec": 180.19,
+    "bpm": 160.58,
+    "bpmConfidence": 0.39,
+    "beatOffset": 0.5306,
+    "key": {
+      "name": "Bm",
+      "camelot": "10A",
+      "confidence": 0.6
+    },
+    "rmsDb": -14.4,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

@@ -1,0 +1,52 @@
+{
+  "version": 1,
+  "id": "archive.org:Necktar2017Volume9/001.Dawn_JimiMod_Necktar_2017_V9.mp3",
+  "source": "archive.org",
+  "title": "Dawn",
+  "artist": "JimiMod",
+  "album": "Necktar 2017 Vol.9",
+  "pageUrl": "https://archive.org/details/Necktar2017Volume9",
+  "audioUrl": "https://archive.org/download/Necktar2017Volume9/001.Dawn_JimiMod_Necktar_2017_V9.mp3",
+  "fileName": "001.Dawn_JimiMod_Necktar_2017_V9.mp3",
+  "sizeBytes": 24139049,
+  "license": {
+    "code": "by-nc-sa",
+    "version": "3.0",
+    "label": "CC BY-NC-SA 3.0",
+    "url": "http://creativecommons.org/licenses/by-nc-sa/3.0/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": true,
+    "shareAlike": true,
+    "publicDomain": false
+  },
+  "genre": "House",
+  "tags": [
+    "colibri necrophile",
+    "earsheltering",
+    "H.A.K. Lo-Fi Record",
+    "Murmure Intemporel",
+    "Eg0cide",
+    "netlabel",
+    "free",
+    "metacompilation",
+    "necktar",
+    "2017",
+    "life",
+    "transmission"
+  ],
+  "analysis": {
+    "durationSec": 416.5,
+    "bpm": 137.62,
+    "bpmConfidence": 0.37,
+    "beatOffset": 0.7326,
+    "key": {
+      "name": "G",
+      "camelot": "9B",
+      "confidence": 0.89
+    },
+    "rmsDb": -21.8,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

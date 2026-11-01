@@ -1,0 +1,50 @@
+{
+  "version": 1,
+  "id": "archive.org:Dr.Herom-MentalBeats2009_201/01.RompiendoMadresre-edited.mp3",
+  "source": "archive.org",
+  "title": "01. Rompiendo Madres (Re-edited)",
+  "artist": "Dr. Herom",
+  "album": "Mental Beats",
+  "pageUrl": "https://archive.org/details/Dr.Herom-MentalBeats2009_201",
+  "audioUrl": "https://archive.org/download/Dr.Herom-MentalBeats2009_201/01.RompiendoMadresre-edited.mp3",
+  "fileName": "01.RompiendoMadresre-edited.mp3",
+  "sizeBytes": 6107514,
+  "license": {
+    "code": "by-nc-sa",
+    "version": "3.0",
+    "label": "CC BY-NC-SA 3.0",
+    "url": "http://creativecommons.org/licenses/by-nc-sa/3.0/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": true,
+    "shareAlike": true,
+    "publicDomain": false
+  },
+  "genre": "Techno",
+  "tags": [
+    "Dr. Herom",
+    "dr",
+    "herom",
+    "heromlabs",
+    "dr herom",
+    "hardcore techno",
+    "hardcore",
+    "gabber",
+    "gabba",
+    "darkcore"
+  ],
+  "analysis": {
+    "durationSec": 152.63,
+    "bpm": 120,
+    "bpmConfidence": 0.61,
+    "beatOffset": 0.23,
+    "key": {
+      "name": "A",
+      "camelot": "11B",
+      "confidence": 0.61
+    },
+    "rmsDb": -8.2,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

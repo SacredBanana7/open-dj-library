@@ -1,0 +1,42 @@
+{
+  "version": 1,
+  "id": "archive.org:RAR002/02ClamandHamXmas.mp3",
+  "source": "archive.org",
+  "title": "Clam And Ham Xmas",
+  "artist": "Ben Crea",
+  "album": "Employee Of The Month",
+  "pageUrl": "https://archive.org/details/RAR002",
+  "audioUrl": "https://archive.org/download/RAR002/02ClamandHamXmas.mp3",
+  "fileName": "02ClamandHamXmas.mp3",
+  "sizeBytes": 9755331,
+  "license": {
+    "code": "by-nc-sa",
+    "version": "2.5",
+    "label": "CC BY-NC-SA 2.5",
+    "url": "http://creativecommons.org/licenses/by-nc-sa/2.5/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": true,
+    "shareAlike": true,
+    "publicDomain": false
+  },
+  "genre": "House",
+  "tags": [
+    "Techno",
+    "House"
+  ],
+  "analysis": {
+    "durationSec": 304.85,
+    "bpm": 126,
+    "bpmConfidence": 1,
+    "beatOffset": 1.0086,
+    "key": {
+      "name": "C#",
+      "camelot": "3B",
+      "confidence": 0.4
+    },
+    "rmsDb": -16.2,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

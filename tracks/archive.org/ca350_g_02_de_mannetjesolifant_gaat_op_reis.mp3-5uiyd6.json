@@ -1,0 +1,49 @@
+{
+  "version": 1,
+  "id": "archive.org:ca350_g/02_de_mannetjesolifant_gaat_op_reis.mp3",
+  "source": "archive.org",
+  "title": "de mannetjesolifant gaat op reis naar de oostzee",
+  "artist": "gillicuddy",
+  "album": "ca350 - gillicuddy - the yaouhl! mashups",
+  "pageUrl": "https://archive.org/details/ca350_g",
+  "audioUrl": "https://archive.org/download/ca350_g/02_de_mannetjesolifant_gaat_op_reis.mp3",
+  "fileName": "02_de_mannetjesolifant_gaat_op_reis.mp3",
+  "sizeBytes": 19439141,
+  "license": {
+    "code": "by-nc-nd",
+    "version": "3.0",
+    "label": "CC BY-NC-ND 3.0",
+    "url": "http://creativecommons.org/licenses/by-nc-nd/3.0/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": false,
+    "shareAlike": false,
+    "publicDomain": false
+  },
+  "genre": "Ambient",
+  "tags": [
+    "indie",
+    "rock",
+    "folk",
+    "post-rock",
+    "lo-fi",
+    "psychedelic",
+    "ambient",
+    "drone",
+    "experimental"
+  ],
+  "analysis": {
+    "durationSec": 477.05,
+    "bpm": 121.28,
+    "bpmConfidence": 0.37,
+    "beatOffset": 1.9081,
+    "key": {
+      "name": "G",
+      "camelot": "9B",
+      "confidence": 0.62
+    },
+    "rmsDb": -11.6,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

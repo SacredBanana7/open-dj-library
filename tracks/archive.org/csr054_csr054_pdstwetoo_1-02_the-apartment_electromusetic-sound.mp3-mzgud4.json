@@ -1,0 +1,46 @@
+{
+  "version": 1,
+  "id": "archive.org:csr054/csr054_pdstwetoo_1-02_the-apartment_electromusetic-sound.mp3",
+  "source": "archive.org",
+  "title": "The Apartment - Electromusetic Sound",
+  "artist": "The Apartment",
+  "album": "People Doing Strange Things With Electricity Too",
+  "pageUrl": "https://archive.org/details/csr054",
+  "audioUrl": "https://archive.org/download/csr054/csr054_pdstwetoo_1-02_the-apartment_electromusetic-sound.mp3",
+  "fileName": "csr054_pdstwetoo_1-02_the-apartment_electromusetic-sound.mp3",
+  "sizeBytes": 5755743,
+  "license": {
+    "code": "by-nc",
+    "version": "2.0",
+    "label": "CC BY-NC 2.0",
+    "url": "http://creativecommons.org/licenses/by-nc/2.0/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": true,
+    "shareAlike": false,
+    "publicDomain": false
+  },
+  "genre": "Ambient",
+  "tags": [
+    "Ambient",
+    "Avantgarde",
+    "Electronic",
+    "Noise",
+    "Improvisation",
+    "Musique Concrete"
+  ],
+  "analysis": {
+    "durationSec": 239.75,
+    "bpm": 160.42,
+    "bpmConfidence": 0.38,
+    "beatOffset": 1.2052,
+    "key": {
+      "name": "E",
+      "camelot": "12B",
+      "confidence": 0.82
+    },
+    "rmsDb": -14.2,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

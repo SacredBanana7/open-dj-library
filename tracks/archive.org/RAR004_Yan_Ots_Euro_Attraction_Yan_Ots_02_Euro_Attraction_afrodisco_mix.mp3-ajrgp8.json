@@ -1,0 +1,46 @@
+{
+  "version": 1,
+  "id": "archive.org:RAR004_Yan_Ots_Euro_Attraction/Yan_Ots_02_Euro_Attraction_afrodisco_mix.mp3",
+  "source": "archive.org",
+  "title": "Euro Attraction (AfroDisco Mix)",
+  "artist": "Yan Ots",
+  "album": "Euro Attraction",
+  "pageUrl": "https://archive.org/details/RAR004_Yan_Ots_Euro_Attraction",
+  "audioUrl": "https://archive.org/download/RAR004_Yan_Ots_Euro_Attraction/Yan_Ots_02_Euro_Attraction_afrodisco_mix.mp3",
+  "fileName": "Yan_Ots_02_Euro_Attraction_afrodisco_mix.mp3",
+  "sizeBytes": 11057005,
+  "license": {
+    "code": "by-nc-sa",
+    "version": "2.5",
+    "label": "CC BY-NC-SA 2.5",
+    "url": "http://creativecommons.org/licenses/by-nc-sa/2.5/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": true,
+    "shareAlike": true,
+    "publicDomain": false
+  },
+  "genre": "Disco / Funk",
+  "tags": [
+    "House",
+    "Disco-House",
+    "Techno",
+    "Tech-House",
+    "Vocal House",
+    "Dance"
+  ],
+  "analysis": {
+    "durationSec": 345.52,
+    "bpm": 130,
+    "bpmConfidence": 1,
+    "beatOffset": 0.2367,
+    "key": {
+      "name": "F#",
+      "camelot": "2B",
+      "confidence": 0.67
+    },
+    "rmsDb": -12.2,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

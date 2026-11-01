@@ -1,0 +1,52 @@
+{
+  "version": 1,
+  "id": "archive.org:Necktar2017Volume9/002.NEW_SKIN_RG_Rough_Necktar_2017_V9.mp3",
+  "source": "archive.org",
+  "title": "NEW SKIN",
+  "artist": "RG Rough",
+  "album": "Necktar 2017 Vol.9",
+  "pageUrl": "https://archive.org/details/Necktar2017Volume9",
+  "audioUrl": "https://archive.org/download/Necktar2017Volume9/002.NEW_SKIN_RG_Rough_Necktar_2017_V9.mp3",
+  "fileName": "002.NEW_SKIN_RG_Rough_Necktar_2017_V9.mp3",
+  "sizeBytes": 14361777,
+  "license": {
+    "code": "by-nc-sa",
+    "version": "3.0",
+    "label": "CC BY-NC-SA 3.0",
+    "url": "http://creativecommons.org/licenses/by-nc-sa/3.0/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": true,
+    "shareAlike": true,
+    "publicDomain": false
+  },
+  "genre": "House",
+  "tags": [
+    "colibri necrophile",
+    "earsheltering",
+    "H.A.K. Lo-Fi Record",
+    "Murmure Intemporel",
+    "Eg0cide",
+    "netlabel",
+    "free",
+    "metacompilation",
+    "necktar",
+    "2017",
+    "life",
+    "transmission"
+  ],
+  "analysis": {
+    "durationSec": 358.92,
+    "bpm": 163.56,
+    "bpmConfidence": 0.39,
+    "beatOffset": 0.4563,
+    "key": {
+      "name": "A",
+      "camelot": "11B",
+      "confidence": 0.82
+    },
+    "rmsDb": -18.2,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

@@ -1,0 +1,47 @@
+{
+  "version": 1,
+  "id": "archive.org:mn006/mn006_02-dataman-mr_energy.mp3",
+  "source": "archive.org",
+  "title": "mr. energy",
+  "artist": "dataman",
+  "album": "[mn006] the most famous heroes ep",
+  "pageUrl": "https://archive.org/details/mn006",
+  "audioUrl": "https://archive.org/download/mn006/mn006_02-dataman-mr_energy.mp3",
+  "fileName": "mn006_02-dataman-mr_energy.mp3",
+  "sizeBytes": 9801629,
+  "license": {
+    "code": "by-nc-nd",
+    "version": "2.5",
+    "label": "CC BY-NC-ND 2.5",
+    "url": "http://creativecommons.org/licenses/by-nc-nd/2.5/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": false,
+    "shareAlike": false,
+    "publicDomain": false
+  },
+  "genre": "House",
+  "tags": [
+    "Experimental",
+    "Techno",
+    "House",
+    "Glitch",
+    "Electronic",
+    "Acid",
+    "Dance"
+  ],
+  "analysis": {
+    "durationSec": 408.35,
+    "bpm": 121,
+    "bpmConfidence": 1,
+    "beatOffset": 0.0421,
+    "key": {
+      "name": "C#",
+      "camelot": "3B",
+      "confidence": 0.32
+    },
+    "rmsDb": -12.3,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

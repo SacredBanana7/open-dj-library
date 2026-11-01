@@ -1,0 +1,51 @@
+{
+  "version": 1,
+  "id": "archive.org:exp037/wrexsoul_-_alchemy_sound_-_01_-_indigo.mp3",
+  "source": "archive.org",
+  "title": "Indigo",
+  "artist": "Wrexsoul",
+  "album": "Wrexsoul - Alchemy Sound [exp037]",
+  "pageUrl": "https://archive.org/details/exp037",
+  "audioUrl": "https://archive.org/download/exp037/wrexsoul_-_alchemy_sound_-_01_-_indigo.mp3",
+  "fileName": "wrexsoul_-_alchemy_sound_-_01_-_indigo.mp3",
+  "sizeBytes": 11780096,
+  "license": {
+    "code": "by-nc-sa",
+    "version": "2.5",
+    "label": "CC BY-NC-SA 2.5",
+    "url": "http://creativecommons.org/licenses/by-nc-sa/2.5/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": true,
+    "shareAlike": true,
+    "publicDomain": false
+  },
+  "genre": "Techno",
+  "tags": [
+    "idm",
+    "electro",
+    "8bit",
+    "lofi",
+    "video game",
+    "chiptune",
+    "dance",
+    "techno",
+    "idm",
+    "experimental",
+    "melodic"
+  ],
+  "analysis": {
+    "durationSec": 485.54,
+    "bpm": 137.34,
+    "bpmConfidence": 0.56,
+    "beatOffset": 1.6127,
+    "key": {
+      "name": "Am",
+      "camelot": "8A",
+      "confidence": 0.74
+    },
+    "rmsDb": -15.2,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

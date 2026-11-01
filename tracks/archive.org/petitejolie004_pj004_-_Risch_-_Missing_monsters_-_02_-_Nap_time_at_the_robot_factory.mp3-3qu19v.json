@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "id": "archive.org:petitejolie004/pj004_-_Risch_-_Missing_monsters_-_02_-_Nap_time_at_the_robot_factory.mp3",
+  "source": "archive.org",
+  "title": "Nap time at the robot factory",
+  "artist": "Risch",
+  "album": "Missing monsters",
+  "pageUrl": "https://archive.org/details/petitejolie004",
+  "audioUrl": "https://archive.org/download/petitejolie004/pj004_-_Risch_-_Missing_monsters_-_02_-_Nap_time_at_the_robot_factory.mp3",
+  "fileName": "pj004_-_Risch_-_Missing_monsters_-_02_-_Nap_time_at_the_robot_factory.mp3",
+  "sizeBytes": 6076416,
+  "license": {
+    "code": "by-nc-sa",
+    "version": "3.0",
+    "label": "CC BY-NC-SA 3.0",
+    "url": "http://creativecommons.org/licenses/by-nc-sa/3.0/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": true,
+    "shareAlike": true,
+    "publicDomain": false
+  },
+  "genre": "Breakbeat",
+  "tags": [
+    "electronica",
+    "drill",
+    "idm",
+    "breakbeat",
+    "warm",
+    "summer",
+    "cute",
+    "pink"
+  ],
+  "analysis": {
+    "durationSec": 253.15,
+    "bpm": 166.72,
+    "bpmConfidence": 0.4,
+    "beatOffset": 1.2726,
+    "key": {
+      "name": "D#",
+      "camelot": "5B",
+      "confidence": 0.99
+    },
+    "rmsDb": -12.4,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

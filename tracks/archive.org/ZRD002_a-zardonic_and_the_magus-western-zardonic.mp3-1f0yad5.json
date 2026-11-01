@@ -1,0 +1,41 @@
+{
+  "version": 1,
+  "id": "archive.org:ZRD002/a-zardonic_and_the_magus-western-zardonic.mp3",
+  "source": "archive.org",
+  "title": "Western",
+  "artist": "Zardonic & The Magus",
+  "album": "[ZRD002] Western / Tuggy Tuggy",
+  "pageUrl": "https://archive.org/details/ZRD002",
+  "audioUrl": "https://archive.org/download/ZRD002/a-zardonic_and_the_magus-western-zardonic.mp3",
+  "fileName": "a-zardonic_and_the_magus-western-zardonic.mp3",
+  "sizeBytes": 15470592,
+  "license": {
+    "code": "by-nc-sa",
+    "version": "2.5",
+    "label": "CC BY-NC-SA 2.5",
+    "url": "http://creativecommons.org/licenses/by-nc-sa/2.5/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": true,
+    "shareAlike": true,
+    "publicDomain": false
+  },
+  "genre": "IDM / Electronica",
+  "tags": [
+    "drum, bass, heavy, dark, groovy, dance, electronica, metal, death, brigade, dancehall, hall"
+  ],
+  "analysis": {
+    "durationSec": 386.71,
+    "bpm": 121.5,
+    "bpmConfidence": 0.39,
+    "beatOffset": 1.7971,
+    "key": {
+      "name": "A#",
+      "camelot": "6B",
+      "confidence": 0.54
+    },
+    "rmsDb": -10.4,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

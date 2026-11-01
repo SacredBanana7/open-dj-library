@@ -1,0 +1,43 @@
+{
+  "version": 1,
+  "id": "archive.org:csr017/csr017_dan-deacon_01_arms-saloon.mp3",
+  "source": "archive.org",
+  "title": "Arms Saloon",
+  "artist": "Dan Deacon",
+  "album": "Twacky Cats",
+  "pageUrl": "https://archive.org/details/csr017",
+  "audioUrl": "https://archive.org/download/csr017/csr017_dan-deacon_01_arms-saloon.mp3",
+  "fileName": "csr017_dan-deacon_01_arms-saloon.mp3",
+  "sizeBytes": 8642560,
+  "license": {
+    "code": "by-nc",
+    "version": "1.0",
+    "label": "CC BY-NC 1.0",
+    "url": "http://creativecommons.org/licenses/by-nc/1.0/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": true,
+    "shareAlike": false,
+    "publicDomain": false
+  },
+  "genre": "Experimental",
+  "tags": [
+    "Electronic",
+    "Humour",
+    "Experimental"
+  ],
+  "analysis": {
+    "durationSec": 360.07,
+    "bpm": 120,
+    "bpmConfidence": 1,
+    "beatOffset": 0.0275,
+    "key": {
+      "name": "Em",
+      "camelot": "9A",
+      "confidence": 0.77
+    },
+    "rmsDb": -16.1,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

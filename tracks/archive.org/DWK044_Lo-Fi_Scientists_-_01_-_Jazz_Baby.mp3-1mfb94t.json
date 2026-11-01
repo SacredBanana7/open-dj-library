@@ -1,0 +1,49 @@
+{
+  "version": 1,
+  "id": "archive.org:DWK044/Lo-Fi_Scientists_-_01_-_Jazz_Baby.mp3",
+  "source": "archive.org",
+  "title": "Jazz Baby",
+  "artist": "Lo-Fi Scientists",
+  "album": "Lo-Fi Scientists EP",
+  "pageUrl": "https://archive.org/details/DWK044",
+  "audioUrl": "https://archive.org/download/DWK044/Lo-Fi_Scientists_-_01_-_Jazz_Baby.mp3",
+  "fileName": "Lo-Fi_Scientists_-_01_-_Jazz_Baby.mp3",
+  "sizeBytes": 13095813,
+  "license": {
+    "code": "by-nc-nd",
+    "version": "3.0",
+    "label": "CC BY-NC-ND 3.0",
+    "url": "http://creativecommons.org/licenses/by-nc-nd/3.0/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": false,
+    "shareAlike": false,
+    "publicDomain": false
+  },
+  "genre": "Ambient",
+  "tags": [
+    "Dusted Wax Kingdom",
+    "Lo-Fi Scientists",
+    "Mr. Moods",
+    "Le Reveur",
+    "downtempo",
+    "jazz",
+    "trip-hop",
+    "jazz hop",
+    "turntablism"
+  ],
+  "analysis": {
+    "durationSec": 327.37,
+    "bpm": 175.5,
+    "bpmConfidence": 0.39,
+    "beatOffset": 0.5531,
+    "key": {
+      "name": "F#m",
+      "camelot": "11A",
+      "confidence": 0.73
+    },
+    "rmsDb": -11.8,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

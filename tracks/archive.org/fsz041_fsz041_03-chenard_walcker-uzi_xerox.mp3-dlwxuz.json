@@ -1,0 +1,44 @@
+{
+  "version": 1,
+  "id": "archive.org:fsz041/fsz041_03-chenard_walcker-uzi_xerox.mp3",
+  "source": "archive.org",
+  "title": "Uzi Xerox",
+  "artist": "Chenard Walcker",
+  "album": "Archisex [fsz041]",
+  "pageUrl": "https://archive.org/details/fsz041",
+  "audioUrl": "https://archive.org/download/fsz041/fsz041_03-chenard_walcker-uzi_xerox.mp3",
+  "fileName": "fsz041_03-chenard_walcker-uzi_xerox.mp3",
+  "sizeBytes": 5455872,
+  "license": {
+    "code": "by-nc",
+    "version": "2.5",
+    "label": "CC BY-NC 2.5",
+    "url": "http://creativecommons.org/licenses/by-nc/2.5/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": true,
+    "shareAlike": false,
+    "publicDomain": false
+  },
+  "genre": "Disco / Funk",
+  "tags": [
+    "Disco",
+    "Jazz+Funk",
+    "Sample Madness",
+    "Plunderphonics"
+  ],
+  "analysis": {
+    "durationSec": 227.27,
+    "bpm": 111,
+    "bpmConfidence": 1,
+    "beatOffset": 0.2025,
+    "key": {
+      "name": "G#m",
+      "camelot": "1A",
+      "confidence": 0.51
+    },
+    "rmsDb": -10,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

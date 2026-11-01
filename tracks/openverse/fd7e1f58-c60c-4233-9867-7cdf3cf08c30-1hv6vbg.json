@@ -1,0 +1,47 @@
+{
+  "version": 1,
+  "id": "openverse:fd7e1f58-c60c-4233-9867-7cdf3cf08c30",
+  "source": "openverse",
+  "provider": "jamendo",
+  "title": "Mante (dubstep remix)",
+  "artist": "Mischapex",
+  "artistUrl": "https://www.jamendo.com/artist/338444/Mischapex",
+  "album": "Mante EP",
+  "pageUrl": "https://www.jamendo.com/track/375191",
+  "audioUrl": "https://prod-1.storage.jamendo.com/?trackid=375191&format=mp32",
+  "fileName": "Mischapex - Mante (dubstep remix).mp3",
+  "license": {
+    "code": "by-sa",
+    "version": "3.0",
+    "label": "CC BY-SA 3.0",
+    "url": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "attribution": true,
+    "commercial": true,
+    "derivatives": true,
+    "shareAlike": true,
+    "publicDomain": false
+  },
+  "genre": "Dubstep",
+  "tags": [
+    "birthday",
+    "happy",
+    "instrumental",
+    "neutral",
+    "speed_medium",
+    "trippy"
+  ],
+  "analysis": {
+    "durationSec": 218.71,
+    "bpm": 130,
+    "bpmConfidence": 1,
+    "beatOffset": 0.6888,
+    "key": {
+      "name": "A#m",
+      "camelot": "3A",
+      "confidence": 0.44
+    },
+    "rmsDb": -12.7,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

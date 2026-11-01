@@ -1,0 +1,47 @@
+{
+  "version": 1,
+  "id": "archive.org:JTRNET16/JTRNET16_A_disrupt_-_Samurai_Showdown.mp3",
+  "source": "archive.org",
+  "title": "Samurai Showdown",
+  "artist": "disrupt",
+  "album": "JTR NET 16",
+  "pageUrl": "https://archive.org/details/JTRNET16",
+  "audioUrl": "https://archive.org/download/JTRNET16/JTRNET16_A_disrupt_-_Samurai_Showdown.mp3",
+  "fileName": "JTRNET16_A_disrupt_-_Samurai_Showdown.mp3",
+  "sizeBytes": 4747264,
+  "license": {
+    "code": "by-nc-nd",
+    "version": "2.0",
+    "label": "CC BY-NC-ND 2.0 DE",
+    "url": "http://creativecommons.org/licenses/by-nc-nd/2.0/de/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": false,
+    "shareAlike": false,
+    "publicDomain": false
+  },
+  "genre": "Dubstep",
+  "tags": [
+    "disrupt",
+    "Jahtari",
+    "Digital Laptop Reggae",
+    "Samurai",
+    "Dub",
+    "Reggae",
+    "Dubstep"
+  ],
+  "analysis": {
+    "durationSec": 198.03,
+    "bpm": 159.1,
+    "bpmConfidence": 0.4,
+    "beatOffset": 1.1011,
+    "key": {
+      "name": "Am",
+      "camelot": "8A",
+      "confidence": 0.82
+    },
+    "rmsDb": -9.9,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

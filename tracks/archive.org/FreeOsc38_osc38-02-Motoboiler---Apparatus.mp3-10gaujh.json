@@ -1,0 +1,41 @@
+{
+  "version": 1,
+  "id": "archive.org:FreeOsc38/osc38-02-Motoboiler---Apparatus.mp3",
+  "source": "archive.org",
+  "title": "Apparatus",
+  "artist": "Motoboiler",
+  "album": "Forecast EP",
+  "pageUrl": "https://archive.org/details/FreeOsc38",
+  "audioUrl": "https://archive.org/download/FreeOsc38/osc38-02-Motoboiler---Apparatus.mp3",
+  "fileName": "osc38-02-Motoboiler---Apparatus.mp3",
+  "sizeBytes": 7288832,
+  "license": {
+    "code": "by-nc-nd",
+    "version": "2.5",
+    "label": "CC BY-NC-ND 2.5",
+    "url": "http://creativecommons.org/licenses/by-nc-nd/2.5/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": false,
+    "shareAlike": false,
+    "publicDomain": false
+  },
+  "genre": "Techno",
+  "tags": [
+    "Electro, Techno, Trance"
+  ],
+  "analysis": {
+    "durationSec": 255.05,
+    "bpm": 110,
+    "bpmConfidence": 1,
+    "beatOffset": 0.5518,
+    "key": {
+      "name": "G",
+      "camelot": "9B",
+      "confidence": 0.69
+    },
+    "rmsDb": -12.8,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

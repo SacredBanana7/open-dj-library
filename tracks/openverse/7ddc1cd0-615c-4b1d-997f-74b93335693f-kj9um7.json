@@ -1,0 +1,45 @@
+{
+  "version": 1,
+  "id": "openverse:7ddc1cd0-615c-4b1d-997f-74b93335693f",
+  "source": "openverse",
+  "provider": "jamendo",
+  "title": "Ambient India",
+  "artist": "Zeropage",
+  "artistUrl": "https://www.jamendo.com/artist/2986/zeropage",
+  "album": "Ambient Pills",
+  "pageUrl": "https://www.jamendo.com/track/20232",
+  "audioUrl": "https://prod-1.storage.jamendo.com/?trackid=20232&format=mp32",
+  "fileName": "Zeropage - Ambient India.mp3",
+  "license": {
+    "code": "by",
+    "version": "3.0",
+    "label": "CC BY 3.0",
+    "url": "https://creativecommons.org/licenses/by/3.0/",
+    "attribution": true,
+    "commercial": true,
+    "derivatives": true,
+    "shareAlike": false,
+    "publicDomain": false
+  },
+  "genre": "Ambient",
+  "tags": [
+    "female",
+    "instrumental",
+    "neutral",
+    "speed_medium"
+  ],
+  "analysis": {
+    "durationSec": 386.18,
+    "bpm": 146.66,
+    "bpmConfidence": 0.55,
+    "beatOffset": 0.7982,
+    "key": {
+      "name": "C#",
+      "camelot": "3B",
+      "confidence": 0.83
+    },
+    "rmsDb": -11.1,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

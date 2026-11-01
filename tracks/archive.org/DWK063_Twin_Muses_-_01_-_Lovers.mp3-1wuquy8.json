@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "id": "archive.org:DWK063/Twin_Muses_-_01_-_Lovers.mp3",
+  "source": "archive.org",
+  "title": "Lovers",
+  "artist": "Twin Muses",
+  "album": "French Afrocentric EP",
+  "pageUrl": "https://archive.org/details/DWK063",
+  "audioUrl": "https://archive.org/download/DWK063/Twin_Muses_-_01_-_Lovers.mp3",
+  "fileName": "Twin_Muses_-_01_-_Lovers.mp3",
+  "sizeBytes": 9137740,
+  "license": {
+    "code": "by-nc-nd",
+    "version": "3.0",
+    "label": "CC BY-NC-ND 3.0",
+    "url": "http://creativecommons.org/licenses/by-nc-nd/3.0/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": false,
+    "shareAlike": false,
+    "publicDomain": false
+  },
+  "genre": "Hip Hop",
+  "tags": [
+    "Twin Muses",
+    "Mr. Moods",
+    "Marquee Gibb",
+    "Dusted Wax Kingdom",
+    "trip-hop",
+    "downtempo",
+    "hip-hop",
+    "jazz"
+  ],
+  "analysis": {
+    "durationSec": 228.41,
+    "bpm": 90,
+    "bpmConfidence": 1,
+    "beatOffset": 0.0424,
+    "key": {
+      "name": "Dm",
+      "camelot": "7A",
+      "confidence": 0.84
+    },
+    "rmsDb": -11.3,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

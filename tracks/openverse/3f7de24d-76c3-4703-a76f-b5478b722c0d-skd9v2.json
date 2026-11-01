@@ -1,0 +1,47 @@
+{
+  "version": 1,
+  "id": "openverse:3f7de24d-76c3-4703-a76f-b5478b722c0d",
+  "source": "openverse",
+  "provider": "jamendo",
+  "title": "Ambient Chillout Drum and Bass",
+  "artist": "PremiumMusic (Instrumental Version)",
+  "artistUrl": "https://www.jamendo.com/artist/420766/PremiumMusic",
+  "album": "Breakbeat Trip Hop Dubstep Drum And Bass Jungle Dark Future",
+  "pageUrl": "https://www.jamendo.com/track/991152",
+  "audioUrl": "https://prod-1.storage.jamendo.com/?trackid=991152&format=mp32",
+  "fileName": "PremiumMusic (Instrumental Version) - Ambient Chillout Drum and Bass.mp3",
+  "license": {
+    "code": "by-nc-nd",
+    "version": "3.0",
+    "label": "CC BY-NC-ND 3.0",
+    "url": "https://creativecommons.org/licenses/by-nc-nd/3.0/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": false,
+    "shareAlike": false,
+    "publicDomain": false
+  },
+  "genre": "Drum & Bass",
+  "tags": [
+    "emotional",
+    "happy",
+    "instrumental",
+    "love",
+    "party",
+    "speed_medium"
+  ],
+  "analysis": {
+    "durationSec": 182.13,
+    "bpm": 113.32,
+    "bpmConfidence": 1,
+    "beatOffset": 1.5784,
+    "key": {
+      "name": "C",
+      "camelot": "8B",
+      "confidence": 0.82
+    },
+    "rmsDb": -21.9,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

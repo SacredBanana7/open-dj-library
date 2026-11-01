@@ -1,0 +1,47 @@
+{
+  "version": 1,
+  "id": "archive.org:chase_014/01_-_Plus_2H_Moins_2N_-_Poursuite.mp3",
+  "source": "archive.org",
+  "title": "Poursuite",
+  "artist": "+2H-2N",
+  "album": "Attention Les Fachos Ont Des Flashballs",
+  "pageUrl": "https://archive.org/details/chase_014",
+  "audioUrl": "https://archive.org/download/chase_014/01_-_Plus_2H_Moins_2N_-_Poursuite.mp3",
+  "fileName": "01_-_Plus_2H_Moins_2N_-_Poursuite.mp3",
+  "sizeBytes": 7491188,
+  "license": {
+    "code": "by-nc-sa",
+    "version": "2.0",
+    "label": "CC BY-NC-SA 2.0 FR",
+    "url": "http://creativecommons.org/licenses/by-nc-sa/2.0/fr/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": true,
+    "shareAlike": true,
+    "publicDomain": false
+  },
+  "genre": "Drum & Bass",
+  "tags": [
+    "Hip Hop",
+    "Jungle",
+    "Drum'n'bass",
+    "Breakcore",
+    "dnb",
+    "+2h-2n",
+    "Chase Records"
+  ],
+  "analysis": {
+    "durationSec": 312,
+    "bpm": 121.5,
+    "bpmConfidence": 0.4,
+    "beatOffset": 1.895,
+    "key": {
+      "name": "Bm",
+      "camelot": "10A",
+      "confidence": 0.76
+    },
+    "rmsDb": -13.1,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

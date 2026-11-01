@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "id": "openverse:3dde2e7d-1ba8-4024-9843-f0b58589c4e1",
+  "source": "openverse",
+  "provider": "jamendo",
+  "title": "Action Sport Dubstep (Original)",
+  "artist": "Vicate",
+  "artistUrl": "https://www.jamendo.com/artist/465078/Ivan_Ryzhko",
+  "album": "Action Sport Dubstep",
+  "pageUrl": "https://www.jamendo.com/track/1356133",
+  "audioUrl": "https://prod-1.storage.jamendo.com/?trackid=1356133&format=mp32",
+  "fileName": "Vicate - Action Sport Dubstep (Original).mp3",
+  "license": {
+    "code": "by-nc",
+    "version": "3.0",
+    "label": "CC BY-NC 3.0",
+    "url": "https://creativecommons.org/licenses/by-nc/3.0/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": true,
+    "shareAlike": false,
+    "publicDomain": false
+  },
+  "genre": "Dubstep",
+  "tags": [
+    "action",
+    "backgrounds",
+    "energetic",
+    "instrumental",
+    "neutral",
+    "speed_high",
+    "sport"
+  ],
+  "analysis": {
+    "durationSec": 171.2,
+    "bpm": 150,
+    "bpmConfidence": 0.78,
+    "beatOffset": 0.8008,
+    "key": {
+      "name": "G",
+      "camelot": "9B",
+      "confidence": 0.75
+    },
+    "rmsDb": -13.9,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

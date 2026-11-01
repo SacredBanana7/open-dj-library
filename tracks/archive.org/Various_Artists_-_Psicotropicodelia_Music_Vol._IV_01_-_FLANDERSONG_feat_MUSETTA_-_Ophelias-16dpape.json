@@ -1,0 +1,52 @@
+{
+  "version": 1,
+  "id": "archive.org:Various_Artists_-_Psicotropicodelia_Music_Vol._IV/01_-_FLANDERSONG_feat_MUSETTA_-_Ophelias_Song_1-0.mp3",
+  "source": "archive.org",
+  "title": "01 - Flandersong feat. Musetta - Ophelia's Song 1.0",
+  "artist": "FLANDERSONG_feat._MUSETTA",
+  "album": "PSICOTROPICODELIA MUSIC # IV",
+  "pageUrl": "https://archive.org/details/Various_Artists_-_Psicotropicodelia_Music_Vol._IV",
+  "audioUrl": "https://archive.org/download/Various_Artists_-_Psicotropicodelia_Music_Vol._IV/01_-_FLANDERSONG_feat_MUSETTA_-_Ophelias_Song_1-0.mp3",
+  "fileName": "01_-_FLANDERSONG_feat_MUSETTA_-_Ophelias_Song_1-0.mp3",
+  "sizeBytes": 9475220,
+  "license": {
+    "code": "by-nc-sa",
+    "version": "3.0",
+    "label": "CC BY-NC-SA 3.0",
+    "url": "http://creativecommons.org/licenses/by-nc-sa/3.0/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": true,
+    "shareAlike": true,
+    "publicDomain": false
+  },
+  "genre": "Dubstep",
+  "tags": [
+    "psicotropicodelia",
+    "dub",
+    "lounge",
+    "synthpop",
+    "industrial",
+    "dubstep",
+    "experimental",
+    "melrah",
+    "music",
+    "breakcore",
+    "electro",
+    "idm"
+  ],
+  "analysis": {
+    "durationSec": 236.8,
+    "bpm": 154.36,
+    "bpmConfidence": 0.38,
+    "beatOffset": 0.3415,
+    "key": {
+      "name": "Cm",
+      "camelot": "5A",
+      "confidence": 0.7
+    },
+    "rmsDb": -6.4,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

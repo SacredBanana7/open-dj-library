@@ -1,0 +1,41 @@
+{
+  "version": 1,
+  "id": "archive.org:unfound29/unfound29_01_-_easy_changes_-_natural_poison.mp3",
+  "source": "archive.org",
+  "title": "natural poison",
+  "artist": "easy changes",
+  "album": "[unfound29] easy changes - pitch and gas ep",
+  "pageUrl": "https://archive.org/details/unfound29",
+  "audioUrl": "https://archive.org/download/unfound29/unfound29_01_-_easy_changes_-_natural_poison.mp3",
+  "fileName": "unfound29_01_-_easy_changes_-_natural_poison.mp3",
+  "sizeBytes": 16771072,
+  "license": {
+    "code": "by-nc-nd",
+    "version": "3.0",
+    "label": "CC BY-NC-ND 3.0",
+    "url": "http://creativecommons.org/licenses/by-nc-nd/3.0/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": false,
+    "shareAlike": false,
+    "publicDomain": false
+  },
+  "genre": "Techno",
+  "tags": [
+    "minimal, techno, house"
+  ],
+  "analysis": {
+    "durationSec": 419.13,
+    "bpm": 128,
+    "bpmConfidence": 1,
+    "beatOffset": 0.569,
+    "key": {
+      "name": "C#",
+      "camelot": "3B",
+      "confidence": 0.73
+    },
+    "rmsDb": -12.4,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

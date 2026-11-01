@@ -1,0 +1,47 @@
+{
+  "version": 1,
+  "id": "archive.org:45rpm0452011OllieCram-ThatYouSaidLongPastsingle_932/01Ollie_Cram_-_That_You_Said.mp3",
+  "source": "archive.org",
+  "title": "That You Said",
+  "artist": "Ollie Cram",
+  "album": "That You Said / Long Past",
+  "pageUrl": "https://archive.org/details/45rpm0452011OllieCram-ThatYouSaidLongPastsingle_932",
+  "audioUrl": "https://archive.org/download/45rpm0452011OllieCram-ThatYouSaidLongPastsingle_932/01Ollie_Cram_-_That_You_Said.mp3",
+  "fileName": "01Ollie_Cram_-_That_You_Said.mp3",
+  "sizeBytes": 14586028,
+  "license": {
+    "code": "by-nc-nd",
+    "version": "3.0",
+    "label": "CC BY-NC-ND 3.0",
+    "url": "http://creativecommons.org/licenses/by-nc-nd/3.0/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": false,
+    "shareAlike": false,
+    "publicDomain": false
+  },
+  "genre": "Dubstep",
+  "tags": [
+    "45RPM-Records label",
+    "Ollie Cram",
+    "downtempo",
+    "downbeat",
+    "chill",
+    "dubstep",
+    "Ireland"
+  ],
+  "analysis": {
+    "durationSec": 364.85,
+    "bpm": 131.76,
+    "bpmConfidence": 0.38,
+    "beatOffset": 0.4711,
+    "key": {
+      "name": "A#",
+      "camelot": "6B",
+      "confidence": 0.82
+    },
+    "rmsDb": -9.6,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

@@ -1,0 +1,46 @@
+{
+  "version": 1,
+  "id": "archive.org:csr054/csr054_pdstwetoo_1-03_brion-kinne_where-did-all-these-dust-bunnies-come-from.mp3",
+  "source": "archive.org",
+  "title": "Brion Kinne - Where Did All These Dust Bunnies Come From",
+  "artist": "Brion Kinne",
+  "album": "People Doing Strange Things With Electricity Too",
+  "pageUrl": "https://archive.org/details/csr054",
+  "audioUrl": "https://archive.org/download/csr054/csr054_pdstwetoo_1-03_brion-kinne_where-did-all-these-dust-bunnies-come-from.mp3",
+  "fileName": "csr054_pdstwetoo_1-03_brion-kinne_where-did-all-these-dust-bunnies-come-from.mp3",
+  "sizeBytes": 6388343,
+  "license": {
+    "code": "by-nc",
+    "version": "2.0",
+    "label": "CC BY-NC 2.0",
+    "url": "http://creativecommons.org/licenses/by-nc/2.0/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": true,
+    "shareAlike": false,
+    "publicDomain": false
+  },
+  "genre": "Ambient",
+  "tags": [
+    "Ambient",
+    "Avantgarde",
+    "Electronic",
+    "Noise",
+    "Improvisation",
+    "Musique Concrete"
+  ],
+  "analysis": {
+    "durationSec": 266.11,
+    "bpm": 164.06,
+    "bpmConfidence": 0.42,
+    "beatOffset": 1.137,
+    "key": {
+      "name": "Cm",
+      "camelot": "5A",
+      "confidence": 0.85
+    },
+    "rmsDb": -18.2,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

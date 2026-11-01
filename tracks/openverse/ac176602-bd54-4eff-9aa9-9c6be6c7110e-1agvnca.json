@@ -1,0 +1,46 @@
+{
+  "version": 1,
+  "id": "openverse:ac176602-bd54-4eff-9aa9-9c6be6c7110e",
+  "source": "openverse",
+  "provider": "jamendo",
+  "title": "Speaker System - Haiti WAVES (Dubstep)",
+  "artist": "Speaker System",
+  "artistUrl": "https://www.jamendo.com/artist/438321/Speaker_System",
+  "album": "DarkSize",
+  "pageUrl": "https://www.jamendo.com/track/1114949",
+  "audioUrl": "https://prod-1.storage.jamendo.com/?trackid=1114949&format=mp32",
+  "fileName": "Speaker System - Speaker System - Haiti WAVES (Dubstep).mp3",
+  "license": {
+    "code": "by-nc-sa",
+    "version": "3.0",
+    "label": "CC BY-NC-SA 3.0",
+    "url": "https://creativecommons.org/licenses/by-nc-sa/3.0/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": true,
+    "shareAlike": true,
+    "publicDomain": false
+  },
+  "genre": "Dubstep",
+  "tags": [
+    "computer",
+    "gamemusic",
+    "instrumental",
+    "neutral",
+    "speed_medium"
+  ],
+  "analysis": {
+    "durationSec": 179.13,
+    "bpm": 172.5,
+    "bpmConfidence": 0.5,
+    "beatOffset": 0.0441,
+    "key": {
+      "name": "C#",
+      "camelot": "3B",
+      "confidence": 0.75
+    },
+    "rmsDb": -12.6,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

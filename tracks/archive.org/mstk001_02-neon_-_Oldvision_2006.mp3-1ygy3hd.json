@@ -1,0 +1,43 @@
+{
+  "version": 1,
+  "id": "archive.org:mstk001/02-neon_-_Oldvision_2006.mp3",
+  "source": "archive.org",
+  "title": "Oldvision 2006",
+  "artist": "neon",
+  "album": "mstk001: Deepness EP",
+  "pageUrl": "https://archive.org/details/mstk001",
+  "audioUrl": "https://archive.org/download/mstk001/02-neon_-_Oldvision_2006.mp3",
+  "fileName": "02-neon_-_Oldvision_2006.mp3",
+  "sizeBytes": 11522048,
+  "license": {
+    "code": "by-nc-sa",
+    "version": "2.5",
+    "label": "CC BY-NC-SA 2.5",
+    "url": "http://creativecommons.org/licenses/by-nc-sa/2.5/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": true,
+    "shareAlike": true,
+    "publicDomain": false
+  },
+  "genre": "Drum & Bass",
+  "tags": [
+    "atmospheric",
+    "drum and bass",
+    "dnb"
+  ],
+  "analysis": {
+    "durationSec": 480.05,
+    "bpm": 145.72,
+    "bpmConfidence": 0.41,
+    "beatOffset": 0.2752,
+    "key": {
+      "name": "A#m",
+      "camelot": "3A",
+      "confidence": 0.72
+    },
+    "rmsDb": -14.2,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

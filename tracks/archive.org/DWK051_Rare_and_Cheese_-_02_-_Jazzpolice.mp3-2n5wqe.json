@@ -1,0 +1,49 @@
+{
+  "version": 1,
+  "id": "archive.org:DWK051/Rare_and_Cheese_-_02_-_Jazzpolice.mp3",
+  "source": "archive.org",
+  "title": "Jazzpolice",
+  "artist": "Rare & Cheese",
+  "album": "Jazzpolice EP",
+  "pageUrl": "https://archive.org/details/DWK051",
+  "audioUrl": "https://archive.org/download/DWK051/Rare_and_Cheese_-_02_-_Jazzpolice.mp3",
+  "fileName": "Rare_and_Cheese_-_02_-_Jazzpolice.mp3",
+  "sizeBytes": 9883834,
+  "license": {
+    "code": "by-nc-nd",
+    "version": "3.0",
+    "label": "CC BY-NC-ND 3.0",
+    "url": "http://creativecommons.org/licenses/by-nc-nd/3.0/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": false,
+    "shareAlike": false,
+    "publicDomain": false
+  },
+  "genre": "Hip Hop",
+  "tags": [
+    "Rare",
+    "Cheese",
+    "Jazzpolice",
+    "Dusted Wax Kingdom",
+    "jazz hop",
+    "jazz",
+    "hip-hop",
+    "turntablism"
+  ],
+  "analysis": {
+    "durationSec": 192.4,
+    "bpm": 82.25,
+    "bpmConfidence": 0.58,
+    "beatOffset": 1.0506,
+    "key": {
+      "name": "G",
+      "camelot": "9B",
+      "confidence": 0.85
+    },
+    "rmsDb": -14.8,
+    "analyzer": "pulsar-dj/analysis-worker 0.1",
+    "tempoFolded": 0.5
+  },
+  "added": "2026-11-01"
+}

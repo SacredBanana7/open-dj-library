@@ -1,0 +1,49 @@
+{
+  "version": 1,
+  "id": "archive.org:Amygdala-PillarsOfCreation/02-Stingray_Nebula.mp3",
+  "source": "archive.org",
+  "title": "Stingray Nebula",
+  "artist": "Amygdala",
+  "album": "Pillars of Creation",
+  "pageUrl": "https://archive.org/details/Amygdala-PillarsOfCreation",
+  "audioUrl": "https://archive.org/download/Amygdala-PillarsOfCreation/02-Stingray_Nebula.mp3",
+  "fileName": "02-Stingray_Nebula.mp3",
+  "sizeBytes": 16192576,
+  "license": {
+    "code": "by-nc-nd",
+    "version": "3.0",
+    "label": "CC BY-NC-ND 3.0",
+    "url": "http://creativecommons.org/licenses/by-nc-nd/3.0/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": false,
+    "shareAlike": false,
+    "publicDomain": false
+  },
+  "genre": "Trance",
+  "tags": [
+    "amygdala",
+    "projects",
+    "bfw",
+    "ambient",
+    "electronica",
+    "psy",
+    "trance",
+    "IDM",
+    "ambient dub"
+  ],
+  "analysis": {
+    "durationSec": 382,
+    "bpm": 133.34,
+    "bpmConfidence": 0.93,
+    "beatOffset": 0.6153,
+    "key": {
+      "name": "Am",
+      "camelot": "8A",
+      "confidence": 0.65
+    },
+    "rmsDb": -17.3,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

@@ -1,0 +1,46 @@
+{
+  "version": 1,
+  "id": "archive.org:ffs100/ffs100_01_antuan_graftio_ffs.mp3",
+  "source": "archive.org",
+  "title": "Antuan Graftio - FFS",
+  "artist": "Antuan Graftio",
+  "album": "Keep Away From Showbiz",
+  "pageUrl": "https://archive.org/details/ffs100",
+  "audioUrl": "https://archive.org/download/ffs100/ffs100_01_antuan_graftio_ffs.mp3",
+  "fileName": "ffs100_01_antuan_graftio_ffs.mp3",
+  "sizeBytes": 4323200,
+  "license": {
+    "code": "by-nc",
+    "version": "2.5",
+    "label": "CC BY-NC 2.5",
+    "url": "http://creativecommons.org/licenses/by-nc/2.5/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": true,
+    "shareAlike": false,
+    "publicDomain": false
+  },
+  "genre": "Electro",
+  "tags": [
+    "Harsh noise",
+    "Dark ambient",
+    "Experimental",
+    "Electronic",
+    "Power noise",
+    "Electro-Industrial"
+  ],
+  "analysis": {
+    "durationSec": 180.07,
+    "bpm": 125,
+    "bpmConfidence": 0.4,
+    "beatOffset": 0.686,
+    "key": {
+      "name": "Bm",
+      "camelot": "10A",
+      "confidence": 0.51
+    },
+    "rmsDb": -13,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

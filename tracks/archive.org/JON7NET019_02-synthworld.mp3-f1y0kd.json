@@ -1,0 +1,44 @@
+{
+  "version": 1,
+  "id": "archive.org:JON7NET019/02-synthworld.mp3",
+  "source": "archive.org",
+  "title": "synth world",
+  "artist": "Rezkar",
+  "album": "Inside the Blue Tube [JON7NET019]",
+  "pageUrl": "https://archive.org/details/JON7NET019",
+  "audioUrl": "https://archive.org/download/JON7NET019/02-synthworld.mp3",
+  "fileName": "02-synthworld.mp3",
+  "sizeBytes": 5345805,
+  "license": {
+    "code": "by-nc-sa",
+    "version": "2.5",
+    "label": "CC BY-NC-SA 2.5",
+    "url": "http://creativecommons.org/licenses/by-nc-sa/2.5/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": true,
+    "shareAlike": true,
+    "publicDomain": false
+  },
+  "genre": "House",
+  "tags": [
+    "house",
+    "tech-house",
+    "missing albums",
+    "analogtronica"
+  ],
+  "analysis": {
+    "durationSec": 222.69,
+    "bpm": 120,
+    "bpmConfidence": 1,
+    "beatOffset": 1.8047,
+    "key": {
+      "name": "Gm",
+      "camelot": "6A",
+      "confidence": 0.68
+    },
+    "rmsDb": -12,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

@@ -1,0 +1,52 @@
+{
+  "version": 1,
+  "id": "archive.org:csr008/csr008-02-rsm_reefer.mp3",
+  "source": "archive.org",
+  "title": "Reefer",
+  "artist": "R. Stevie Moore",
+  "album": "R. Stevie Moore - Tra La La La Phooey! [csr008]",
+  "pageUrl": "https://archive.org/details/csr008",
+  "audioUrl": "https://archive.org/download/csr008/csr008-02-rsm_reefer.mp3",
+  "fileName": "csr008-02-rsm_reefer.mp3",
+  "sizeBytes": 5765120,
+  "license": {
+    "code": "by-nc",
+    "version": "1.0",
+    "label": "CC BY-NC 1.0",
+    "url": "http://creativecommons.org/licenses/by-nc/1.0/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": true,
+    "shareAlike": false,
+    "publicDomain": false
+  },
+  "genre": "Disco / Funk",
+  "tags": [
+    "Acoustic",
+    "Alternative",
+    "Blues",
+    "Classic Rock",
+    "Country",
+    "Cult",
+    "Folk",
+    "Funk",
+    "Indie",
+    "Lo-Fi",
+    "Pop",
+    "Rock"
+  ],
+  "analysis": {
+    "durationSec": 240.14,
+    "bpm": 175.28,
+    "bpmConfidence": 0.45,
+    "beatOffset": 0.5612,
+    "key": {
+      "name": "F#m",
+      "camelot": "11A",
+      "confidence": 0.75
+    },
+    "rmsDb": -21,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

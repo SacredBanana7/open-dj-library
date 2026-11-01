@@ -1,0 +1,45 @@
+{
+  "version": 1,
+  "id": "archive.org:1bit_017/1bit017_-_02_-_Juno6_-_Aeon.mp3",
+  "source": "archive.org",
+  "title": "Aeon",
+  "artist": "Juno6",
+  "album": "Ita est",
+  "pageUrl": "https://archive.org/details/1bit_017",
+  "audioUrl": "https://archive.org/download/1bit_017/1bit017_-_02_-_Juno6_-_Aeon.mp3",
+  "fileName": "1bit017_-_02_-_Juno6_-_Aeon.mp3",
+  "sizeBytes": 17557632,
+  "license": {
+    "code": "by-nc-sa",
+    "version": "2.5",
+    "label": "CC BY-NC-SA 2.5",
+    "url": "http://creativecommons.org/licenses/by-nc-sa/2.5/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": true,
+    "shareAlike": true,
+    "publicDomain": false
+  },
+  "genre": "Techno",
+  "tags": [
+    "minimal",
+    "techno",
+    "detroit",
+    "downbeat",
+    "electronica"
+  ],
+  "analysis": {
+    "durationSec": 548.55,
+    "bpm": 122,
+    "bpmConfidence": 0.78,
+    "beatOffset": 1.1489,
+    "key": {
+      "name": "Cm",
+      "camelot": "5A",
+      "confidence": 0.64
+    },
+    "rmsDb": -12,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

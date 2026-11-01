@@ -22,6 +22,16 @@ https://raw.githubusercontent.com/SacredBanana7/open-dj-library/main/catalog.jso
 
 Die Datei ist per CORS von überall abrufbar.
 
+## Eigene Musik einreichen
+
+Du machst selbst Musik und willst, dass DJs sie auflegen?
+
+1. Lade deine Tracks als MP3 kostenlos auf [archive.org/upload](https://archive.org/upload) hoch und wähle eine **Creative-Commons-Lizenz** (z. B. CC BY 4.0) oder CC0.
+2. Öffne das **[Einreich-Formular](https://sacredbanana7.github.io/pulsar-dj/submit/)** und füge den archive.org-Link ein. Es prüft Lizenz und Dateien sofort. Alternativ direkt das [GitHub-Formular](https://github.com/SacredBanana7/open-dj-library/issues/new?template=track-einreichen.yml).
+3. Ein Bot analysiert BPM, Beatgrid und Tonart und öffnet einen Pull Request. Nach der Prüfung ist deine Musik in Pulsar und jeder anderen Software, die den Katalog nutzt.
+
+Lokal geht es auch: `node tools/submit.mjs https://archive.org/details/<name> --genre techno`
+
 ## Erweitern
 
 ```bash

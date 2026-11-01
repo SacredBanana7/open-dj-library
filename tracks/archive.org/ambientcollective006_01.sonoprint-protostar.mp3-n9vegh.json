@@ -1,0 +1,52 @@
+{
+  "version": 1,
+  "id": "archive.org:ambientcollective006/01.sonoprint-protostar.mp3",
+  "source": "archive.org",
+  "title": "Protostar",
+  "artist": "Sonoprint",
+  "album": "Ambient Collective: Infinite Space",
+  "pageUrl": "https://archive.org/details/ambientcollective006",
+  "audioUrl": "https://archive.org/download/ambientcollective006/01.sonoprint-protostar.mp3",
+  "fileName": "01.sonoprint-protostar.mp3",
+  "sizeBytes": 10898520,
+  "license": {
+    "code": "by-nc-nd",
+    "version": "2.5",
+    "label": "CC BY-NC-ND 2.5",
+    "url": "http://creativecommons.org/licenses/by-nc-nd/2.5/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": false,
+    "shareAlike": false,
+    "publicDomain": false
+  },
+  "genre": "Ambient",
+  "tags": [
+    "ambient collective",
+    "sonoprint",
+    "gregg plummer",
+    "4m33s",
+    "philippe chavaroche",
+    "normal",
+    "tf-drone",
+    "mooma",
+    "palancar",
+    "usr/sbin",
+    "modulator esp",
+    "phrozenlight"
+  ],
+  "analysis": {
+    "durationSec": 454.06,
+    "bpm": 124,
+    "bpmConfidence": 0.4,
+    "beatOffset": 0.6619,
+    "key": {
+      "name": "C",
+      "camelot": "8B",
+      "confidence": 0.86
+    },
+    "rmsDb": -19.8,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

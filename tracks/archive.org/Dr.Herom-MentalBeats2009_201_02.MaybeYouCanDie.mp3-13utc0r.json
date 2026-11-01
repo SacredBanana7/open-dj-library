@@ -1,0 +1,50 @@
+{
+  "version": 1,
+  "id": "archive.org:Dr.Herom-MentalBeats2009_201/02.MaybeYouCanDie.mp3",
+  "source": "archive.org",
+  "title": "02. Maybe You Can Die",
+  "artist": "Dr. Herom",
+  "album": "Mental Beats",
+  "pageUrl": "https://archive.org/details/Dr.Herom-MentalBeats2009_201",
+  "audioUrl": "https://archive.org/download/Dr.Herom-MentalBeats2009_201/02.MaybeYouCanDie.mp3",
+  "fileName": "02.MaybeYouCanDie.mp3",
+  "sizeBytes": 6105106,
+  "license": {
+    "code": "by-nc-sa",
+    "version": "3.0",
+    "label": "CC BY-NC-SA 3.0",
+    "url": "http://creativecommons.org/licenses/by-nc-sa/3.0/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": true,
+    "shareAlike": true,
+    "publicDomain": false
+  },
+  "genre": "Techno",
+  "tags": [
+    "Dr. Herom",
+    "dr",
+    "herom",
+    "heromlabs",
+    "dr herom",
+    "hardcore techno",
+    "hardcore",
+    "gabber",
+    "gabba",
+    "darkcore"
+  ],
+  "analysis": {
+    "durationSec": 254.17,
+    "bpm": 170,
+    "bpmConfidence": 0.78,
+    "beatOffset": 0.2482,
+    "key": {
+      "name": "G",
+      "camelot": "9B",
+      "confidence": 0.7
+    },
+    "rmsDb": -10,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

@@ -1,0 +1,41 @@
+{
+  "version": 1,
+  "id": "archive.org:aer004/03_cantaloup-closer.mp3",
+  "source": "archive.org",
+  "title": "closer",
+  "artist": "cantaloup",
+  "album": "tonight it shows",
+  "pageUrl": "https://archive.org/details/aer004",
+  "audioUrl": "https://archive.org/download/aer004/03_cantaloup-closer.mp3",
+  "fileName": "03_cantaloup-closer.mp3",
+  "sizeBytes": 3965056,
+  "license": {
+    "code": "by-nc-sa",
+    "version": "2.5",
+    "label": "CC BY-NC-SA 2.5",
+    "url": "http://creativecommons.org/licenses/by-nc-sa/2.5/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": true,
+    "shareAlike": true,
+    "publicDomain": false
+  },
+  "genre": "Ambient",
+  "tags": [
+    "Ambient, Postrock, Pop, Psychedelic"
+  ],
+  "analysis": {
+    "durationSec": 165.11,
+    "bpm": 163.64,
+    "bpmConfidence": 0.44,
+    "beatOffset": 1.4189,
+    "key": {
+      "name": "C",
+      "camelot": "8B",
+      "confidence": 0.87
+    },
+    "rmsDb": -15.2,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

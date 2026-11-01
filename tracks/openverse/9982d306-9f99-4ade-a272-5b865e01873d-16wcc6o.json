@@ -1,0 +1,44 @@
+{
+  "version": 1,
+  "id": "openverse:9982d306-9f99-4ade-a272-5b865e01873d",
+  "source": "openverse",
+  "provider": "jamendo",
+  "title": "Astral ( ambient )",
+  "artist": "Hiddeminside",
+  "artistUrl": "https://www.jamendo.com/artist/356808/Hiddeminside",
+  "album": "Time to Chill vol.2",
+  "pageUrl": "https://www.jamendo.com/track/873889",
+  "audioUrl": "https://prod-1.storage.jamendo.com/?trackid=873889&format=mp32",
+  "fileName": "Hiddeminside - Astral ( ambient ).mp3",
+  "license": {
+    "code": "by-nc-nd",
+    "version": "3.0",
+    "label": "CC BY-NC-ND 3.0",
+    "url": "https://creativecommons.org/licenses/by-nc-nd/3.0/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": false,
+    "shareAlike": false,
+    "publicDomain": false
+  },
+  "genre": "Ambient",
+  "tags": [
+    "instrumental",
+    "neutral",
+    "speed_medium"
+  ],
+  "analysis": {
+    "durationSec": 386.51,
+    "bpm": 95,
+    "bpmConfidence": 0.95,
+    "beatOffset": 0.0006,
+    "key": {
+      "name": "D#m",
+      "camelot": "2A",
+      "confidence": 0.89
+    },
+    "rmsDb": -15,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

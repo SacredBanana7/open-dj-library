@@ -1,0 +1,52 @@
+{
+  "version": 1,
+  "id": "archive.org:nws.bpm049/02 from afar (photophob reconstruction).mp3",
+  "source": "archive.org",
+  "title": "from afar (photophob reconstruction)",
+  "artist": "the destruction of birds",
+  "album": "[laridae012] mixes/d",
+  "pageUrl": "https://archive.org/details/nws.bpm049",
+  "audioUrl": "https://archive.org/download/nws.bpm049/02%20from%20afar%20(photophob%20reconstruction).mp3",
+  "fileName": "02 from afar (photophob reconstruction).mp3",
+  "sizeBytes": 12940189,
+  "license": {
+    "code": "by-nc-sa",
+    "version": "4.0",
+    "label": "CC BY-NC-SA 4.0",
+    "url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": true,
+    "shareAlike": true,
+    "publicDomain": false
+  },
+  "genre": "Dubstep",
+  "tags": [
+    "ambient",
+    "chill-out",
+    "dub",
+    "dubstep",
+    "dubtech",
+    "electro",
+    "electronic",
+    "glitch",
+    "indietronic",
+    "lounge",
+    "low-tech",
+    "microhouse"
+  ],
+  "analysis": {
+    "durationSec": 238.29,
+    "bpm": 140,
+    "bpmConfidence": 0.56,
+    "beatOffset": 0.0425,
+    "key": {
+      "name": "Am",
+      "camelot": "8A",
+      "confidence": 0.83
+    },
+    "rmsDb": -16.9,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

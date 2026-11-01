@@ -1,0 +1,41 @@
+{
+  "version": 1,
+  "id": "archive.org:P36-056/02_The_SK_-_Untitled.mp3",
+  "source": "archive.org",
+  "title": "Untitled",
+  "artist": "The S.K.",
+  "album": "Haunted Tales",
+  "pageUrl": "https://archive.org/details/P36-056",
+  "audioUrl": "https://archive.org/download/P36-056/02_The_SK_-_Untitled.mp3",
+  "fileName": "02_The_SK_-_Untitled.mp3",
+  "sizeBytes": 11854022,
+  "license": {
+    "code": "by-nc-nd",
+    "version": "3.0",
+    "label": "CC BY-NC-ND 3.0",
+    "url": "http://creativecommons.org/licenses/by-nc-nd/3.0/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": false,
+    "shareAlike": false,
+    "publicDomain": false
+  },
+  "genre": "Dubstep",
+  "tags": [
+    "Dubstep"
+  ],
+  "analysis": {
+    "durationSec": 279.93,
+    "bpm": 140,
+    "bpmConfidence": 0.6,
+    "beatOffset": 1.3104,
+    "key": {
+      "name": "Fm",
+      "camelot": "4A",
+      "confidence": 0.74
+    },
+    "rmsDb": -8.6,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

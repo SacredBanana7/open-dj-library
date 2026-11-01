@@ -1,0 +1,44 @@
+{
+  "version": 1,
+  "id": "openverse:53694f88-d0bf-45ae-8909-30fa0ccae846",
+  "source": "openverse",
+  "provider": "jamendo",
+  "title": "BRISAS ELECTRONICAS",
+  "artist": "Agmamusic",
+  "artistUrl": "https://www.jamendo.com/artist/435724/agmamusic",
+  "album": "ELECTRONIC TIME",
+  "pageUrl": "https://www.jamendo.com/track/1206264",
+  "audioUrl": "https://prod-1.storage.jamendo.com/?trackid=1206264&format=mp32",
+  "fileName": "Agmamusic - BRISAS ELECTRONICAS.mp3",
+  "license": {
+    "code": "by-nc-nd",
+    "version": "3.0",
+    "label": "CC BY-NC-ND 3.0",
+    "url": "https://creativecommons.org/licenses/by-nc-nd/3.0/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": false,
+    "shareAlike": false,
+    "publicDomain": false
+  },
+  "genre": "IDM / Electronica",
+  "tags": [
+    "instrumental",
+    "soundtrackinstrumentalternative",
+    "speed_medium"
+  ],
+  "analysis": {
+    "durationSec": 223.46,
+    "bpm": 90.08,
+    "bpmConfidence": 1,
+    "beatOffset": 1.3294,
+    "key": {
+      "name": "C",
+      "camelot": "8B",
+      "confidence": 0.86
+    },
+    "rmsDb": -15.3,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

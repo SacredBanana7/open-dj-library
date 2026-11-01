@@ -1,0 +1,47 @@
+{
+  "version": 1,
+  "id": "archive.org:dmp005/dmp005-01-hippie-doctors-from-outer-space.mp3",
+  "source": "archive.org",
+  "title": "Hippie Doctors From Outer Space",
+  "artist": "Arzt+Pfusch",
+  "album": "S.I.C.K.",
+  "pageUrl": "https://archive.org/details/dmp005",
+  "audioUrl": "https://archive.org/download/dmp005/dmp005-01-hippie-doctors-from-outer-space.mp3",
+  "fileName": "dmp005-01-hippie-doctors-from-outer-space.mp3",
+  "sizeBytes": 9561088,
+  "license": {
+    "code": "by-nc-nd",
+    "version": "3.0",
+    "label": "CC BY-NC-ND 3.0",
+    "url": "http://creativecommons.org/licenses/by-nc-nd/3.0/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": false,
+    "shareAlike": false,
+    "publicDomain": false
+  },
+  "genre": "Electro",
+  "tags": [
+    "noisebmstupidevildustrial",
+    "electro industrial",
+    "industrial",
+    "electro",
+    "dark electro",
+    "ebm",
+    "electro body music"
+  ],
+  "analysis": {
+    "durationSec": 383.37,
+    "bpm": 131,
+    "bpmConfidence": 0.38,
+    "beatOffset": 1.0269,
+    "key": {
+      "name": "Cm",
+      "camelot": "5A",
+      "confidence": 0.82
+    },
+    "rmsDb": -12.9,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

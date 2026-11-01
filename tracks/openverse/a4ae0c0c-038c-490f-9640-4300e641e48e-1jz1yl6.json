@@ -1,0 +1,45 @@
+{
+  "version": 1,
+  "id": "openverse:a4ae0c0c-038c-490f-9640-4300e641e48e",
+  "source": "openverse",
+  "provider": "jamendo",
+  "title": "India Dubstep 1",
+  "artist": "Hasenchat",
+  "artistUrl": "https://www.jamendo.com/artist/386200/hasenchat",
+  "album": "Bollywood Hills - The Album",
+  "pageUrl": "https://www.jamendo.com/track/1087510",
+  "audioUrl": "https://prod-1.storage.jamendo.com/?trackid=1087510&format=mp32",
+  "fileName": "Hasenchat - India Dubstep 1.mp3",
+  "license": {
+    "code": "by-nc-sa",
+    "version": "3.0",
+    "label": "CC BY-NC-SA 3.0",
+    "url": "https://creativecommons.org/licenses/by-nc-sa/3.0/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": true,
+    "shareAlike": true,
+    "publicDomain": false
+  },
+  "genre": "Dubstep",
+  "tags": [
+    "bollywood",
+    "hindi",
+    "instrumental",
+    "speed_medium"
+  ],
+  "analysis": {
+    "durationSec": 355.2,
+    "bpm": 150,
+    "bpmConfidence": 1,
+    "beatOffset": 0.8031,
+    "key": {
+      "name": "C",
+      "camelot": "8B",
+      "confidence": 0.73
+    },
+    "rmsDb": -16.2,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

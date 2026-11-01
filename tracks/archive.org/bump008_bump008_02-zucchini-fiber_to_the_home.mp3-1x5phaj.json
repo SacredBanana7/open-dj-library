@@ -1,0 +1,47 @@
+{
+  "version": 1,
+  "id": "archive.org:bump008/bump008_02-zucchini-fiber_to_the_home.mp3",
+  "source": "archive.org",
+  "title": "fiber to the home",
+  "artist": "zucchini",
+  "album": "life in the desktop",
+  "pageUrl": "https://archive.org/details/bump008",
+  "audioUrl": "https://archive.org/download/bump008/bump008_02-zucchini-fiber_to_the_home.mp3",
+  "fileName": "bump008_02-zucchini-fiber_to_the_home.mp3",
+  "sizeBytes": 8562667,
+  "license": {
+    "code": "by-nc-sa",
+    "version": "2.5",
+    "label": "CC BY-NC-SA 2.5",
+    "url": "http://creativecommons.org/licenses/by-nc-sa/2.5/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": true,
+    "shareAlike": true,
+    "publicDomain": false
+  },
+  "genre": "House",
+  "tags": [
+    "House",
+    "Minimal House",
+    "Techno",
+    "Minimal Techno",
+    "Ambient",
+    "Ambient Techno",
+    "Dance"
+  ],
+  "analysis": {
+    "durationSec": 390.01,
+    "bpm": 120,
+    "bpmConfidence": 1,
+    "beatOffset": 0.4515,
+    "key": {
+      "name": "Bm",
+      "camelot": "10A",
+      "confidence": 0.93
+    },
+    "rmsDb": -11.6,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

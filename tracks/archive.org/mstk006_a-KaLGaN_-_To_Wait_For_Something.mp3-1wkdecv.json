@@ -1,0 +1,43 @@
+{
+  "version": 1,
+  "id": "archive.org:mstk006/a-KaLGaN_-_To_Wait_For_Something.mp3",
+  "source": "archive.org",
+  "title": "To Wait For Something",
+  "artist": "KaLGaN",
+  "album": "mstk006",
+  "pageUrl": "https://archive.org/details/mstk006",
+  "audioUrl": "https://archive.org/download/mstk006/a-KaLGaN_-_To_Wait_For_Something.mp3",
+  "fileName": "a-KaLGaN_-_To_Wait_For_Something.mp3",
+  "sizeBytes": 15570944,
+  "license": {
+    "code": "by-nc-sa",
+    "version": "2.5",
+    "label": "CC BY-NC-SA 2.5",
+    "url": "http://creativecommons.org/licenses/by-nc-sa/2.5/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": true,
+    "shareAlike": true,
+    "publicDomain": false
+  },
+  "genre": "Drum & Bass",
+  "tags": [
+    "atmospheric",
+    "drum and bass",
+    "dnb"
+  ],
+  "analysis": {
+    "durationSec": 486.47,
+    "bpm": 172,
+    "bpmConfidence": 1,
+    "beatOffset": 0.7073,
+    "key": {
+      "name": "Fm",
+      "camelot": "4A",
+      "confidence": 0.71
+    },
+    "rmsDb": -18.8,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

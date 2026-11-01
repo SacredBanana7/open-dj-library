@@ -1,0 +1,43 @@
+{
+  "version": 1,
+  "id": "archive.org:qd-4223/qd-4223-02-Emorej-People_In_Da_House.mp3",
+  "source": "archive.org",
+  "title": "02. People In Da House",
+  "artist": "[qd-4223] emorej",
+  "album": "[qd-4223] Potpourri",
+  "pageUrl": "https://archive.org/details/qd-4223",
+  "audioUrl": "https://archive.org/download/qd-4223/qd-4223-02-Emorej-People_In_Da_House.mp3",
+  "fileName": "qd-4223-02-Emorej-People_In_Da_House.mp3",
+  "sizeBytes": 6823936,
+  "license": {
+    "code": "by-nc-nd",
+    "version": "2.0",
+    "label": "CC BY-NC-ND 2.0",
+    "url": "http://creativecommons.org/licenses/by-nc-nd/2.0/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": false,
+    "shareAlike": false,
+    "publicDomain": false
+  },
+  "genre": "Breakbeat",
+  "tags": [
+    "House",
+    "Downtempo, Chillout, Melodic-Soundscapes",
+    "Breakbeat"
+  ],
+  "analysis": {
+    "durationSec": 426.34,
+    "bpm": 131.6,
+    "bpmConfidence": 0.86,
+    "beatOffset": 0.0815,
+    "key": {
+      "name": "Fm",
+      "camelot": "4A",
+      "confidence": 0.55
+    },
+    "rmsDb": -12.8,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

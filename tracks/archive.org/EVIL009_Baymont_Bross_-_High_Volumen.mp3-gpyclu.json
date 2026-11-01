@@ -1,0 +1,49 @@
+{
+  "version": 1,
+  "id": "archive.org:EVIL009/Baymont_Bross_-_High_Volumen.mp3",
+  "source": "archive.org",
+  "title": "High Volumen",
+  "artist": "Baymont Bross",
+  "album": "Cleaning The Dusty In My House",
+  "pageUrl": "https://archive.org/details/EVIL009",
+  "audioUrl": "https://archive.org/download/EVIL009/Baymont_Bross_-_High_Volumen.mp3",
+  "fileName": "Baymont_Bross_-_High_Volumen.mp3",
+  "sizeBytes": 7241728,
+  "license": {
+    "code": "by-nc-nd",
+    "version": "2.5",
+    "label": "CC BY-NC-ND 2.5 ES",
+    "url": "http://creativecommons.org/licenses/by-nc-nd/2.5/es/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": false,
+    "shareAlike": false,
+    "publicDomain": false
+  },
+  "genre": "Breakbeat",
+  "tags": [
+    "Freestyle",
+    "Funk",
+    "Breaks",
+    "Breakbeat",
+    "Techbreak",
+    "Big Beat",
+    "Baymont Bross",
+    "Cleaning The Dusty In My House",
+    "Evil Records"
+  ],
+  "analysis": {
+    "durationSec": 301.71,
+    "bpm": 135,
+    "bpmConfidence": 1,
+    "beatOffset": 0.0963,
+    "key": {
+      "name": "F",
+      "camelot": "7B",
+      "confidence": 0.49
+    },
+    "rmsDb": -13.6,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

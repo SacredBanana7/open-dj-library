@@ -1,0 +1,43 @@
+{
+  "version": 1,
+  "id": "archive.org:nrp006/nrp006_-_02_cadaverica_-_legacy_of_black_hearts_-_nullmix.mp3",
+  "source": "archive.org",
+  "title": "Legacy of black hearts (Nullmix)",
+  "artist": "Cadaverica",
+  "album": "Electromap -> LATAM",
+  "pageUrl": "https://archive.org/details/nrp006",
+  "audioUrl": "https://archive.org/download/nrp006/nrp006_-_02_cadaverica_-_legacy_of_black_hearts_-_nullmix.mp3",
+  "fileName": "nrp006_-_02_cadaverica_-_legacy_of_black_hearts_-_nullmix.mp3",
+  "sizeBytes": 8798208,
+  "license": {
+    "code": "by-nd",
+    "version": "3.0",
+    "label": "CC BY-ND 3.0",
+    "url": "http://creativecommons.org/licenses/by-nd/3.0/",
+    "attribution": true,
+    "commercial": true,
+    "derivatives": false,
+    "shareAlike": false,
+    "publicDomain": false
+  },
+  "genre": "Electro",
+  "tags": [
+    "Industrial",
+    "Electro",
+    "Synth"
+  ],
+  "analysis": {
+    "durationSec": 366.55,
+    "bpm": 140,
+    "bpmConfidence": 0.81,
+    "beatOffset": 0.4803,
+    "key": {
+      "name": "C",
+      "camelot": "8B",
+      "confidence": 0.69
+    },
+    "rmsDb": -13.7,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

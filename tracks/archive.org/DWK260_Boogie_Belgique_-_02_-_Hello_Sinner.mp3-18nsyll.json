@@ -1,0 +1,46 @@
+{
+  "version": 1,
+  "id": "archive.org:DWK260/Boogie_Belgique_-_02_-_Hello_Sinner.mp3",
+  "source": "archive.org",
+  "title": "Hello Sinner",
+  "artist": "Boogie Belgique",
+  "album": "Nightwalker (Vol. 2) (LP)",
+  "pageUrl": "https://archive.org/details/DWK260",
+  "audioUrl": "https://archive.org/download/DWK260/Boogie_Belgique_-_02_-_Hello_Sinner.mp3",
+  "fileName": "Boogie_Belgique_-_02_-_Hello_Sinner.mp3",
+  "sizeBytes": 11805068,
+  "license": {
+    "code": "by-nc-nd",
+    "version": "3.0",
+    "label": "CC BY-NC-ND 3.0",
+    "url": "http://creativecommons.org/licenses/by-nc-nd/3.0/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": false,
+    "shareAlike": false,
+    "publicDomain": false
+  },
+  "genre": "Breakbeat",
+  "tags": [
+    "Boogie Belgique",
+    "Dusted Wax Kingdom",
+    "instrumental hip-hop",
+    "lo-fi",
+    "big beat",
+    "swing hop"
+  ],
+  "analysis": {
+    "durationSec": 277.35,
+    "bpm": 98,
+    "bpmConfidence": 1,
+    "beatOffset": 0.0027,
+    "key": {
+      "name": "D#",
+      "camelot": "5B",
+      "confidence": 0.92
+    },
+    "rmsDb": -15.8,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

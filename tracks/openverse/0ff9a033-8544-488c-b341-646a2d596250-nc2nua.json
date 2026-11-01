@@ -1,0 +1,45 @@
+{
+  "version": 1,
+  "id": "openverse:0ff9a033-8544-488c-b341-646a2d596250",
+  "source": "openverse",
+  "provider": "jamendo",
+  "title": "Crevasse [Electro]",
+  "artist": "Hardcore Scm",
+  "artistUrl": "https://www.jamendo.com/artist/366513/Hardcore_Scm",
+  "album": "Hardcore Scm - 2016",
+  "pageUrl": "https://www.jamendo.com/track/1406194",
+  "audioUrl": "https://prod-1.storage.jamendo.com/?trackid=1406194&format=mp32",
+  "fileName": "Hardcore Scm - Crevasse [Electro].mp3",
+  "license": {
+    "code": "by",
+    "version": "3.0",
+    "label": "CC BY 3.0",
+    "url": "https://creativecommons.org/licenses/by/3.0/",
+    "attribution": true,
+    "commercial": true,
+    "derivatives": true,
+    "shareAlike": false,
+    "publicDomain": false
+  },
+  "genre": "Electro",
+  "tags": [
+    "instrumental",
+    "neutral",
+    "speed_medium",
+    "synthesizer"
+  ],
+  "analysis": {
+    "durationSec": 307.44,
+    "bpm": 145,
+    "bpmConfidence": 0.83,
+    "beatOffset": 0.1483,
+    "key": {
+      "name": "Gm",
+      "camelot": "6A",
+      "confidence": 0.77
+    },
+    "rmsDb": -16.3,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

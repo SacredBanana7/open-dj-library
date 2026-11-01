@@ -1,0 +1,41 @@
+{
+  "version": 1,
+  "id": "archive.org:FreeOsc17/osc17_01_Album_Direkt_-_Delay_to_2005.mp3",
+  "source": "archive.org",
+  "title": "Delay to 2005",
+  "artist": "Album Direkt",
+  "album": "V/A - Elite Trikotage",
+  "pageUrl": "https://archive.org/details/FreeOsc17",
+  "audioUrl": "https://archive.org/download/FreeOsc17/osc17_01_Album_Direkt_-_Delay_to_2005.mp3",
+  "fileName": "osc17_01_Album_Direkt_-_Delay_to_2005.mp3",
+  "sizeBytes": 5881856,
+  "license": {
+    "code": "by-nc-nd",
+    "version": "2.0",
+    "label": "CC BY-NC-ND 2.0",
+    "url": "http://creativecommons.org/licenses/by-nc-nd/2.0/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": false,
+    "shareAlike": false,
+    "publicDomain": false
+  },
+  "genre": "Breakbeat",
+  "tags": [
+    "Electro, Breakbeat"
+  ],
+  "analysis": {
+    "durationSec": 245,
+    "bpm": 127,
+    "bpmConfidence": 1,
+    "beatOffset": 0.4824,
+    "key": {
+      "name": "A#m",
+      "camelot": "3A",
+      "confidence": 0.84
+    },
+    "rmsDb": -10.7,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

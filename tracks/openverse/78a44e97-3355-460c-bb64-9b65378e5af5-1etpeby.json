@@ -1,0 +1,47 @@
+{
+  "version": 1,
+  "id": "openverse:78a44e97-3355-460c-bb64-9b65378e5af5",
+  "source": "openverse",
+  "provider": "jamendo",
+  "title": "Beautiful Melodies Drum and Bass",
+  "artist": "PremiumMusic (Instrumental Version)",
+  "artistUrl": "https://www.jamendo.com/artist/420766/PremiumMusic",
+  "album": "Breakbeat Trip Hop Dubstep Drum And Bass Jungle Dark Future",
+  "pageUrl": "https://www.jamendo.com/track/991151",
+  "audioUrl": "https://prod-1.storage.jamendo.com/?trackid=991151&format=mp32",
+  "fileName": "PremiumMusic (Instrumental Version) - Beautiful Melodies Drum and Bass.mp3",
+  "license": {
+    "code": "by-nc-nd",
+    "version": "3.0",
+    "label": "CC BY-NC-ND 3.0",
+    "url": "https://creativecommons.org/licenses/by-nc-nd/3.0/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": false,
+    "shareAlike": false,
+    "publicDomain": false
+  },
+  "genre": "Drum & Bass",
+  "tags": [
+    "happy",
+    "inspirational",
+    "instrumental",
+    "party",
+    "speed_medium",
+    "summer"
+  ],
+  "analysis": {
+    "durationSec": 178.48,
+    "bpm": 106.66,
+    "bpmConfidence": 1,
+    "beatOffset": 0.7533,
+    "key": {
+      "name": "Em",
+      "camelot": "9A",
+      "confidence": 0.8
+    },
+    "rmsDb": -18.9,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

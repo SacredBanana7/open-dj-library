@@ -1,0 +1,46 @@
+{
+  "version": 1,
+  "id": "openverse:4fee0437-a6b7-4cb7-b09f-691d0416a978",
+  "source": "openverse",
+  "provider": "jamendo",
+  "title": "Dubstep Chillout One",
+  "artist": "Hasenchat",
+  "artistUrl": "https://www.jamendo.com/artist/386200/hasenchat",
+  "album": "Dance Songs 2014",
+  "pageUrl": "https://www.jamendo.com/track/1102849",
+  "audioUrl": "https://prod-1.storage.jamendo.com/?trackid=1102849&format=mp32",
+  "fileName": "Hasenchat - Dubstep Chillout One.mp3",
+  "license": {
+    "code": "by-nc-sa",
+    "version": "3.0",
+    "label": "CC BY-NC-SA 3.0",
+    "url": "https://creativecommons.org/licenses/by-nc-sa/3.0/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": true,
+    "shareAlike": true,
+    "publicDomain": false
+  },
+  "genre": "Dubstep",
+  "tags": [
+    "electricguitar",
+    "instrumental",
+    "songs",
+    "speed_medium",
+    "violin"
+  ],
+  "analysis": {
+    "durationSec": 211.5,
+    "bpm": 163,
+    "bpmConfidence": 1,
+    "beatOffset": 1.1298,
+    "key": {
+      "name": "Fm",
+      "camelot": "4A",
+      "confidence": 0.78
+    },
+    "rmsDb": -17.3,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

@@ -1,0 +1,52 @@
+{
+  "version": 1,
+  "id": "archive.org:phoke035/phoke35-_-02-_-kryptic_universe-_-fufanu_79.mp3",
+  "source": "archive.org",
+  "title": "fufanu `79",
+  "artist": "kryptic universe",
+  "album": "3130351 volt",
+  "pageUrl": "https://archive.org/details/phoke035",
+  "audioUrl": "https://archive.org/download/phoke035/phoke35-_-02-_-kryptic_universe-_-fufanu_79.mp3",
+  "fileName": "phoke35-_-02-_-kryptic_universe-_-fufanu_79.mp3",
+  "sizeBytes": 10118917,
+  "license": {
+    "code": "by-nc-nd",
+    "version": "3.0",
+    "label": "CC BY-NC-ND 3.0 DE",
+    "url": "http://creativecommons.org/licenses/by-nc-nd/3.0/de/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": false,
+    "shareAlike": false,
+    "publicDomain": false
+  },
+  "genre": "Electro",
+  "tags": [
+    "electrojazz",
+    "mysterious",
+    "detroit",
+    "smooth",
+    "Electro/IDM/Experimental/Breaks",
+    "Ambient Techno",
+    "Techno",
+    "Braindance",
+    "Rhythmic Noise",
+    "Downtempo",
+    "Down beat / Chill",
+    "netlabel"
+  ],
+  "analysis": {
+    "durationSec": 367.21,
+    "bpm": 171,
+    "bpmConfidence": 0.7,
+    "beatOffset": 0.509,
+    "key": {
+      "name": "G#m",
+      "camelot": "1A",
+      "confidence": 0.76
+    },
+    "rmsDb": -15.1,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

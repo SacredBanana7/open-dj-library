@@ -1,0 +1,44 @@
+{
+  "version": 1,
+  "id": "openverse:1109b91f-24f8-47c3-8601-c7a70444ab63",
+  "source": "openverse",
+  "provider": "jamendo",
+  "title": "electo hip hop",
+  "artist": "Sp6Fik",
+  "artistUrl": "https://www.jamendo.com/artist/351997/Sp6Fik",
+  "album": "rap hip hop",
+  "pageUrl": "https://www.jamendo.com/track/408296",
+  "audioUrl": "https://prod-1.storage.jamendo.com/?trackid=408296&format=mp32",
+  "fileName": "Sp6Fik - electo hip hop.mp3",
+  "license": {
+    "code": "by-sa",
+    "version": "2.0",
+    "label": "CC BY-SA 2.0 FR",
+    "url": "https://creativecommons.org/licenses/by-sa/2.0/fr/",
+    "attribution": true,
+    "commercial": true,
+    "derivatives": true,
+    "shareAlike": true,
+    "publicDomain": false
+  },
+  "genre": "Hip Hop",
+  "tags": [
+    "instrumental",
+    "speed_medium"
+  ],
+  "analysis": {
+    "durationSec": 268.67,
+    "bpm": 83.53,
+    "bpmConfidence": 0.51,
+    "beatOffset": 0.0804,
+    "key": {
+      "name": "Bm",
+      "camelot": "10A",
+      "confidence": 0.67
+    },
+    "rmsDb": -17.2,
+    "analyzer": "pulsar-dj/analysis-worker 0.1",
+    "tempoFolded": 0.5
+  },
+  "added": "2026-11-01"
+}

@@ -1,0 +1,46 @@
+{
+  "version": 1,
+  "id": "archive.org:fsz015/fsz015_03-chenard_walcker-black_lotus.mp3",
+  "source": "archive.org",
+  "title": "Black Lotus",
+  "artist": "Chenard Walcker",
+  "album": "Rock'n Roll Boy [fsz015]",
+  "pageUrl": "https://archive.org/details/fsz015",
+  "audioUrl": "https://archive.org/download/fsz015/fsz015_03-chenard_walcker-black_lotus.mp3",
+  "fileName": "fsz015_03-chenard_walcker-black_lotus.mp3",
+  "sizeBytes": 5855232,
+  "license": {
+    "code": "by-nc",
+    "version": "2.5",
+    "label": "CC BY-NC 2.5",
+    "url": "http://creativecommons.org/licenses/by-nc/2.5/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": true,
+    "shareAlike": false,
+    "publicDomain": false
+  },
+  "genre": "Disco / Funk",
+  "tags": [
+    "Alternative",
+    "Avantgarde",
+    "Jazz+Funk",
+    "Sample Madness",
+    "Plunderphonics",
+    "Surrealist Pop"
+  ],
+  "analysis": {
+    "durationSec": 243.91,
+    "bpm": 162.46,
+    "bpmConfidence": 0.4,
+    "beatOffset": 0.4474,
+    "key": {
+      "name": "F#",
+      "camelot": "2B",
+      "confidence": 0.69
+    },
+    "rmsDb": -16,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

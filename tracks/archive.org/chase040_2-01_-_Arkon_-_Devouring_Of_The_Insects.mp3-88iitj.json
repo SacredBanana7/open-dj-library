@@ -1,0 +1,52 @@
+{
+  "version": 1,
+  "id": "archive.org:chase040/2-01_-_Arkon_-_Devouring_Of_The_Insects.mp3",
+  "source": "archive.org",
+  "title": "Arkon - Devouring Of The Insects",
+  "artist": "Arkon",
+  "album": "[chase040] - V/A - Desolation - CD2",
+  "pageUrl": "https://archive.org/details/chase040",
+  "audioUrl": "https://archive.org/download/chase040/2-01_-_Arkon_-_Devouring_Of_The_Insects.mp3",
+  "fileName": "2-01_-_Arkon_-_Devouring_Of_The_Insects.mp3",
+  "sizeBytes": 15142922,
+  "license": {
+    "code": "by-nc-nd",
+    "version": "3.0",
+    "label": "CC BY-NC-ND 3.0",
+    "url": "http://creativecommons.org/licenses/by-nc-nd/3.0/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": false,
+    "shareAlike": false,
+    "publicDomain": false
+  },
+  "genre": "Dubstep",
+  "tags": [
+    "desolation",
+    "ambient",
+    "d ark ambient",
+    "idm",
+    "drum'n'bass",
+    "darkstep",
+    "dubstep",
+    "glitch",
+    "hardcore",
+    "breakcore",
+    "techno",
+    "experimental"
+  ],
+  "analysis": {
+    "durationSec": 373.03,
+    "bpm": 131.26,
+    "bpmConfidence": 0.46,
+    "beatOffset": 0.9727,
+    "key": {
+      "name": "G#m",
+      "camelot": "1A",
+      "confidence": 0.83
+    },
+    "rmsDb": -9.8,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

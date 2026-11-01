@@ -1,0 +1,46 @@
+{
+  "version": 1,
+  "id": "archive.org:ca226_aj/02_scan_inserted_detected.mp3",
+  "source": "archive.org",
+  "title": "scan inserted detected",
+  "artist": "Antanas Jasenka",
+  "album": "ca226 - Antanas Jasenka - exe.rpm",
+  "pageUrl": "https://archive.org/details/ca226_aj",
+  "audioUrl": "https://archive.org/download/ca226_aj/02_scan_inserted_detected.mp3",
+  "fileName": "02_scan_inserted_detected.mp3",
+  "sizeBytes": 11223078,
+  "license": {
+    "code": "by-nc-nd",
+    "version": "3.0",
+    "label": "CC BY-NC-ND 3.0",
+    "url": "http://creativecommons.org/licenses/by-nc-nd/3.0/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": false,
+    "shareAlike": false,
+    "publicDomain": false
+  },
+  "genre": "Techno",
+  "tags": [
+    "electronic",
+    "abstract",
+    "glitch",
+    "minimal",
+    "experimental",
+    "techno"
+  ],
+  "analysis": {
+    "durationSec": 262.07,
+    "bpm": 120.34,
+    "bpmConfidence": 0.75,
+    "beatOffset": 1.2539,
+    "key": {
+      "name": "Bm",
+      "camelot": "10A",
+      "confidence": 0.28
+    },
+    "rmsDb": -15.9,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

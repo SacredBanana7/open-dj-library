@@ -1,0 +1,43 @@
+{
+  "version": 1,
+  "id": "openverse:db1c06c0-705f-430c-b23c-362907d07640",
+  "source": "openverse",
+  "provider": "jamendo",
+  "title": "dhdjgf12Mb (electronica ; prog rock ; experimental) 3.27mn 146bpm",
+  "artist": "T.A.G.E.O.",
+  "artistUrl": "https://www.jamendo.com/artist/432545/T.A.G.E.O.",
+  "album": "Electro Vol2",
+  "pageUrl": "https://www.jamendo.com/track/1047384",
+  "audioUrl": "https://prod-1.storage.jamendo.com/?trackid=1047384&format=mp32",
+  "fileName": "T.A.G.E.O. - dhdjgf12Mb (electronica ; prog rock ; experimental) 3.27mn 146bpm.mp3",
+  "license": {
+    "code": "by-nd",
+    "version": "2.0",
+    "label": "CC BY-ND 2.0 BE",
+    "url": "https://creativecommons.org/licenses/by-nd/2.0/be/",
+    "attribution": true,
+    "commercial": true,
+    "derivatives": false,
+    "shareAlike": false,
+    "publicDomain": false
+  },
+  "genre": "IDM / Electronica",
+  "tags": [
+    "instrumental",
+    "speed_medium"
+  ],
+  "analysis": {
+    "durationSec": 210.41,
+    "bpm": 142,
+    "bpmConfidence": 0.39,
+    "beatOffset": 0.6,
+    "key": {
+      "name": "C#",
+      "camelot": "3B",
+      "confidence": 0.66
+    },
+    "rmsDb": -12.4,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

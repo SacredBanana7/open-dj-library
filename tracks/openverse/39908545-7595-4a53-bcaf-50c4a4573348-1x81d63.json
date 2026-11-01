@@ -1,0 +1,45 @@
+{
+  "version": 1,
+  "id": "openverse:39908545-7595-4a53-bcaf-50c4a4573348",
+  "source": "openverse",
+  "provider": "jamendo",
+  "title": "Trance Etude 2",
+  "artist": "Zeropage",
+  "artistUrl": "https://www.jamendo.com/artist/2986/zeropage",
+  "album": "Ambient Pills Update",
+  "pageUrl": "https://www.jamendo.com/track/23561",
+  "audioUrl": "https://prod-1.storage.jamendo.com/?trackid=23561&format=mp32",
+  "fileName": "Zeropage - Trance Etude 2.mp3",
+  "license": {
+    "code": "by",
+    "version": "3.0",
+    "label": "CC BY 3.0",
+    "url": "https://creativecommons.org/licenses/by/3.0/",
+    "attribution": true,
+    "commercial": true,
+    "derivatives": true,
+    "shareAlike": false,
+    "publicDomain": false
+  },
+  "genre": "Trance",
+  "tags": [
+    "energetic",
+    "instrumental",
+    "neutral",
+    "speed_medium"
+  ],
+  "analysis": {
+    "durationSec": 282.86,
+    "bpm": 140,
+    "bpmConfidence": 0.77,
+    "beatOffset": 0.8586,
+    "key": {
+      "name": "E",
+      "camelot": "12B",
+      "confidence": 0.82
+    },
+    "rmsDb": -9.4,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

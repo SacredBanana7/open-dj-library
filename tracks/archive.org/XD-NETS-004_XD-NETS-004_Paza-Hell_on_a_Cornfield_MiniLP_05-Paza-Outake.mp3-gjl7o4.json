@@ -1,0 +1,45 @@
+{
+  "version": 1,
+  "id": "archive.org:XD-NETS-004/XD-NETS-004_Paza-Hell_on_a_Cornfield_MiniLP_05-Paza-Outake.mp3",
+  "source": "archive.org",
+  "title": "Outake",
+  "artist": "Paza",
+  "album": "Hell on a Cornfield [XD-NETS-004]",
+  "pageUrl": "https://archive.org/details/XD-NETS-004",
+  "audioUrl": "https://archive.org/download/XD-NETS-004/XD-NETS-004_Paza-Hell_on_a_Cornfield_MiniLP_05-Paza-Outake.mp3",
+  "fileName": "XD-NETS-004_Paza-Hell_on_a_Cornfield_MiniLP_05-Paza-Outake.mp3",
+  "sizeBytes": 5521408,
+  "license": {
+    "code": "by-nc-nd",
+    "version": "2.5",
+    "label": "CC BY-NC-ND 2.5",
+    "url": "http://creativecommons.org/licenses/by-nc-nd/2.5/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": false,
+    "shareAlike": false,
+    "publicDomain": false
+  },
+  "genre": "Drum & Bass",
+  "tags": [
+    "IDM",
+    "Drum and Bass",
+    "Electronica",
+    "The X-Dump",
+    "The X-Dump Electronica Collective"
+  ],
+  "analysis": {
+    "durationSec": 208.41,
+    "bpm": 138.46,
+    "bpmConfidence": 0.41,
+    "beatOffset": 0.8579,
+    "key": {
+      "name": "F",
+      "camelot": "7B",
+      "confidence": 0.85
+    },
+    "rmsDb": -14.5,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

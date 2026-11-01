@@ -1,0 +1,52 @@
+{
+  "version": 1,
+  "id": "archive.org:moulin016/ATONE_Un_An_Plus_Tard_01_Seul_The_Remote_Viewer_Remix.mp3",
+  "source": "archive.org",
+  "title": "Seul (The Remote Viewer Remix)",
+  "artist": "ATONE",
+  "album": "Un An Plus Tard",
+  "pageUrl": "https://archive.org/details/moulin016",
+  "audioUrl": "https://archive.org/download/moulin016/ATONE_Un_An_Plus_Tard_01_Seul_The_Remote_Viewer_Remix.mp3",
+  "fileName": "ATONE_Un_An_Plus_Tard_01_Seul_The_Remote_Viewer_Remix.mp3",
+  "sizeBytes": 5093504,
+  "license": {
+    "code": "by-nc-sa",
+    "version": "3.0",
+    "label": "CC BY-NC-SA 3.0",
+    "url": "http://creativecommons.org/licenses/by-nc-sa/3.0/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": true,
+    "shareAlike": true,
+    "publicDomain": false
+  },
+  "genre": "IDM / Electronica",
+  "tags": [
+    "Electronica",
+    "Remote Viewer",
+    "Boats",
+    "Lullatone",
+    "Praveen",
+    "Pandatone",
+    "Tony",
+    "Tanuki",
+    "Atone",
+    "Autres Directions",
+    "Autres Directions In Music",
+    "remix"
+  ],
+  "analysis": {
+    "durationSec": 212.17,
+    "bpm": 150,
+    "bpmConfidence": 1,
+    "beatOffset": 1.5131,
+    "key": {
+      "name": "F",
+      "camelot": "7B",
+      "confidence": 0.79
+    },
+    "rmsDb": -22.2,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

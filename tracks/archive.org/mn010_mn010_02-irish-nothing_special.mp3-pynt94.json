@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "id": "archive.org:mn010/mn010_02-irish-nothing_special.mp3",
+  "source": "archive.org",
+  "title": "nothing special",
+  "artist": "irish",
+  "album": "[mn010] irish - manufactures",
+  "pageUrl": "https://archive.org/details/mn010",
+  "audioUrl": "https://archive.org/download/mn010/mn010_02-irish-nothing_special.mp3",
+  "fileName": "mn010_02-irish-nothing_special.mp3",
+  "sizeBytes": 12070912,
+  "license": {
+    "code": "by-nc-nd",
+    "version": "2.5",
+    "label": "CC BY-NC-ND 2.5",
+    "url": "http://creativecommons.org/licenses/by-nc-nd/2.5/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": false,
+    "shareAlike": false,
+    "publicDomain": false
+  },
+  "genre": "IDM / Electronica",
+  "tags": [
+    "Found Sounds",
+    "Experimental",
+    "Noise",
+    "Techno",
+    "Minimal",
+    "Glitch",
+    "Electronica",
+    "Electronic"
+  ],
+  "analysis": {
+    "durationSec": 502.23,
+    "bpm": 118,
+    "bpmConfidence": 1,
+    "beatOffset": 1.9359,
+    "key": {
+      "name": "Dm",
+      "camelot": "7A",
+      "confidence": 0.53
+    },
+    "rmsDb": -12.9,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

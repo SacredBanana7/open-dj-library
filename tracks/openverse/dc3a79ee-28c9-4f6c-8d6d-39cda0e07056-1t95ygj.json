@@ -1,0 +1,43 @@
+{
+  "version": 1,
+  "id": "openverse:dc3a79ee-28c9-4f6c-8d6d-39cda0e07056",
+  "source": "openverse",
+  "provider": "jamendo",
+  "title": "HEADRUSH - egobrain (techno)",
+  "artist": "Headrush",
+  "artistUrl": "https://www.jamendo.com/artist/348793/Headrush_(2)",
+  "album": "nothing but",
+  "pageUrl": "https://www.jamendo.com/track/307785",
+  "audioUrl": "https://prod-1.storage.jamendo.com/?trackid=307785&format=mp32",
+  "fileName": "Headrush - HEADRUSH - egobrain (techno).mp3",
+  "license": {
+    "code": "by-nc-nd",
+    "version": "2.0",
+    "label": "CC BY-NC-ND 2.0 FR",
+    "url": "https://creativecommons.org/licenses/by-nc-nd/2.0/fr/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": false,
+    "shareAlike": false,
+    "publicDomain": false
+  },
+  "genre": "Techno",
+  "tags": [
+    "instrumental",
+    "speed_high"
+  ],
+  "analysis": {
+    "durationSec": 281.65,
+    "bpm": 150,
+    "bpmConfidence": 1,
+    "beatOffset": 0.0027,
+    "key": {
+      "name": "Bm",
+      "camelot": "10A",
+      "confidence": 0.83
+    },
+    "rmsDb": -17.3,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

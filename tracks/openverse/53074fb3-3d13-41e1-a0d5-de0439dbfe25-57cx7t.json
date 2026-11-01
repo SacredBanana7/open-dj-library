@@ -1,0 +1,49 @@
+{
+  "version": 1,
+  "id": "openverse:53074fb3-3d13-41e1-a0d5-de0439dbfe25",
+  "source": "openverse",
+  "provider": "jamendo",
+  "title": "Reborn | Dreamy Hip Hop",
+  "artist": "UPH Music",
+  "artistUrl": "https://www.jamendo.com/artist/545022/UPH_Music",
+  "album": "Vibes IV",
+  "pageUrl": "https://www.jamendo.com/track/1936262",
+  "audioUrl": "https://prod-1.storage.jamendo.com/?trackid=1936262&format=mp32",
+  "fileName": "UPH Music - Reborn _ Dreamy Hip Hop.mp3",
+  "license": {
+    "code": "by-nc-nd",
+    "version": "3.0",
+    "label": "CC BY-NC-ND 3.0",
+    "url": "https://creativecommons.org/licenses/by-nc-nd/3.0/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": false,
+    "shareAlike": false,
+    "publicDomain": false
+  },
+  "genre": "Hip Hop",
+  "tags": [
+    "cheerful",
+    "guitar",
+    "happy",
+    "instrumental",
+    "speed_medium",
+    "strings",
+    "urban"
+  ],
+  "analysis": {
+    "durationSec": 216,
+    "bpm": 66.09,
+    "bpmConfidence": 0.42,
+    "beatOffset": 1.0414,
+    "key": {
+      "name": "A#",
+      "camelot": "6B",
+      "confidence": 0.87
+    },
+    "rmsDb": -14.2,
+    "analyzer": "pulsar-dj/analysis-worker 0.1",
+    "tempoFolded": 0.5
+  },
+  "added": "2026-11-01"
+}

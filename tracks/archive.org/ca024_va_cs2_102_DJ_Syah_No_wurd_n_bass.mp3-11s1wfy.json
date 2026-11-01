@@ -1,0 +1,52 @@
+{
+  "version": 1,
+  "id": "archive.org:ca024_va_cs2/102_DJ_Syah_No_wurd_n_bass.mp3",
+  "source": "archive.org",
+  "title": "102_DJ_Syah_No wurd_n_bass",
+  "artist": "Various",
+  "album": "ca024 - Various - Clinical Sounds - Vol.2",
+  "pageUrl": "https://archive.org/details/ca024_va_cs2",
+  "audioUrl": "https://archive.org/download/ca024_va_cs2/102_DJ_Syah_No_wurd_n_bass.mp3",
+  "fileName": "102_DJ_Syah_No_wurd_n_bass.mp3",
+  "sizeBytes": 4427161,
+  "license": {
+    "code": "by-nc-nd",
+    "version": "3.0",
+    "label": "CC BY-NC-ND 3.0",
+    "url": "http://creativecommons.org/licenses/by-nc-nd/3.0/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": false,
+    "shareAlike": false,
+    "publicDomain": false
+  },
+  "genre": "IDM / Electronica",
+  "tags": [
+    "clinical",
+    "illogical",
+    "turntablism",
+    "experimental",
+    "eclectic",
+    "noise",
+    "abstract",
+    "free improvisation",
+    "dark ambient",
+    "ambient",
+    "industrial",
+    "electronica"
+  ],
+  "analysis": {
+    "durationSec": 184.37,
+    "bpm": 175.88,
+    "bpmConfidence": 0.48,
+    "beatOffset": 0.0121,
+    "key": {
+      "name": "Fm",
+      "camelot": "4A",
+      "confidence": 0.63
+    },
+    "rmsDb": -16.5,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

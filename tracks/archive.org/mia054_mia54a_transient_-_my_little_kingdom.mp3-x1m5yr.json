@@ -1,0 +1,43 @@
+{
+  "version": 1,
+  "id": "archive.org:mia054/mia54a_transient_-_my_little_kingdom.mp3",
+  "source": "archive.org",
+  "title": "My little kingdom",
+  "artist": "Transient",
+  "album": "Magnets EP",
+  "pageUrl": "https://archive.org/details/mia054",
+  "audioUrl": "https://archive.org/download/mia054/mia54a_transient_-_my_little_kingdom.mp3",
+  "fileName": "mia54a_transient_-_my_little_kingdom.mp3",
+  "sizeBytes": 3937930,
+  "license": {
+    "code": "by-nc-nd",
+    "version": "2.0",
+    "label": "CC BY-NC-ND 2.0",
+    "url": "http://creativecommons.org/licenses/by-nc-nd/2.0/deed-music",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": false,
+    "shareAlike": false,
+    "publicDomain": false
+  },
+  "genre": "Hip Hop",
+  "tags": [
+    "Trip-Hop",
+    "Instrumental Hip-Hop"
+  ],
+  "analysis": {
+    "durationSec": 164.08,
+    "bpm": 82,
+    "bpmConfidence": 0.87,
+    "beatOffset": 0.0896,
+    "key": {
+      "name": "G#m",
+      "camelot": "1A",
+      "confidence": 0.68
+    },
+    "rmsDb": -17.2,
+    "analyzer": "pulsar-dj/analysis-worker 0.1",
+    "tempoFolded": 0.5
+  },
+  "added": "2026-11-01"
+}

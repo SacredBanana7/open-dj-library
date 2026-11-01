@@ -1,0 +1,41 @@
+{
+  "version": 1,
+  "id": "archive.org:qd-4220-sos/qd-4220-switchboard_of_souls-02-dont_bother_me-origversn.mp3",
+  "source": "archive.org",
+  "title": "02- Don't Bother Me (Original version)",
+  "artist": "[qd-42xx] Switchboard Of Souls",
+  "album": "[qd-4220] eko-lo-kashen",
+  "pageUrl": "https://archive.org/details/qd-4220-sos",
+  "audioUrl": "https://archive.org/download/qd-4220-sos/qd-4220-switchboard_of_souls-02-dont_bother_me-origversn.mp3",
+  "fileName": "qd-4220-switchboard_of_souls-02-dont_bother_me-origversn.mp3",
+  "sizeBytes": 11765760,
+  "license": {
+    "code": "by-nc-nd",
+    "version": "3.0",
+    "label": "CC BY-NC-ND 3.0",
+    "url": "http://creativecommons.org/licenses/by-nc-nd/3.0/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": false,
+    "shareAlike": false,
+    "publicDomain": false
+  },
+  "genre": "IDM / Electronica",
+  "tags": [
+    "electronica, new wave,80s, synthpop,"
+  ],
+  "analysis": {
+    "durationSec": 490.12,
+    "bpm": 120,
+    "bpmConfidence": 0.53,
+    "beatOffset": 0.772,
+    "key": {
+      "name": "Bm",
+      "camelot": "10A",
+      "confidence": 0.76
+    },
+    "rmsDb": -14.4,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

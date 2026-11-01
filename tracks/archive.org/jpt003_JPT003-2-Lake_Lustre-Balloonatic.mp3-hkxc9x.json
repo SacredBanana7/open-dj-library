@@ -1,0 +1,46 @@
+{
+  "version": 1,
+  "id": "archive.org:jpt003/JPT003-2-Lake_Lustre-Balloonatic.mp3",
+  "source": "archive.org",
+  "title": "Lake Lustre - Balloonatic",
+  "artist": "Lake Lustre",
+  "album": "John Peel Tribute: Session #3",
+  "pageUrl": "https://archive.org/details/jpt003",
+  "audioUrl": "https://archive.org/download/jpt003/JPT003-2-Lake_Lustre-Balloonatic.mp3",
+  "fileName": "JPT003-2-Lake_Lustre-Balloonatic.mp3",
+  "sizeBytes": 10024960,
+  "license": {
+    "code": "by-nc-nd",
+    "version": "2.5",
+    "label": "CC BY-NC-ND 2.5",
+    "url": "http://creativecommons.org/licenses/by-nc-nd/2.5/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": false,
+    "shareAlike": false,
+    "publicDomain": false
+  },
+  "genre": "Hip Hop",
+  "tags": [
+    "Noise",
+    "Ambient",
+    "Organic IDM",
+    "IDM",
+    "Hip Hop"
+  ],
+  "analysis": {
+    "durationSec": 250.54,
+    "bpm": 65.57,
+    "bpmConfidence": 1,
+    "beatOffset": 0.1257,
+    "key": {
+      "name": "Am",
+      "camelot": "8A",
+      "confidence": 0.74
+    },
+    "rmsDb": -14.1,
+    "analyzer": "pulsar-dj/analysis-worker 0.1",
+    "tempoFolded": 0.5
+  },
+  "added": "2026-11-01"
+}

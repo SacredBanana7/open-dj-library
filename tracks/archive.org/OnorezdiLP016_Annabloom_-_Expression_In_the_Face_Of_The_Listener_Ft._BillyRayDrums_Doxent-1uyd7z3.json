@@ -1,0 +1,52 @@
+{
+  "version": 1,
+  "id": "archive.org:OnorezdiLP016/Annabloom - Expression In the Face Of The Listener (Ft. BillyRayDrums, Doxent Zsigmond, Kara Square, NiGiD, IDzeroNo).mp3",
+  "source": "archive.org",
+  "title": "Expression in the Face of the Listener (ft. BillyRayDrums, Doxent Zsigmond, Kara Square, NiGiD, Sunhawken)",
+  "artist": "annabloom",
+  "album": "ccMixter",
+  "pageUrl": "https://archive.org/details/OnorezdiLP016",
+  "audioUrl": "https://archive.org/download/OnorezdiLP016/Annabloom%20-%20Expression%20In%20the%20Face%20Of%20The%20Listener%20(Ft.%20BillyRayDrums%2C%20Doxent%20Zsigmond%2C%20Kara%20Square%2C%20NiGiD%2C%20IDzeroNo).mp3",
+  "fileName": "Annabloom - Expression In the Face Of The Listener (Ft. BillyRayDrums, Doxent Zsigmond, Kara Square, NiGiD, IDzeroNo).mp3",
+  "sizeBytes": 10249625,
+  "license": {
+    "code": "by-nc-sa",
+    "version": "3.0",
+    "label": "CC BY-NC-SA 3.0",
+    "url": "http://creativecommons.org/licenses/by-nc-sa/3.0/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": true,
+    "shareAlike": true,
+    "publicDomain": false
+  },
+  "genre": "Hip Hop",
+  "tags": [
+    "Giovannie Hernandez",
+    "TheFeeDunk Star",
+    "TheDeepr",
+    "The Corner",
+    "I.Z. aka IDzeroNo",
+    "Ames Nick Solder",
+    "The Pee Punk BROTHA",
+    "D-Ram",
+    "Dj RuffShraker",
+    "Melvin Clark",
+    "The Informers",
+    "95 & Sailaway"
+  ],
+  "analysis": {
+    "durationSec": 366.03,
+    "bpm": 120,
+    "bpmConfidence": 1,
+    "beatOffset": 0.5358,
+    "key": {
+      "name": "C#",
+      "camelot": "3B",
+      "confidence": 0.75
+    },
+    "rmsDb": -16,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

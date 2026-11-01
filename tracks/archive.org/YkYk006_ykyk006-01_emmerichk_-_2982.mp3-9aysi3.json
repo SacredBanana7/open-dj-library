@@ -1,0 +1,44 @@
+{
+  "version": 1,
+  "id": "archive.org:YkYk006/ykyk006-01_emmerichk_-_2982.mp3",
+  "source": "archive.org",
+  "title": "2982",
+  "artist": "Emmerichk",
+  "album": "Yuki Yaki 006: Emmerichk - Nebadon",
+  "pageUrl": "https://archive.org/details/YkYk006",
+  "audioUrl": "https://archive.org/download/YkYk006/ykyk006-01_emmerichk_-_2982.mp3",
+  "fileName": "ykyk006-01_emmerichk_-_2982.mp3",
+  "sizeBytes": 12228608,
+  "license": {
+    "code": "by-nc-nd",
+    "version": "2.5",
+    "label": "CC BY-NC-ND 2.5",
+    "url": "http://creativecommons.org/licenses/by-nc-nd/2.5/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": false,
+    "shareAlike": false,
+    "publicDomain": false
+  },
+  "genre": "Electro",
+  "tags": [
+    "Electronica",
+    "Electro",
+    "IDM",
+    "Minimal Techno"
+  ],
+  "analysis": {
+    "durationSec": 382,
+    "bpm": 132,
+    "bpmConfidence": 1,
+    "beatOffset": 0.4881,
+    "key": {
+      "name": "Bm",
+      "camelot": "10A",
+      "confidence": 0.62
+    },
+    "rmsDb": -11.6,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

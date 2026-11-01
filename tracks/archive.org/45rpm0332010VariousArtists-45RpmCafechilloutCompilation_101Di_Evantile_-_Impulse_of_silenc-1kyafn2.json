@@ -1,0 +1,52 @@
+{
+  "version": 1,
+  "id": "archive.org:45rpm0332010VariousArtists-45RpmCafechilloutCompilation/101Di_Evantile_-_Impulse_of_silence.mp3",
+  "source": "archive.org",
+  "title": "101Di Evantile - Impulse of silence",
+  "artist": "Various Artists",
+  "album": "[45rpm033/2010] Various Artists - 45 RPM CAFE (Chillout Compilation)",
+  "pageUrl": "https://archive.org/details/45rpm0332010VariousArtists-45RpmCafechilloutCompilation",
+  "audioUrl": "https://archive.org/download/45rpm0332010VariousArtists-45RpmCafechilloutCompilation/101Di_Evantile_-_Impulse_of_silence.mp3",
+  "fileName": "101Di_Evantile_-_Impulse_of_silence.mp3",
+  "sizeBytes": 4313337,
+  "license": {
+    "code": "by-nc-nd",
+    "version": "3.0",
+    "label": "CC BY-NC-ND 3.0",
+    "url": "http://creativecommons.org/licenses/by-nc-nd/3.0/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": false,
+    "shareAlike": false,
+    "publicDomain": false
+  },
+  "genre": "House",
+  "tags": [
+    "45RPM-REC",
+    "45RPM-Records",
+    "45 rpm cafe",
+    "chill out",
+    "chillout",
+    "lounge",
+    "ambient",
+    "downtempo",
+    "world fusion",
+    "world music",
+    "new age",
+    "deep house"
+  ],
+  "analysis": {
+    "durationSec": 269.51,
+    "bpm": 133.34,
+    "bpmConfidence": 1,
+    "beatOffset": 1.2713,
+    "key": {
+      "name": "Am",
+      "camelot": "8A",
+      "confidence": 0.94
+    },
+    "rmsDb": -15.2,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

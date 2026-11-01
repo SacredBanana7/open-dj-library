@@ -1,0 +1,45 @@
+{
+  "version": 1,
+  "id": "archive.org:LBN004_-_difondo_-_Habitat/01LBN004_01_-_difondo_-_bioma.mp3.mp3",
+  "source": "archive.org",
+  "title": "bioma",
+  "artist": "difondo",
+  "album": "Habitat",
+  "pageUrl": "https://archive.org/details/LBN004_-_difondo_-_Habitat",
+  "audioUrl": "https://archive.org/download/LBN004_-_difondo_-_Habitat/01LBN004_01_-_difondo_-_bioma.mp3.mp3",
+  "fileName": "01LBN004_01_-_difondo_-_bioma.mp3.mp3",
+  "sizeBytes": 8919489,
+  "license": {
+    "code": "by-nc-sa",
+    "version": "3.0",
+    "label": "CC BY-NC-SA 3.0",
+    "url": "http://creativecommons.org/licenses/by-nc-sa/3.0/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": true,
+    "shareAlike": true,
+    "publicDomain": false
+  },
+  "genre": "Ambient",
+  "tags": [
+    "Electronic",
+    "Acoustic",
+    "Ambient",
+    "Indietronica",
+    "improvisation"
+  ],
+  "analysis": {
+    "durationSec": 221.2,
+    "bpm": 128.7,
+    "bpmConfidence": 0.43,
+    "beatOffset": 1.2204,
+    "key": {
+      "name": "F#",
+      "camelot": "2B",
+      "confidence": 0.65
+    },
+    "rmsDb": -23.8,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

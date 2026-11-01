@@ -1,0 +1,46 @@
+{
+  "version": 1,
+  "id": "archive.org:DigitalDiamonds057/[DigitalDiamonds057]_A2_Code_Therapy_-_Existence.mp3",
+  "source": "archive.org",
+  "title": "Existence",
+  "artist": "Code Therapy",
+  "album": "Scape From Reality EP",
+  "pageUrl": "https://archive.org/details/DigitalDiamonds057",
+  "audioUrl": "https://archive.org/download/DigitalDiamonds057/%5BDigitalDiamonds057%5D_A2_Code_Therapy_-_Existence.mp3",
+  "fileName": "[DigitalDiamonds057]_A2_Code_Therapy_-_Existence.mp3",
+  "sizeBytes": 19935257,
+  "license": {
+    "code": "by-nd",
+    "version": "4.0",
+    "label": "CC BY-ND 4.0",
+    "url": "http://creativecommons.org/licenses/by-nd/4.0/",
+    "attribution": true,
+    "commercial": true,
+    "derivatives": false,
+    "shareAlike": false,
+    "publicDomain": false
+  },
+  "genre": "Trance",
+  "tags": [
+    "Alic",
+    "Code therapy",
+    "Psychedelic",
+    "Techno",
+    "Remix",
+    "Trance"
+  ],
+  "analysis": {
+    "durationSec": 485.3,
+    "bpm": 128,
+    "bpmConfidence": 1,
+    "beatOffset": 0.9825,
+    "key": {
+      "name": "B",
+      "camelot": "1B",
+      "confidence": 0.77
+    },
+    "rmsDb": -11,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "id": "archive.org:BSCOMP0024/02-Eclectek-WeAreGoingToEclecfunkYourAss_192kb.mp3",
+  "source": "archive.org",
+  "title": "02 - Eclectek - We Are Going To Eclecfunk Your Ass",
+  "artist": "Eclectek",
+  "album": "netBloc Vol. 24: tiuqottigeloot",
+  "pageUrl": "https://archive.org/details/BSCOMP0024",
+  "audioUrl": "https://archive.org/download/BSCOMP0024/02-Eclectek-WeAreGoingToEclecfunkYourAss_192kb.mp3",
+  "fileName": "02-Eclectek-WeAreGoingToEclecfunkYourAss_192kb.mp3",
+  "sizeBytes": 4700610,
+  "license": {
+    "code": "by-nc-nd",
+    "version": "3.0",
+    "label": "CC BY-NC-ND 3.0",
+    "url": "http://creativecommons.org/licenses/by-nc-nd/3.0/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": false,
+    "shareAlike": false,
+    "publicDomain": false
+  },
+  "genre": "Electro",
+  "tags": [
+    "rock",
+    "pop",
+    "indie-pop",
+    "electro-pop",
+    "hip-hop",
+    "lounge",
+    "electropop",
+    "metal"
+  ],
+  "analysis": {
+    "durationSec": 190.04,
+    "bpm": 104.5,
+    "bpmConfidence": 1,
+    "beatOffset": 1.2524,
+    "key": {
+      "name": "A#m",
+      "camelot": "3A",
+      "confidence": 0.62
+    },
+    "rmsDb": -23.2,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

@@ -1,0 +1,43 @@
+{
+  "version": 1,
+  "id": "archive.org:mstk006/b-tHiNk_-_Eternity.mp3",
+  "source": "archive.org",
+  "title": "Eternity",
+  "artist": "tHiNk",
+  "album": "mstk006",
+  "pageUrl": "https://archive.org/details/mstk006",
+  "audioUrl": "https://archive.org/download/mstk006/b-tHiNk_-_Eternity.mp3",
+  "fileName": "b-tHiNk_-_Eternity.mp3",
+  "sizeBytes": 18626560,
+  "license": {
+    "code": "by-nc-sa",
+    "version": "2.5",
+    "label": "CC BY-NC-SA 2.5",
+    "url": "http://creativecommons.org/licenses/by-nc-sa/2.5/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": true,
+    "shareAlike": true,
+    "publicDomain": false
+  },
+  "genre": "Drum & Bass",
+  "tags": [
+    "atmospheric",
+    "drum and bass",
+    "dnb"
+  ],
+  "analysis": {
+    "durationSec": 582.06,
+    "bpm": 157.14,
+    "bpmConfidence": 0.39,
+    "beatOffset": 0.1366,
+    "key": {
+      "name": "D#",
+      "camelot": "5B",
+      "confidence": 0.8
+    },
+    "rmsDb": -16,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

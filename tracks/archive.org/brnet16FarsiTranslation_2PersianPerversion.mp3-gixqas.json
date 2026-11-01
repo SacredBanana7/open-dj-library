@@ -1,0 +1,41 @@
+{
+  "version": 1,
+  "id": "archive.org:brnet16FarsiTranslation/2PersianPerversion.mp3",
+  "source": "archive.org",
+  "title": "2 Persian Perversion",
+  "artist": "Pasquale Cangiano and Ensemble",
+  "album": "Farsi Translation",
+  "pageUrl": "https://archive.org/details/brnet16FarsiTranslation",
+  "audioUrl": "https://archive.org/download/brnet16FarsiTranslation/2PersianPerversion.mp3",
+  "fileName": "2PersianPerversion.mp3",
+  "sizeBytes": 10898796,
+  "license": {
+    "code": "by-nc-nd",
+    "version": "3.0",
+    "label": "CC BY-NC-ND 3.0 US",
+    "url": "http://creativecommons.org/licenses/by-nc-nd/3.0/us/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": false,
+    "shareAlike": false,
+    "publicDomain": false
+  },
+  "genre": "Ambient",
+  "tags": [
+    "Pasquale Cangiano,Flex Unger,Jonathan Moritz,Amir Vahab,Farsi Translation,Free Jazz,Experimental,Iranian,World Music,Ambient,"
+  ],
+  "analysis": {
+    "durationSec": 543.43,
+    "bpm": 131.44,
+    "bpmConfidence": 0.38,
+    "beatOffset": 0.3866,
+    "key": {
+      "name": "Am",
+      "camelot": "8A",
+      "confidence": 0.79
+    },
+    "rmsDb": -27.1,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

@@ -1,0 +1,45 @@
+{
+  "version": 1,
+  "id": "openverse:bba2deb0-83a5-491e-89ef-a7a5b308dc23",
+  "source": "openverse",
+  "provider": "jamendo",
+  "title": "Electro funk",
+  "artist": "iNDEX",
+  "artistUrl": "https://www.jamendo.com/artist/424522/Index_(4)",
+  "album": "Wake up",
+  "pageUrl": "https://www.jamendo.com/track/1447766",
+  "audioUrl": "https://prod-1.storage.jamendo.com/?trackid=1447766&format=mp32",
+  "fileName": "iNDEX - Electro funk.mp3",
+  "license": {
+    "code": "by-sa",
+    "version": "3.0",
+    "label": "CC BY-SA 3.0",
+    "url": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "attribution": true,
+    "commercial": true,
+    "derivatives": true,
+    "shareAlike": true,
+    "publicDomain": false
+  },
+  "genre": "Electro",
+  "tags": [
+    "breakbeats",
+    "happy",
+    "instrumental",
+    "speed_medium"
+  ],
+  "analysis": {
+    "durationSec": 234.46,
+    "bpm": 173.34,
+    "bpmConfidence": 0.63,
+    "beatOffset": 0.816,
+    "key": {
+      "name": "C",
+      "camelot": "8B",
+      "confidence": 0.77
+    },
+    "rmsDb": -12,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

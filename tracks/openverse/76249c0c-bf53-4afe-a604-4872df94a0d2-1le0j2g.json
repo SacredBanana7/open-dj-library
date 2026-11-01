@@ -1,0 +1,46 @@
+{
+  "version": 1,
+  "id": "openverse:76249c0c-bf53-4afe-a604-4872df94a0d2",
+  "source": "openverse",
+  "provider": "jamendo",
+  "title": "Head Above Water (Chilling Lo Fi Beats Ambient Background Piano)",
+  "artist": "Epikton",
+  "artistUrl": "https://www.jamendo.com/artist/496045/Epikton",
+  "album": "Lo-fi Album",
+  "pageUrl": "https://www.jamendo.com/track/2037902",
+  "audioUrl": "https://prod-1.storage.jamendo.com/?trackid=2037902&format=mp32",
+  "fileName": "Epikton - Head Above Water (Chilling Lo Fi Beats Ambient Background Piano).mp3",
+  "license": {
+    "code": "by-nc-nd",
+    "version": "3.0",
+    "label": "CC BY-NC-ND 3.0",
+    "url": "https://creativecommons.org/licenses/by-nc-nd/3.0/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": false,
+    "shareAlike": false,
+    "publicDomain": false
+  },
+  "genre": "Ambient",
+  "tags": [
+    "calm",
+    "instrumental",
+    "peaceful",
+    "soft",
+    "synthesizer"
+  ],
+  "analysis": {
+    "durationSec": 210,
+    "bpm": 160,
+    "bpmConfidence": 1,
+    "beatOffset": 0.0278,
+    "key": {
+      "name": "Am",
+      "camelot": "8A",
+      "confidence": 0.78
+    },
+    "rmsDb": -15.7,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

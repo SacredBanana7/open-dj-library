@@ -1,0 +1,49 @@
+{
+  "version": 1,
+  "id": "archive.org:rfr014/rfr014_CD1_01_Riadij_-_Demitrialights.mp3",
+  "source": "archive.org",
+  "title": "rfr014_CD1_01_Riadij_-_Demitrialights",
+  "artist": "Riadij",
+  "album": "[RFR014] V.A. - 2 Years Rumpfunk-Records",
+  "pageUrl": "https://archive.org/details/rfr014",
+  "audioUrl": "https://archive.org/download/rfr014/rfr014_CD1_01_Riadij_-_Demitrialights.mp3",
+  "fileName": "rfr014_CD1_01_Riadij_-_Demitrialights.mp3",
+  "sizeBytes": 12956000,
+  "license": {
+    "code": "by-nc-nd",
+    "version": "2.0",
+    "label": "CC BY-NC-ND 2.0 DE",
+    "url": "http://creativecommons.org/licenses/by-nc-nd/2.0/de/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": false,
+    "shareAlike": false,
+    "publicDomain": false
+  },
+  "genre": "House",
+  "tags": [
+    "rfr014",
+    "rumpfunk",
+    "rumpfunk-records",
+    "ambient",
+    "house",
+    "melancholic",
+    "minimal",
+    "techno",
+    "compilation"
+  ],
+  "analysis": {
+    "durationSec": 324.13,
+    "bpm": 162.74,
+    "bpmConfidence": 0.53,
+    "beatOffset": 0.0278,
+    "key": {
+      "name": "D",
+      "camelot": "10B",
+      "confidence": 0.65
+    },
+    "rmsDb": -18,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

@@ -1,0 +1,46 @@
+{
+  "version": 1,
+  "id": "openverse:a92af928-9166-4b68-9142-35e7ee19ff6a",
+  "source": "openverse",
+  "provider": "jamendo",
+  "title": "26 Spyhnx ( House Mix )",
+  "artist": "Hasenchat",
+  "artistUrl": "https://www.jamendo.com/artist/386200/hasenchat",
+  "album": "Techno Trax - Episode 3",
+  "pageUrl": "https://www.jamendo.com/track/1212705",
+  "audioUrl": "https://prod-1.storage.jamendo.com/?trackid=1212705&format=mp32",
+  "fileName": "Hasenchat - 26 Spyhnx ( House Mix ).mp3",
+  "license": {
+    "code": "by",
+    "version": "3.0",
+    "label": "CC BY 3.0",
+    "url": "https://creativecommons.org/licenses/by/3.0/",
+    "attribution": true,
+    "commercial": true,
+    "derivatives": true,
+    "shareAlike": false,
+    "publicDomain": false
+  },
+  "genre": "House",
+  "tags": [
+    "instrumental",
+    "neutral",
+    "song",
+    "speed_medium",
+    "videogame"
+  ],
+  "analysis": {
+    "durationSec": 394.69,
+    "bpm": 128.3,
+    "bpmConfidence": 0.43,
+    "beatOffset": 0.2788,
+    "key": {
+      "name": "C#m",
+      "camelot": "12A",
+      "confidence": 0.79
+    },
+    "rmsDb": -18.6,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

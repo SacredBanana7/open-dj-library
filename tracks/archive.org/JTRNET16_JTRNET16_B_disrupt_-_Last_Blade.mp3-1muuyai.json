@@ -1,0 +1,47 @@
+{
+  "version": 1,
+  "id": "archive.org:JTRNET16/JTRNET16_B_disrupt_-_Last_Blade.mp3",
+  "source": "archive.org",
+  "title": "Last Blade",
+  "artist": "disrupt",
+  "album": "JTR NET 16",
+  "pageUrl": "https://archive.org/details/JTRNET16",
+  "audioUrl": "https://archive.org/download/JTRNET16/JTRNET16_B_disrupt_-_Last_Blade.mp3",
+  "fileName": "JTRNET16_B_disrupt_-_Last_Blade.mp3",
+  "sizeBytes": 4478976,
+  "license": {
+    "code": "by-nc-nd",
+    "version": "2.0",
+    "label": "CC BY-NC-ND 2.0 DE",
+    "url": "http://creativecommons.org/licenses/by-nc-nd/2.0/de/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": false,
+    "shareAlike": false,
+    "publicDomain": false
+  },
+  "genre": "Dubstep",
+  "tags": [
+    "disrupt",
+    "Jahtari",
+    "Digital Laptop Reggae",
+    "Samurai",
+    "Dub",
+    "Reggae",
+    "Dubstep"
+  ],
+  "analysis": {
+    "durationSec": 186.83,
+    "bpm": 124,
+    "bpmConfidence": 0.87,
+    "beatOffset": 0.0277,
+    "key": {
+      "name": "A",
+      "camelot": "11B",
+      "confidence": 0.62
+    },
+    "rmsDb": -10.4,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

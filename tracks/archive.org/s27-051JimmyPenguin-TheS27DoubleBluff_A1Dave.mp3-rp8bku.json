@@ -1,0 +1,42 @@
+{
+  "version": 1,
+  "id": "archive.org:s27-051JimmyPenguin-TheS27DoubleBluff/A1Dave.mp3",
+  "source": "archive.org",
+  "title": "A1 Dave",
+  "artist": "Jimmy Penguin",
+  "album": "The S27 Double Bluff : Side A",
+  "pageUrl": "https://archive.org/details/s27-051JimmyPenguin-TheS27DoubleBluff",
+  "audioUrl": "https://archive.org/download/s27-051JimmyPenguin-TheS27DoubleBluff/A1Dave.mp3",
+  "fileName": "A1Dave.mp3",
+  "sizeBytes": 7887970,
+  "license": {
+    "code": "by-nc-nd",
+    "version": "3.0",
+    "label": "CC BY-NC-ND 3.0",
+    "url": "http://creativecommons.org/licenses/by-nc-nd/3.0/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": false,
+    "shareAlike": false,
+    "publicDomain": false
+  },
+  "genre": "Hip Hop",
+  "tags": [
+    "Jimmy Penguin, Section 27, new release, The S27 Double Bluff, August 2010, [S27-051], Hip-Hop, Electronica, Downtempo, Creative Commons, by-nc-nd, Nozl, Community Skratch Games, DJ Muzzell, Deviant, UK, Ireland,"
+  ],
+  "analysis": {
+    "durationSec": 197.09,
+    "bpm": 81.64,
+    "bpmConfidence": 0.51,
+    "beatOffset": 0.1568,
+    "key": {
+      "name": "Cm",
+      "camelot": "5A",
+      "confidence": 0.8
+    },
+    "rmsDb": -11.8,
+    "analyzer": "pulsar-dj/analysis-worker 0.1",
+    "tempoFolded": 0.5
+  },
+  "added": "2026-11-01"
+}

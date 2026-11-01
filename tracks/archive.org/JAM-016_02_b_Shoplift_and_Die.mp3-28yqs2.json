@@ -1,0 +1,44 @@
+{
+  "version": 1,
+  "id": "archive.org:JAM-016/02_b__Shoplift_and_Die.mp3",
+  "source": "archive.org",
+  "title": "b. Shoplift and Die",
+  "artist": "James Harvey feat. The Catmaster Squad and the Rude-Boy of Cats",
+  "album": "Cat Jam Nation",
+  "pageUrl": "https://archive.org/details/JAM-016",
+  "audioUrl": "https://archive.org/download/JAM-016/02_b__Shoplift_and_Die.mp3",
+  "fileName": "02_b__Shoplift_and_Die.mp3",
+  "sizeBytes": 8154602,
+  "license": {
+    "code": "by-nc-sa",
+    "version": "2.5",
+    "label": "CC BY-NC-SA 2.5",
+    "url": "http://creativecommons.org/licenses/by-nc-sa/2.5/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": true,
+    "shareAlike": true,
+    "publicDomain": false
+  },
+  "genre": "Breakbeat",
+  "tags": [
+    "big beat",
+    "superstar dj mixes",
+    "electronic",
+    "cat jams"
+  ],
+  "analysis": {
+    "durationSec": 351.17,
+    "bpm": 122.5,
+    "bpmConfidence": 0.39,
+    "beatOffset": 1.2922,
+    "key": {
+      "name": "F#m",
+      "camelot": "11A",
+      "confidence": 0.7
+    },
+    "rmsDb": -19.3,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

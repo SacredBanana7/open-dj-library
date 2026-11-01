@@ -1,0 +1,52 @@
+{
+  "version": 1,
+  "id": "archive.org:Auflegware017/1.AJSARS-Du_und_Ich_DuUndichEP_alw017.mp3",
+  "source": "archive.org",
+  "title": "1.AJSARS-Du_und_Ich_DuUndichEP_alw017",
+  "artist": "A.J.S.A.R.S",
+  "album": "Du und Ich EP - auflegware017",
+  "pageUrl": "https://archive.org/details/Auflegware017",
+  "audioUrl": "https://archive.org/download/Auflegware017/1.AJSARS-Du_und_Ich_DuUndichEP_alw017.mp3",
+  "fileName": "1.AJSARS-Du_und_Ich_DuUndichEP_alw017.mp3",
+  "sizeBytes": 18004723,
+  "license": {
+    "code": "by-nc-nd",
+    "version": "2.0",
+    "label": "CC BY-NC-ND 2.0 DE",
+    "url": "http://creativecommons.org/licenses/by-nc-nd/2.0/de/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": false,
+    "shareAlike": false,
+    "publicDomain": false
+  },
+  "genre": "Techno",
+  "tags": [
+    "auflegware017",
+    "auflegware",
+    "alw017",
+    "a.j.s.a.r.s",
+    "minimal techno",
+    "minimal house",
+    "minimal",
+    "brandenburg",
+    "berlin",
+    "netrelease",
+    "drehmoment",
+    "du und ich"
+  ],
+  "analysis": {
+    "durationSec": 450.06,
+    "bpm": 128,
+    "bpmConfidence": 1,
+    "beatOffset": 0.0297,
+    "key": {
+      "name": "D",
+      "camelot": "10B",
+      "confidence": 0.54
+    },
+    "rmsDb": -13.4,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

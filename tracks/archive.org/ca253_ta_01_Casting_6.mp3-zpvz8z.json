@@ -1,0 +1,43 @@
+{
+  "version": 1,
+  "id": "archive.org:ca253_ta/01_Casting_6.mp3",
+  "source": "archive.org",
+  "title": "01 - Casting 6º",
+  "artist": "Trio Antimanierista",
+  "album": "ca253 - Trio Antimanierista - Einsteintonto",
+  "pageUrl": "https://archive.org/details/ca253_ta",
+  "audioUrl": "https://archive.org/download/ca253_ta/01_Casting_6.mp3",
+  "fileName": "01_Casting_6.mp3",
+  "sizeBytes": 7292683,
+  "license": {
+    "code": "by-nc-nd",
+    "version": "3.0",
+    "label": "CC BY-NC-ND 3.0",
+    "url": "http://creativecommons.org/licenses/by-nc-nd/3.0/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": false,
+    "shareAlike": false,
+    "publicDomain": false
+  },
+  "genre": "Experimental",
+  "tags": [
+    "improvisation",
+    "experimental",
+    "other"
+  ],
+  "analysis": {
+    "durationSec": 170.71,
+    "bpm": 135.34,
+    "bpmConfidence": 0.41,
+    "beatOffset": 0.0431,
+    "key": {
+      "name": "F",
+      "camelot": "7B",
+      "confidence": 0.82
+    },
+    "rmsDb": -25.9,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

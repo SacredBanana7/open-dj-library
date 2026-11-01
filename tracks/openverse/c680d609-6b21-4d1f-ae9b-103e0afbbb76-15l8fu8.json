@@ -1,0 +1,44 @@
+{
+  "version": 1,
+  "id": "openverse:c680d609-6b21-4d1f-ae9b-103e0afbbb76",
+  "source": "openverse",
+  "provider": "jamendo",
+  "title": "Electronica",
+  "artist": "MОB",
+  "artistUrl": "https://www.jamendo.com/artist/355745/DJ_M.O.B.",
+  "album": "Wonder Wheel",
+  "pageUrl": "https://www.jamendo.com/track/550969",
+  "audioUrl": "https://prod-1.storage.jamendo.com/?trackid=550969&format=mp32",
+  "fileName": "MОB - Electronica.mp3",
+  "license": {
+    "code": "by-sa",
+    "version": "3.0",
+    "label": "CC BY-SA 3.0",
+    "url": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "attribution": true,
+    "commercial": true,
+    "derivatives": true,
+    "shareAlike": true,
+    "publicDomain": false
+  },
+  "genre": "IDM / Electronica",
+  "tags": [
+    "instrumental",
+    "neutral",
+    "speed_medium"
+  ],
+  "analysis": {
+    "durationSec": 171.52,
+    "bpm": 101,
+    "bpmConfidence": 1,
+    "beatOffset": 0.0026,
+    "key": {
+      "name": "A#m",
+      "camelot": "3A",
+      "confidence": 0.76
+    },
+    "rmsDb": -11.9,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

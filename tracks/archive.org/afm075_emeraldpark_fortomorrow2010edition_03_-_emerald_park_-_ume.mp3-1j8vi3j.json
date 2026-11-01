@@ -1,0 +1,50 @@
+{
+  "version": 1,
+  "id": "archive.org:afm075_emeraldpark_fortomorrow2010edition/03_-_emerald_park_-_ume.mp3",
+  "source": "archive.org",
+  "title": "Ume",
+  "artist": "Emerald Park",
+  "album": "For Tomorrow (2010 Edition)",
+  "pageUrl": "https://archive.org/details/afm075_emeraldpark_fortomorrow2010edition",
+  "audioUrl": "https://archive.org/download/afm075_emeraldpark_fortomorrow2010edition/03_-_emerald_park_-_ume.mp3",
+  "fileName": "03_-_emerald_park_-_ume.mp3",
+  "sizeBytes": 7612544,
+  "license": {
+    "code": "by-nc-nd",
+    "version": "3.0",
+    "label": "CC BY-NC-ND 3.0 DE",
+    "url": "http://creativecommons.org/licenses/by-nc-nd/3.0/de/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": false,
+    "shareAlike": false,
+    "publicDomain": false
+  },
+  "genre": "Electro",
+  "tags": [
+    "Alternative",
+    "Electronic",
+    "Electro",
+    "Darkwave",
+    "Gothic",
+    "Indie",
+    "New Wave",
+    "Wave",
+    "Rock",
+    "afmusic"
+  ],
+  "analysis": {
+    "durationSec": 237.73,
+    "bpm": 139.66,
+    "bpmConfidence": 0.4,
+    "beatOffset": 0.2253,
+    "key": {
+      "name": "D",
+      "camelot": "10B",
+      "confidence": 0.92
+    },
+    "rmsDb": -10.9,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

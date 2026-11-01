@@ -1,0 +1,52 @@
+{
+  "version": 1,
+  "id": "archive.org:lvra-501VariousArtists-RadioOfAliensVol.1/02Spacebirds_-_Multiverse.mp3",
+  "source": "archive.org",
+  "title": "Multiverse",
+  "artist": "Spacebirds",
+  "album": "v/a - Radio Of Aliens Vol. 1 (2011)",
+  "pageUrl": "https://archive.org/details/lvra-501VariousArtists-RadioOfAliensVol.1",
+  "audioUrl": "https://archive.org/download/lvra-501VariousArtists-RadioOfAliensVol.1/02Spacebirds_-_Multiverse.mp3",
+  "fileName": "02Spacebirds_-_Multiverse.mp3",
+  "sizeBytes": 12619318,
+  "license": {
+    "code": "by-nc-nd",
+    "version": "3.0",
+    "label": "CC BY-NC-ND 3.0",
+    "url": "http://creativecommons.org/licenses/by-nc-nd/3.0/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": false,
+    "shareAlike": false,
+    "publicDomain": false
+  },
+  "genre": "Disco / Funk",
+  "tags": [
+    "Laser Visa",
+    "spacesynth",
+    "italodisco",
+    "italo disco",
+    "Sci-Fi",
+    "spacesound",
+    "radio of aliens",
+    "EugeneKha",
+    "Magic Studio",
+    "Project A",
+    "Spacebirds",
+    "Space Station"
+  ],
+  "analysis": {
+    "durationSec": 315.36,
+    "bpm": 125,
+    "bpmConfidence": 0.72,
+    "beatOffset": 0.9845,
+    "key": {
+      "name": "F",
+      "camelot": "7B",
+      "confidence": 0.76
+    },
+    "rmsDb": -14.4,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

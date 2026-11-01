@@ -1,0 +1,44 @@
+{
+  "version": 1,
+  "id": "openverse:22f8cadc-6bd1-4c1a-81a5-b7b7a843865b",
+  "source": "openverse",
+  "provider": "jamendo",
+  "title": "Why (Trance remix by Ilya Malyuev)",
+  "artist": "Greg Baumont",
+  "artistUrl": "https://www.jamendo.com/artist/326/greg.baumont",
+  "album": "Wood",
+  "pageUrl": "https://www.jamendo.com/track/2170",
+  "audioUrl": "https://prod-1.storage.jamendo.com/?trackid=2170&format=mp32",
+  "fileName": "Greg Baumont - Why (Trance remix by Ilya Malyuev).mp3",
+  "license": {
+    "code": "by-nc-nd",
+    "version": "2.0",
+    "label": "CC BY-NC-ND 2.0 FR",
+    "url": "https://creativecommons.org/licenses/by-nc-nd/2.0/fr/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": false,
+    "shareAlike": false,
+    "publicDomain": false
+  },
+  "genre": "Trance",
+  "tags": [
+    "instrumental",
+    "neutral",
+    "speed_medium"
+  ],
+  "analysis": {
+    "durationSec": 293.21,
+    "bpm": 152,
+    "bpmConfidence": 0.71,
+    "beatOffset": 1.0267,
+    "key": {
+      "name": "Cm",
+      "camelot": "5A",
+      "confidence": 0.9
+    },
+    "rmsDb": -15.7,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

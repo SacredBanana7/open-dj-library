@@ -1,0 +1,41 @@
+{
+  "version": 1,
+  "id": "archive.org:1bit_004/1bit_004_02_-_Kiorda_Daekin_-_Far_Away.mp3",
+  "source": "archive.org",
+  "title": "Far Away",
+  "artist": "Kiorda Däkin",
+  "album": "Interstellar Paradise",
+  "pageUrl": "https://archive.org/details/1bit_004",
+  "audioUrl": "https://archive.org/download/1bit_004/1bit_004_02_-_Kiorda_Daekin_-_Far_Away.mp3",
+  "fileName": "1bit_004_02_-_Kiorda_Daekin_-_Far_Away.mp3",
+  "sizeBytes": 5501056,
+  "license": {
+    "code": "by-nc-sa",
+    "version": "2.0",
+    "label": "CC BY-NC-SA 2.0",
+    "url": "http://creativecommons.org/licenses/by-nc-sa/2.0/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": true,
+    "shareAlike": true,
+    "publicDomain": false
+  },
+  "genre": "House",
+  "tags": [
+    "Deep House"
+  ],
+  "analysis": {
+    "durationSec": 229.05,
+    "bpm": 122,
+    "bpmConfidence": 1,
+    "beatOffset": 1.4777,
+    "key": {
+      "name": "D#m",
+      "camelot": "2A",
+      "confidence": 0.84
+    },
+    "rmsDb": -23,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

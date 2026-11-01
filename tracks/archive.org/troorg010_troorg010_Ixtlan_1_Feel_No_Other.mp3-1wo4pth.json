@@ -1,0 +1,44 @@
+{
+  "version": 1,
+  "id": "archive.org:troorg010/troorg010_Ixtlan__1_Feel_No_Other.mp3",
+  "source": "archive.org",
+  "title": "Feel No Other",
+  "artist": "Ixtlan",
+  "album": "VUKK 110011110",
+  "pageUrl": "https://archive.org/details/troorg010",
+  "audioUrl": "https://archive.org/download/troorg010/troorg010_Ixtlan__1_Feel_No_Other.mp3",
+  "fileName": "troorg010_Ixtlan__1_Feel_No_Other.mp3",
+  "sizeBytes": 5918720,
+  "license": {
+    "code": "by-nc-sa",
+    "version": "3.0",
+    "label": "CC BY-NC-SA 3.0",
+    "url": "http://creativecommons.org/licenses/by-nc-sa/3.0/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": true,
+    "shareAlike": true,
+    "publicDomain": false
+  },
+  "genre": "Electro",
+  "tags": [
+    "schamanistic",
+    "psychedelic",
+    "post rock",
+    "electro-organic dance music"
+  ],
+  "analysis": {
+    "durationSec": 246.54,
+    "bpm": 160,
+    "bpmConfidence": 1,
+    "beatOffset": 0.0659,
+    "key": {
+      "name": "C",
+      "camelot": "8B",
+      "confidence": 0.87
+    },
+    "rmsDb": -13.3,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

@@ -1,0 +1,41 @@
+{
+  "version": 1,
+  "id": "archive.org:qd-4220-sos/qd-4220-switchboard_of_souls-01-cruel_fate.mp3",
+  "source": "archive.org",
+  "title": "01- Cruel Fate",
+  "artist": "[qd-42xx] Switchboard Of Souls",
+  "album": "[qd-4220] eko-lo-kashen",
+  "pageUrl": "https://archive.org/details/qd-4220-sos",
+  "audioUrl": "https://archive.org/download/qd-4220-sos/qd-4220-switchboard_of_souls-01-cruel_fate.mp3",
+  "fileName": "qd-4220-switchboard_of_souls-01-cruel_fate.mp3",
+  "sizeBytes": 7081984,
+  "license": {
+    "code": "by-nc-nd",
+    "version": "3.0",
+    "label": "CC BY-NC-ND 3.0",
+    "url": "http://creativecommons.org/licenses/by-nc-nd/3.0/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": false,
+    "shareAlike": false,
+    "publicDomain": false
+  },
+  "genre": "IDM / Electronica",
+  "tags": [
+    "electronica, new wave,80s, synthpop,"
+  ],
+  "analysis": {
+    "durationSec": 294.91,
+    "bpm": 120.42,
+    "bpmConfidence": 0.4,
+    "beatOffset": 0.4998,
+    "key": {
+      "name": "Gm",
+      "camelot": "6A",
+      "confidence": 0.93
+    },
+    "rmsDb": -14.4,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

@@ -1,0 +1,46 @@
+{
+  "version": 1,
+  "id": "archive.org:ekleipsi23/GOE_StateOfMind.mp3",
+  "source": "archive.org",
+  "title": "State Of Mind",
+  "artist": "The Light Beyond",
+  "album": "Halloween Compilation",
+  "pageUrl": "https://archive.org/details/ekleipsi23",
+  "audioUrl": "https://archive.org/download/ekleipsi23/GOE_StateOfMind.mp3",
+  "fileName": "GOE_StateOfMind.mp3",
+  "sizeBytes": 4988668,
+  "license": {
+    "code": "by-nc-nd",
+    "version": "3.0",
+    "label": "CC BY-NC-ND 3.0",
+    "url": "http://creativecommons.org/licenses/by-nc-nd/3.0/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": false,
+    "shareAlike": false,
+    "publicDomain": false
+  },
+  "genre": "IDM / Electronica",
+  "tags": [
+    "Gothic",
+    "Metal",
+    "Electronica",
+    "Ambient",
+    "Folk",
+    "Experimental"
+  ],
+  "analysis": {
+    "durationSec": 267.08,
+    "bpm": 125,
+    "bpmConfidence": 0.62,
+    "beatOffset": 1.0471,
+    "key": {
+      "name": "Dm",
+      "camelot": "7A",
+      "confidence": 0.82
+    },
+    "rmsDb": -13.3,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

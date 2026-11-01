@@ -1,0 +1,41 @@
+{
+  "version": 1,
+  "id": "archive.org:XD-NETC-003X/02_Dorothys_Magic_Bag_-_The_Mystical_Dream_Express.mp3",
+  "source": "archive.org",
+  "title": "The Mystical Dream Express",
+  "artist": "Dorothy's Magic Bag",
+  "album": "The X-Dump: Ninjadisko",
+  "pageUrl": "https://archive.org/details/XD-NETC-003X",
+  "audioUrl": "https://archive.org/download/XD-NETC-003X/02_Dorothys_Magic_Bag_-_The_Mystical_Dream_Express.mp3",
+  "fileName": "02_Dorothys_Magic_Bag_-_The_Mystical_Dream_Express.mp3",
+  "sizeBytes": 7882145,
+  "license": {
+    "code": "by-nc-nd",
+    "version": "2.5",
+    "label": "CC BY-NC-ND 2.5 SE",
+    "url": "http://creativecommons.org/licenses/by-nc-nd/2.5/se/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": false,
+    "shareAlike": false,
+    "publicDomain": false
+  },
+  "genre": "IDM / Electronica",
+  "tags": [
+    "The X-Dump, zabutom, Dorothy's Magic Bag, Matophonia, Paza Rahm, Anode, Psilodump, Lithis, Electronica, Microdisko"
+  ],
+  "analysis": {
+    "durationSec": 211.76,
+    "bpm": 160,
+    "bpmConfidence": 1,
+    "beatOffset": 0.1466,
+    "key": {
+      "name": "F",
+      "camelot": "7B",
+      "confidence": 0.71
+    },
+    "rmsDb": -13.9,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

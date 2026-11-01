@@ -1,0 +1,44 @@
+{
+  "version": 1,
+  "id": "archive.org:birdsong023/01_Solos_frente_al_lago.mp3",
+  "source": "archive.org",
+  "title": "01_Solos_frente_al_lago",
+  "artist": "Carlos Labbé",
+  "album": "Doce canciones para Eleodora",
+  "pageUrl": "https://archive.org/details/birdsong023",
+  "audioUrl": "https://archive.org/download/birdsong023/01_Solos_frente_al_lago.mp3",
+  "fileName": "01_Solos_frente_al_lago.mp3",
+  "sizeBytes": 3735335,
+  "license": {
+    "code": "by-nc-sa",
+    "version": "3.0",
+    "label": "CC BY-NC-SA 3.0",
+    "url": "http://creativecommons.org/licenses/by-nc-sa/3.0/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": true,
+    "shareAlike": true,
+    "publicDomain": false
+  },
+  "genre": "Experimental",
+  "tags": [
+    "lo-fi",
+    "chile",
+    "home recording",
+    "experimental"
+  ],
+  "analysis": {
+    "durationSec": 171.42,
+    "bpm": 124.86,
+    "bpmConfidence": 0.41,
+    "beatOffset": 1.4378,
+    "key": {
+      "name": "C",
+      "camelot": "8B",
+      "confidence": 0.95
+    },
+    "rmsDb": -15.3,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

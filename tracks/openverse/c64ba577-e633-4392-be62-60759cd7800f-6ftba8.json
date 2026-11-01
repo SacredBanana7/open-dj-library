@@ -1,0 +1,47 @@
+{
+  "version": 1,
+  "id": "openverse:c64ba577-e633-4392-be62-60759cd7800f",
+  "source": "openverse",
+  "provider": "jamendo",
+  "title": "Esposado con el alma del hip hop",
+  "artist": "Inhor",
+  "artistUrl": "https://www.jamendo.com/artist/340366/Inhor",
+  "album": "Mi Purificación",
+  "pageUrl": "https://www.jamendo.com/track/365380",
+  "audioUrl": "https://prod-1.storage.jamendo.com/?trackid=365380&format=mp32",
+  "fileName": "Inhor - Esposado con el alma del hip hop.mp3",
+  "license": {
+    "code": "by-nd",
+    "version": "2.5",
+    "label": "CC BY-ND 2.5 ES",
+    "url": "https://creativecommons.org/licenses/by-nd/2.5/es/",
+    "attribution": true,
+    "commercial": true,
+    "derivatives": false,
+    "shareAlike": false,
+    "publicDomain": false
+  },
+  "genre": "Hip Hop",
+  "tags": [
+    "adult",
+    "following",
+    "male",
+    "poetry",
+    "speed_medium",
+    "vocal"
+  ],
+  "analysis": {
+    "durationSec": 245.32,
+    "bpm": 100,
+    "bpmConfidence": 1,
+    "beatOffset": 0.607,
+    "key": {
+      "name": "Em",
+      "camelot": "9A",
+      "confidence": 0.2
+    },
+    "rmsDb": -18.8,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

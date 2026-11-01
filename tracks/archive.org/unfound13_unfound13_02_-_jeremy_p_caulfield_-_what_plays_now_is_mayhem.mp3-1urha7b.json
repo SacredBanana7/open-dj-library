@@ -1,0 +1,44 @@
+{
+  "version": 1,
+  "id": "archive.org:unfound13/unfound13_02_-_jeremy_p_caulfield_-_what_plays_now_is_mayhem.mp3",
+  "source": "archive.org",
+  "title": "what plays now is mayhem",
+  "artist": "jeremy p. caulfield",
+  "album": "[unfound13] unhappy anniversary",
+  "pageUrl": "https://archive.org/details/unfound13",
+  "audioUrl": "https://archive.org/download/unfound13/unfound13_02_-_jeremy_p_caulfield_-_what_plays_now_is_mayhem.mp3",
+  "fileName": "unfound13_02_-_jeremy_p_caulfield_-_what_plays_now_is_mayhem.mp3",
+  "sizeBytes": 11313152,
+  "license": {
+    "code": "by-nc-nd",
+    "version": "2.5",
+    "label": "CC BY-NC-ND 2.5",
+    "url": "http://creativecommons.org/licenses/by-nc-nd/2.5/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": false,
+    "shareAlike": false,
+    "publicDomain": false
+  },
+  "genre": "Techno",
+  "tags": [
+    "Experimental",
+    "Ambient",
+    "Microhouse",
+    "minimal techno"
+  ],
+  "analysis": {
+    "durationSec": 353.44,
+    "bpm": 125,
+    "bpmConfidence": 0.97,
+    "beatOffset": 0.6413,
+    "key": {
+      "name": "Dm",
+      "camelot": "7A",
+      "confidence": 0.37
+    },
+    "rmsDb": -14.9,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

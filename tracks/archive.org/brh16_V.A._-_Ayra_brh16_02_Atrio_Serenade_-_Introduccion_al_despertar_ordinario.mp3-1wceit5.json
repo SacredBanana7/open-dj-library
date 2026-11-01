@@ -1,0 +1,45 @@
+{
+  "version": 1,
+  "id": "archive.org:brh16_V.A._-_Ayra/brh16_02_Atrio_Serenade_-_Introduccion_al_despertar_ordinario.mp3",
+  "source": "archive.org",
+  "title": "Introducción al despertar ordinario",
+  "artist": "Atrio Serenade",
+  "album": "Ayra",
+  "pageUrl": "https://archive.org/details/brh16_V.A._-_Ayra",
+  "audioUrl": "https://archive.org/download/brh16_V.A._-_Ayra/brh16_02_Atrio_Serenade_-_Introduccion_al_despertar_ordinario.mp3",
+  "fileName": "brh16_02_Atrio_Serenade_-_Introduccion_al_despertar_ordinario.mp3",
+  "sizeBytes": 26734592,
+  "license": {
+    "code": "by-nc-sa",
+    "version": "4.0",
+    "label": "CC BY-NC-SA 4.0",
+    "url": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": true,
+    "shareAlike": true,
+    "publicDomain": false
+  },
+  "genre": "Drum & Bass",
+  "tags": [
+    "drum and bass",
+    "electronic",
+    "dark ambient",
+    "electronic noir",
+    "ambient"
+  ],
+  "analysis": {
+    "durationSec": 650.02,
+    "bpm": 120,
+    "bpmConfidence": 0.38,
+    "beatOffset": 0.5586,
+    "key": {
+      "name": "G",
+      "camelot": "9B",
+      "confidence": 0.65
+    },
+    "rmsDb": -25.7,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

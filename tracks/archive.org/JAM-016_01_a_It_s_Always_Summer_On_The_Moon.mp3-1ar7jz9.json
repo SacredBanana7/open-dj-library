@@ -1,0 +1,44 @@
+{
+  "version": 1,
+  "id": "archive.org:JAM-016/01_a__It_s_Always_Summer_On_The_Moon.mp3",
+  "source": "archive.org",
+  "title": "a. It's Always Summer On The Moon",
+  "artist": "James Harvey feat. The Catmaster Squad and the Rude-Boy of Cats",
+  "album": "Cat Jam Nation",
+  "pageUrl": "https://archive.org/details/JAM-016",
+  "audioUrl": "https://archive.org/download/JAM-016/01_a__It_s_Always_Summer_On_The_Moon.mp3",
+  "fileName": "01_a__It_s_Always_Summer_On_The_Moon.mp3",
+  "sizeBytes": 13160697,
+  "license": {
+    "code": "by-nc-sa",
+    "version": "2.5",
+    "label": "CC BY-NC-SA 2.5",
+    "url": "http://creativecommons.org/licenses/by-nc-sa/2.5/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": true,
+    "shareAlike": true,
+    "publicDomain": false
+  },
+  "genre": "Breakbeat",
+  "tags": [
+    "big beat",
+    "superstar dj mixes",
+    "electronic",
+    "cat jams"
+  ],
+  "analysis": {
+    "durationSec": 616,
+    "bpm": 137.12,
+    "bpmConfidence": 0.41,
+    "beatOffset": 0.7621,
+    "key": {
+      "name": "F",
+      "camelot": "7B",
+      "confidence": 0.79
+    },
+    "rmsDb": -21.4,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

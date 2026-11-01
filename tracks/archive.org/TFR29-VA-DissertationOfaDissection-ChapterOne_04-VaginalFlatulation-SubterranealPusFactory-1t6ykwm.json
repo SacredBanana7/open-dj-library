@@ -1,0 +1,52 @@
+{
+  "version": 1,
+  "id": "archive.org:TFR29-VA-DissertationOfaDissection-ChapterOne/04-VaginalFlatulation-SubterranealPusFactory.mp3",
+  "source": "archive.org",
+  "title": "04 - Vaginal Flatulation - Subterraneal Pus Factory",
+  "artist": "Vaginal Flatulation",
+  "album": "Dissertation of a Dissection: Chapter One",
+  "pageUrl": "https://archive.org/details/TFR29-VA-DissertationOfaDissection-ChapterOne",
+  "audioUrl": "https://archive.org/download/TFR29-VA-DissertationOfaDissection-ChapterOne/04-VaginalFlatulation-SubterranealPusFactory.mp3",
+  "fileName": "04-VaginalFlatulation-SubterranealPusFactory.mp3",
+  "sizeBytes": 4342596,
+  "license": {
+    "code": "by-nc-nd",
+    "version": "3.0",
+    "label": "CC BY-NC-ND 3.0",
+    "url": "http://creativecommons.org/licenses/by-nc-nd/3.0/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": false,
+    "shareAlike": false,
+    "publicDomain": false
+  },
+  "genre": "IDM / Electronica",
+  "tags": [
+    "Various",
+    "Artists",
+    "Dissertation",
+    "of",
+    "a",
+    "Dissection",
+    "Chapter",
+    "One",
+    "elephantknuckle",
+    "torn",
+    "flesh",
+    "records"
+  ],
+  "analysis": {
+    "durationSec": 230,
+    "bpm": 120,
+    "bpmConfidence": 0.66,
+    "beatOffset": 0.7518,
+    "key": {
+      "name": "Bm",
+      "camelot": "10A",
+      "confidence": 0.44
+    },
+    "rmsDb": -6.6,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

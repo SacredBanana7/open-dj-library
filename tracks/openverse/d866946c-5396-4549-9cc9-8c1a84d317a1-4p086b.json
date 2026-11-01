@@ -1,0 +1,46 @@
+{
+  "version": 1,
+  "id": "openverse:d866946c-5396-4549-9cc9-8c1a84d317a1",
+  "source": "openverse",
+  "provider": "jamendo",
+  "title": "Stars ( Drum and Bass Mix )",
+  "artist": "Hasenchat",
+  "artistUrl": "https://www.jamendo.com/artist/386200/hasenchat",
+  "album": "Miami Club EDM",
+  "pageUrl": "https://www.jamendo.com/track/1301350",
+  "audioUrl": "https://prod-1.storage.jamendo.com/?trackid=1301350&format=mp32",
+  "fileName": "Hasenchat - Stars ( Drum and Bass Mix ).mp3",
+  "license": {
+    "code": "by-sa",
+    "version": "3.0",
+    "label": "CC BY-SA 3.0",
+    "url": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "attribution": true,
+    "commercial": true,
+    "derivatives": true,
+    "shareAlike": true,
+    "publicDomain": false
+  },
+  "genre": "Drum & Bass",
+  "tags": [
+    "female",
+    "neutral",
+    "speed_medium",
+    "started",
+    "vocal"
+  ],
+  "analysis": {
+    "durationSec": 263.31,
+    "bpm": 145.84,
+    "bpmConfidence": 0.43,
+    "beatOffset": 1.3813,
+    "key": {
+      "name": "Dm",
+      "camelot": "7A",
+      "confidence": 0.85
+    },
+    "rmsDb": -15,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

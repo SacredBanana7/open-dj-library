@@ -1,0 +1,52 @@
+{
+  "version": 1,
+  "id": "archive.org:phoke33/phoke33-_-02-_-mr.incognito-_-bedes_ii.mp3",
+  "source": "archive.org",
+  "title": "Bedes II",
+  "artist": "Mr. Incognito",
+  "album": "Secret Melodies",
+  "pageUrl": "https://archive.org/details/phoke33",
+  "audioUrl": "https://archive.org/download/phoke33/phoke33-_-02-_-mr.incognito-_-bedes_ii.mp3",
+  "fileName": "phoke33-_-02-_-mr.incognito-_-bedes_ii.mp3",
+  "sizeBytes": 5372230,
+  "license": {
+    "code": "by-nc-nd",
+    "version": "3.0",
+    "label": "CC BY-NC-ND 3.0 DE",
+    "url": "http://creativecommons.org/licenses/by-nc-nd/3.0/de/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": false,
+    "shareAlike": false,
+    "publicDomain": false
+  },
+  "genre": "Electro",
+  "tags": [
+    "melodic electronica",
+    "dark melodic electronica",
+    "dark spherical IDM breaks",
+    "energetic",
+    "fat",
+    "rocking",
+    "mysterious spheres",
+    "elektro",
+    "electro",
+    "Breakbeat",
+    "Electro/IDM/Experimental/Breaks",
+    "netlabel"
+  ],
+  "analysis": {
+    "durationSec": 181.97,
+    "bpm": 155.12,
+    "bpmConfidence": 0.79,
+    "beatOffset": 0.526,
+    "key": {
+      "name": "Dm",
+      "camelot": "7A",
+      "confidence": 0.74
+    },
+    "rmsDb": -13,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

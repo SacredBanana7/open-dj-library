@@ -1,0 +1,47 @@
+{
+  "version": 1,
+  "id": "openverse:439ad000-ae87-41e8-acd2-06564b6173ed",
+  "source": "openverse",
+  "provider": "jamendo",
+  "title": "House Hustle",
+  "artist": "Soulful-Cafe",
+  "artistUrl": "https://www.jamendo.com/artist/490858/Soulful_Cafe",
+  "album": "Deep Instrumentals Vol. 2",
+  "pageUrl": "https://www.jamendo.com/track/1353291",
+  "audioUrl": "https://prod-1.storage.jamendo.com/?trackid=1353291&format=mp32",
+  "fileName": "Soulful-Cafe - House Hustle.mp3",
+  "license": {
+    "code": "by-nd",
+    "version": "4.0",
+    "label": "CC BY-ND 4.0",
+    "url": "https://creativecommons.org/licenses/by-nd/4.0/",
+    "attribution": true,
+    "commercial": true,
+    "derivatives": false,
+    "shareAlike": false,
+    "publicDomain": false
+  },
+  "genre": "House",
+  "tags": [
+    "bass",
+    "instrumental",
+    "kick",
+    "speed_medium",
+    "summer",
+    "synthesizer"
+  ],
+  "analysis": {
+    "durationSec": 166,
+    "bpm": 122,
+    "bpmConfidence": 1,
+    "beatOffset": 0.0068,
+    "key": {
+      "name": "F#",
+      "camelot": "2B",
+      "confidence": 0.49
+    },
+    "rmsDb": -13.1,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

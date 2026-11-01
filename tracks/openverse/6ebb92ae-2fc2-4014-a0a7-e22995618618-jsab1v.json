@@ -1,0 +1,46 @@
+{
+  "version": 1,
+  "id": "openverse:6ebb92ae-2fc2-4014-a0a7-e22995618618",
+  "source": "openverse",
+  "provider": "jamendo",
+  "title": "Fantasy - Techno",
+  "artist": "Snabisch",
+  "artistUrl": "https://www.jamendo.com/artist/357317/Snabisch",
+  "album": "The best moments",
+  "pageUrl": "https://www.jamendo.com/track/576941",
+  "audioUrl": "https://prod-1.storage.jamendo.com/?trackid=576941&format=mp32",
+  "fileName": "Snabisch - Fantasy - Techno.mp3",
+  "license": {
+    "code": "by-sa",
+    "version": "3.0",
+    "label": "CC BY-SA 3.0",
+    "url": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "attribution": true,
+    "commercial": true,
+    "derivatives": true,
+    "shareAlike": true,
+    "publicDomain": false
+  },
+  "genre": "Techno",
+  "tags": [
+    "female",
+    "speed_high",
+    "synthesizer",
+    "upbeat",
+    "vocal"
+  ],
+  "analysis": {
+    "durationSec": 313.71,
+    "bpm": 140,
+    "bpmConfidence": 1,
+    "beatOffset": 0.0022,
+    "key": {
+      "name": "Cm",
+      "camelot": "5A",
+      "confidence": 0.54
+    },
+    "rmsDb": -10.3,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

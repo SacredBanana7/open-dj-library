@@ -1,0 +1,50 @@
+{
+  "version": 1,
+  "id": "archive.org:eml009/02_Chen_Tao_-_Howling_Thunder.mp3",
+  "source": "archive.org",
+  "title": "Howling Thunder",
+  "artist": "Chen Tao",
+  "album": "Sound Research Vol.1",
+  "pageUrl": "https://archive.org/details/eml009",
+  "audioUrl": "https://archive.org/download/eml009/02_Chen_Tao_-_Howling_Thunder.mp3",
+  "fileName": "02_Chen_Tao_-_Howling_Thunder.mp3",
+  "sizeBytes": 7337526,
+  "license": {
+    "code": "by-nc-nd",
+    "version": "2.5",
+    "label": "CC BY-NC-ND 2.5",
+    "url": "http://creativecommons.org/licenses/by-nc-nd/2.5/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": false,
+    "shareAlike": false,
+    "publicDomain": false
+  },
+  "genre": "Techno",
+  "tags": [
+    "electronic",
+    "Electronic Music Lab",
+    "Singapore",
+    "chillout",
+    "ambient",
+    "house",
+    "techno",
+    "game music",
+    "chiptune",
+    "dubstep"
+  ],
+  "analysis": {
+    "durationSec": 305.55,
+    "bpm": 176,
+    "bpmConfidence": 1,
+    "beatOffset": 0.3925,
+    "key": {
+      "name": "Cm",
+      "camelot": "5A",
+      "confidence": 0.69
+    },
+    "rmsDb": -15.1,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

@@ -1,0 +1,43 @@
+{
+  "version": 1,
+  "id": "openverse:97904cca-2abc-42e4-85b4-d319eea09a81",
+  "source": "openverse",
+  "provider": "jamendo",
+  "title": "Techno Melody",
+  "artist": "MdG Dj",
+  "artistUrl": "https://www.jamendo.com/artist/7747/mdg.dj",
+  "album": "Electronic Vibrations",
+  "pageUrl": "https://www.jamendo.com/track/76127",
+  "audioUrl": "https://prod-1.storage.jamendo.com/?trackid=76127&format=mp32",
+  "fileName": "MdG Dj - Techno Melody.mp3",
+  "license": {
+    "code": "by-sa",
+    "version": "2.5",
+    "label": "CC BY-SA 2.5 IT",
+    "url": "https://creativecommons.org/licenses/by-sa/2.5/it/",
+    "attribution": true,
+    "commercial": true,
+    "derivatives": true,
+    "shareAlike": true,
+    "publicDomain": false
+  },
+  "genre": "Techno",
+  "tags": [
+    "instrumental",
+    "speed_medium"
+  ],
+  "analysis": {
+    "durationSec": 439.33,
+    "bpm": 140,
+    "bpmConfidence": 0.91,
+    "beatOffset": 0.4208,
+    "key": {
+      "name": "Em",
+      "camelot": "9A",
+      "confidence": 0.81
+    },
+    "rmsDb": -18.3,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

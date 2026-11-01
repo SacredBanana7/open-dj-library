@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "id": "archive.org:rfr003/rfr003-b1-wantai_-_sonic_movement_2.mp3",
+  "source": "archive.org",
+  "title": "Sonic Movement 2",
+  "artist": "Wantai",
+  "album": "[RFR003] Wantai - Sonic Movement EP",
+  "pageUrl": "https://archive.org/details/rfr003",
+  "audioUrl": "https://archive.org/download/rfr003/rfr003-b1-wantai_-_sonic_movement_2.mp3",
+  "fileName": "rfr003-b1-wantai_-_sonic_movement_2.mp3",
+  "sizeBytes": 5679104,
+  "license": {
+    "code": "by-nc-nd",
+    "version": "2.5",
+    "label": "CC BY-NC-ND 2.5",
+    "url": "http://creativecommons.org/licenses/by-nc-nd/2.5/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": false,
+    "shareAlike": false,
+    "publicDomain": false
+  },
+  "genre": "Drum & Bass",
+  "tags": [
+    "rfr",
+    "rfr0003",
+    "rumpfunk",
+    "wantai",
+    "sonic",
+    "movement",
+    "drum and bass",
+    "dnb"
+  ],
+  "analysis": {
+    "durationSec": 236.5,
+    "bpm": 170,
+    "bpmConfidence": 1,
+    "beatOffset": 0.0173,
+    "key": {
+      "name": "G",
+      "camelot": "9B",
+      "confidence": 0.75
+    },
+    "rmsDb": -17.9,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

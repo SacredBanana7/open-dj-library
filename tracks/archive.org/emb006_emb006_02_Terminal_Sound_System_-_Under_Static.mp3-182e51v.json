@@ -1,0 +1,42 @@
+{
+  "version": 1,
+  "id": "archive.org:emb006/emb006_02_Terminal_Sound_System_-_Under_Static.mp3",
+  "source": "archive.org",
+  "title": "Under Static",
+  "artist": "Terminal Sound System",
+  "album": "Solaris",
+  "pageUrl": "https://archive.org/details/emb006",
+  "audioUrl": "https://archive.org/download/emb006/emb006_02_Terminal_Sound_System_-_Under_Static.mp3",
+  "fileName": "emb006_02_Terminal_Sound_System_-_Under_Static.mp3",
+  "sizeBytes": 10289349,
+  "license": {
+    "code": "by-nc-sa",
+    "version": "2.0",
+    "label": "CC BY-NC-SA 2.0",
+    "url": "http://creativecommons.org/licenses/by-nc-sa/2.0/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": true,
+    "shareAlike": true,
+    "publicDomain": false
+  },
+  "genre": "Breakbeat",
+  "tags": [
+    "Ambient Techno",
+    "Electro/IDM/Experimental/Breaks"
+  ],
+  "analysis": {
+    "durationSec": 428.47,
+    "bpm": 145,
+    "bpmConfidence": 0.38,
+    "beatOffset": 0.7729,
+    "key": {
+      "name": "F#m",
+      "camelot": "11A",
+      "confidence": 0.42
+    },
+    "rmsDb": -10.3,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

@@ -1,0 +1,43 @@
+{
+  "version": 1,
+  "id": "openverse:2133a127-310b-4962-a9c4-3ef90c88a74c",
+  "source": "openverse",
+  "provider": "jamendo",
+  "title": "Drum And Bass live",
+  "artist": "PhOniAndFlOrE",
+  "artistUrl": "https://www.jamendo.com/artist/339690/phoniandflore",
+  "album": "The Phonie Of Live To Ableton",
+  "pageUrl": "https://www.jamendo.com/track/461912",
+  "audioUrl": "https://prod-1.storage.jamendo.com/?trackid=461912&format=mp32",
+  "fileName": "PhOniAndFlOrE - Drum And Bass live.mp3",
+  "license": {
+    "code": "by-sa",
+    "version": "3.0",
+    "label": "CC BY-SA 3.0",
+    "url": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "attribution": true,
+    "commercial": true,
+    "derivatives": true,
+    "shareAlike": true,
+    "publicDomain": false
+  },
+  "genre": "Drum & Bass",
+  "tags": [
+    "instrumental",
+    "speed_veryhigh"
+  ],
+  "analysis": {
+    "durationSec": 672,
+    "bpm": 160,
+    "bpmConfidence": 0.83,
+    "beatOffset": 0.9528,
+    "key": {
+      "name": "C",
+      "camelot": "8B",
+      "confidence": 0.72
+    },
+    "rmsDb": -15.4,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

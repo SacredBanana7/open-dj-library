@@ -1,0 +1,46 @@
+{
+  "version": 1,
+  "id": "archive.org:laridae029/laridae029-02-2sleepy_-_urban.mp3",
+  "source": "archive.org",
+  "title": "urban",
+  "artist": "2sleepy",
+  "album": "[laridae029] fragments of sleep",
+  "pageUrl": "https://archive.org/details/laridae029",
+  "audioUrl": "https://archive.org/download/laridae029/laridae029-02-2sleepy_-_urban.mp3",
+  "fileName": "laridae029-02-2sleepy_-_urban.mp3",
+  "sizeBytes": 7518208,
+  "license": {
+    "code": "by-nc-nd",
+    "version": "2.5",
+    "label": "CC BY-NC-ND 2.5",
+    "url": "http://creativecommons.org/licenses/by-nc-nd/2.5/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": false,
+    "shareAlike": false,
+    "publicDomain": false
+  },
+  "genre": "Ambient",
+  "tags": [
+    "electronic",
+    "industrial",
+    "rock",
+    "indietronic",
+    "ambient",
+    "pop"
+  ],
+  "analysis": {
+    "durationSec": 313.21,
+    "bpm": 106.66,
+    "bpmConfidence": 1,
+    "beatOffset": 1.4961,
+    "key": {
+      "name": "C#",
+      "camelot": "3B",
+      "confidence": 0.79
+    },
+    "rmsDb": -20.5,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

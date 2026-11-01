@@ -1,0 +1,49 @@
+{
+  "version": 1,
+  "id": "archive.org:DWK051/Rare_and_Cheese_-_04_-_Jazz_20.mp3",
+  "source": "archive.org",
+  "title": "Jazz 20 (feat. Ric)",
+  "artist": "Rare & Cheese",
+  "album": "Jazzpolice EP",
+  "pageUrl": "https://archive.org/details/DWK051",
+  "audioUrl": "https://archive.org/download/DWK051/Rare_and_Cheese_-_04_-_Jazz_20.mp3",
+  "fileName": "Rare_and_Cheese_-_04_-_Jazz_20.mp3",
+  "sizeBytes": 10047883,
+  "license": {
+    "code": "by-nc-nd",
+    "version": "3.0",
+    "label": "CC BY-NC-ND 3.0",
+    "url": "http://creativecommons.org/licenses/by-nc-nd/3.0/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": false,
+    "shareAlike": false,
+    "publicDomain": false
+  },
+  "genre": "Hip Hop",
+  "tags": [
+    "Rare",
+    "Cheese",
+    "Jazzpolice",
+    "Dusted Wax Kingdom",
+    "jazz hop",
+    "jazz",
+    "hip-hop",
+    "turntablism"
+  ],
+  "analysis": {
+    "durationSec": 196.49,
+    "bpm": 87.19,
+    "bpmConfidence": 0.45,
+    "beatOffset": 0.6035,
+    "key": {
+      "name": "Bm",
+      "camelot": "10A",
+      "confidence": 0.64
+    },
+    "rmsDb": -15,
+    "analyzer": "pulsar-dj/analysis-worker 0.1",
+    "tempoFolded": 0.5
+  },
+  "added": "2026-11-01"
+}

@@ -1,0 +1,52 @@
+{
+  "version": 1,
+  "id": "archive.org:fbl010VariousArtists-BraveNewWorld/2-01NotFarAwayFromRealityNotFarAwayFromThisIdeaNotFarAwayFromWhatISaidMaybeInThisSenseItsImportantToStateThat.mp3",
+  "source": "archive.org",
+  "title": "2-01 Not Far Away From Reality, Not Far Away From this Idea, Not Far Away From What I Said, Maybe in this Sense It's Important to State That",
+  "artist": "Tiago Morgado",
+  "album": "Brave New World",
+  "pageUrl": "https://archive.org/details/fbl010VariousArtists-BraveNewWorld",
+  "audioUrl": "https://archive.org/download/fbl010VariousArtists-BraveNewWorld/2-01NotFarAwayFromRealityNotFarAwayFromThisIdeaNotFarAwayFromWhatISaidMaybeInThisSenseItsImportantToStateThat.mp3",
+  "fileName": "2-01NotFarAwayFromRealityNotFarAwayFromThisIdeaNotFarAwayFromWhatISaidMaybeInThisSenseItsImportantToStateThat.mp3",
+  "sizeBytes": 8258578,
+  "license": {
+    "code": "by-nc-nd",
+    "version": "3.0",
+    "label": "CC BY-NC-ND 3.0",
+    "url": "http://creativecommons.org/licenses/by-nc-nd/3.0/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": false,
+    "shareAlike": false,
+    "publicDomain": false
+  },
+  "genre": "IDM / Electronica",
+  "tags": [
+    "ambient",
+    "experimental",
+    "idm",
+    "spoken word",
+    "abstract",
+    "poetic",
+    "urban landscapes",
+    "Marcus Fischer",
+    "Leonardo Rosado",
+    "Pascal Savy",
+    "Landcrash",
+    "Luca Nasciuti"
+  ],
+  "analysis": {
+    "durationSec": 200.07,
+    "bpm": 135.86,
+    "bpmConfidence": 0.4,
+    "beatOffset": 0.1024,
+    "key": {
+      "name": "B",
+      "camelot": "1B",
+      "confidence": 0.88
+    },
+    "rmsDb": -18.8,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

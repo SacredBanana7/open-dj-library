@@ -1,0 +1,45 @@
+{
+  "version": 1,
+  "id": "archive.org:WM012/wm012-01jerusalem.mp3",
+  "source": "archive.org",
+  "title": "Jerusalem",
+  "artist": "Happy Elf",
+  "album": "Output from the past",
+  "pageUrl": "https://archive.org/details/WM012",
+  "audioUrl": "https://archive.org/download/WM012/wm012-01jerusalem.mp3",
+  "fileName": "wm012-01jerusalem.mp3",
+  "sizeBytes": 6688768,
+  "license": {
+    "code": "by-nc-sa",
+    "version": "2.0",
+    "label": "CC BY-NC-SA 2.0",
+    "url": "http://creativecommons.org/licenses/by-nc-sa/2.0/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": true,
+    "shareAlike": true,
+    "publicDomain": false
+  },
+  "genre": "House",
+  "tags": [
+    "Club-House",
+    "Electropop",
+    "Album Releases",
+    "Weirdomusic",
+    "Electro"
+  ],
+  "analysis": {
+    "durationSec": 278.6,
+    "bpm": 124.58,
+    "bpmConfidence": 0.38,
+    "beatOffset": 0.1117,
+    "key": {
+      "name": "Gm",
+      "camelot": "6A",
+      "confidence": 0.83
+    },
+    "rmsDb": -14,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

@@ -1,0 +1,52 @@
+{
+  "version": 1,
+  "id": "archive.org:pn010b/PN010B_02_14_Traditi-on_Lao.mp3",
+  "source": "archive.org",
+  "title": "Traditi_on - Lao",
+  "artist": "Lao, Mexico",
+  "album": "[pn010] Pueblo Nuevo Primer Aniversario",
+  "pageUrl": "https://archive.org/details/pn010b",
+  "audioUrl": "https://archive.org/download/pn010b/PN010B_02_14_Traditi-on_Lao.mp3",
+  "fileName": "PN010B_02_14_Traditi-on_Lao.mp3",
+  "sizeBytes": 5912576,
+  "license": {
+    "code": "by-nc-nd",
+    "version": "2.5",
+    "label": "CC BY-NC-ND 2.5",
+    "url": "http://creativecommons.org/licenses/by-nc-nd/2.5/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": false,
+    "shareAlike": false,
+    "publicDomain": false
+  },
+  "genre": "House",
+  "tags": [
+    "Génova",
+    "Sokio",
+    "Bolivia",
+    "Freddy Musri",
+    "Aldo Cádiz",
+    "Sonorama",
+    "TEC",
+    "Gastón Arévalo",
+    "Uruguay",
+    "Ndrs",
+    "Djef",
+    "Gurtz"
+  ],
+  "analysis": {
+    "durationSec": 246.23,
+    "bpm": 120,
+    "bpmConfidence": 1,
+    "beatOffset": 0.5318,
+    "key": {
+      "name": "Am",
+      "camelot": "8A",
+      "confidence": 0.48
+    },
+    "rmsDb": -19.6,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

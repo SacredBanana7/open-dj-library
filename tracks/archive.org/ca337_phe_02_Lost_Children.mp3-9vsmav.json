@@ -1,0 +1,43 @@
+{
+  "version": 1,
+  "id": "archive.org:ca337_phe/02_Lost_Children.mp3",
+  "source": "archive.org",
+  "title": "Lost Children",
+  "artist": "Post Human Era",
+  "album": "ca337 - Post Human Era - To Build A Fire",
+  "pageUrl": "https://archive.org/details/ca337_phe",
+  "audioUrl": "https://archive.org/download/ca337_phe/02_Lost_Children.mp3",
+  "fileName": "02_Lost_Children.mp3",
+  "sizeBytes": 9441781,
+  "license": {
+    "code": "by-nc-nd",
+    "version": "3.0",
+    "label": "CC BY-NC-ND 3.0",
+    "url": "http://creativecommons.org/licenses/by-nc-nd/3.0/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": false,
+    "shareAlike": false,
+    "publicDomain": false
+  },
+  "genre": "Electro",
+  "tags": [
+    "electro-pop",
+    "post pop",
+    "indie-electro"
+  ],
+  "analysis": {
+    "durationSec": 235.99,
+    "bpm": 125,
+    "bpmConfidence": 0.53,
+    "beatOffset": 1.047,
+    "key": {
+      "name": "C",
+      "camelot": "8B",
+      "confidence": 0.93
+    },
+    "rmsDb": -13,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

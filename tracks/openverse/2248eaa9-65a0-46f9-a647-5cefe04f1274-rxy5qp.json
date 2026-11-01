@@ -1,0 +1,43 @@
+{
+  "version": 1,
+  "id": "openverse:2248eaa9-65a0-46f9-a647-5cefe04f1274",
+  "source": "openverse",
+  "provider": "jamendo",
+  "title": "Electronica - Midnight Party on Drug",
+  "artist": "Electronica",
+  "artistUrl": "https://www.jamendo.com/artist/350474/Electronica_(2)",
+  "album": "Electronica",
+  "pageUrl": "https://www.jamendo.com/track/347610",
+  "audioUrl": "https://prod-1.storage.jamendo.com/?trackid=347610&format=mp32",
+  "fileName": "Electronica - Electronica - Midnight Party on Drug.mp3",
+  "license": {
+    "code": "by-nc-nd",
+    "version": "3.0",
+    "label": "CC BY-NC-ND 3.0",
+    "url": "https://creativecommons.org/licenses/by-nc-nd/3.0/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": false,
+    "shareAlike": false,
+    "publicDomain": false
+  },
+  "genre": "IDM / Electronica",
+  "tags": [
+    "instrumental",
+    "speed_medium"
+  ],
+  "analysis": {
+    "durationSec": 284.19,
+    "bpm": 125,
+    "bpmConfidence": 1,
+    "beatOffset": 0.0018,
+    "key": {
+      "name": "G",
+      "camelot": "9B",
+      "confidence": 0.53
+    },
+    "rmsDb": -14.2,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

@@ -1,0 +1,43 @@
+{
+  "version": 1,
+  "id": "archive.org:acediamusic028/am028_pangea_republic-02_mizati-open_air.mp3",
+  "source": "archive.org",
+  "title": "open air",
+  "artist": "mizati // www.acediamusic.org",
+  "album": "Pangea Republic",
+  "pageUrl": "https://archive.org/details/acediamusic028",
+  "audioUrl": "https://archive.org/download/acediamusic028/am028_pangea_republic-02_mizati-open_air.mp3",
+  "fileName": "am028_pangea_republic-02_mizati-open_air.mp3",
+  "sizeBytes": 6342656,
+  "license": {
+    "code": "by-nc-nd",
+    "version": "2.0",
+    "label": "CC BY-NC-ND 2.0",
+    "url": "http://creativecommons.org/licenses/by-nc-nd/2.0/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": false,
+    "shareAlike": false,
+    "publicDomain": false
+  },
+  "genre": "Breakbeat",
+  "tags": [
+    "Deephouse",
+    "Electro/IDM/Experimental/Breaks",
+    "Broken Beats"
+  ],
+  "analysis": {
+    "durationSec": 276.73,
+    "bpm": 147.54,
+    "bpmConfidence": 0.42,
+    "beatOffset": 0.4911,
+    "key": {
+      "name": "F#",
+      "camelot": "2B",
+      "confidence": 0.78
+    },
+    "rmsDb": -13.3,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

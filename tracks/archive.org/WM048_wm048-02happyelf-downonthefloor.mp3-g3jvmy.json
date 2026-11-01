@@ -1,0 +1,47 @@
+{
+  "version": 1,
+  "id": "archive.org:WM048/wm048-02happyelf-downonthefloor.mp3",
+  "source": "archive.org",
+  "title": "Down on the floor",
+  "artist": "Happy Elf",
+  "album": "Together",
+  "pageUrl": "https://archive.org/details/WM048",
+  "audioUrl": "https://archive.org/download/WM048/wm048-02happyelf-downonthefloor.mp3",
+  "fileName": "wm048-02happyelf-downonthefloor.mp3",
+  "sizeBytes": 5716722,
+  "license": {
+    "code": "by-nc-sa",
+    "version": "2.5",
+    "label": "CC BY-NC-SA 2.5",
+    "url": "http://creativecommons.org/licenses/by-nc-sa/2.5/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": true,
+    "shareAlike": true,
+    "publicDomain": false
+  },
+  "genre": "Electro",
+  "tags": [
+    "weirdomusic",
+    "weird",
+    "electro",
+    "dutch",
+    "electropop",
+    "samplepop",
+    "eurodance"
+  ],
+  "analysis": {
+    "durationSec": 238.11,
+    "bpm": 136.88,
+    "bpmConfidence": 0.4,
+    "beatOffset": 0.1109,
+    "key": {
+      "name": "D#m",
+      "camelot": "2A",
+      "confidence": 0.81
+    },
+    "rmsDb": -11.5,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

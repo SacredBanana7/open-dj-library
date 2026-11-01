@@ -1,0 +1,44 @@
+{
+  "version": 1,
+  "id": "openverse:dd9a7e6a-cf79-49b4-bcb7-8b3edcbe8f52",
+  "source": "openverse",
+  "provider": "jamendo",
+  "title": "Lilye - Electronica",
+  "artist": "Snabisch",
+  "artistUrl": "https://www.jamendo.com/artist/357317/Snabisch",
+  "album": "The best moments",
+  "pageUrl": "https://www.jamendo.com/track/576943",
+  "audioUrl": "https://prod-1.storage.jamendo.com/?trackid=576943&format=mp32",
+  "fileName": "Snabisch - Lilye - Electronica.mp3",
+  "license": {
+    "code": "by-sa",
+    "version": "3.0",
+    "label": "CC BY-SA 3.0",
+    "url": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "attribution": true,
+    "commercial": true,
+    "derivatives": true,
+    "shareAlike": true,
+    "publicDomain": false
+  },
+  "genre": "IDM / Electronica",
+  "tags": [
+    "instrumental",
+    "neutral",
+    "speed_medium"
+  ],
+  "analysis": {
+    "durationSec": 224.06,
+    "bpm": 120,
+    "bpmConfidence": 1,
+    "beatOffset": 0.0064,
+    "key": {
+      "name": "Cm",
+      "camelot": "5A",
+      "confidence": 0.66
+    },
+    "rmsDb": -12.2,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

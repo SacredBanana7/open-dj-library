@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "id": "openverse:b99ed36f-bb29-4b64-92b7-51dc7153e6aa",
+  "source": "openverse",
+  "provider": "jamendo",
+  "title": "Lounge Ambient Music (Version 1)",
+  "artist": "makesound",
+  "artistUrl": "https://www.jamendo.com/artist/500457/makesound_(2)",
+  "album": "Lounge Ambient Music",
+  "pageUrl": "https://www.jamendo.com/track/1586521",
+  "audioUrl": "https://prod-1.storage.jamendo.com/?trackid=1586521&format=mp32",
+  "fileName": "makesound - Lounge Ambient Music (Version 1).mp3",
+  "license": {
+    "code": "by-nc-nd",
+    "version": "3.0",
+    "label": "CC BY-NC-ND 3.0",
+    "url": "https://creativecommons.org/licenses/by-nc-nd/3.0/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": false,
+    "shareAlike": false,
+    "publicDomain": false
+  },
+  "genre": "Ambient",
+  "tags": [
+    "advertising",
+    "atmospheric",
+    "inspirational",
+    "instrumental",
+    "neutral",
+    "speed_medium",
+    "synthesizer"
+  ],
+  "analysis": {
+    "durationSec": 153.14,
+    "bpm": 140,
+    "bpmConfidence": 0.74,
+    "beatOffset": 0.5758,
+    "key": {
+      "name": "Em",
+      "camelot": "9A",
+      "confidence": 0.85
+    },
+    "rmsDb": -12.3,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

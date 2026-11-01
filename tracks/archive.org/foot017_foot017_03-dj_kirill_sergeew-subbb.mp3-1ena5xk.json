@@ -1,0 +1,42 @@
+{
+  "version": 1,
+  "id": "archive.org:foot017/foot017_03-dj_kirill_sergeew-subbb.mp3",
+  "source": "archive.org",
+  "title": "Subbb",
+  "artist": "DJ Kirill Sergeew",
+  "album": "Down the Street",
+  "pageUrl": "https://archive.org/details/foot017",
+  "audioUrl": "https://archive.org/download/foot017/foot017_03-dj_kirill_sergeew-subbb.mp3",
+  "fileName": "foot017_03-dj_kirill_sergeew-subbb.mp3",
+  "sizeBytes": 3934548,
+  "license": {
+    "code": "by-nc-sa",
+    "version": "2.5",
+    "label": "CC BY-NC-SA 2.5",
+    "url": "http://creativecommons.org/licenses/by-nc-sa/2.5/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": true,
+    "shareAlike": true,
+    "publicDomain": false
+  },
+  "genre": "Breakbeat",
+  "tags": [
+    "Breakbeat",
+    "Trip-Hop"
+  ],
+  "analysis": {
+    "durationSec": 163.77,
+    "bpm": 175.88,
+    "bpmConfidence": 0.45,
+    "beatOffset": 1.2882,
+    "key": {
+      "name": "Gm",
+      "camelot": "6A",
+      "confidence": 0.64
+    },
+    "rmsDb": -20.6,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

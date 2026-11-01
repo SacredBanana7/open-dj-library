@@ -1,0 +1,45 @@
+{
+  "version": 1,
+  "id": "archive.org:fsz009/fsz009_02-chenard_walcker-ma_polaire.mp3",
+  "source": "archive.org",
+  "title": "Ma Polaire",
+  "artist": "Chenard Walcker",
+  "album": "Ecossaise 133 [fsz009]",
+  "pageUrl": "https://archive.org/details/fsz009",
+  "audioUrl": "https://archive.org/download/fsz009/fsz009_02-chenard_walcker-ma_polaire.mp3",
+  "fileName": "fsz009_02-chenard_walcker-ma_polaire.mp3",
+  "sizeBytes": 5558272,
+  "license": {
+    "code": "by-nc",
+    "version": "2.5",
+    "label": "CC BY-NC 2.5",
+    "url": "http://creativecommons.org/licenses/by-nc/2.5/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": true,
+    "shareAlike": false,
+    "publicDomain": false
+  },
+  "genre": "Disco / Funk",
+  "tags": [
+    "Alternative",
+    "Avantgarde",
+    "Jazz+Funk",
+    "Sample Madness",
+    "Plunderphonics"
+  ],
+  "analysis": {
+    "durationSec": 231.5,
+    "bpm": 122.5,
+    "bpmConfidence": 0.46,
+    "beatOffset": 1.9135,
+    "key": {
+      "name": "C#m",
+      "camelot": "12A",
+      "confidence": 0.34
+    },
+    "rmsDb": -13.8,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

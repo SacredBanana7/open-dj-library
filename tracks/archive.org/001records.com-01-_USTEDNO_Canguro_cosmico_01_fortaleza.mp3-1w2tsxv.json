@@ -1,0 +1,46 @@
+{
+  "version": 1,
+  "id": "archive.org:001records.com-01-_USTEDNO_Canguro_cosmico/01_fortaleza.mp3",
+  "source": "archive.org",
+  "title": "01_fortaleza",
+  "artist": "Usted No!",
+  "album": "Canguro Cosmico (EP)",
+  "pageUrl": "https://archive.org/details/001records.com-01-_USTEDNO_Canguro_cosmico",
+  "audioUrl": "https://archive.org/download/001records.com-01-_USTEDNO_Canguro_cosmico/01_fortaleza.mp3",
+  "fileName": "01_fortaleza.mp3",
+  "sizeBytes": 7546898,
+  "license": {
+    "code": "by-nc",
+    "version": "3.0",
+    "label": "CC BY-NC 3.0",
+    "url": "http://creativecommons.org/licenses/by-nc/3.0/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": true,
+    "shareAlike": false,
+    "publicDomain": false
+  },
+  "genre": "House",
+  "tags": [
+    "001records",
+    "downtempo",
+    "house music",
+    "electronic music",
+    "free music",
+    "cosmic kangaroo"
+  ],
+  "analysis": {
+    "durationSec": 269.43,
+    "bpm": 120,
+    "bpmConfidence": 1,
+    "beatOffset": 0.0735,
+    "key": {
+      "name": "Em",
+      "camelot": "9A",
+      "confidence": 0.85
+    },
+    "rmsDb": -8.8,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

@@ -1,0 +1,49 @@
+{
+  "version": 1,
+  "id": "archive.org:DigitalDiamonds054/[DigitalDiamonds054]_A2_Nicorus_-_Journey_To_The_Center_Of_The_Earth.mp3",
+  "source": "archive.org",
+  "title": "Journey To The Center Of The Earth",
+  "artist": "Nicorus",
+  "album": "Dust To Dust EP",
+  "pageUrl": "https://archive.org/details/DigitalDiamonds054",
+  "audioUrl": "https://archive.org/download/DigitalDiamonds054/%5BDigitalDiamonds054%5D_A2_Nicorus_-_Journey_To_The_Center_Of_The_Earth.mp3",
+  "fileName": "[DigitalDiamonds054]_A2_Nicorus_-_Journey_To_The_Center_Of_The_Earth.mp3",
+  "sizeBytes": 22302672,
+  "license": {
+    "code": "by-nc-nd",
+    "version": "4.0",
+    "label": "CC BY-NC-ND 4.0",
+    "url": "http://creativecommons.org/licenses/by-nc-nd/4.0/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": false,
+    "shareAlike": false,
+    "publicDomain": false
+  },
+  "genre": "Trance",
+  "tags": [
+    "Nicorus",
+    "Digital Diamonds",
+    "Unique Repeat",
+    "Dexima",
+    "Techno",
+    "Progressive",
+    "Free",
+    "EP",
+    "Trance"
+  ],
+  "analysis": {
+    "durationSec": 552.86,
+    "bpm": 123.08,
+    "bpmConfidence": 0.37,
+    "beatOffset": 1.7332,
+    "key": {
+      "name": "Em",
+      "camelot": "9A",
+      "confidence": 0.73
+    },
+    "rmsDb": -10.3,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

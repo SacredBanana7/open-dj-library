@@ -1,0 +1,44 @@
+{
+  "version": 1,
+  "id": "archive.org:troorg010/troorg010_Ixtlan__2_My_Name_Is_Bo_Green.mp3",
+  "source": "archive.org",
+  "title": "My Name Is Bo Green",
+  "artist": "Ixtlan",
+  "album": "VUKK 110011110",
+  "pageUrl": "https://archive.org/details/troorg010",
+  "audioUrl": "https://archive.org/download/troorg010/troorg010_Ixtlan__2_My_Name_Is_Bo_Green.mp3",
+  "fileName": "troorg010_Ixtlan__2_My_Name_Is_Bo_Green.mp3",
+  "sizeBytes": 4274176,
+  "license": {
+    "code": "by-nc-sa",
+    "version": "3.0",
+    "label": "CC BY-NC-SA 3.0",
+    "url": "http://creativecommons.org/licenses/by-nc-sa/3.0/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": true,
+    "shareAlike": true,
+    "publicDomain": false
+  },
+  "genre": "Electro",
+  "tags": [
+    "schamanistic",
+    "psychedelic",
+    "post rock",
+    "electro-organic dance music"
+  ],
+  "analysis": {
+    "durationSec": 178.05,
+    "bpm": 120,
+    "bpmConfidence": 0.64,
+    "beatOffset": 1.2471,
+    "key": {
+      "name": "F#",
+      "camelot": "2B",
+      "confidence": 0.7
+    },
+    "rmsDb": -13,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

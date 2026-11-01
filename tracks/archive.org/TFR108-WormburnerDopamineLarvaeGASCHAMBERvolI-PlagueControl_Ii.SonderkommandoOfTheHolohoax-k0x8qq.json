@@ -1,0 +1,52 @@
+{
+  "version": 1,
+  "id": "archive.org:TFR108-WormburnerDopamineLarvaeGASCHAMBERvolI-PlagueControl/Ii.SonderkommandoOfTheHolohoax.mp3",
+  "source": "archive.org",
+  "title": "II. Sonderkommando of the Holohoax",
+  "artist": "Wormburner & Dopamine Larvae",
+  "album": "(GAS CHAMBER vol. I) - Plague Control",
+  "pageUrl": "https://archive.org/details/TFR108-WormburnerDopamineLarvaeGASCHAMBERvolI-PlagueControl",
+  "audioUrl": "https://archive.org/download/TFR108-WormburnerDopamineLarvaeGASCHAMBERvolI-PlagueControl/Ii.SonderkommandoOfTheHolohoax.mp3",
+  "fileName": "Ii.SonderkommandoOfTheHolohoax.mp3",
+  "sizeBytes": 21448728,
+  "license": {
+    "code": "by-nc-nd",
+    "version": "3.0",
+    "label": "CC BY-NC-ND 3.0",
+    "url": "http://creativecommons.org/licenses/by-nc-nd/3.0/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": false,
+    "shareAlike": false,
+    "publicDomain": false
+  },
+  "genre": "Ambient",
+  "tags": [
+    "Minimal",
+    "Industrial",
+    "Noise",
+    "Oriented",
+    "Power",
+    "Electronics",
+    "Ambient",
+    "Warfare",
+    "The",
+    "Mourning",
+    "Call",
+    "Sonderkommando"
+  ],
+  "analysis": {
+    "durationSec": 536.19,
+    "bpm": 150,
+    "bpmConfidence": 0.42,
+    "beatOffset": 0.8001,
+    "key": {
+      "name": "F#",
+      "camelot": "2B",
+      "confidence": 0.5
+    },
+    "rmsDb": -5.9,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

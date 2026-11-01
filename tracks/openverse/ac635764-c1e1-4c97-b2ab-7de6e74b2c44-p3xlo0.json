@@ -1,0 +1,46 @@
+{
+  "version": 1,
+  "id": "openverse:ac635764-c1e1-4c97-b2ab-7de6e74b2c44",
+  "source": "openverse",
+  "provider": "jamendo",
+  "title": "Frozen ( Drum and Bass Mix )",
+  "artist": "Hasenchat",
+  "artistUrl": "https://www.jamendo.com/artist/386200/hasenchat",
+  "album": "Miami Club EDM",
+  "pageUrl": "https://www.jamendo.com/track/1301332",
+  "audioUrl": "https://prod-1.storage.jamendo.com/?trackid=1301332&format=mp32",
+  "fileName": "Hasenchat - Frozen ( Drum and Bass Mix ).mp3",
+  "license": {
+    "code": "by-sa",
+    "version": "3.0",
+    "label": "CC BY-SA 3.0",
+    "url": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "attribution": true,
+    "commercial": true,
+    "derivatives": true,
+    "shareAlike": true,
+    "publicDomain": false
+  },
+  "genre": "Drum & Bass",
+  "tags": [
+    "female",
+    "frozen",
+    "neutral",
+    "speed_medium",
+    "vocal"
+  ],
+  "analysis": {
+    "durationSec": 290.82,
+    "bpm": 170,
+    "bpmConfidence": 0.96,
+    "beatOffset": 0.902,
+    "key": {
+      "name": "Am",
+      "camelot": "8A",
+      "confidence": 0.68
+    },
+    "rmsDb": -16.5,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

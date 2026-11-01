@@ -1,0 +1,47 @@
+{
+  "version": 1,
+  "id": "archive.org:nws.bpm001/02 The grass is greener.mp3",
+  "source": "archive.org",
+  "title": "The grass is greener",
+  "artist": "Weigl & Hoffmann",
+  "album": "[iD.042] Elevate",
+  "pageUrl": "https://archive.org/details/nws.bpm001",
+  "audioUrl": "https://archive.org/download/nws.bpm001/02%20The%20grass%20is%20greener.mp3",
+  "fileName": "02 The grass is greener.mp3",
+  "sizeBytes": 8252565,
+  "license": {
+    "code": "by-nc-sa",
+    "version": "3.0",
+    "label": "CC BY-NC-SA 3.0",
+    "url": "http://creativecommons.org/licenses/by-nc-sa/3.0/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": true,
+    "shareAlike": true,
+    "publicDomain": false
+  },
+  "genre": "Breakbeat",
+  "tags": [
+    "ambient",
+    "chill-out",
+    "breakbeat",
+    "electronic",
+    "minimal-pop",
+    "post-rock",
+    "sad-electronics"
+  ],
+  "analysis": {
+    "durationSec": 301.87,
+    "bpm": 132,
+    "bpmConfidence": 0.63,
+    "beatOffset": 1.7059,
+    "key": {
+      "name": "Dm",
+      "camelot": "7A",
+      "confidence": 0.84
+    },
+    "rmsDb": -12.9,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

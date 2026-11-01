@@ -1,0 +1,52 @@
+{
+  "version": 1,
+  "id": "archive.org:gt450FieldExperience/03DefaultArtist-2012-04-07.mp3",
+  "source": "archive.org",
+  "title": "03 default artist - 2012-04-07",
+  "artist": "Various Artists",
+  "album": "[GT450] Field Experience",
+  "pageUrl": "https://archive.org/details/gt450FieldExperience",
+  "audioUrl": "https://archive.org/download/gt450FieldExperience/03DefaultArtist-2012-04-07.mp3",
+  "fileName": "03DefaultArtist-2012-04-07.mp3",
+  "sizeBytes": 3646238,
+  "license": {
+    "code": "cc0",
+    "version": "1.0",
+    "label": "CC0 1.0",
+    "url": "http://creativecommons.org/publicdomain/zero/1.0/",
+    "attribution": false,
+    "commercial": true,
+    "derivatives": true,
+    "shareAlike": false,
+    "publicDomain": true
+  },
+  "genre": "Trance",
+  "tags": [
+    "Genetic Trance",
+    "field recording",
+    "recordings",
+    "ambient",
+    "soundscapes",
+    "lobit",
+    "lofi",
+    "sark",
+    "static",
+    "conceptualism",
+    "experimental",
+    "vziel"
+  ],
+  "analysis": {
+    "durationSec": 233.9,
+    "bpm": 123.94,
+    "bpmConfidence": 0.39,
+    "beatOffset": 1.086,
+    "key": {
+      "name": "A#m",
+      "camelot": "3A",
+      "confidence": 0.33
+    },
+    "rmsDb": -20,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

@@ -1,0 +1,41 @@
+{
+  "version": 1,
+  "id": "archive.org:Adt002/audiotie_probject_haikuB09.mp3",
+  "source": "archive.org",
+  "title": "haikuB09",
+  "artist": "Probject",
+  "album": "haikus",
+  "pageUrl": "https://archive.org/details/Adt002",
+  "audioUrl": "https://archive.org/download/Adt002/audiotie_probject_haikuB09.mp3",
+  "fileName": "audiotie_probject_haikuB09.mp3",
+  "sizeBytes": 3595598,
+  "license": {
+    "code": "by-nc-sa",
+    "version": "2.0",
+    "label": "CC BY-NC-SA 2.0",
+    "url": "http://creativecommons.org/licenses/by-nc-sa/2.0/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": true,
+    "shareAlike": true,
+    "publicDomain": false
+  },
+  "genre": "House",
+  "tags": [
+    "Hard House"
+  ],
+  "analysis": {
+    "durationSec": 216.05,
+    "bpm": 124.88,
+    "bpmConfidence": 1,
+    "beatOffset": 1.5487,
+    "key": {
+      "name": "Bm",
+      "camelot": "10A",
+      "confidence": 0.61
+    },
+    "rmsDb": -12.1,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

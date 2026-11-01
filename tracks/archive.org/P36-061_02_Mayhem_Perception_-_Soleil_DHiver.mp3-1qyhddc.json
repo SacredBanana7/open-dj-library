@@ -1,0 +1,45 @@
+{
+  "version": 1,
+  "id": "archive.org:P36-061/02_Mayhem_Perception_-_Soleil_DHiver.mp3",
+  "source": "archive.org",
+  "title": "Soleil D'Hiver",
+  "artist": "Mayhem Perception",
+  "album": "Out Of Da Brain",
+  "pageUrl": "https://archive.org/details/P36-061",
+  "audioUrl": "https://archive.org/download/P36-061/02_Mayhem_Perception_-_Soleil_DHiver.mp3",
+  "fileName": "02_Mayhem_Perception_-_Soleil_DHiver.mp3",
+  "sizeBytes": 13068709,
+  "license": {
+    "code": "by-nc-nd",
+    "version": "3.0",
+    "label": "CC BY-NC-ND 3.0",
+    "url": "http://creativecommons.org/licenses/by-nc-nd/3.0/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": false,
+    "shareAlike": false,
+    "publicDomain": false
+  },
+  "genre": "Dubstep",
+  "tags": [
+    "Dubstep",
+    "IDM",
+    "Abstract",
+    "Breakbeat",
+    "Drum & Bass"
+  ],
+  "analysis": {
+    "durationSec": 324.99,
+    "bpm": 128,
+    "bpmConfidence": 0.57,
+    "beatOffset": 1.4221,
+    "key": {
+      "name": "Em",
+      "camelot": "9A",
+      "confidence": 0.74
+    },
+    "rmsDb": -7.6,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

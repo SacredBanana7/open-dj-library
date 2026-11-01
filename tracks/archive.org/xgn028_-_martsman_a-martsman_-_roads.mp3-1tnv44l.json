@@ -1,0 +1,49 @@
+{
+  "version": 1,
+  "id": "archive.org:xgn028_-_martsman/a-martsman_-_roads.mp3",
+  "source": "archive.org",
+  "title": "Roads",
+  "artist": "Martsman",
+  "album": "[xgn028] Martsman",
+  "pageUrl": "https://archive.org/details/xgn028_-_martsman",
+  "audioUrl": "https://archive.org/download/xgn028_-_martsman/a-martsman_-_roads.mp3",
+  "fileName": "a-martsman_-_roads.mp3",
+  "sizeBytes": 12886016,
+  "license": {
+    "code": "by-nc-nd",
+    "version": "2.5",
+    "label": "CC BY-NC-ND 2.5",
+    "url": "http://creativecommons.org/licenses/by-nc-nd/2.5/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": false,
+    "shareAlike": false,
+    "publicDomain": false
+  },
+  "genre": "Drum & Bass",
+  "tags": [
+    "exegene",
+    "dnb",
+    "drum and bass",
+    "xgn028",
+    "xgn",
+    "martsman",
+    "glitch",
+    "xeroxfunk",
+    "minimal"
+  ],
+  "analysis": {
+    "durationSec": 402.57,
+    "bpm": 174.08,
+    "bpmConfidence": 0.95,
+    "beatOffset": 1.0819,
+    "key": {
+      "name": "F#",
+      "camelot": "2B",
+      "confidence": 0.63
+    },
+    "rmsDb": -13.6,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

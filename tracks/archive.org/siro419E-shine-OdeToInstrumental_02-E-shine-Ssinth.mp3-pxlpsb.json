@@ -1,0 +1,44 @@
+{
+  "version": 1,
+  "id": "archive.org:siro419E-shine-OdeToInstrumental/02-E-shine-Ssinth.mp3",
+  "source": "archive.org",
+  "title": "02 - E-Shine - SSINTH",
+  "artist": "E-Shine",
+  "album": "Ode to Instrumental",
+  "pageUrl": "https://archive.org/details/siro419E-shine-OdeToInstrumental",
+  "audioUrl": "https://archive.org/download/siro419E-shine-OdeToInstrumental/02-E-shine-Ssinth.mp3",
+  "fileName": "02-E-shine-Ssinth.mp3",
+  "sizeBytes": 13842924,
+  "license": {
+    "code": "by-nc-nd",
+    "version": "3.0",
+    "label": "CC BY-NC-ND 3.0",
+    "url": "http://creativecommons.org/licenses/by-nc-nd/3.0/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": false,
+    "shareAlike": false,
+    "publicDomain": false
+  },
+  "genre": "Trance",
+  "tags": [
+    "Electro",
+    "Techno",
+    "House",
+    "Trance"
+  ],
+  "analysis": {
+    "durationSec": 343.17,
+    "bpm": 130,
+    "bpmConfidence": 0.89,
+    "beatOffset": 0.0244,
+    "key": {
+      "name": "D#",
+      "camelot": "5B",
+      "confidence": 0.79
+    },
+    "rmsDb": -14.3,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

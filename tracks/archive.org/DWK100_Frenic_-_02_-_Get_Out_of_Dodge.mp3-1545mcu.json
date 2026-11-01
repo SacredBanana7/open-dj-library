@@ -1,0 +1,47 @@
+{
+  "version": 1,
+  "id": "archive.org:DWK100/Frenic_-_02_-_Get_Out_of_Dodge.mp3",
+  "source": "archive.org",
+  "title": "Get Out Of Dodge",
+  "artist": "Frenic",
+  "album": "Lessons From The Past (EP)",
+  "pageUrl": "https://archive.org/details/DWK100",
+  "audioUrl": "https://archive.org/download/DWK100/Frenic_-_02_-_Get_Out_of_Dodge.mp3",
+  "fileName": "Frenic_-_02_-_Get_Out_of_Dodge.mp3",
+  "sizeBytes": 9690496,
+  "license": {
+    "code": "by-nc-nd",
+    "version": "3.0",
+    "label": "CC BY-NC-ND 3.0",
+    "url": "http://creativecommons.org/licenses/by-nc-nd/3.0/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": false,
+    "shareAlike": false,
+    "publicDomain": false
+  },
+  "genre": "Disco / Funk",
+  "tags": [
+    "Frenic",
+    "Dusted Wax Kingdom",
+    "hip-hop",
+    "UK",
+    "funk",
+    "psychedelic",
+    "beats"
+  ],
+  "analysis": {
+    "durationSec": 242.42,
+    "bpm": 100,
+    "bpmConfidence": 1,
+    "beatOffset": 0.0326,
+    "key": {
+      "name": "Dm",
+      "camelot": "7A",
+      "confidence": 0.76
+    },
+    "rmsDb": -12.2,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

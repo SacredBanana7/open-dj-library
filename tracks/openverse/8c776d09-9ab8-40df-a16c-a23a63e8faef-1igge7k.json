@@ -1,0 +1,45 @@
+{
+  "version": 1,
+  "id": "openverse:8c776d09-9ab8-40df-a16c-a23a63e8faef",
+  "source": "openverse",
+  "provider": "jamendo",
+  "title": "Hip-hop",
+  "artist": "St Adam",
+  "artistUrl": "https://www.jamendo.com/artist/6038/stadam",
+  "album": "stadam's",
+  "pageUrl": "https://www.jamendo.com/track/43686",
+  "audioUrl": "https://prod-1.storage.jamendo.com/?trackid=43686&format=mp32",
+  "fileName": "St Adam - Hip-hop.mp3",
+  "license": {
+    "code": "sampling+",
+    "version": "1.0",
+    "label": "CC Sampling+ 1.0",
+    "url": "https://creativecommons.org/licenses/sampling+/1.0/",
+    "attribution": true,
+    "commercial": true,
+    "derivatives": false,
+    "shareAlike": false,
+    "publicDomain": false
+  },
+  "genre": "Hip Hop",
+  "tags": [
+    "instrumental",
+    "lounge",
+    "neutral",
+    "speed_medium"
+  ],
+  "analysis": {
+    "durationSec": 214.5,
+    "bpm": 117.5,
+    "bpmConfidence": 0.61,
+    "beatOffset": 0.57,
+    "key": {
+      "name": "Bm",
+      "camelot": "10A",
+      "confidence": 0.59
+    },
+    "rmsDb": -17.6,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

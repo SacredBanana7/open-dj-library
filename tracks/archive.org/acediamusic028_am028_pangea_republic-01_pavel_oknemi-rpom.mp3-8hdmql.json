@@ -1,0 +1,43 @@
+{
+  "version": 1,
+  "id": "archive.org:acediamusic028/am028_pangea_republic-01_pavel_oknemi-rpom.mp3",
+  "source": "archive.org",
+  "title": "rpom",
+  "artist": "pavel oknemi // www.acediamusic.org",
+  "album": "Pangea Republic",
+  "pageUrl": "https://archive.org/details/acediamusic028",
+  "audioUrl": "https://archive.org/download/acediamusic028/am028_pangea_republic-01_pavel_oknemi-rpom.mp3",
+  "fileName": "am028_pangea_republic-01_pavel_oknemi-rpom.mp3",
+  "sizeBytes": 4775936,
+  "license": {
+    "code": "by-nc-nd",
+    "version": "2.0",
+    "label": "CC BY-NC-ND 2.0",
+    "url": "http://creativecommons.org/licenses/by-nc-nd/2.0/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": false,
+    "shareAlike": false,
+    "publicDomain": false
+  },
+  "genre": "Breakbeat",
+  "tags": [
+    "Deephouse",
+    "Electro/IDM/Experimental/Breaks",
+    "Broken Beats"
+  ],
+  "analysis": {
+    "durationSec": 214.24,
+    "bpm": 120,
+    "bpmConfidence": 0.42,
+    "beatOffset": 0.4619,
+    "key": {
+      "name": "Dm",
+      "camelot": "7A",
+      "confidence": 0.75
+    },
+    "rmsDb": -12.2,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

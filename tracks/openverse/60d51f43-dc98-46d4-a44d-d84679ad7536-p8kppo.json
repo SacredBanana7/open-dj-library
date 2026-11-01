@@ -1,0 +1,44 @@
+{
+  "version": 1,
+  "id": "openverse:60d51f43-dc98-46d4-a44d-d84679ad7536",
+  "source": "openverse",
+  "provider": "jamendo",
+  "title": "Club's House DJ",
+  "artist": "Felixjd",
+  "artistUrl": "https://www.jamendo.com/artist/351202/felixjd",
+  "album": "Y Love House",
+  "pageUrl": "https://www.jamendo.com/track/366912",
+  "audioUrl": "https://prod-1.storage.jamendo.com/?trackid=366912&format=mp32",
+  "fileName": "Felixjd - Club's House DJ.mp3",
+  "license": {
+    "code": "by",
+    "version": "3.0",
+    "label": "CC BY 3.0",
+    "url": "https://creativecommons.org/licenses/by/3.0/",
+    "attribution": true,
+    "commercial": true,
+    "derivatives": true,
+    "shareAlike": false,
+    "publicDomain": false
+  },
+  "genre": "House",
+  "tags": [
+    "instrumental",
+    "neutral",
+    "speed_medium"
+  ],
+  "analysis": {
+    "durationSec": 396.04,
+    "bpm": 120,
+    "bpmConfidence": 1,
+    "beatOffset": 0.4999,
+    "key": {
+      "name": "D",
+      "camelot": "10B",
+      "confidence": 0.69
+    },
+    "rmsDb": -12.2,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

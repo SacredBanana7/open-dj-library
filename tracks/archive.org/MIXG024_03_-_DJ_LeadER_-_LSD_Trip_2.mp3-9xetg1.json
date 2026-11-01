@@ -1,0 +1,45 @@
+{
+  "version": 1,
+  "id": "archive.org:MIXG024/03_-_DJ_LeadER_-_LSD_Trip_2.mp3",
+  "source": "archive.org",
+  "title": "LSD Trip 2",
+  "artist": "DJ LeadER",
+  "album": "LSD Trip",
+  "pageUrl": "https://archive.org/details/MIXG024",
+  "audioUrl": "https://archive.org/download/MIXG024/03_-_DJ_LeadER_-_LSD_Trip_2.mp3",
+  "fileName": "03_-_DJ_LeadER_-_LSD_Trip_2.mp3",
+  "sizeBytes": 8811570,
+  "license": {
+    "code": "by-nc",
+    "version": "3.0",
+    "label": "CC BY-NC 3.0",
+    "url": "http://creativecommons.org/licenses/by-nc/3.0/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": true,
+    "shareAlike": false,
+    "publicDomain": false
+  },
+  "genre": "Trance",
+  "tags": [
+    "breaks",
+    "breakbeat",
+    "psychedelic",
+    "trance",
+    "downtempo"
+  ],
+  "analysis": {
+    "durationSec": 217.39,
+    "bpm": 160,
+    "bpmConfidence": 1,
+    "beatOffset": 0.033,
+    "key": {
+      "name": "E",
+      "camelot": "12B",
+      "confidence": 0.73
+    },
+    "rmsDb": -14.8,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

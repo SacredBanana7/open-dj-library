@@ -1,0 +1,43 @@
+{
+  "version": 1,
+  "id": "archive.org:1bit_011/1bit011_-_01_-_Markus_Masuhr_-_Entspannungsphase.mp3",
+  "source": "archive.org",
+  "title": "Entspannungsphase",
+  "artist": "Markus Masuhr",
+  "album": "Body Dismorphic Disorder",
+  "pageUrl": "https://archive.org/details/1bit_011",
+  "audioUrl": "https://archive.org/download/1bit_011/1bit011_-_01_-_Markus_Masuhr_-_Entspannungsphase.mp3",
+  "fileName": "1bit011_-_01_-_Markus_Masuhr_-_Entspannungsphase.mp3",
+  "sizeBytes": 12191872,
+  "license": {
+    "code": "by-nc-sa",
+    "version": "2.5",
+    "label": "CC BY-NC-SA 2.5",
+    "url": "http://creativecommons.org/licenses/by-nc-sa/2.5/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": true,
+    "shareAlike": true,
+    "publicDomain": false
+  },
+  "genre": "Breakbeat",
+  "tags": [
+    "Breakbeat",
+    "Broken Beat",
+    "Minimal"
+  ],
+  "analysis": {
+    "durationSec": 380.88,
+    "bpm": 125,
+    "bpmConfidence": 1,
+    "beatOffset": 1.9194,
+    "key": {
+      "name": "Am",
+      "camelot": "8A",
+      "confidence": 0.86
+    },
+    "rmsDb": -13.5,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

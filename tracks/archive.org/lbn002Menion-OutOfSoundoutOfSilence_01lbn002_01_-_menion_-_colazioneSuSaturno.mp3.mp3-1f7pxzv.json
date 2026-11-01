@@ -1,0 +1,44 @@
+{
+  "version": 1,
+  "id": "archive.org:lbn002Menion-OutOfSoundoutOfSilence/01lbn002_01_-_menion_-_colazioneSuSaturno.mp3.mp3",
+  "source": "archive.org",
+  "title": "Colazione su saturno",
+  "artist": "Menion",
+  "album": "[LBN002] Out of Sound - Out of silence",
+  "pageUrl": "https://archive.org/details/lbn002Menion-OutOfSoundoutOfSilence",
+  "audioUrl": "https://archive.org/download/lbn002Menion-OutOfSoundoutOfSilence/01lbn002_01_-_menion_-_colazioneSuSaturno.mp3.mp3",
+  "fileName": "01lbn002_01_-_menion_-_colazioneSuSaturno.mp3.mp3",
+  "sizeBytes": 13819724,
+  "license": {
+    "code": "by-nc-sa",
+    "version": "3.0",
+    "label": "CC BY-NC-SA 3.0",
+    "url": "http://creativecommons.org/licenses/by-nc-sa/3.0/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": true,
+    "shareAlike": true,
+    "publicDomain": false
+  },
+  "genre": "Ambient",
+  "tags": [
+    "Electronic",
+    "Acoustic",
+    "Ambient",
+    "Indietronica"
+  ],
+  "analysis": {
+    "durationSec": 326.11,
+    "bpm": 164.66,
+    "bpmConfidence": 0.42,
+    "beatOffset": 0.6584,
+    "key": {
+      "name": "G",
+      "camelot": "9B",
+      "confidence": 0.87
+    },
+    "rmsDb": -20.2,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

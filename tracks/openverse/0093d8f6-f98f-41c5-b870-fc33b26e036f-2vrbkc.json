@@ -1,0 +1,46 @@
+{
+  "version": 1,
+  "id": "openverse:0093d8f6-f98f-41c5-b870-fc33b26e036f",
+  "source": "openverse",
+  "provider": "jamendo",
+  "title": "Elara [Drum and Bass]",
+  "artist": "Hardcore Scm",
+  "artistUrl": "https://www.jamendo.com/artist/366513/Hardcore_Scm",
+  "album": "Hardcore Scm - 2014",
+  "pageUrl": "https://www.jamendo.com/track/1196243",
+  "audioUrl": "https://prod-1.storage.jamendo.com/?trackid=1196243&format=mp32",
+  "fileName": "Hardcore Scm - Elara [Drum and Bass].mp3",
+  "license": {
+    "code": "by",
+    "version": "3.0",
+    "label": "CC BY 3.0",
+    "url": "https://creativecommons.org/licenses/by/3.0/",
+    "attribution": true,
+    "commercial": true,
+    "derivatives": true,
+    "shareAlike": false,
+    "publicDomain": false
+  },
+  "genre": "Drum & Bass",
+  "tags": [
+    "drumandbass",
+    "instrumental",
+    "neutral",
+    "soft",
+    "speed_high"
+  ],
+  "analysis": {
+    "durationSec": 370,
+    "bpm": 124,
+    "bpmConfidence": 0.4,
+    "beatOffset": 1.4282,
+    "key": {
+      "name": "C",
+      "camelot": "8B",
+      "confidence": 0.73
+    },
+    "rmsDb": -15.5,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

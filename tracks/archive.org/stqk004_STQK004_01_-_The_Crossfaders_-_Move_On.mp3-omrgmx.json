@@ -1,0 +1,52 @@
+{
+  "version": 1,
+  "id": "archive.org:stqk004/STQK004_01_-_The_Crossfaders_-_Move_On.mp3",
+  "source": "archive.org",
+  "title": "Move On",
+  "artist": "The Crossfaders",
+  "album": "[STQK004] Fooly Cooly",
+  "pageUrl": "https://archive.org/details/stqk004",
+  "audioUrl": "https://archive.org/download/stqk004/STQK004_01_-_The_Crossfaders_-_Move_On.mp3",
+  "fileName": "STQK004_01_-_The_Crossfaders_-_Move_On.mp3",
+  "sizeBytes": 13561807,
+  "license": {
+    "code": "by-nc-sa",
+    "version": "3.0",
+    "label": "CC BY-NC-SA 3.0",
+    "url": "http://creativecommons.org/licenses/by-nc-sa/3.0/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": true,
+    "shareAlike": true,
+    "publicDomain": false
+  },
+  "genre": "Dubstep",
+  "tags": [
+    "starquake records",
+    "netlabel",
+    "creative commons",
+    "free download",
+    "crossfaders",
+    "sebastian",
+    "love",
+    "nihil",
+    "arcade",
+    "discoforgia",
+    "electro",
+    "electronic"
+  ],
+  "analysis": {
+    "durationSec": 338.94,
+    "bpm": 125,
+    "bpmConfidence": 1,
+    "beatOffset": 0.9923,
+    "key": {
+      "name": "Bm",
+      "camelot": "10A",
+      "confidence": 0.88
+    },
+    "rmsDb": -15.4,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

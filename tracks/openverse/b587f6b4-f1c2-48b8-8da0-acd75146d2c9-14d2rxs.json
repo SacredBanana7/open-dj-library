@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "id": "openverse:b587f6b4-f1c2-48b8-8da0-acd75146d2c9",
+  "source": "openverse",
+  "provider": "jamendo",
+  "title": "Secret in Their Eyes [rock/pop electro]",
+  "artist": "Capashen",
+  "artistUrl": "https://www.jamendo.com/artist/340768/Capashen",
+  "album": "Episode 4",
+  "pageUrl": "https://www.jamendo.com/track/769000",
+  "audioUrl": "https://prod-1.storage.jamendo.com/?trackid=769000&format=mp32",
+  "fileName": "Capashen - Secret in Their Eyes [rock_pop electro].mp3",
+  "license": {
+    "code": "by-sa",
+    "version": "2.0",
+    "label": "CC BY-SA 2.0 FR",
+    "url": "https://creativecommons.org/licenses/by-sa/2.0/fr/",
+    "attribution": true,
+    "commercial": true,
+    "derivatives": true,
+    "shareAlike": true,
+    "publicDomain": false
+  },
+  "genre": "Electro",
+  "tags": [
+    "drums",
+    "electricguitar",
+    "fashion",
+    "female",
+    "girls",
+    "speed_medium",
+    "vocal"
+  ],
+  "analysis": {
+    "durationSec": 189.66,
+    "bpm": 130,
+    "bpmConfidence": 1,
+    "beatOffset": 0.8997,
+    "key": {
+      "name": "D#m",
+      "camelot": "2A",
+      "confidence": 0.88
+    },
+    "rmsDb": -12.6,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

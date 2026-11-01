@@ -1,0 +1,49 @@
+{
+  "version": 1,
+  "id": "archive.org:Kraut_fuer_alle/01_Funky_Trudi.mp3",
+  "source": "archive.org",
+  "title": "Funky Trudi",
+  "artist": "Schaeng Pfui & Maetes B",
+  "album": "Kraut fuer alle!",
+  "pageUrl": "https://archive.org/details/Kraut_fuer_alle",
+  "audioUrl": "https://archive.org/download/Kraut_fuer_alle/01_Funky_Trudi.mp3",
+  "fileName": "01_Funky_Trudi.mp3",
+  "sizeBytes": 6727680,
+  "license": {
+    "code": "by-nc-sa",
+    "version": "2.0",
+    "label": "CC BY-NC-SA 2.0",
+    "url": "http://creativecommons.org/licenses/by-nc-sa/2.0/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": true,
+    "shareAlike": true,
+    "publicDomain": false
+  },
+  "genre": "Hip Hop",
+  "tags": [
+    "Big Beat",
+    "Instrumental Hip-Hop",
+    "Hip-Hop",
+    "Drum & Bass",
+    "Trip-Hop",
+    "Easy Listening",
+    "Remix",
+    "Neo Soul"
+  ],
+  "analysis": {
+    "durationSec": 278.23,
+    "bpm": 70.45,
+    "bpmConfidence": 0.66,
+    "beatOffset": 0.6575,
+    "key": {
+      "name": "G#",
+      "camelot": "4B",
+      "confidence": 0.4
+    },
+    "rmsDb": -16.5,
+    "analyzer": "pulsar-dj/analysis-worker 0.1",
+    "tempoFolded": 0.5
+  },
+  "added": "2026-11-01"
+}

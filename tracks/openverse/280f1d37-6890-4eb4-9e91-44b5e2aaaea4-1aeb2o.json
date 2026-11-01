@@ -1,0 +1,43 @@
+{
+  "version": 1,
+  "id": "openverse:280f1d37-6890-4eb4-9e91-44b5e2aaaea4",
+  "source": "openverse",
+  "provider": "jamendo",
+  "title": "Electro Supastar (Lxt)",
+  "artist": "The SillyJunX",
+  "artistUrl": "https://www.jamendo.com/artist/1544/the.sillyjunx",
+  "album": "Awesome",
+  "pageUrl": "https://www.jamendo.com/track/10159",
+  "audioUrl": "https://prod-1.storage.jamendo.com/?trackid=10159&format=mp32",
+  "fileName": "The SillyJunX - Electro Supastar (Lxt).mp3",
+  "license": {
+    "code": "by-nc-nd",
+    "version": "2.0",
+    "label": "CC BY-NC-ND 2.0 FR",
+    "url": "https://creativecommons.org/licenses/by-nc-nd/2.0/fr/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": false,
+    "shareAlike": false,
+    "publicDomain": false
+  },
+  "genre": "Electro",
+  "tags": [
+    "instrumental",
+    "speed_medium"
+  ],
+  "analysis": {
+    "durationSec": 241.66,
+    "bpm": 145,
+    "bpmConfidence": 1,
+    "beatOffset": 0.0016,
+    "key": {
+      "name": "F#",
+      "camelot": "2B",
+      "confidence": 0.8
+    },
+    "rmsDb": -9.9,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

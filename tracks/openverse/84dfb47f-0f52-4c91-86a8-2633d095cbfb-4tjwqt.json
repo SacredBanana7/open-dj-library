@@ -1,0 +1,47 @@
+{
+  "version": 1,
+  "id": "openverse:84dfb47f-0f52-4c91-86a8-2633d095cbfb",
+  "source": "openverse",
+  "provider": "jamendo",
+  "title": "Dubstep trip",
+  "artist": "ISItheDreaMakeR",
+  "artistUrl": "https://www.jamendo.com/artist/5373/isithedreamaker",
+  "album": "Spring Party!!!",
+  "pageUrl": "https://www.jamendo.com/track/1118684",
+  "audioUrl": "https://prod-1.storage.jamendo.com/?trackid=1118684&format=mp32",
+  "fileName": "ISItheDreaMakeR - Dubstep trip.mp3",
+  "license": {
+    "code": "by-nc-sa",
+    "version": "3.0",
+    "label": "CC BY-NC-SA 3.0",
+    "url": "https://creativecommons.org/licenses/by-nc-sa/3.0/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": true,
+    "shareAlike": true,
+    "publicDomain": false
+  },
+  "genre": "Dubstep",
+  "tags": [
+    "dubstepbeat",
+    "happy",
+    "instrumental",
+    "neutral",
+    "party",
+    "speed_high"
+  ],
+  "analysis": {
+    "durationSec": 225.15,
+    "bpm": 143.46,
+    "bpmConfidence": 0.39,
+    "beatOffset": 1.1038,
+    "key": {
+      "name": "A#m",
+      "camelot": "3A",
+      "confidence": 0.89
+    },
+    "rmsDb": -13.3,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

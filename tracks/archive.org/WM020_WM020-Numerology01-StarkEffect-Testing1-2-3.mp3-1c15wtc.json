@@ -1,0 +1,46 @@
+{
+  "version": 1,
+  "id": "archive.org:WM020/WM020-Numerology01-StarkEffect-Testing1-2-3.mp3",
+  "source": "archive.org",
+  "title": "Testing 1-2-3",
+  "artist": "Stark Effect",
+  "album": "Numerology",
+  "pageUrl": "https://archive.org/details/WM020",
+  "audioUrl": "https://archive.org/download/WM020/WM020-Numerology01-StarkEffect-Testing1-2-3.mp3",
+  "fileName": "WM020-Numerology01-StarkEffect-Testing1-2-3.mp3",
+  "sizeBytes": 4448384,
+  "license": {
+    "code": "by-nc-sa",
+    "version": "2.5",
+    "label": "CC BY-NC-SA 2.5",
+    "url": "http://creativecommons.org/licenses/by-nc-sa/2.5/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": true,
+    "shareAlike": true,
+    "publicDomain": false
+  },
+  "genre": "Experimental",
+  "tags": [
+    "Weirdomusic",
+    "Experimental",
+    "Collections",
+    "Avant-pop",
+    "Easy Listening",
+    "Alternative"
+  ],
+  "analysis": {
+    "durationSec": 185.29,
+    "bpm": 156,
+    "bpmConfidence": 1,
+    "beatOffset": 1.1865,
+    "key": {
+      "name": "C",
+      "camelot": "8B",
+      "confidence": 0.91
+    },
+    "rmsDb": -16.6,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

@@ -1,0 +1,43 @@
+{
+  "version": 1,
+  "id": "openverse:7b3382e9-5081-4f5b-84ae-f06ac679e93a",
+  "source": "openverse",
+  "provider": "jamendo",
+  "title": "Chronic Electronica",
+  "artist": "M Productions",
+  "artistUrl": "https://www.jamendo.com/artist/340117/M_Productions",
+  "album": "Electronic EP",
+  "pageUrl": "https://www.jamendo.com/track/750147",
+  "audioUrl": "https://prod-1.storage.jamendo.com/?trackid=750147&format=mp32",
+  "fileName": "M Productions - Chronic Electronica.mp3",
+  "license": {
+    "code": "by-sa",
+    "version": "3.0",
+    "label": "CC BY-SA 3.0",
+    "url": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "attribution": true,
+    "commercial": true,
+    "derivatives": true,
+    "shareAlike": true,
+    "publicDomain": false
+  },
+  "genre": "IDM / Electronica",
+  "tags": [
+    "instrumental",
+    "speed_medium"
+  ],
+  "analysis": {
+    "durationSec": 189.97,
+    "bpm": 167.26,
+    "bpmConfidence": 0.4,
+    "beatOffset": 0.0648,
+    "key": {
+      "name": "D#",
+      "camelot": "5B",
+      "confidence": 0.83
+    },
+    "rmsDb": -17,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

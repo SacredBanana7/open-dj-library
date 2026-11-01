@@ -1,0 +1,47 @@
+{
+  "version": 1,
+  "id": "archive.org:nws.bpm001/01 für drei Kalimbas, in F Moll.mp3",
+  "source": "archive.org",
+  "title": "für drei Kalimbas, in F Moll",
+  "artist": "Trans Alp",
+  "album": "[phoke47] mooncake 月餅",
+  "pageUrl": "https://archive.org/details/nws.bpm001",
+  "audioUrl": "https://archive.org/download/nws.bpm001/01%20fu%CC%88r%20drei%20Kalimbas%2C%20in%20F%20Moll.mp3",
+  "fileName": "01 für drei Kalimbas, in F Moll.mp3",
+  "sizeBytes": 8879525,
+  "license": {
+    "code": "by-nc-sa",
+    "version": "3.0",
+    "label": "CC BY-NC-SA 3.0",
+    "url": "http://creativecommons.org/licenses/by-nc-sa/3.0/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": true,
+    "shareAlike": true,
+    "publicDomain": false
+  },
+  "genre": "Breakbeat",
+  "tags": [
+    "ambient",
+    "chill-out",
+    "breakbeat",
+    "electronic",
+    "minimal-pop",
+    "post-rock",
+    "sad-electronics"
+  ],
+  "analysis": {
+    "durationSec": 158.8,
+    "bpm": 163.4,
+    "bpmConfidence": 0.41,
+    "beatOffset": 0.1618,
+    "key": {
+      "name": "Fm",
+      "camelot": "4A",
+      "confidence": 0.83
+    },
+    "rmsDb": -17.9,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

@@ -1,0 +1,46 @@
+{
+  "version": 1,
+  "id": "archive.org:DWK155/Poldoore_-_01_-_Lush_Life.mp3",
+  "source": "archive.org",
+  "title": "Lush Life",
+  "artist": "Poldoore",
+  "album": "Lush Life (EP)",
+  "pageUrl": "https://archive.org/details/DWK155",
+  "audioUrl": "https://archive.org/download/DWK155/Poldoore_-_01_-_Lush_Life.mp3",
+  "fileName": "Poldoore_-_01_-_Lush_Life.mp3",
+  "sizeBytes": 7350709,
+  "license": {
+    "code": "by-nc-nd",
+    "version": "3.0",
+    "label": "CC BY-NC-ND 3.0",
+    "url": "http://creativecommons.org/licenses/by-nc-nd/3.0/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": false,
+    "shareAlike": false,
+    "publicDomain": false
+  },
+  "genre": "Hip Hop",
+  "tags": [
+    "Poldoore",
+    "Dusted Wax Kingdom",
+    "instrumental hip-hop",
+    "trip-hop",
+    "lo-fi",
+    "beats"
+  ],
+  "analysis": {
+    "durationSec": 170.4,
+    "bpm": 93,
+    "bpmConfidence": 1,
+    "beatOffset": 0.0269,
+    "key": {
+      "name": "D",
+      "camelot": "10B",
+      "confidence": 0.76
+    },
+    "rmsDb": -12.6,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

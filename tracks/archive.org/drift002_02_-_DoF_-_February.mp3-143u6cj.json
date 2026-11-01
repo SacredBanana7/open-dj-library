@@ -1,0 +1,43 @@
+{
+  "version": 1,
+  "id": "archive.org:drift002/02_-_DoF_-_February.mp3",
+  "source": "archive.org",
+  "title": "February",
+  "artist": "DoF",
+  "album": "A Year In Waiting",
+  "pageUrl": "https://archive.org/details/drift002",
+  "audioUrl": "https://archive.org/download/drift002/02_-_DoF_-_February.mp3",
+  "fileName": "02_-_DoF_-_February.mp3",
+  "sizeBytes": 6109194,
+  "license": {
+    "code": "by-nc-nd",
+    "version": "2.5",
+    "label": "CC BY-NC-ND 2.5",
+    "url": "http://creativecommons.org/licenses/by-nc-nd/2.5/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": false,
+    "shareAlike": false,
+    "publicDomain": false
+  },
+  "genre": "Techno",
+  "tags": [
+    "Electronica",
+    "IDM",
+    "Minimal Techno"
+  ],
+  "analysis": {
+    "durationSec": 254.46,
+    "bpm": 160,
+    "bpmConfidence": 0.58,
+    "beatOffset": 0.2355,
+    "key": {
+      "name": "G#m",
+      "camelot": "1A",
+      "confidence": 0.58
+    },
+    "rmsDb": -16.5,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

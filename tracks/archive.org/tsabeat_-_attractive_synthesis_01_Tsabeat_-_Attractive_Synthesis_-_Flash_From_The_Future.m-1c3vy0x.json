@@ -1,0 +1,46 @@
+{
+  "version": 1,
+  "id": "archive.org:tsabeat_-_attractive_synthesis/01_Tsabeat_-_Attractive_Synthesis_-_Flash_From_The_Future.mp3",
+  "source": "archive.org",
+  "title": "Flash From The Future",
+  "artist": "",
+  "album": "Tsabeat - Attractive Synthesis",
+  "pageUrl": "https://archive.org/details/tsabeat_-_attractive_synthesis",
+  "audioUrl": "https://archive.org/download/tsabeat_-_attractive_synthesis/01_Tsabeat_-_Attractive_Synthesis_-_Flash_From_The_Future.mp3",
+  "fileName": "01_Tsabeat_-_Attractive_Synthesis_-_Flash_From_The_Future.mp3",
+  "sizeBytes": 16158301,
+  "license": {
+    "code": "by-nc-nd",
+    "version": "3.0",
+    "label": "CC BY-NC-ND 3.0",
+    "url": "http://creativecommons.org/licenses/by-nc-nd/3.0/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": false,
+    "shareAlike": false,
+    "publicDomain": false
+  },
+  "genre": "Trance",
+  "tags": [
+    "goa",
+    "psytrance",
+    "club",
+    "suomisaundi",
+    "darkpsy",
+    "electronic"
+  ],
+  "analysis": {
+    "durationSec": 403.87,
+    "bpm": 145,
+    "bpmConfidence": 0.97,
+    "beatOffset": 0.2333,
+    "key": {
+      "name": "A#m",
+      "camelot": "3A",
+      "confidence": 0.63
+    },
+    "rmsDb": -11.4,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

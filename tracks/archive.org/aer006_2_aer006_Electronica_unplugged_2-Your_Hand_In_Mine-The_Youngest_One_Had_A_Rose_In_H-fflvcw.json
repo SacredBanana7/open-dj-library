@@ -1,0 +1,52 @@
+{
+  "version": 1,
+  "id": "archive.org:aer006/2_aer006_Electronica_unplugged_2-Your_Hand_In_Mine-The_Youngest_One_Had_A_Rose_In_His_Mouth.mp3",
+  "source": "archive.org",
+  "title": "The Youngest One Had A Rose In His Mouth",
+  "artist": "Your Hand In Mine",
+  "album": "Electronica unplugged 2",
+  "pageUrl": "https://archive.org/details/aer006",
+  "audioUrl": "https://archive.org/download/aer006/2_aer006_Electronica_unplugged_2-Your_Hand_In_Mine-The_Youngest_One_Had_A_Rose_In_His_Mouth.mp3",
+  "fileName": "2_aer006_Electronica_unplugged_2-Your_Hand_In_Mine-The_Youngest_One_Had_A_Rose_In_His_Mouth.mp3",
+  "sizeBytes": 6725844,
+  "license": {
+    "code": "by-nc-sa",
+    "version": "3.0",
+    "label": "CC BY-NC-SA 3.0",
+    "url": "http://creativecommons.org/licenses/by-nc-sa/3.0/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": true,
+    "shareAlike": true,
+    "publicDomain": false
+  },
+  "genre": "IDM / Electronica",
+  "tags": [
+    "Compilation",
+    "aerotone",
+    "Bersarin-Quartet",
+    "Your hand in mine",
+    "Crepusculum",
+    "Balun",
+    "Sepia Hours",
+    "Roll Film",
+    "Le Mepris",
+    "My first trumpet",
+    "Mie",
+    "AoyomA"
+  ],
+  "analysis": {
+    "durationSec": 210.05,
+    "bpm": 105,
+    "bpmConfidence": 1,
+    "beatOffset": 1.1966,
+    "key": {
+      "name": "Gm",
+      "camelot": "6A",
+      "confidence": 0.84
+    },
+    "rmsDb": -17.9,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

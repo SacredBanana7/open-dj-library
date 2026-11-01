@@ -1,0 +1,53 @@
+{
+  "version": 1,
+  "id": "archive.org:SCL-TM004/01_-_Mutaforija_Lili_-_Dom_Ulitki_Progulka_s_Mishelem_Gondri_i_Perom_Risharom.mp3",
+  "source": "archive.org",
+  "title": "Дом Улитки. Прогулка с Мишелем Гондри и Пьером Ришаром",
+  "artist": "Мутафория Лили",
+  "album": "The Light Side Of The Blue",
+  "pageUrl": "https://archive.org/details/SCL-TM004",
+  "audioUrl": "https://archive.org/download/SCL-TM004/01_-_Mutaforija_Lili_-_Dom_Ulitki_Progulka_s_Mishelem_Gondri_i_Perom_Risharom.mp3",
+  "fileName": "01_-_Mutaforija_Lili_-_Dom_Ulitki_Progulka_s_Mishelem_Gondri_i_Perom_Risharom.mp3",
+  "sizeBytes": 6350327,
+  "license": {
+    "code": "by-nc-sa",
+    "version": "4.0",
+    "label": "CC BY-NC-SA 4.0",
+    "url": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": true,
+    "shareAlike": true,
+    "publicDomain": false
+  },
+  "genre": "Drum & Bass",
+  "tags": [
+    "jungle",
+    "berlin school",
+    "avant-garde",
+    "jazzstep",
+    "ambient",
+    "trip-hop",
+    "drum & bass",
+    "footwork",
+    "bass music",
+    "drumfunk",
+    "new wave",
+    "psychedelic rock"
+  ],
+  "analysis": {
+    "durationSec": 183.39,
+    "bpm": 184,
+    "bpmConfidence": 1,
+    "beatOffset": 0.0071,
+    "key": {
+      "name": "C",
+      "camelot": "8B",
+      "confidence": 0.87
+    },
+    "rmsDb": -19.3,
+    "analyzer": "pulsar-dj/analysis-worker 0.1",
+    "tempoFolded": 2
+  },
+  "added": "2026-11-01"
+}

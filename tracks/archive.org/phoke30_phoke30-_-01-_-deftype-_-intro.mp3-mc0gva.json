@@ -1,0 +1,52 @@
+{
+  "version": 1,
+  "id": "archive.org:phoke30/phoke30-_-01-_-deftype-_-intro.mp3",
+  "source": "archive.org",
+  "title": "intro",
+  "artist": "Deftype",
+  "album": "Gemischtwaren ep [phoke30]",
+  "pageUrl": "https://archive.org/details/phoke30",
+  "audioUrl": "https://archive.org/download/phoke30/phoke30-_-01-_-deftype-_-intro.mp3",
+  "fileName": "phoke30-_-01-_-deftype-_-intro.mp3",
+  "sizeBytes": 6232310,
+  "license": {
+    "code": "by-nc-nd",
+    "version": "3.0",
+    "label": "CC BY-NC-ND 3.0 DE",
+    "url": "http://creativecommons.org/licenses/by-nc-nd/3.0/de/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": false,
+    "shareAlike": false,
+    "publicDomain": false
+  },
+  "genre": "Breakbeat",
+  "tags": [
+    "dystopian cinema",
+    "dark electronica",
+    "Breakbeat",
+    "Electro",
+    "Rhythmic Noise",
+    "Cinematic Ambients",
+    "mysterious spheres",
+    "experimental Electronica",
+    "dark spherical IDM breaks",
+    "netlabel",
+    "phonocake",
+    "electronic"
+  ],
+  "analysis": {
+    "durationSec": 225.6,
+    "bpm": 100,
+    "bpmConfidence": 1,
+    "beatOffset": 0.0318,
+    "key": {
+      "name": "F#",
+      "camelot": "2B",
+      "confidence": 0.72
+    },
+    "rmsDb": -16.9,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

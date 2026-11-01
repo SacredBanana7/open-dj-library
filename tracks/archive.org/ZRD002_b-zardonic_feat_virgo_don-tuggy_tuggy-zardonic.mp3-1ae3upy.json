@@ -1,0 +1,41 @@
+{
+  "version": 1,
+  "id": "archive.org:ZRD002/b-zardonic_feat_virgo_don-tuggy_tuggy-zardonic.mp3",
+  "source": "archive.org",
+  "title": "Tuggy Tuggy",
+  "artist": "Zardonic feat. MC Virgo Don",
+  "album": "[ZRD002] Western / Tuggy Tuggy",
+  "pageUrl": "https://archive.org/details/ZRD002",
+  "audioUrl": "https://archive.org/download/ZRD002/b-zardonic_feat_virgo_don-tuggy_tuggy-zardonic.mp3",
+  "fileName": "b-zardonic_feat_virgo_don-tuggy_tuggy-zardonic.mp3",
+  "sizeBytes": 15630336,
+  "license": {
+    "code": "by-nc-sa",
+    "version": "2.5",
+    "label": "CC BY-NC-SA 2.5",
+    "url": "http://creativecommons.org/licenses/by-nc-sa/2.5/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": true,
+    "shareAlike": true,
+    "publicDomain": false
+  },
+  "genre": "IDM / Electronica",
+  "tags": [
+    "drum, bass, heavy, dark, groovy, dance, electronica, metal, death, brigade, dancehall, hall"
+  ],
+  "analysis": {
+    "durationSec": 390.72,
+    "bpm": 120,
+    "bpmConfidence": 0.53,
+    "beatOffset": 0.535,
+    "key": {
+      "name": "Dm",
+      "camelot": "7A",
+      "confidence": 0.59
+    },
+    "rmsDb": -10.2,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

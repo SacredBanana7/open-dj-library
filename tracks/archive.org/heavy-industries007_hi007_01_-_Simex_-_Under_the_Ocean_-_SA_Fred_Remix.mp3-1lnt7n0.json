@@ -1,0 +1,44 @@
+{
+  "version": 1,
+  "id": "archive.org:heavy-industries007/hi007_01_-_Simex_-_Under_the_Ocean_-_SA_Fred_Remix.mp3",
+  "source": "archive.org",
+  "title": "Under the Ocean (SA Fred Remix)",
+  "artist": "Simex",
+  "album": "Under the Ocean: The Remixes",
+  "pageUrl": "https://archive.org/details/heavy-industries007",
+  "audioUrl": "https://archive.org/download/heavy-industries007/hi007_01_-_Simex_-_Under_the_Ocean_-_SA_Fred_Remix.mp3",
+  "fileName": "hi007_01_-_Simex_-_Under_the_Ocean_-_SA_Fred_Remix.mp3",
+  "sizeBytes": 9697280,
+  "license": {
+    "code": "by-nd-nc",
+    "version": "1.0",
+    "label": "CC BY-ND-NC 1.0",
+    "url": "http://creativecommons.org/licenses/by-nd-nc/1.0/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": false,
+    "shareAlike": false,
+    "publicDomain": false
+  },
+  "genre": "Drum & Bass",
+  "tags": [
+    "Ambient",
+    "Techhouse",
+    "Minimal House",
+    "Ambient/Dnb"
+  ],
+  "analysis": {
+    "durationSec": 404.01,
+    "bpm": 166.66,
+    "bpmConfidence": 1,
+    "beatOffset": 0.3961,
+    "key": {
+      "name": "C#",
+      "camelot": "3B",
+      "confidence": 0.73
+    },
+    "rmsDb": -14.3,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

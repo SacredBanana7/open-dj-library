@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "id": "archive.org:exp042/box_-_core_-_01_-_core.mp3",
+  "source": "archive.org",
+  "title": "Core",
+  "artist": "box",
+  "album": "Core",
+  "pageUrl": "https://archive.org/details/exp042",
+  "audioUrl": "https://archive.org/download/exp042/box_-_core_-_01_-_core.mp3",
+  "fileName": "box_-_core_-_01_-_core.mp3",
+  "sizeBytes": 7394304,
+  "license": {
+    "code": "by-nc-sa",
+    "version": "2.5",
+    "label": "CC BY-NC-SA 2.5",
+    "url": "http://creativecommons.org/licenses/by-nc-sa/2.5/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": true,
+    "shareAlike": true,
+    "publicDomain": false
+  },
+  "genre": "Techno",
+  "tags": [
+    "electro",
+    "techno",
+    "808",
+    "idm",
+    "electronic",
+    "dance",
+    "experimental",
+    "electronica"
+  ],
+  "analysis": {
+    "durationSec": 306.58,
+    "bpm": 150.66,
+    "bpmConfidence": 1,
+    "beatOffset": 1.5078,
+    "key": {
+      "name": "F#m",
+      "camelot": "11A",
+      "confidence": 0.54
+    },
+    "rmsDb": -17,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

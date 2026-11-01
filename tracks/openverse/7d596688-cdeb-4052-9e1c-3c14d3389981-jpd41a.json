@@ -1,0 +1,46 @@
+{
+  "version": 1,
+  "id": "openverse:7d596688-cdeb-4052-9e1c-3c14d3389981",
+  "source": "openverse",
+  "provider": "jamendo",
+  "title": "House of Spain",
+  "artist": "Soulful-Cafe",
+  "artistUrl": "https://www.jamendo.com/artist/490858/Soulful_Cafe",
+  "album": "Deep Instrumentals Vol. 1",
+  "pageUrl": "https://www.jamendo.com/track/1353277",
+  "audioUrl": "https://prod-1.storage.jamendo.com/?trackid=1353277&format=mp32",
+  "fileName": "Soulful-Cafe - House of Spain.mp3",
+  "license": {
+    "code": "by-nd",
+    "version": "4.0",
+    "label": "CC BY-ND 4.0",
+    "url": "https://creativecommons.org/licenses/by-nd/4.0/",
+    "attribution": true,
+    "commercial": true,
+    "derivatives": false,
+    "shareAlike": false,
+    "publicDomain": false
+  },
+  "genre": "House",
+  "tags": [
+    "bass",
+    "instrumental",
+    "kick",
+    "speed_medium",
+    "synthesizer"
+  ],
+  "analysis": {
+    "durationSec": 160,
+    "bpm": 120,
+    "bpmConfidence": 0.88,
+    "beatOffset": 1.0086,
+    "key": {
+      "name": "Gm",
+      "camelot": "6A",
+      "confidence": 0.77
+    },
+    "rmsDb": -10.7,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

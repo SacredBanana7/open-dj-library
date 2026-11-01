@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "id": "openverse:212845e7-e1d0-4226-864d-a152e9aebdfe",
+  "source": "openverse",
+  "provider": "jamendo",
+  "title": "Fly Agaric Trance",
+  "artist": "SaReGaMa",
+  "artistUrl": "https://www.jamendo.com/artist/4812/saregama",
+  "album": "Spirit of Kalimba",
+  "pageUrl": "https://www.jamendo.com/track/36985",
+  "audioUrl": "https://prod-1.storage.jamendo.com/?trackid=36985&format=mp32",
+  "fileName": "SaReGaMa - Fly Agaric Trance.mp3",
+  "license": {
+    "code": "by-nc-nd",
+    "version": "3.0",
+    "label": "CC BY-NC-ND 3.0",
+    "url": "https://creativecommons.org/licenses/by-nc-nd/3.0/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": false,
+    "shareAlike": false,
+    "publicDomain": false
+  },
+  "genre": "Trance",
+  "tags": [
+    "documentary",
+    "instrumental",
+    "mbira",
+    "neutral",
+    "speed_medium",
+    "travel",
+    "upbeat"
+  ],
+  "analysis": {
+    "durationSec": 244.34,
+    "bpm": 173.92,
+    "bpmConfidence": 0.39,
+    "beatOffset": 0.5188,
+    "key": {
+      "name": "Dm",
+      "camelot": "7A",
+      "confidence": 0.74
+    },
+    "rmsDb": -13.1,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

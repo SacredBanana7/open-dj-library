@@ -1,0 +1,43 @@
+{
+  "version": 1,
+  "id": "openverse:ad30e9a6-5d5f-49a2-9115-6a73ae2fbe45",
+  "source": "openverse",
+  "provider": "jamendo",
+  "title": "DJ John - Alors On Danse (Trance Mix vs. Stromae)",
+  "artist": "DJ John",
+  "artistUrl": "https://www.jamendo.com/artist/360831/DJ_John_(2)",
+  "album": "We Are Here (Singles and RMX) (2010)",
+  "pageUrl": "https://www.jamendo.com/track/706030",
+  "audioUrl": "https://prod-1.storage.jamendo.com/?trackid=706030&format=mp32",
+  "fileName": "DJ John - DJ John - Alors On Danse (Trance Mix vs. Stromae).mp3",
+  "license": {
+    "code": "by",
+    "version": "3.0",
+    "label": "CC BY 3.0",
+    "url": "https://creativecommons.org/licenses/by/3.0/",
+    "attribution": true,
+    "commercial": true,
+    "derivatives": true,
+    "shareAlike": false,
+    "publicDomain": false
+  },
+  "genre": "Trance",
+  "tags": [
+    "instrumental",
+    "speed_medium"
+  ],
+  "analysis": {
+    "durationSec": 295.5,
+    "bpm": 132,
+    "bpmConfidence": 1,
+    "beatOffset": 0.0248,
+    "key": {
+      "name": "Fm",
+      "camelot": "4A",
+      "confidence": 0.78
+    },
+    "rmsDb": -10.4,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

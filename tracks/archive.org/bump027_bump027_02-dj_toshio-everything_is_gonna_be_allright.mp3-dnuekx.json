@@ -1,0 +1,42 @@
+{
+  "version": 1,
+  "id": "archive.org:bump027/bump027_02-dj_toshio-everything_is_gonna_be_allright.mp3",
+  "source": "archive.org",
+  "title": "Everything Is Gonna Be Allright",
+  "artist": "DJ Toshio",
+  "album": "The Turntablist",
+  "pageUrl": "https://archive.org/details/bump027",
+  "audioUrl": "https://archive.org/download/bump027/bump027_02-dj_toshio-everything_is_gonna_be_allright.mp3",
+  "fileName": "bump027_02-dj_toshio-everything_is_gonna_be_allright.mp3",
+  "sizeBytes": 6275491,
+  "license": {
+    "code": "by-nc-sa",
+    "version": "2.5",
+    "label": "CC BY-NC-SA 2.5",
+    "url": "http://creativecommons.org/licenses/by-nc-sa/2.5/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": true,
+    "shareAlike": true,
+    "publicDomain": false
+  },
+  "genre": "House",
+  "tags": [
+    "Electronic",
+    "House"
+  ],
+  "analysis": {
+    "durationSec": 261.22,
+    "bpm": 125,
+    "bpmConfidence": 1,
+    "beatOffset": 0.9681,
+    "key": {
+      "name": "E",
+      "camelot": "12B",
+      "confidence": 0.6
+    },
+    "rmsDb": -16.6,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

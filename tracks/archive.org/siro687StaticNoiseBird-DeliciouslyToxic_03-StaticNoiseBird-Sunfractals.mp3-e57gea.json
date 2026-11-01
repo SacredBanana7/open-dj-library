@@ -1,0 +1,45 @@
+{
+  "version": 1,
+  "id": "archive.org:siro687StaticNoiseBird-DeliciouslyToxic/03-StaticNoiseBird-Sunfractals.mp3",
+  "source": "archive.org",
+  "title": "Sunfractals",
+  "artist": "Static Noise Bird",
+  "album": "Deliciously Toxic",
+  "pageUrl": "https://archive.org/details/siro687StaticNoiseBird-DeliciouslyToxic",
+  "audioUrl": "https://archive.org/download/siro687StaticNoiseBird-DeliciouslyToxic/03-StaticNoiseBird-Sunfractals.mp3",
+  "fileName": "03-StaticNoiseBird-Sunfractals.mp3",
+  "sizeBytes": 16823702,
+  "license": {
+    "code": "by-nc-nd",
+    "version": "4.0",
+    "label": "CC BY-NC-ND 4.0",
+    "url": "http://creativecommons.org/licenses/by-nc-nd/4.0/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": false,
+    "shareAlike": false,
+    "publicDomain": false
+  },
+  "genre": "Trance",
+  "tags": [
+    "Electronica",
+    "Breakbeat",
+    "Hard Trance",
+    "Ambient",
+    "Experimental"
+  ],
+  "analysis": {
+    "durationSec": 410.02,
+    "bpm": 132,
+    "bpmConfidence": 1,
+    "beatOffset": 1.1416,
+    "key": {
+      "name": "Dm",
+      "camelot": "7A",
+      "confidence": 0.74
+    },
+    "rmsDb": -12.2,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

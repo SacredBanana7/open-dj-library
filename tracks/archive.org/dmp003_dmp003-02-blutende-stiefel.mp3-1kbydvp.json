@@ -1,0 +1,50 @@
+{
+  "version": 1,
+  "id": "archive.org:dmp003/dmp003-02-blutende-stiefel.mp3",
+  "source": "archive.org",
+  "title": "blutende stiefel",
+  "artist": "Cymotec",
+  "album": "retrospective",
+  "pageUrl": "https://archive.org/details/dmp003",
+  "audioUrl": "https://archive.org/download/dmp003/dmp003-02-blutende-stiefel.mp3",
+  "fileName": "dmp003-02-blutende-stiefel.mp3",
+  "sizeBytes": 6542336,
+  "license": {
+    "code": "by-nc-nd",
+    "version": "2.5",
+    "label": "CC BY-NC-ND 2.5",
+    "url": "http://creativecommons.org/licenses/by-nc-nd/2.5/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": false,
+    "shareAlike": false,
+    "publicDomain": false
+  },
+  "genre": "Techno",
+  "tags": [
+    "electro punk",
+    "techno punk",
+    "electro industrial",
+    "electro",
+    "industrial",
+    "dark electro",
+    "dark",
+    "german",
+    "ebm",
+    "electro body music"
+  ],
+  "analysis": {
+    "durationSec": 285,
+    "bpm": 170,
+    "bpmConfidence": 0.77,
+    "beatOffset": 0.2583,
+    "key": {
+      "name": "Bm",
+      "camelot": "10A",
+      "confidence": 0.77
+    },
+    "rmsDb": -13.5,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

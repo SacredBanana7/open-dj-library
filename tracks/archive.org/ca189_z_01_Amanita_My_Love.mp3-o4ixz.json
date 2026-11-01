@@ -1,0 +1,47 @@
+{
+  "version": 1,
+  "id": "archive.org:ca189_z/01_Amanita_My_Love.mp3",
+  "source": "archive.org",
+  "title": "Amanita, My Love!",
+  "artist": "ZAUS",
+  "album": "ca189 - ZAUS – Congregation",
+  "pageUrl": "https://archive.org/details/ca189_z",
+  "audioUrl": "https://archive.org/download/ca189_z/01_Amanita_My_Love.mp3",
+  "fileName": "01_Amanita_My_Love.mp3",
+  "sizeBytes": 10842223,
+  "license": {
+    "code": "by-nc-nd",
+    "version": "3.0",
+    "label": "CC BY-NC-ND 3.0",
+    "url": "http://creativecommons.org/licenses/by-nc-nd/3.0/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": false,
+    "shareAlike": false,
+    "publicDomain": false
+  },
+  "genre": "Disco / Funk",
+  "tags": [
+    "funk rocktronica",
+    "quirky pop interpretation",
+    "dark sordid grooves",
+    "electroacoustic",
+    "soundscapes",
+    "socio-acoustic live",
+    "jazz"
+  ],
+  "analysis": {
+    "durationSec": 271.26,
+    "bpm": 148,
+    "bpmConfidence": 0.45,
+    "beatOffset": 0.9897,
+    "key": {
+      "name": "Bm",
+      "camelot": "10A",
+      "confidence": 0.67
+    },
+    "rmsDb": -9.6,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

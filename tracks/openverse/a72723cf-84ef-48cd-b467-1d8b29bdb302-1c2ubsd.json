@@ -1,0 +1,45 @@
+{
+  "version": 1,
+  "id": "openverse:a72723cf-84ef-48cd-b467-1d8b29bdb302",
+  "source": "openverse",
+  "provider": "jamendo",
+  "title": "The House of J. Monkey",
+  "artist": "Monkeyman",
+  "artistUrl": "https://www.jamendo.com/artist/439316/Monkeyman",
+  "album": "The House of J. Monkey",
+  "pageUrl": "https://www.jamendo.com/track/1090228",
+  "audioUrl": "https://prod-1.storage.jamendo.com/?trackid=1090228&format=mp32",
+  "fileName": "Monkeyman - The House of J. Monkey.mp3",
+  "license": {
+    "code": "by-sa",
+    "version": "2.0",
+    "label": "CC BY-SA 2.0 DE",
+    "url": "https://creativecommons.org/licenses/by-sa/2.0/de/",
+    "attribution": true,
+    "commercial": true,
+    "derivatives": true,
+    "shareAlike": true,
+    "publicDomain": false
+  },
+  "genre": "House",
+  "tags": [
+    "female",
+    "funkyhouse",
+    "speed_medium",
+    "vocal"
+  ],
+  "analysis": {
+    "durationSec": 283.89,
+    "bpm": 125,
+    "bpmConfidence": 0.75,
+    "beatOffset": 1.0223,
+    "key": {
+      "name": "G",
+      "camelot": "9B",
+      "confidence": 0.64
+    },
+    "rmsDb": -10.2,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

@@ -1,0 +1,46 @@
+{
+  "version": 1,
+  "id": "archive.org:ca492_ai/02Travelers.mp3",
+  "source": "archive.org",
+  "title": "Travelers",
+  "artist": "Arcade Island",
+  "album": "ca492 - Arcade Island - Spring EP",
+  "pageUrl": "https://archive.org/details/ca492_ai",
+  "audioUrl": "https://archive.org/download/ca492_ai/02Travelers.mp3",
+  "fileName": "02Travelers.mp3",
+  "sizeBytes": 8591739,
+  "license": {
+    "code": "by-nc-nd",
+    "version": "3.0",
+    "label": "CC BY-NC-ND 3.0",
+    "url": "http://creativecommons.org/licenses/by-nc-nd/3.0/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": false,
+    "shareAlike": false,
+    "publicDomain": false
+  },
+  "genre": "IDM / Electronica",
+  "tags": [
+    "alternative",
+    "electronica",
+    "chillwave",
+    "experimental",
+    "lo-fi",
+    "alternative rock"
+  ],
+  "analysis": {
+    "durationSec": 210.08,
+    "bpm": 120,
+    "bpmConfidence": 0.58,
+    "beatOffset": 0.033,
+    "key": {
+      "name": "Gm",
+      "camelot": "6A",
+      "confidence": 0.8
+    },
+    "rmsDb": -10,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

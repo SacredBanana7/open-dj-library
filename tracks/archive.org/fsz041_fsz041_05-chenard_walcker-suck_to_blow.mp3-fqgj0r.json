@@ -1,0 +1,44 @@
+{
+  "version": 1,
+  "id": "archive.org:fsz041/fsz041_05-chenard_walcker-suck_to_blow.mp3",
+  "source": "archive.org",
+  "title": "Suck To Blow",
+  "artist": "Chenard Walcker",
+  "album": "Archisex [fsz041]",
+  "pageUrl": "https://archive.org/details/fsz041",
+  "audioUrl": "https://archive.org/download/fsz041/fsz041_05-chenard_walcker-suck_to_blow.mp3",
+  "fileName": "fsz041_05-chenard_walcker-suck_to_blow.mp3",
+  "sizeBytes": 5980160,
+  "license": {
+    "code": "by-nc",
+    "version": "2.5",
+    "label": "CC BY-NC 2.5",
+    "url": "http://creativecommons.org/licenses/by-nc/2.5/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": true,
+    "shareAlike": false,
+    "publicDomain": false
+  },
+  "genre": "Disco / Funk",
+  "tags": [
+    "Disco",
+    "Jazz+Funk",
+    "Sample Madness",
+    "Plunderphonics"
+  ],
+  "analysis": {
+    "durationSec": 249.1,
+    "bpm": 143.76,
+    "bpmConfidence": 0.44,
+    "beatOffset": 1.5096,
+    "key": {
+      "name": "D#",
+      "camelot": "5B",
+      "confidence": 0.69
+    },
+    "rmsDb": -11.3,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

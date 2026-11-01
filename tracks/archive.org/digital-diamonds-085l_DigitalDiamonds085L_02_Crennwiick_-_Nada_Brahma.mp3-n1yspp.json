@@ -1,0 +1,52 @@
+{
+  "version": 1,
+  "id": "archive.org:digital-diamonds-085l/[DigitalDiamonds085L]_02_Crennwiick_-_Nada_Brahma.mp3",
+  "source": "archive.org",
+  "title": "Nada Brahma",
+  "artist": "Crennwiick",
+  "album": "The World's Recreation",
+  "pageUrl": "https://archive.org/details/digital-diamonds-085l",
+  "audioUrl": "https://archive.org/download/digital-diamonds-085l/%5BDigitalDiamonds085L%5D_02_Crennwiick_-_Nada_Brahma.mp3",
+  "fileName": "[DigitalDiamonds085L]_02_Crennwiick_-_Nada_Brahma.mp3",
+  "sizeBytes": 17109937,
+  "license": {
+    "code": "by-nc-nd",
+    "version": "4.0",
+    "label": "CC BY-NC-ND 4.0",
+    "url": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": false,
+    "shareAlike": false,
+    "publicDomain": false
+  },
+  "genre": "Trance",
+  "tags": [
+    "Digital Diamonds",
+    "Trance",
+    "Techno",
+    "Animals",
+    "Tapir",
+    "Sound",
+    "Music",
+    "Netlabel",
+    "Digital Diamonds",
+    "2021",
+    "electronic",
+    "electro"
+  ],
+  "analysis": {
+    "durationSec": 347.98,
+    "bpm": 125,
+    "bpmConfidence": 0.81,
+    "beatOffset": 1.0062,
+    "key": {
+      "name": "Fm",
+      "camelot": "4A",
+      "confidence": 0.91
+    },
+    "rmsDb": -9.4,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

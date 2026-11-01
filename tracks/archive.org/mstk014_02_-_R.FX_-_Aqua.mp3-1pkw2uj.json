@@ -1,0 +1,52 @@
+{
+  "version": 1,
+  "id": "archive.org:mstk014/02_-_R.FX_-_Aqua.mp3",
+  "source": "archive.org",
+  "title": "Aqua",
+  "artist": "R.FX",
+  "album": "Candle Light Therapy LP",
+  "pageUrl": "https://archive.org/details/mstk014",
+  "audioUrl": "https://archive.org/download/mstk014/02_-_R.FX_-_Aqua.mp3",
+  "fileName": "02_-_R.FX_-_Aqua.mp3",
+  "sizeBytes": 11195731,
+  "license": {
+    "code": "by-nc-sa",
+    "version": "3.0",
+    "label": "CC BY-NC-SA 3.0",
+    "url": "http://creativecommons.org/licenses/by-nc-sa/3.0/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": true,
+    "shareAlike": true,
+    "publicDomain": false
+  },
+  "genre": "Drum & Bass",
+  "tags": [
+    "atmospheric",
+    "artcore",
+    "intelligent",
+    "drum and bass",
+    "dnb",
+    "mastik",
+    "netlabel",
+    "liquid",
+    "liquid funk",
+    "enjoy life",
+    "r.fx",
+    "kosmonaut"
+  ],
+  "analysis": {
+    "durationSec": 272.92,
+    "bpm": 110,
+    "bpmConfidence": 1,
+    "beatOffset": 0.7308,
+    "key": {
+      "name": "C",
+      "camelot": "8B",
+      "confidence": 0.8
+    },
+    "rmsDb": -16.5,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

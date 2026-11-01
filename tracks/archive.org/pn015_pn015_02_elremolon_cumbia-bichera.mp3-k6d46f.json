@@ -1,0 +1,49 @@
+{
+  "version": 1,
+  "id": "archive.org:pn015/pn015_02_elremolon_cumbia-bichera.mp3",
+  "source": "archive.org",
+  "title": "Cumbia Bichera",
+  "artist": "El Remolon",
+  "album": "Cumbia Bichera EP [pn015]",
+  "pageUrl": "https://archive.org/details/pn015",
+  "audioUrl": "https://archive.org/download/pn015/pn015_02_elremolon_cumbia-bichera.mp3",
+  "fileName": "pn015_02_elremolon_cumbia-bichera.mp3",
+  "sizeBytes": 16315222,
+  "license": {
+    "code": "by-nc-nd",
+    "version": "3.0",
+    "label": "CC BY-NC-ND 3.0",
+    "url": "http://creativecommons.org/licenses/by-nc-nd/3.0/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": false,
+    "shareAlike": false,
+    "publicDomain": false
+  },
+  "genre": "IDM / Electronica",
+  "tags": [
+    "mínimal",
+    "IDM",
+    "experimental",
+    "cumbia",
+    "reggeaton",
+    "pueblo",
+    "nuevo",
+    "chile",
+    "argentina"
+  ],
+  "analysis": {
+    "durationSec": 405.97,
+    "bpm": 162,
+    "bpmConfidence": 1,
+    "beatOffset": 0.0325,
+    "key": {
+      "name": "Dm",
+      "camelot": "7A",
+      "confidence": 0.79
+    },
+    "rmsDb": -12.2,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

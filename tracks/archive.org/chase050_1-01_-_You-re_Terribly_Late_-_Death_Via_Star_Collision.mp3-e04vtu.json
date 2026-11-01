@@ -1,0 +1,52 @@
+{
+  "version": 1,
+  "id": "archive.org:chase050/1-01_-_You-re_Terribly_Late_-_Death_Via_Star_Collision.mp3",
+  "source": "archive.org",
+  "title": "You're Terribly Late - Death Via Star Collision",
+  "artist": "You're Terribly Late",
+  "album": "[chase 050] - V/A - Lost In The Woods - CD1",
+  "pageUrl": "https://archive.org/details/chase050",
+  "audioUrl": "https://archive.org/download/chase050/1-01_-_You-re_Terribly_Late_-_Death_Via_Star_Collision.mp3",
+  "fileName": "1-01_-_You-re_Terribly_Late_-_Death_Via_Star_Collision.mp3",
+  "sizeBytes": 15495306,
+  "license": {
+    "code": "by-nc-nd",
+    "version": "3.0",
+    "label": "CC BY-NC-ND 3.0",
+    "url": "http://creativecommons.org/licenses/by-nc-nd/3.0/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": false,
+    "shareAlike": false,
+    "publicDomain": false
+  },
+  "genre": "Dubstep",
+  "tags": [
+    "Chase Records",
+    "IDM",
+    "Ambient",
+    "Dark Ambient",
+    "Techno",
+    "Hardcore",
+    "Breakcore",
+    "Speedcore",
+    "Flashcore",
+    "Experimental",
+    "Dubstep",
+    "Jungle"
+  ],
+  "analysis": {
+    "durationSec": 375.94,
+    "bpm": 166.24,
+    "bpmConfidence": 0.4,
+    "beatOffset": 1.2718,
+    "key": {
+      "name": "D#m",
+      "camelot": "2A",
+      "confidence": 0.76
+    },
+    "rmsDb": -14.3,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

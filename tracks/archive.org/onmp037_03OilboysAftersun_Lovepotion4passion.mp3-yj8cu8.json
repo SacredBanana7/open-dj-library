@@ -1,0 +1,52 @@
+{
+  "version": 1,
+  "id": "archive.org:onmp037/03OilboysAftersun_Lovepotion4passion.mp3",
+  "source": "archive.org",
+  "title": "Love potion 4 passion",
+  "artist": "Oilboy's aftersun",
+  "album": "Oil boiled fantasies",
+  "pageUrl": "https://archive.org/details/onmp037",
+  "audioUrl": "https://archive.org/download/onmp037/03OilboysAftersun_Lovepotion4passion.mp3",
+  "fileName": "03OilboysAftersun_Lovepotion4passion.mp3",
+  "sizeBytes": 6631424,
+  "license": {
+    "code": "by-nc",
+    "version": "3.0",
+    "label": "CC BY-NC 3.0",
+    "url": "http://creativecommons.org/licenses/by-nc/3.0/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": true,
+    "shareAlike": false,
+    "publicDomain": false
+  },
+  "genre": "House",
+  "tags": [
+    "disco",
+    "club",
+    "samba",
+    "tribal",
+    "Mr.DeVo!",
+    "Oilboy's aftersun",
+    "Oil boiled fantasies",
+    "House",
+    "clubhouse",
+    "dance",
+    "Sneek",
+    "Holland"
+  ],
+  "analysis": {
+    "durationSec": 276.19,
+    "bpm": 119.92,
+    "bpmConfidence": 1,
+    "beatOffset": 0.5242,
+    "key": {
+      "name": "F",
+      "camelot": "7B",
+      "confidence": 0.84
+    },
+    "rmsDb": -16,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

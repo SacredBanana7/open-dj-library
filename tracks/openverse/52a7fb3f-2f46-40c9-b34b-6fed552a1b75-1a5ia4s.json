@@ -1,0 +1,47 @@
+{
+  "version": 1,
+  "id": "openverse:52a7fb3f-2f46-40c9-b34b-6fed552a1b75",
+  "source": "openverse",
+  "provider": "jamendo",
+  "title": "Burnin Down the House",
+  "artist": "Saint Anyway",
+  "artistUrl": "https://www.jamendo.com/artist/508202/Saint_Anyway",
+  "album": "Here On The Ground",
+  "pageUrl": "https://www.jamendo.com/track/1538439",
+  "audioUrl": "https://prod-1.storage.jamendo.com/?trackid=1538439&format=mp32",
+  "fileName": "Saint Anyway - Burnin Down the House.mp3",
+  "license": {
+    "code": "by",
+    "version": "3.0",
+    "label": "CC BY 3.0",
+    "url": "https://creativecommons.org/licenses/by/3.0/",
+    "attribution": true,
+    "commercial": true,
+    "derivatives": true,
+    "shareAlike": false,
+    "publicDomain": false
+  },
+  "genre": "House",
+  "tags": [
+    "banjo",
+    "guitar",
+    "male",
+    "sad",
+    "speed_medium",
+    "vocal"
+  ],
+  "analysis": {
+    "durationSec": 217.49,
+    "bpm": 137.42,
+    "bpmConfidence": 0.53,
+    "beatOffset": 0.8519,
+    "key": {
+      "name": "A#",
+      "camelot": "6B",
+      "confidence": 0.82
+    },
+    "rmsDb": -15.3,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

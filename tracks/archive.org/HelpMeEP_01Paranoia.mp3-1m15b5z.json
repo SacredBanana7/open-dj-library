@@ -1,0 +1,41 @@
+{
+  "version": 1,
+  "id": "archive.org:HelpMeEP/01Paranoia.mp3",
+  "source": "archive.org",
+  "title": "Paranoia",
+  "artist": "The S.K.",
+  "album": "Help Me EP",
+  "pageUrl": "https://archive.org/details/HelpMeEP",
+  "audioUrl": "https://archive.org/download/HelpMeEP/01Paranoia.mp3",
+  "fileName": "01Paranoia.mp3",
+  "sizeBytes": 10688464,
+  "license": {
+    "code": "by-nc-nd",
+    "version": "2.0",
+    "label": "CC BY-NC-ND 2.0 FR",
+    "url": "http://creativecommons.org/licenses/by-nc-nd/2.0/fr/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": false,
+    "shareAlike": false,
+    "publicDomain": false
+  },
+  "genre": "Dubstep",
+  "tags": [
+    "Dubstep"
+  ],
+  "analysis": {
+    "durationSec": 333.62,
+    "bpm": 141,
+    "bpmConfidence": 0.72,
+    "beatOffset": 0.8488,
+    "key": {
+      "name": "C#m",
+      "camelot": "12A",
+      "confidence": 0.49
+    },
+    "rmsDb": -10.7,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

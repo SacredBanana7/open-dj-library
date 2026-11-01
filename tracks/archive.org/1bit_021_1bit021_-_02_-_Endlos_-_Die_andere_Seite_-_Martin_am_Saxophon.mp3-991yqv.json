@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "id": "archive.org:1bit_021/1bit021_-_02_-_Endlos_-_Die_andere_Seite_-_Martin_am_Saxophon.mp3",
+  "source": "archive.org",
+  "title": "Die andere Seite (Martin am Saxophon)",
+  "artist": "Endlos",
+  "album": "Das musste ja so kommen EP",
+  "pageUrl": "https://archive.org/details/1bit_021",
+  "audioUrl": "https://archive.org/download/1bit_021/1bit021_-_02_-_Endlos_-_Die_andere_Seite_-_Martin_am_Saxophon.mp3",
+  "fileName": "1bit021_-_02_-_Endlos_-_Die_andere_Seite_-_Martin_am_Saxophon.mp3",
+  "sizeBytes": 11446272,
+  "license": {
+    "code": "by-nc-sa",
+    "version": "2.5",
+    "label": "CC BY-NC-SA 2.5",
+    "url": "http://creativecommons.org/licenses/by-nc-sa/2.5/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": true,
+    "shareAlike": true,
+    "publicDomain": false
+  },
+  "genre": "IDM / Electronica",
+  "tags": [
+    "1bit",
+    "1bit wonder",
+    "electronic",
+    "music",
+    "mp3",
+    "endlos",
+    "electronica",
+    "downbeat,chill,chillout"
+  ],
+  "analysis": {
+    "durationSec": 357.6,
+    "bpm": 174.62,
+    "bpmConfidence": 0.4,
+    "beatOffset": 0.6421,
+    "key": {
+      "name": "D",
+      "camelot": "10B",
+      "confidence": 0.89
+    },
+    "rmsDb": -15.9,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

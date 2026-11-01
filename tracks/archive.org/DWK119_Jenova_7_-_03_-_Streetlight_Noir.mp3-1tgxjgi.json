@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "id": "archive.org:DWK119/Jenova_7_-_03_-_Streetlight_Noir.mp3",
+  "source": "archive.org",
+  "title": "Streetlight Noir",
+  "artist": "Jenova 7",
+  "album": "Dusted Jazz Volume Two (LP)",
+  "pageUrl": "https://archive.org/details/DWK119",
+  "audioUrl": "https://archive.org/download/DWK119/Jenova_7_-_03_-_Streetlight_Noir.mp3",
+  "fileName": "Jenova_7_-_03_-_Streetlight_Noir.mp3",
+  "sizeBytes": 6878405,
+  "license": {
+    "code": "by-nc-nd",
+    "version": "3.0",
+    "label": "CC BY-NC-ND 3.0",
+    "url": "http://creativecommons.org/licenses/by-nc-nd/3.0/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": false,
+    "shareAlike": false,
+    "publicDomain": false
+  },
+  "genre": "Hip Hop",
+  "tags": [
+    "Jenova 7",
+    "Dusted Wax Kingdom",
+    "trip-hop",
+    "downtempo",
+    "instrumental hip-hop",
+    "jazz",
+    "abstract hip-hop"
+  ],
+  "analysis": {
+    "durationSec": 166.48,
+    "bpm": 75,
+    "bpmConfidence": 0.75,
+    "beatOffset": 0.4666,
+    "key": {
+      "name": "B",
+      "camelot": "1B",
+      "confidence": 0.71
+    },
+    "rmsDb": -15,
+    "analyzer": "pulsar-dj/analysis-worker 0.1",
+    "tempoFolded": 0.5
+  },
+  "added": "2026-11-01"
+}

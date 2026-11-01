@@ -1,0 +1,42 @@
+{
+  "version": 1,
+  "id": "archive.org:bump027/bump027_01-dj_toshio-reconstruction.mp3",
+  "source": "archive.org",
+  "title": "Reconstruction",
+  "artist": "DJ Toshio",
+  "album": "The Turntablist",
+  "pageUrl": "https://archive.org/details/bump027",
+  "audioUrl": "https://archive.org/download/bump027/bump027_01-dj_toshio-reconstruction.mp3",
+  "fileName": "bump027_01-dj_toshio-reconstruction.mp3",
+  "sizeBytes": 5014717,
+  "license": {
+    "code": "by-nc-sa",
+    "version": "2.5",
+    "label": "CC BY-NC-SA 2.5",
+    "url": "http://creativecommons.org/licenses/by-nc-sa/2.5/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": true,
+    "shareAlike": true,
+    "publicDomain": false
+  },
+  "genre": "House",
+  "tags": [
+    "Electronic",
+    "House"
+  ],
+  "analysis": {
+    "durationSec": 208.68,
+    "bpm": 125,
+    "bpmConfidence": 1,
+    "beatOffset": 1.7005,
+    "key": {
+      "name": "Em",
+      "camelot": "9A",
+      "confidence": 0.78
+    },
+    "rmsDb": -15.5,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

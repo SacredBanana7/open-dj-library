@@ -1,0 +1,45 @@
+{
+  "version": 1,
+  "id": "archive.org:HL018/06-infantil.mp3",
+  "source": "archive.org",
+  "title": "infantil",
+  "artist": "Ocaixi",
+  "album": "Jove Carn Japonesa",
+  "pageUrl": "https://archive.org/details/HL018",
+  "audioUrl": "https://archive.org/download/HL018/06-infantil.mp3",
+  "fileName": "06-infantil.mp3",
+  "sizeBytes": 3311070,
+  "license": {
+    "code": "by-nc-nd",
+    "version": "2.5",
+    "label": "CC BY-NC-ND 2.5",
+    "url": "http://creativecommons.org/licenses/by-nc-nd/2.5/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": false,
+    "shareAlike": false,
+    "publicDomain": false
+  },
+  "genre": "Experimental",
+  "tags": [
+    "ocaixi",
+    "hamsterloco",
+    "japanese",
+    "catalan",
+    "experimental"
+  ],
+  "analysis": {
+    "durationSec": 206.05,
+    "bpm": 145.16,
+    "bpmConfidence": 0.43,
+    "beatOffset": 0.3316,
+    "key": {
+      "name": "Fm",
+      "camelot": "4A",
+      "confidence": 0.29
+    },
+    "rmsDb": -8.5,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

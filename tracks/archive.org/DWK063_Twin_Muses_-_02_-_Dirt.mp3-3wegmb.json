@@ -1,0 +1,49 @@
+{
+  "version": 1,
+  "id": "archive.org:DWK063/Twin_Muses_-_02_-_Dirt.mp3",
+  "source": "archive.org",
+  "title": "Dirt",
+  "artist": "Twin Muses",
+  "album": "French Afrocentric EP",
+  "pageUrl": "https://archive.org/details/DWK063",
+  "audioUrl": "https://archive.org/download/DWK063/Twin_Muses_-_02_-_Dirt.mp3",
+  "fileName": "Twin_Muses_-_02_-_Dirt.mp3",
+  "sizeBytes": 13942181,
+  "license": {
+    "code": "by-nc-nd",
+    "version": "3.0",
+    "label": "CC BY-NC-ND 3.0",
+    "url": "http://creativecommons.org/licenses/by-nc-nd/3.0/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": false,
+    "shareAlike": false,
+    "publicDomain": false
+  },
+  "genre": "Hip Hop",
+  "tags": [
+    "Twin Muses",
+    "Mr. Moods",
+    "Marquee Gibb",
+    "Dusted Wax Kingdom",
+    "trip-hop",
+    "downtempo",
+    "hip-hop",
+    "jazz"
+  ],
+  "analysis": {
+    "durationSec": 348.53,
+    "bpm": 77.81,
+    "bpmConfidence": 0.48,
+    "beatOffset": 0.0175,
+    "key": {
+      "name": "Bm",
+      "camelot": "10A",
+      "confidence": 0.71
+    },
+    "rmsDb": -13.3,
+    "analyzer": "pulsar-dj/analysis-worker 0.1",
+    "tempoFolded": 0.5
+  },
+  "added": "2026-11-01"
+}

@@ -1,0 +1,41 @@
+{
+  "version": 1,
+  "id": "archive.org:ZRD023/b-dextems_and_b_soul-vampires-zardonic.mp3",
+  "source": "archive.org",
+  "title": "Vampires",
+  "artist": "Dextems & B Soul",
+  "album": "From Samara With Love EP",
+  "pageUrl": "https://archive.org/details/ZRD023",
+  "audioUrl": "https://archive.org/download/ZRD023/b-dextems_and_b_soul-vampires-zardonic.mp3",
+  "fileName": "b-dextems_and_b_soul-vampires-zardonic.mp3",
+  "sizeBytes": 14980788,
+  "license": {
+    "code": "by-nc-sa",
+    "version": "3.0",
+    "label": "CC BY-NC-SA 3.0",
+    "url": "http://creativecommons.org/licenses/by-nc-sa/3.0/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": true,
+    "shareAlike": true,
+    "publicDomain": false
+  },
+  "genre": "Disco / Funk",
+  "tags": [
+    "drum, bass, russia, dextems, hard, neuro, funk, neurofunk, tech, step, techstep, dub, elements, b soul, zardonic, recordings"
+  ],
+  "analysis": {
+    "durationSec": 374.47,
+    "bpm": 166,
+    "bpmConfidence": 0.39,
+    "beatOffset": 0.3778,
+    "key": {
+      "name": "Fm",
+      "camelot": "4A",
+      "confidence": 0.79
+    },
+    "rmsDb": -7.1,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

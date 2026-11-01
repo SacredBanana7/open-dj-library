@@ -1,0 +1,42 @@
+{
+  "version": 1,
+  "id": "archive.org:siro634Smat-Ccxvi/04-Smat-Xaman.mp3",
+  "source": "archive.org",
+  "title": "Xaman",
+  "artist": "Smat",
+  "album": "CCXVI",
+  "pageUrl": "https://archive.org/details/siro634Smat-Ccxvi",
+  "audioUrl": "https://archive.org/download/siro634Smat-Ccxvi/04-Smat-Xaman.mp3",
+  "fileName": "04-Smat-Xaman.mp3",
+  "sizeBytes": 8498934,
+  "license": {
+    "code": "by-nc-nd",
+    "version": "3.0",
+    "label": "CC BY-NC-ND 3.0",
+    "url": "http://creativecommons.org/licenses/by-nc-nd/3.0/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": false,
+    "shareAlike": false,
+    "publicDomain": false
+  },
+  "genre": "Dubstep",
+  "tags": [
+    "Dubstep",
+    "Deathstep"
+  ],
+  "analysis": {
+    "durationSec": 200.62,
+    "bpm": 140,
+    "bpmConfidence": 0.9,
+    "beatOffset": 0.0689,
+    "key": {
+      "name": "Bm",
+      "camelot": "10A",
+      "confidence": 0.44
+    },
+    "rmsDb": -9.4,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

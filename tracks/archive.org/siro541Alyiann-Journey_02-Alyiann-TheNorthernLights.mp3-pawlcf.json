@@ -1,0 +1,42 @@
+{
+  "version": 1,
+  "id": "archive.org:siro541Alyiann-Journey/02-Alyiann-TheNorthernLights.mp3",
+  "source": "archive.org",
+  "title": "The Northern Lights",
+  "artist": "Alyiann",
+  "album": "Journey",
+  "pageUrl": "https://archive.org/details/siro541Alyiann-Journey",
+  "audioUrl": "https://archive.org/download/siro541Alyiann-Journey/02-Alyiann-TheNorthernLights.mp3",
+  "fileName": "02-Alyiann-TheNorthernLights.mp3",
+  "sizeBytes": 13355248,
+  "license": {
+    "code": "by-nc-nd",
+    "version": "3.0",
+    "label": "CC BY-NC-ND 3.0",
+    "url": "http://creativecommons.org/licenses/by-nc-nd/3.0/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": false,
+    "shareAlike": false,
+    "publicDomain": false
+  },
+  "genre": "Dubstep",
+  "tags": [
+    "Dubstep",
+    "Chillstep"
+  ],
+  "analysis": {
+    "durationSec": 315.48,
+    "bpm": 135.2,
+    "bpmConfidence": 0.39,
+    "beatOffset": 0.1079,
+    "key": {
+      "name": "Am",
+      "camelot": "8A",
+      "confidence": 0.84
+    },
+    "rmsDb": -12.9,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

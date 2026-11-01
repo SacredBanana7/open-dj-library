@@ -1,0 +1,52 @@
+{
+  "version": 1,
+  "id": "archive.org:Dtrash171-RubberMuffin-Duckcore/dtrash171_01_because_thats_what_happens_in_the_fucking_kitchen.mp3",
+  "source": "archive.org",
+  "title": "Because Thats What Happens In The Fucking Kitchen (Featuring Meat Parade)",
+  "artist": "Rubber Muffin",
+  "album": "DTRASH171 - Duckcore",
+  "pageUrl": "https://archive.org/details/Dtrash171-RubberMuffin-Duckcore",
+  "audioUrl": "https://archive.org/download/Dtrash171-RubberMuffin-Duckcore/dtrash171_01_because_thats_what_happens_in_the_fucking_kitchen.mp3",
+  "fileName": "dtrash171_01_because_thats_what_happens_in_the_fucking_kitchen.mp3",
+  "sizeBytes": 8390330,
+  "license": {
+    "code": "by-nc",
+    "version": "3.0",
+    "label": "CC BY-NC 3.0",
+    "url": "http://creativecommons.org/licenses/by-nc/3.0/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": true,
+    "shareAlike": false,
+    "publicDomain": false
+  },
+  "genre": "Dubstep",
+  "tags": [
+    "dnb",
+    "hardcore",
+    "digital hardcore",
+    "breakcore",
+    "splattercore",
+    "d-trash",
+    "rubber muffin",
+    "rancorous",
+    "broken Beat",
+    "dubstep",
+    "noise",
+    "experimental"
+  ],
+  "analysis": {
+    "durationSec": 208.17,
+    "bpm": 110,
+    "bpmConfidence": 0.51,
+    "beatOffset": 0.2514,
+    "key": {
+      "name": "A#",
+      "camelot": "6B",
+      "confidence": 0.55
+    },
+    "rmsDb": -9.4,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

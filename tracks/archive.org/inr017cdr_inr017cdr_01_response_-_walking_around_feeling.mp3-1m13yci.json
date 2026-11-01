@@ -1,0 +1,52 @@
+{
+  "version": 1,
+  "id": "archive.org:inr017cdr/inr017cdr_01_response_-_walking_around_feeling.mp3",
+  "source": "archive.org",
+  "title": "Walking around feeling",
+  "artist": "Response",
+  "album": "[inr017cdr] V.A. \"Five years, five months\"",
+  "pageUrl": "https://archive.org/details/inr017cdr",
+  "audioUrl": "https://archive.org/download/inr017cdr/inr017cdr_01_response_-_walking_around_feeling.mp3",
+  "fileName": "inr017cdr_01_response_-_walking_around_feeling.mp3",
+  "sizeBytes": 16173016,
+  "license": {
+    "code": "by-nc-nd",
+    "version": "3.0",
+    "label": "CC BY-NC-ND 3.0",
+    "url": "http://creativecommons.org/licenses/by-nc-nd/3.0/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": false,
+    "shareAlike": false,
+    "publicDomain": false
+  },
+  "genre": "IDM / Electronica",
+  "tags": [
+    "inrecs",
+    "compilation",
+    "electronica",
+    "monoceros",
+    "sr. aye",
+    "response",
+    "aairial",
+    "phantasystem",
+    "Rezo Glonti",
+    "Neboa",
+    "Musica para khaos",
+    "Stable Mechanism"
+  ],
+  "analysis": {
+    "durationSec": 404.21,
+    "bpm": 142.5,
+    "bpmConfidence": 0.4,
+    "beatOffset": 1.3484,
+    "key": {
+      "name": "B",
+      "camelot": "1B",
+      "confidence": 0.83
+    },
+    "rmsDb": -11,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

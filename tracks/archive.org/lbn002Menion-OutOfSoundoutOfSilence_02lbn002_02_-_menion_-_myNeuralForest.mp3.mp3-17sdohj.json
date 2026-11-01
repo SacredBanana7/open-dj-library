@@ -1,0 +1,44 @@
+{
+  "version": 1,
+  "id": "archive.org:lbn002Menion-OutOfSoundoutOfSilence/02lbn002_02_-_menion_-_myNeuralForest.mp3.mp3",
+  "source": "archive.org",
+  "title": "My neural forest",
+  "artist": "Menion",
+  "album": "[LBN002] Out of Sound - Out of silence",
+  "pageUrl": "https://archive.org/details/lbn002Menion-OutOfSoundoutOfSilence",
+  "audioUrl": "https://archive.org/download/lbn002Menion-OutOfSoundoutOfSilence/02lbn002_02_-_menion_-_myNeuralForest.mp3.mp3",
+  "fileName": "02lbn002_02_-_menion_-_myNeuralForest.mp3.mp3",
+  "sizeBytes": 10761304,
+  "license": {
+    "code": "by-nc-sa",
+    "version": "3.0",
+    "label": "CC BY-NC-SA 3.0",
+    "url": "http://creativecommons.org/licenses/by-nc-sa/3.0/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": true,
+    "shareAlike": true,
+    "publicDomain": false
+  },
+  "genre": "Ambient",
+  "tags": [
+    "Electronic",
+    "Acoustic",
+    "Ambient",
+    "Indietronica"
+  ],
+  "analysis": {
+    "durationSec": 249.65,
+    "bpm": 160,
+    "bpmConfidence": 1,
+    "beatOffset": 0.4537,
+    "key": {
+      "name": "D#",
+      "camelot": "5B",
+      "confidence": 0.8
+    },
+    "rmsDb": -19.2,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

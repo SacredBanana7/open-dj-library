@@ -1,0 +1,42 @@
+{
+  "version": 1,
+  "id": "archive.org:BSCOMP0005B/01-GarmischPartenkirchen-BlackPaint_192kb.mp3",
+  "source": "archive.org",
+  "title": "01 - Garmisch Partenkirchen - Black Paint",
+  "artist": "Garmisch Partenkirchen",
+  "album": "netBloc Vol. 5: The threat at Goliath's feet...",
+  "pageUrl": "https://archive.org/details/BSCOMP0005B",
+  "audioUrl": "https://archive.org/download/BSCOMP0005B/01-GarmischPartenkirchen-BlackPaint_192kb.mp3",
+  "fileName": "01-GarmischPartenkirchen-BlackPaint_192kb.mp3",
+  "sizeBytes": 4452802,
+  "license": {
+    "code": "by-nc-nd",
+    "version": "3.0",
+    "label": "CC BY-NC-ND 3.0",
+    "url": "http://creativecommons.org/licenses/by-nc-nd/3.0/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": false,
+    "shareAlike": false,
+    "publicDomain": false
+  },
+  "genre": "Hip Hop",
+  "tags": [
+    "rock, post-rock, jazz, hip-hop, electronica, glitch-pop, dub, pop"
+  ],
+  "analysis": {
+    "durationSec": 166.62,
+    "bpm": 86.66,
+    "bpmConfidence": 0.52,
+    "beatOffset": 0.3001,
+    "key": {
+      "name": "G#",
+      "camelot": "4B",
+      "confidence": 0.61
+    },
+    "rmsDb": -19.8,
+    "analyzer": "pulsar-dj/analysis-worker 0.1",
+    "tempoFolded": 0.5
+  },
+  "added": "2026-11-01"
+}

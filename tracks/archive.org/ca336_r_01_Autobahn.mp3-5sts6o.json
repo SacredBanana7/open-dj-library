@@ -1,0 +1,45 @@
+{
+  "version": 1,
+  "id": "archive.org:ca336_r/01_Autobahn.mp3",
+  "source": "archive.org",
+  "title": "Autobahn",
+  "artist": "Rara",
+  "album": "ca336 - Rara - Krautfeuer",
+  "pageUrl": "https://archive.org/details/ca336_r",
+  "audioUrl": "https://archive.org/download/ca336_r/01_Autobahn.mp3",
+  "fileName": "01_Autobahn.mp3",
+  "sizeBytes": 9638016,
+  "license": {
+    "code": "by-nc-nd",
+    "version": "3.0",
+    "label": "CC BY-NC-ND 3.0",
+    "url": "http://creativecommons.org/licenses/by-nc-nd/3.0/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": false,
+    "shareAlike": false,
+    "publicDomain": false
+  },
+  "genre": "Disco / Funk",
+  "tags": [
+    "fusion",
+    "funk",
+    "fun",
+    "jazz",
+    "electronic"
+  ],
+  "analysis": {
+    "durationSec": 240.86,
+    "bpm": 146,
+    "bpmConfidence": 1,
+    "beatOffset": 0.1417,
+    "key": {
+      "name": "Bm",
+      "camelot": "10A",
+      "confidence": 0.67
+    },
+    "rmsDb": -14.2,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

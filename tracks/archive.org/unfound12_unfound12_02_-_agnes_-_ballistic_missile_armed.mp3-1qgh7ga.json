@@ -1,0 +1,42 @@
+{
+  "version": 1,
+  "id": "archive.org:unfound12/unfound12_02_-_agnes_-_ballistic_missile_armed.mp3",
+  "source": "archive.org",
+  "title": "ballistic missile armed",
+  "artist": "agnes",
+  "album": "[unfound12] trust matters",
+  "pageUrl": "https://archive.org/details/unfound12",
+  "audioUrl": "https://archive.org/download/unfound12/unfound12_02_-_agnes_-_ballistic_missile_armed.mp3",
+  "fileName": "unfound12_02_-_agnes_-_ballistic_missile_armed.mp3",
+  "sizeBytes": 10827776,
+  "license": {
+    "code": "by-nc-nd",
+    "version": "2.5",
+    "label": "CC BY-NC-ND 2.5",
+    "url": "http://creativecommons.org/licenses/by-nc-nd/2.5/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": false,
+    "shareAlike": false,
+    "publicDomain": false
+  },
+  "genre": "House",
+  "tags": [
+    "Minimal House",
+    "minimal techno"
+  ],
+  "analysis": {
+    "durationSec": 338.29,
+    "bpm": 126,
+    "bpmConfidence": 1,
+    "beatOffset": 1.7236,
+    "key": {
+      "name": "Bm",
+      "camelot": "10A",
+      "confidence": 0.46
+    },
+    "rmsDb": -12.9,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

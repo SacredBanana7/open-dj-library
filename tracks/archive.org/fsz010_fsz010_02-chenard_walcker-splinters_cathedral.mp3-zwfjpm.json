@@ -1,0 +1,45 @@
+{
+  "version": 1,
+  "id": "archive.org:fsz010/fsz010_02-chenard_walcker-splinters_cathedral.mp3",
+  "source": "archive.org",
+  "title": "Splinters Cathedral",
+  "artist": "Chenard Walcker",
+  "album": "Utopia [fsz010]",
+  "pageUrl": "https://archive.org/details/fsz010",
+  "audioUrl": "https://archive.org/download/fsz010/fsz010_02-chenard_walcker-splinters_cathedral.mp3",
+  "fileName": "fsz010_02-chenard_walcker-splinters_cathedral.mp3",
+  "sizeBytes": 3721216,
+  "license": {
+    "code": "by-nc",
+    "version": "2.5",
+    "label": "CC BY-NC 2.5",
+    "url": "http://creativecommons.org/licenses/by-nc/2.5/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": true,
+    "shareAlike": false,
+    "publicDomain": false
+  },
+  "genre": "Disco / Funk",
+  "tags": [
+    "Alternative",
+    "Avantgarde",
+    "Jazz+Funk",
+    "Sample Madness",
+    "Plunderphonics"
+  ],
+  "analysis": {
+    "durationSec": 155.19,
+    "bpm": 126,
+    "bpmConfidence": 0.45,
+    "beatOffset": 0.547,
+    "key": {
+      "name": "G",
+      "camelot": "9B",
+      "confidence": 0.55
+    },
+    "rmsDb": -12,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

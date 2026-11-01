@@ -1,0 +1,45 @@
+{
+  "version": 1,
+  "id": "archive.org:adsrec004/02-LostandForgottenLetters.MP3",
+  "source": "archive.org",
+  "title": "Lost and Forgotten Letters",
+  "artist": "Ornament",
+  "album": "Ornament",
+  "pageUrl": "https://archive.org/details/adsrec004",
+  "audioUrl": "https://archive.org/download/adsrec004/02-LostandForgottenLetters.MP3",
+  "fileName": "02-LostandForgottenLetters.MP3",
+  "sizeBytes": 7503872,
+  "license": {
+    "code": "by-nc-sa",
+    "version": "2.5",
+    "label": "CC BY-NC-SA 2.5",
+    "url": "http://creativecommons.org/licenses/by-nc-sa/2.5/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": true,
+    "shareAlike": true,
+    "publicDomain": false
+  },
+  "genre": "Electro",
+  "tags": [
+    "Ambient",
+    "Folk",
+    "Experimental",
+    "Electronica",
+    "Electro, IDM, Experimental"
+  ],
+  "analysis": {
+    "durationSec": 312.63,
+    "bpm": 120,
+    "bpmConfidence": 1,
+    "beatOffset": 0.1986,
+    "key": {
+      "name": "B",
+      "camelot": "1B",
+      "confidence": 0.83
+    },
+    "rmsDb": -16.6,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

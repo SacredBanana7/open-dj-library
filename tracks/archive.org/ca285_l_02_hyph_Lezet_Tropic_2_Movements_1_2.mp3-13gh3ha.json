@@ -1,0 +1,46 @@
+{
+  "version": 1,
+  "id": "archive.org:ca285_l/02_hyph_Lezet__Tropic_2_Movements_1_2.mp3",
+  "source": "archive.org",
+  "title": "02 - [-hyph-], John Hughes, Lars Scherzberg & Lezet - Tropic 2 (Movements 1 & 2)",
+  "artist": "Lezet",
+  "album": "ca285 - Lezet - Meld4",
+  "pageUrl": "https://archive.org/details/ca285_l",
+  "audioUrl": "https://archive.org/download/ca285_l/02_hyph_Lezet__Tropic_2_Movements_1_2.mp3",
+  "fileName": "02_hyph_Lezet__Tropic_2_Movements_1_2.mp3",
+  "sizeBytes": 23201099,
+  "license": {
+    "code": "by-nc-nd",
+    "version": "3.0",
+    "label": "CC BY-NC-ND 3.0",
+    "url": "http://creativecommons.org/licenses/by-nc-nd/3.0/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": false,
+    "shareAlike": false,
+    "publicDomain": false
+  },
+  "genre": "Electro",
+  "tags": [
+    "free improvisation, spoken word, experimental",
+    "avant-garde",
+    "jazz-electro",
+    "free jazz",
+    "eclectic",
+    "other"
+  ],
+  "analysis": {
+    "durationSec": 579.97,
+    "bpm": 133.08,
+    "bpmConfidence": 0.41,
+    "beatOffset": 1.4099,
+    "key": {
+      "name": "F#m",
+      "camelot": "11A",
+      "confidence": 0.41
+    },
+    "rmsDb": -33,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

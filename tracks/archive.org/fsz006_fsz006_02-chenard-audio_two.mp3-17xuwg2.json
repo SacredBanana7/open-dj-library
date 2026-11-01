@@ -1,0 +1,46 @@
+{
+  "version": 1,
+  "id": "archive.org:fsz006/fsz006_02-chenard-audio_two.mp3",
+  "source": "archive.org",
+  "title": "Audio Two",
+  "artist": "Chenard",
+  "album": "Haut-le-coeur [fsz006]",
+  "pageUrl": "https://archive.org/details/fsz006",
+  "audioUrl": "https://archive.org/download/fsz006/fsz006_02-chenard-audio_two.mp3",
+  "fileName": "fsz006_02-chenard-audio_two.mp3",
+  "sizeBytes": 4730880,
+  "license": {
+    "code": "by-nc",
+    "version": "2.5",
+    "label": "CC BY-NC 2.5",
+    "url": "http://creativecommons.org/licenses/by-nc/2.5/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": true,
+    "shareAlike": false,
+    "publicDomain": false
+  },
+  "genre": "Hip Hop",
+  "tags": [
+    "Alternative",
+    "Avantgarde",
+    "Hip-Hop",
+    "Jazz+Funk",
+    "Sample Madness",
+    "Plunderphonics"
+  ],
+  "analysis": {
+    "durationSec": 197.09,
+    "bpm": 91.44,
+    "bpmConfidence": 1,
+    "beatOffset": 0.2074,
+    "key": {
+      "name": "F",
+      "camelot": "7B",
+      "confidence": 0.35
+    },
+    "rmsDb": -12.4,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

@@ -1,0 +1,47 @@
+{
+  "version": 1,
+  "id": "archive.org:f_pass002/pass002_-_02_clouds_in_my_home_-_waves.mp3",
+  "source": "archive.org",
+  "title": "Waves",
+  "artist": "Clouds In My Home",
+  "album": "[pass002] White Blue Black",
+  "pageUrl": "https://archive.org/details/f_pass002",
+  "audioUrl": "https://archive.org/download/f_pass002/pass002_-_02_clouds_in_my_home_-_waves.mp3",
+  "fileName": "pass002_-_02_clouds_in_my_home_-_waves.mp3",
+  "sizeBytes": 11053038,
+  "license": {
+    "code": "by-nc-nd",
+    "version": "3.0",
+    "label": "CC BY-NC-ND 3.0",
+    "url": "http://creativecommons.org/licenses/by-nc-nd/3.0/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": false,
+    "shareAlike": false,
+    "publicDomain": false
+  },
+  "genre": "Ambient",
+  "tags": [
+    "Passage",
+    "Ambient",
+    "Flow",
+    "Deep",
+    "Foggy",
+    "Autumnal",
+    "Flash"
+  ],
+  "analysis": {
+    "durationSec": 276.3,
+    "bpm": 90,
+    "bpmConfidence": 0.41,
+    "beatOffset": 0.8274,
+    "key": {
+      "name": "Gm",
+      "camelot": "6A",
+      "confidence": 0.76
+    },
+    "rmsDb": -7.8,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

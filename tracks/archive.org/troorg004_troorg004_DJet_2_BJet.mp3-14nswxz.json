@@ -1,0 +1,45 @@
+{
+  "version": 1,
+  "id": "archive.org:troorg004/troorg004_DJet__2_BJet.mp3",
+  "source": "archive.org",
+  "title": "B-Jet",
+  "artist": "D-Jet",
+  "album": "Apart The First EP",
+  "pageUrl": "https://archive.org/details/troorg004",
+  "audioUrl": "https://archive.org/download/troorg004/troorg004_DJet__2_BJet.mp3",
+  "fileName": "troorg004_DJet__2_BJet.mp3",
+  "sizeBytes": 6985728,
+  "license": {
+    "code": "by-nc-sa",
+    "version": "2.0",
+    "label": "CC BY-NC-SA 2.0",
+    "url": "http://creativecommons.org/licenses/by-nc-sa/2.0/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": true,
+    "shareAlike": true,
+    "publicDomain": false
+  },
+  "genre": "Drum & Bass",
+  "tags": [
+    "Ambient/Dnb",
+    "Instrumental Hip-Hop",
+    "Breakbeat",
+    "dark jungle",
+    "electro-organic dance"
+  ],
+  "analysis": {
+    "durationSec": 291,
+    "bpm": 144.18,
+    "bpmConfidence": 0.38,
+    "beatOffset": 0.8164,
+    "key": {
+      "name": "Bm",
+      "camelot": "10A",
+      "confidence": 0.57
+    },
+    "rmsDb": -19.2,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

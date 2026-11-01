@@ -1,0 +1,50 @@
+{
+  "version": 1,
+  "id": "archive.org:1bit_015/1bit015_-_02_-_Nicorola_-_Inner_Zitty.mp3",
+  "source": "archive.org",
+  "title": "Inner Zitty",
+  "artist": "Nicorola",
+  "album": "Capital Bits",
+  "pageUrl": "https://archive.org/details/1bit_015",
+  "audioUrl": "https://archive.org/download/1bit_015/1bit015_-_02_-_Nicorola_-_Inner_Zitty.mp3",
+  "fileName": "1bit015_-_02_-_Nicorola_-_Inner_Zitty.mp3",
+  "sizeBytes": 6578304,
+  "license": {
+    "code": "by-nc-sa",
+    "version": "2.5",
+    "label": "CC BY-NC-SA 2.5",
+    "url": "http://creativecommons.org/licenses/by-nc-sa/2.5/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": true,
+    "shareAlike": true,
+    "publicDomain": false
+  },
+  "genre": "Breakbeat",
+  "tags": [
+    "1bit",
+    "wonder",
+    "minimal",
+    "deep",
+    "breakbeat",
+    "broken",
+    "beats",
+    "breakbeats",
+    "downbeat",
+    "chill"
+  ],
+  "analysis": {
+    "durationSec": 205.47,
+    "bpm": 154.68,
+    "bpmConfidence": 0.79,
+    "beatOffset": 0.5387,
+    "key": {
+      "name": "Em",
+      "camelot": "9A",
+      "confidence": 0.77
+    },
+    "rmsDb": -15.3,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

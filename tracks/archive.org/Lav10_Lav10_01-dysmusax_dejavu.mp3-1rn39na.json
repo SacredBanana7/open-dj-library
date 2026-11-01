@@ -1,0 +1,41 @@
+{
+  "version": 1,
+  "id": "archive.org:Lav10/Lav10_01-dysmusax_dejavu.mp3",
+  "source": "archive.org",
+  "title": "Deja Vu",
+  "artist": "Dysmusax",
+  "album": "ekabandha_ep",
+  "pageUrl": "https://archive.org/details/Lav10",
+  "audioUrl": "https://archive.org/download/Lav10/Lav10_01-dysmusax_dejavu.mp3",
+  "fileName": "Lav10_01-dysmusax_dejavu.mp3",
+  "sizeBytes": 9066496,
+  "license": {
+    "code": "by-nc-nd",
+    "version": "2.0",
+    "label": "CC BY-NC-ND 2.0",
+    "url": "http://creativecommons.org/licenses/by-nc-nd/2.0/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": false,
+    "shareAlike": false,
+    "publicDomain": false
+  },
+  "genre": "Drum & Bass",
+  "tags": [
+    "Drum and Bass"
+  ],
+  "analysis": {
+    "durationSec": 377.6,
+    "bpm": 173.6,
+    "bpmConfidence": 0.38,
+    "beatOffset": 1.2543,
+    "key": {
+      "name": "Em",
+      "camelot": "9A",
+      "confidence": 0.89
+    },
+    "rmsDb": -14.3,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

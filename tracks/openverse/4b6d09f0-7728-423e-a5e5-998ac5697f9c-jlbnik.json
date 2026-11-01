@@ -1,0 +1,44 @@
+{
+  "version": 1,
+  "id": "openverse:4b6d09f0-7728-423e-a5e5-998ac5697f9c",
+  "source": "openverse",
+  "provider": "jamendo",
+  "title": "ANACONDA (techno)",
+  "artist": "Ostenvegr",
+  "artistUrl": "https://www.jamendo.com/artist/365532/Ostenvegr",
+  "album": "Ostenvegr's Travel (Demo)",
+  "pageUrl": "https://www.jamendo.com/track/704400",
+  "audioUrl": "https://prod-1.storage.jamendo.com/?trackid=704400&format=mp32",
+  "fileName": "Ostenvegr - ANACONDA (techno).mp3",
+  "license": {
+    "code": "by-sa",
+    "version": "3.0",
+    "label": "CC BY-SA 3.0",
+    "url": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "attribution": true,
+    "commercial": true,
+    "derivatives": true,
+    "shareAlike": true,
+    "publicDomain": false
+  },
+  "genre": "Techno",
+  "tags": [
+    "instrumental",
+    "speed_medium",
+    "synthesizer"
+  ],
+  "analysis": {
+    "durationSec": 191.16,
+    "bpm": 130,
+    "bpmConfidence": 0.57,
+    "beatOffset": 0.6603,
+    "key": {
+      "name": "F",
+      "camelot": "7B",
+      "confidence": 0.6
+    },
+    "rmsDb": -14.6,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

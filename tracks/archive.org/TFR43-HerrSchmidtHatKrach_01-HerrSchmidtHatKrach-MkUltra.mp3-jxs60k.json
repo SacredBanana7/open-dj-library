@@ -1,0 +1,52 @@
+{
+  "version": 1,
+  "id": "archive.org:TFR43-HerrSchmidtHatKrach/01-HerrSchmidtHatKrach-MkUltra.mp3",
+  "source": "archive.org",
+  "title": "01 - Herr Schmidt Hat Krach - Mk Ultra",
+  "artist": "Herr Schmidt Hat Krach",
+  "album": "El Saber Corrompería a Mis Juventudes",
+  "pageUrl": "https://archive.org/details/TFR43-HerrSchmidtHatKrach",
+  "audioUrl": "https://archive.org/download/TFR43-HerrSchmidtHatKrach/01-HerrSchmidtHatKrach-MkUltra.mp3",
+  "fileName": "01-HerrSchmidtHatKrach-MkUltra.mp3",
+  "sizeBytes": 8020838,
+  "license": {
+    "code": "by-nc-nd",
+    "version": "3.0",
+    "label": "CC BY-NC-ND 3.0",
+    "url": "http://creativecommons.org/licenses/by-nc-nd/3.0/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": false,
+    "shareAlike": false,
+    "publicDomain": false
+  },
+  "genre": "Experimental",
+  "tags": [
+    "Ácido",
+    "Psych",
+    "Kraut",
+    "Noise",
+    "Harsh",
+    "Power",
+    "Electronics",
+    "Marihuana",
+    "Experimental",
+    "Fusion",
+    "Trip",
+    "Mass"
+  ],
+  "analysis": {
+    "durationSec": 334.65,
+    "bpm": 120,
+    "bpmConfidence": 0.5,
+    "beatOffset": 0.7468,
+    "key": {
+      "name": "C",
+      "camelot": "8B",
+      "confidence": 0.77
+    },
+    "rmsDb": -16.1,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

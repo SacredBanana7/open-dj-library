@@ -1,0 +1,47 @@
+{
+  "version": 1,
+  "id": "archive.org:DWK163/deeB_-_02_-_Leiden_Lowlife.mp3",
+  "source": "archive.org",
+  "title": "Leiden Lowlife",
+  "artist": "deeB",
+  "album": "Daydream (EP)",
+  "pageUrl": "https://archive.org/details/DWK163",
+  "audioUrl": "https://archive.org/download/DWK163/deeB_-_02_-_Leiden_Lowlife.mp3",
+  "fileName": "deeB_-_02_-_Leiden_Lowlife.mp3",
+  "sizeBytes": 8314661,
+  "license": {
+    "code": "by-nc-nd",
+    "version": "3.0",
+    "label": "CC BY-NC-ND 3.0",
+    "url": "http://creativecommons.org/licenses/by-nc-nd/3.0/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": false,
+    "shareAlike": false,
+    "publicDomain": false
+  },
+  "genre": "Hip Hop",
+  "tags": [
+    "deeB",
+    "Dusted Wax Kingdom",
+    "acid jazz",
+    "lo-fi",
+    "instrumental hip-hop",
+    "trip-hop"
+  ],
+  "analysis": {
+    "durationSec": 204.3,
+    "bpm": 67.56,
+    "bpmConfidence": 0.56,
+    "beatOffset": 0.7411,
+    "key": {
+      "name": "Fm",
+      "camelot": "4A",
+      "confidence": 0.69
+    },
+    "rmsDb": -13.3,
+    "analyzer": "pulsar-dj/analysis-worker 0.1",
+    "tempoFolded": 0.5
+  },
+  "added": "2026-11-01"
+}

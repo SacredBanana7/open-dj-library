@@ -1,0 +1,45 @@
+{
+  "version": 1,
+  "id": "archive.org:red010/red010-01-flux_kompensator_-_stranger_than_ever_vbr.mp3",
+  "source": "archive.org",
+  "title": "Stranger Than Ever",
+  "artist": "[Flux:Kompensator]",
+  "album": "Doctorin The Time",
+  "pageUrl": "https://archive.org/details/red010",
+  "audioUrl": "https://archive.org/download/red010/red010-01-flux_kompensator_-_stranger_than_ever_vbr.mp3",
+  "fileName": "red010-01-flux_kompensator_-_stranger_than_ever_vbr.mp3",
+  "sizeBytes": 9360002,
+  "license": {
+    "code": "by-nc-nd",
+    "version": "2.5",
+    "label": "CC BY-NC-ND 2.5",
+    "url": "http://creativecommons.org/licenses/by-nc-nd/2.5/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": false,
+    "shareAlike": false,
+    "publicDomain": false
+  },
+  "genre": "Breakbeat",
+  "tags": [
+    "Electronic",
+    "Electronica",
+    "Breakbeat",
+    "Minimal",
+    "IDM"
+  ],
+  "analysis": {
+    "durationSec": 394.29,
+    "bpm": 130.66,
+    "bpmConfidence": 0.58,
+    "beatOffset": 0.3702,
+    "key": {
+      "name": "D",
+      "camelot": "10B",
+      "confidence": 0.79
+    },
+    "rmsDb": -12.4,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

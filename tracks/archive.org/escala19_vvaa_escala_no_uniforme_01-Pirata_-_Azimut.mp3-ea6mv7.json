@@ -1,0 +1,45 @@
+{
+  "version": 1,
+  "id": "archive.org:escala19_vvaa_escala_no_uniforme/01-Pirata_-_Azimut.mp3",
+  "source": "archive.org",
+  "title": "Azimut",
+  "artist": "Pirata",
+  "album": "[escala 1:9] escala no uniforme",
+  "pageUrl": "https://archive.org/details/escala19_vvaa_escala_no_uniforme",
+  "audioUrl": "https://archive.org/download/escala19_vvaa_escala_no_uniforme/01-Pirata_-_Azimut.mp3",
+  "fileName": "01-Pirata_-_Azimut.mp3",
+  "sizeBytes": 10866472,
+  "license": {
+    "code": "by-nc-sa",
+    "version": "3.0",
+    "label": "CC BY-NC-SA 3.0",
+    "url": "http://creativecommons.org/licenses/by-nc-sa/3.0/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": true,
+    "shareAlike": true,
+    "publicDomain": false
+  },
+  "genre": "IDM / Electronica",
+  "tags": [
+    "electronic",
+    "idm",
+    "minimal",
+    "ambient",
+    "experimental"
+  ],
+  "analysis": {
+    "durationSec": 269.32,
+    "bpm": 133.34,
+    "bpmConfidence": 0.94,
+    "beatOffset": 0.9923,
+    "key": {
+      "name": "Bm",
+      "camelot": "10A",
+      "confidence": 0.73
+    },
+    "rmsDb": -17.6,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

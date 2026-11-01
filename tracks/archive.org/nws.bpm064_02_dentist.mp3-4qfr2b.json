@@ -1,0 +1,50 @@
+{
+  "version": 1,
+  "id": "archive.org:nws.bpm064/02 dentist.mp3",
+  "source": "archive.org",
+  "title": "dentist",
+  "artist": "tim susa",
+  "album": "[brq 130] masquerades",
+  "pageUrl": "https://archive.org/details/nws.bpm064",
+  "audioUrl": "https://archive.org/download/nws.bpm064/02%20dentist.mp3",
+  "fileName": "02 dentist.mp3",
+  "sizeBytes": 25288991,
+  "license": {
+    "code": "by-nc-sa",
+    "version": "4.0",
+    "label": "CC BY-NC-SA 4.0",
+    "url": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": true,
+    "shareAlike": true,
+    "publicDomain": false
+  },
+  "genre": "Dubstep",
+  "tags": [
+    "chill-out",
+    "downtempo",
+    "dub",
+    "dubstep",
+    "dubtech",
+    "electronic",
+    "funk",
+    "house",
+    "microhouse",
+    "spoken-word"
+  ],
+  "analysis": {
+    "durationSec": 629.58,
+    "bpm": 122,
+    "bpmConfidence": 1,
+    "beatOffset": 1.5281,
+    "key": {
+      "name": "A",
+      "camelot": "11B",
+      "confidence": 0.75
+    },
+    "rmsDb": -13.3,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

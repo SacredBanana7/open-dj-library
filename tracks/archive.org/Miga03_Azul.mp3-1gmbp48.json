@@ -1,0 +1,41 @@
+{
+  "version": 1,
+  "id": "archive.org:Miga03/Azul.mp3",
+  "source": "archive.org",
+  "title": "Capibara Azul",
+  "artist": "animatek - Miga 03",
+  "album": "Capibara Tracks",
+  "pageUrl": "https://archive.org/details/Miga03",
+  "audioUrl": "https://archive.org/download/Miga03/Azul.mp3",
+  "fileName": "Azul.mp3",
+  "sizeBytes": 15597568,
+  "license": {
+    "code": "by-nc-sa",
+    "version": "2.5",
+    "label": "CC BY-NC-SA 2.5",
+    "url": "http://creativecommons.org/licenses/by-nc-sa/2.5/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": true,
+    "shareAlike": true,
+    "publicDomain": false
+  },
+  "genre": "Techno",
+  "tags": [
+    "minimal techno"
+  ],
+  "analysis": {
+    "durationSec": 487.37,
+    "bpm": 127,
+    "bpmConfidence": 1,
+    "beatOffset": 0.9766,
+    "key": {
+      "name": "F#",
+      "camelot": "2B",
+      "confidence": 0.41
+    },
+    "rmsDb": -13.2,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

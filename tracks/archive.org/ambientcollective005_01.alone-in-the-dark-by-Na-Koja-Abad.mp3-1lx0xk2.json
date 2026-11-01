@@ -1,0 +1,52 @@
+{
+  "version": 1,
+  "id": "archive.org:ambientcollective005/01.alone-in-the-dark-by-Na-Koja-Abad.mp3",
+  "source": "archive.org",
+  "title": "Alone In The Dark - Na-Koja-Abad",
+  "artist": "Na-Koja-Abad",
+  "album": "Ambient Collective: Whispers In The Night",
+  "pageUrl": "https://archive.org/details/ambientcollective005",
+  "audioUrl": "https://archive.org/download/ambientcollective005/01.alone-in-the-dark-by-Na-Koja-Abad.mp3",
+  "fileName": "01.alone-in-the-dark-by-Na-Koja-Abad.mp3",
+  "sizeBytes": 9752576,
+  "license": {
+    "code": "by-nd",
+    "version": "2.5",
+    "label": "CC BY-ND 2.5",
+    "url": "http://creativecommons.org/licenses/by-nd/2.5/",
+    "attribution": true,
+    "commercial": true,
+    "derivatives": false,
+    "shareAlike": false,
+    "publicDomain": false
+  },
+  "genre": "Ambient",
+  "tags": [
+    "Ambient",
+    "usr/sbin",
+    "Blaster78",
+    "jujigen",
+    "kevin rees",
+    "SteveTheKeys",
+    "Transmission '71",
+    "Na-Koja-Abad",
+    "Quantinuity",
+    "bluejooz",
+    "Sonoprint",
+    "Altus"
+  ],
+  "analysis": {
+    "durationSec": 406.31,
+    "bpm": 120,
+    "bpmConfidence": 0.39,
+    "beatOffset": 0.9152,
+    "key": {
+      "name": "Am",
+      "camelot": "8A",
+      "confidence": 0.74
+    },
+    "rmsDb": -23.2,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

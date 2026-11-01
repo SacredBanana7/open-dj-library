@@ -1,0 +1,52 @@
+{
+  "version": 1,
+  "id": "archive.org:inr017cdr/inr017cdr_02_aairial_-_first_reason.mp3",
+  "source": "archive.org",
+  "title": "First Reason",
+  "artist": "aAirial",
+  "album": "[inr017cdr] V.A. \"Five years, five months\"",
+  "pageUrl": "https://archive.org/details/inr017cdr",
+  "audioUrl": "https://archive.org/download/inr017cdr/inr017cdr_02_aairial_-_first_reason.mp3",
+  "fileName": "inr017cdr_02_aairial_-_first_reason.mp3",
+  "sizeBytes": 9788689,
+  "license": {
+    "code": "by-nc-nd",
+    "version": "3.0",
+    "label": "CC BY-NC-ND 3.0",
+    "url": "http://creativecommons.org/licenses/by-nc-nd/3.0/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": false,
+    "shareAlike": false,
+    "publicDomain": false
+  },
+  "genre": "IDM / Electronica",
+  "tags": [
+    "inrecs",
+    "compilation",
+    "electronica",
+    "monoceros",
+    "sr. aye",
+    "response",
+    "aairial",
+    "phantasystem",
+    "Rezo Glonti",
+    "Neboa",
+    "Musica para khaos",
+    "Stable Mechanism"
+  ],
+  "analysis": {
+    "durationSec": 244.61,
+    "bpm": 120,
+    "bpmConfidence": 0.66,
+    "beatOffset": 0.7017,
+    "key": {
+      "name": "G",
+      "camelot": "9B",
+      "confidence": 0.78
+    },
+    "rmsDb": -14.1,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

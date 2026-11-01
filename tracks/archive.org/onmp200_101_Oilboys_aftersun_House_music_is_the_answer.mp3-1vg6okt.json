@@ -1,0 +1,52 @@
+{
+  "version": 1,
+  "id": "archive.org:onmp200/101_Oilboys_aftersun_House_music_is_the_answer.mp3",
+  "source": "archive.org",
+  "title": "House music is the answer",
+  "artist": "Oilboy's aftersun",
+  "album": "Best of ON-Mix 101-199",
+  "pageUrl": "https://archive.org/details/onmp200",
+  "audioUrl": "https://archive.org/download/onmp200/101_Oilboys_aftersun_House_music_is_the_answer.mp3",
+  "fileName": "101_Oilboys_aftersun_House_music_is_the_answer.mp3",
+  "sizeBytes": 9426944,
+  "license": {
+    "code": "by-nd",
+    "version": "3.0",
+    "label": "CC BY-ND 3.0",
+    "url": "http://creativecommons.org/licenses/by-nd/3.0/",
+    "attribution": true,
+    "commercial": true,
+    "derivatives": false,
+    "shareAlike": false,
+    "publicDomain": false
+  },
+  "genre": "Dubstep",
+  "tags": [
+    "Oilboy's aftersun",
+    "Practitune",
+    "Nostalgia Rhythm Orchestra",
+    "River325",
+    "Humdrm",
+    "Dharmatec",
+    "The Radiator",
+    "Notorious Twins",
+    "Boktor",
+    "The Circadian Rythms",
+    "Being-Boring",
+    "Kara Queen"
+  ],
+  "analysis": {
+    "durationSec": 392.65,
+    "bpm": 125,
+    "bpmConfidence": 1,
+    "beatOffset": 0.9909,
+    "key": {
+      "name": "Cm",
+      "camelot": "5A",
+      "confidence": 0.41
+    },
+    "rmsDb": -10.4,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

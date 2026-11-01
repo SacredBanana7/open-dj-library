@@ -1,0 +1,52 @@
+{
+  "version": 1,
+  "id": "archive.org:Various_Artists_-_Psicotropicodelia_Music_Vol._IV/02_-_PRODUCER_SNAFU_-_Epic_Car_Comercial_Music.mp3",
+  "source": "archive.org",
+  "title": "02 - Producer Snafu - Epic Car Comercial Music",
+  "artist": "PRODUCER_SNAFU",
+  "album": "PSICOTROPICODELIA MUSIC # IV",
+  "pageUrl": "https://archive.org/details/Various_Artists_-_Psicotropicodelia_Music_Vol._IV",
+  "audioUrl": "https://archive.org/download/Various_Artists_-_Psicotropicodelia_Music_Vol._IV/02_-_PRODUCER_SNAFU_-_Epic_Car_Comercial_Music.mp3",
+  "fileName": "02_-_PRODUCER_SNAFU_-_Epic_Car_Comercial_Music.mp3",
+  "sizeBytes": 15367399,
+  "license": {
+    "code": "by-nc-sa",
+    "version": "3.0",
+    "label": "CC BY-NC-SA 3.0",
+    "url": "http://creativecommons.org/licenses/by-nc-sa/3.0/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": true,
+    "shareAlike": true,
+    "publicDomain": false
+  },
+  "genre": "Dubstep",
+  "tags": [
+    "psicotropicodelia",
+    "dub",
+    "lounge",
+    "synthpop",
+    "industrial",
+    "dubstep",
+    "experimental",
+    "melrah",
+    "music",
+    "breakcore",
+    "electro",
+    "idm"
+  ],
+  "analysis": {
+    "durationSec": 384.1,
+    "bpm": 150,
+    "bpmConfidence": 0.62,
+    "beatOffset": 0.8532,
+    "key": {
+      "name": "Gm",
+      "camelot": "6A",
+      "confidence": 0.73
+    },
+    "rmsDb": -7.6,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

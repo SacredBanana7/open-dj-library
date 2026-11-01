@@ -1,0 +1,45 @@
+{
+  "version": 1,
+  "id": "archive.org:fsz004/fsz004_05-chenard_walcker-quarles_d_une_voix_mielleuse.mp3",
+  "source": "archive.org",
+  "title": "Quarles d'une Voix Mielleuse",
+  "artist": "Chenard Walcker",
+  "album": "Le Fou [fsz004]",
+  "pageUrl": "https://archive.org/details/fsz004",
+  "audioUrl": "https://archive.org/download/fsz004/fsz004_05-chenard_walcker-quarles_d_une_voix_mielleuse.mp3",
+  "fileName": "fsz004_05-chenard_walcker-quarles_d_une_voix_mielleuse.mp3",
+  "sizeBytes": 11433984,
+  "license": {
+    "code": "by-nc",
+    "version": "2.5",
+    "label": "CC BY-NC 2.5",
+    "url": "http://creativecommons.org/licenses/by-nc/2.5/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": true,
+    "shareAlike": false,
+    "publicDomain": false
+  },
+  "genre": "Disco / Funk",
+  "tags": [
+    "Alternative",
+    "Avantgarde",
+    "Jazz+Funk",
+    "Sample Madness",
+    "Plunderphonics"
+  ],
+  "analysis": {
+    "durationSec": 476.32,
+    "bpm": 152,
+    "bpmConfidence": 0.42,
+    "beatOffset": 0.8399,
+    "key": {
+      "name": "Dm",
+      "camelot": "7A",
+      "confidence": 0.75
+    },
+    "rmsDb": -14.8,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

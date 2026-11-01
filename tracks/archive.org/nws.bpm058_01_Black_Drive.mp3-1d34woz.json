@@ -1,0 +1,50 @@
+{
+  "version": 1,
+  "id": "archive.org:nws.bpm058/01 Black Drive.mp3",
+  "source": "archive.org",
+  "title": "Black Drive",
+  "artist": "Black Soul",
+  "album": "[ff29] The Night",
+  "pageUrl": "https://archive.org/details/nws.bpm058",
+  "audioUrl": "https://archive.org/download/nws.bpm058/01%20Black%20Drive.mp3",
+  "fileName": "01 Black Drive.mp3",
+  "sizeBytes": 1935929,
+  "license": {
+    "code": "by-nc-nd",
+    "version": "4.0",
+    "label": "CC BY-NC-ND 4.0",
+    "url": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": false,
+    "shareAlike": false,
+    "publicDomain": false
+  },
+  "genre": "Hip Hop",
+  "tags": [
+    "ambient",
+    "downtempo",
+    "electronic",
+    "experimental",
+    "hip-hop",
+    "lounge",
+    "minimal-pop",
+    "spoken-word",
+    "world"
+  ],
+  "analysis": {
+    "durationSec": 236.96,
+    "bpm": 83.42,
+    "bpmConfidence": 0.39,
+    "beatOffset": 0.522,
+    "key": {
+      "name": "G#m",
+      "camelot": "1A",
+      "confidence": 0.48
+    },
+    "rmsDb": -11.2,
+    "analyzer": "pulsar-dj/analysis-worker 0.1",
+    "tempoFolded": 0.5
+  },
+  "added": "2026-11-01"
+}

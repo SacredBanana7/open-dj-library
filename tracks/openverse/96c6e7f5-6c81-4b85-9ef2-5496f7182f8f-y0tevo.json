@@ -1,0 +1,44 @@
+{
+  "version": 1,
+  "id": "openverse:96c6e7f5-6c81-4b85-9ef2-5496f7182f8f",
+  "source": "openverse",
+  "provider": "jamendo",
+  "title": "hip hop raggae",
+  "artist": "Sp6Fik",
+  "artistUrl": "https://www.jamendo.com/artist/351997/Sp6Fik",
+  "album": "rap hip hop",
+  "pageUrl": "https://www.jamendo.com/track/408294",
+  "audioUrl": "https://prod-1.storage.jamendo.com/?trackid=408294&format=mp32",
+  "fileName": "Sp6Fik - hip hop raggae.mp3",
+  "license": {
+    "code": "by-sa",
+    "version": "2.0",
+    "label": "CC BY-SA 2.0 FR",
+    "url": "https://creativecommons.org/licenses/by-sa/2.0/fr/",
+    "attribution": true,
+    "commercial": true,
+    "derivatives": true,
+    "shareAlike": true,
+    "publicDomain": false
+  },
+  "genre": "Hip Hop",
+  "tags": [
+    "instrumental",
+    "neutral",
+    "speed_medium"
+  ],
+  "analysis": {
+    "durationSec": 203.15,
+    "bpm": 129.3,
+    "bpmConfidence": 0.51,
+    "beatOffset": 0.6971,
+    "key": {
+      "name": "G",
+      "camelot": "9B",
+      "confidence": 0.83
+    },
+    "rmsDb": -14.5,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

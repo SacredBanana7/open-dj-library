@@ -1,0 +1,49 @@
+{
+  "version": 1,
+  "id": "archive.org:EVIL009/Baymont_Bross_-_Ganster_FunkMonster.mp3",
+  "source": "archive.org",
+  "title": "Ganster FunkMonster",
+  "artist": "Baymont Bross",
+  "album": "Cleaning The Dusty In My House",
+  "pageUrl": "https://archive.org/details/EVIL009",
+  "audioUrl": "https://archive.org/download/EVIL009/Baymont_Bross_-_Ganster_FunkMonster.mp3",
+  "fileName": "Baymont_Bross_-_Ganster_FunkMonster.mp3",
+  "sizeBytes": 8239104,
+  "license": {
+    "code": "by-nc-nd",
+    "version": "2.5",
+    "label": "CC BY-NC-ND 2.5 ES",
+    "url": "http://creativecommons.org/licenses/by-nc-nd/2.5/es/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": false,
+    "shareAlike": false,
+    "publicDomain": false
+  },
+  "genre": "Breakbeat",
+  "tags": [
+    "Freestyle",
+    "Funk",
+    "Breaks",
+    "Breakbeat",
+    "Techbreak",
+    "Big Beat",
+    "Baymont Bross",
+    "Cleaning The Dusty In My House",
+    "Evil Records"
+  ],
+  "analysis": {
+    "durationSec": 343.22,
+    "bpm": 135,
+    "bpmConfidence": 0.88,
+    "beatOffset": 0.0945,
+    "key": {
+      "name": "G",
+      "camelot": "9B",
+      "confidence": 0.69
+    },
+    "rmsDb": -14.9,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

@@ -1,0 +1,44 @@
+{
+  "version": 1,
+  "id": "openverse:20757929-4af3-4d1c-845d-bba5d253d6ee",
+  "source": "openverse",
+  "provider": "jamendo",
+  "title": "Ant-Alien - 2020XL Psy-Trance Loops Samples",
+  "artist": "Speedsound Loops",
+  "artistUrl": "https://www.jamendo.com/artist/414816/Skyline-Music",
+  "album": "Ant-Alien - 2020XL Psy-Trance Loops Samples",
+  "pageUrl": "https://www.jamendo.com/track/1456869",
+  "audioUrl": "https://prod-1.storage.jamendo.com/?trackid=1456869&format=mp32",
+  "fileName": "Speedsound Loops - Ant-Alien - 2020XL Psy-Trance Loops Samples.mp3",
+  "license": {
+    "code": "by-nc-nd",
+    "version": "3.0",
+    "label": "CC BY-NC-ND 3.0",
+    "url": "https://creativecommons.org/licenses/by-nc-nd/3.0/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": false,
+    "shareAlike": false,
+    "publicDomain": false
+  },
+  "genre": "Trance",
+  "tags": [
+    "instrumental",
+    "speed_high",
+    "vsti"
+  ],
+  "analysis": {
+    "durationSec": 310.68,
+    "bpm": 146,
+    "bpmConfidence": 0.8,
+    "beatOffset": 0.8209,
+    "key": {
+      "name": "Fm",
+      "camelot": "4A",
+      "confidence": 0.57
+    },
+    "rmsDb": -11.2,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

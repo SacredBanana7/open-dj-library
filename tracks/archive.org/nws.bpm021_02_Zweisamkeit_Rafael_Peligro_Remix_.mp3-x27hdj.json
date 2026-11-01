@@ -1,0 +1,49 @@
+{
+  "version": 1,
+  "id": "archive.org:nws.bpm021/02 Zweisamkeit (Rafael Peligro Remix).mp3",
+  "source": "archive.org",
+  "title": "Zweisamkeit (Rafael Peligro Remix)",
+  "artist": "London Issue",
+  "album": "[SMT002] Zweisamkeit",
+  "pageUrl": "https://archive.org/details/nws.bpm021",
+  "audioUrl": "https://archive.org/download/nws.bpm021/02%20Zweisamkeit%20(Rafael%20Peligro%20Remix).mp3",
+  "fileName": "02 Zweisamkeit (Rafael Peligro Remix).mp3",
+  "sizeBytes": 8758311,
+  "license": {
+    "code": "by-nc-nd",
+    "version": "3.0",
+    "label": "CC BY-NC-ND 3.0",
+    "url": "http://creativecommons.org/licenses/by-nc-nd/3.0/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": false,
+    "shareAlike": false,
+    "publicDomain": false
+  },
+  "genre": "Disco / Funk",
+  "tags": [
+    "chillout",
+    "jazz-funk",
+    "lounge",
+    "minimal-pop",
+    "electronic",
+    "pop",
+    "triphop",
+    "funk",
+    "spoken-word"
+  ],
+  "analysis": {
+    "durationSec": 363.08,
+    "bpm": 158.66,
+    "bpmConfidence": 0.76,
+    "beatOffset": 1.3954,
+    "key": {
+      "name": "D#m",
+      "camelot": "2A",
+      "confidence": 0.82
+    },
+    "rmsDb": -16.7,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

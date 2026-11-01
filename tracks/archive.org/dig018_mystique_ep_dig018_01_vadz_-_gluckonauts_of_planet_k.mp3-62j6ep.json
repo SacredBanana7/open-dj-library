@@ -1,0 +1,47 @@
+{
+  "version": 1,
+  "id": "archive.org:dig018_mystique_ep/dig018_01_vadz_-_gluckonauts_of_planet_k.mp3",
+  "source": "archive.org",
+  "title": "dig018_01_vadz_-_gluckonauts_of_planet_k",
+  "artist": "Vadz",
+  "album": "Mystique EP",
+  "pageUrl": "https://archive.org/details/dig018_mystique_ep",
+  "audioUrl": "https://archive.org/download/dig018_mystique_ep/dig018_01_vadz_-_gluckonauts_of_planet_k.mp3",
+  "fileName": "dig018_01_vadz_-_gluckonauts_of_planet_k.mp3",
+  "sizeBytes": 4825088,
+  "license": {
+    "code": "by-nc",
+    "version": "3.0",
+    "label": "CC BY-NC 3.0",
+    "url": "http://creativecommons.org/licenses/by-nc/3.0/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": true,
+    "shareAlike": false,
+    "publicDomain": false
+  },
+  "genre": "Techno",
+  "tags": [
+    "diggarama",
+    "vadz",
+    "electronic",
+    "electronica",
+    "techno",
+    "russia",
+    "acid"
+  ],
+  "analysis": {
+    "durationSec": 200.93,
+    "bpm": 140,
+    "bpmConfidence": 0.59,
+    "beatOffset": 1.0522,
+    "key": {
+      "name": "Em",
+      "camelot": "9A",
+      "confidence": 0.83
+    },
+    "rmsDb": -12.6,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

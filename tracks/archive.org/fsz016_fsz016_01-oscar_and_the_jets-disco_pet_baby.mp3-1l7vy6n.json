@@ -1,0 +1,45 @@
+{
+  "version": 1,
+  "id": "archive.org:fsz016/fsz016_01-oscar_and_the_jets-disco_pet_baby.mp3",
+  "source": "archive.org",
+  "title": "Disco Pet Baby",
+  "artist": "Oscar and the Jets",
+  "album": "Brown Baby [fsz016]",
+  "pageUrl": "https://archive.org/details/fsz016",
+  "audioUrl": "https://archive.org/download/fsz016/fsz016_01-oscar_and_the_jets-disco_pet_baby.mp3",
+  "fileName": "fsz016_01-oscar_and_the_jets-disco_pet_baby.mp3",
+  "sizeBytes": 4814848,
+  "license": {
+    "code": "by-nc",
+    "version": "2.5",
+    "label": "CC BY-NC 2.5",
+    "url": "http://creativecommons.org/licenses/by-nc/2.5/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": true,
+    "shareAlike": false,
+    "publicDomain": false
+  },
+  "genre": "Disco / Funk",
+  "tags": [
+    "Alternative",
+    "Avantgarde",
+    "Jazz+Funk",
+    "Sample Madness",
+    "Plunderphonics"
+  ],
+  "analysis": {
+    "durationSec": 200.52,
+    "bpm": 120.84,
+    "bpmConfidence": 0.42,
+    "beatOffset": 0.3009,
+    "key": {
+      "name": "C#",
+      "camelot": "3B",
+      "confidence": 0.87
+    },
+    "rmsDb": -13.1,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

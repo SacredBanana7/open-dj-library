@@ -1,0 +1,45 @@
+{
+  "version": 1,
+  "id": "archive.org:siro629AnnoyingRingtone-EnvyARaveExperiment/02-AnnoyingRingtone-BrokenPhone.mp3",
+  "source": "archive.org",
+  "title": "02 - Annoying Ringtone - Broken Phone",
+  "artist": "Annoying Ringtone",
+  "album": "Envy: A Rave Experiment",
+  "pageUrl": "https://archive.org/details/siro629AnnoyingRingtone-EnvyARaveExperiment",
+  "audioUrl": "https://archive.org/download/siro629AnnoyingRingtone-EnvyARaveExperiment/02-AnnoyingRingtone-BrokenPhone.mp3",
+  "fileName": "02-AnnoyingRingtone-BrokenPhone.mp3",
+  "sizeBytes": 9046337,
+  "license": {
+    "code": "by-nc-sa",
+    "version": "3.0",
+    "label": "CC BY-NC-SA 3.0",
+    "url": "http://creativecommons.org/licenses/by-nc-sa/3.0/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": true,
+    "shareAlike": true,
+    "publicDomain": false
+  },
+  "genre": "Breakbeat",
+  "tags": [
+    "Dance",
+    "Rave",
+    "Hardcore",
+    "Breakbeat",
+    "Speedcore"
+  ],
+  "analysis": {
+    "durationSec": 220.84,
+    "bpm": 152.54,
+    "bpmConfidence": 0.4,
+    "beatOffset": 0.2176,
+    "key": {
+      "name": "D#m",
+      "camelot": "2A",
+      "confidence": 0.78
+    },
+    "rmsDb": -14.2,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

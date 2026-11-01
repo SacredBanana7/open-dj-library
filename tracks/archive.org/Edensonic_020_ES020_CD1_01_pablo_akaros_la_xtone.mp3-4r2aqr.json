@@ -1,0 +1,41 @@
+{
+  "version": 1,
+  "id": "archive.org:Edensonic_020/ES020_CD1_01_pablo_akaros_la_xtone.mp3",
+  "source": "archive.org",
+  "title": "La Xtone",
+  "artist": "Pablo akaros",
+  "album": "Edensonic compilation (CD1)",
+  "pageUrl": "https://archive.org/details/Edensonic_020",
+  "audioUrl": "https://archive.org/download/Edensonic_020/ES020_CD1_01_pablo_akaros_la_xtone.mp3",
+  "fileName": "ES020_CD1_01_pablo_akaros_la_xtone.mp3",
+  "sizeBytes": 12677120,
+  "license": {
+    "code": "by-nc-nd",
+    "version": "3.0",
+    "label": "CC BY-NC-ND 3.0",
+    "url": "http://creativecommons.org/licenses/by-nc-nd/3.0/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": false,
+    "shareAlike": false,
+    "publicDomain": false
+  },
+  "genre": "Techno",
+  "tags": [
+    "edensonic techno minimal"
+  ],
+  "analysis": {
+    "durationSec": 393.33,
+    "bpm": 126,
+    "bpmConfidence": 1,
+    "beatOffset": 0.0008,
+    "key": {
+      "name": "G#",
+      "camelot": "4B",
+      "confidence": 0.63
+    },
+    "rmsDb": -12.4,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

@@ -1,0 +1,46 @@
+{
+  "version": 1,
+  "id": "archive.org:mia061/mia061_01_paavoharju_-_nuo_maisemat.mp3",
+  "source": "archive.org",
+  "title": "Nuo Maisemat",
+  "artist": "Paavoharju",
+  "album": "Tuote Akatemia/Unien Savonlinna EP",
+  "pageUrl": "https://archive.org/details/mia061",
+  "audioUrl": "https://archive.org/download/mia061/mia061_01_paavoharju_-_nuo_maisemat.mp3",
+  "fileName": "mia061_01_paavoharju_-_nuo_maisemat.mp3",
+  "sizeBytes": 5101568,
+  "license": {
+    "code": "by-nd",
+    "version": "2.5",
+    "label": "CC BY-ND 2.5",
+    "url": "http://creativecommons.org/licenses/by-nd/2.5/",
+    "attribution": true,
+    "commercial": true,
+    "derivatives": false,
+    "shareAlike": false,
+    "publicDomain": false
+  },
+  "genre": "Ambient",
+  "tags": [
+    "avant-folk",
+    "ambient",
+    "folk",
+    "psychedelic",
+    "electronic",
+    "experimental"
+  ],
+  "analysis": {
+    "durationSec": 212.85,
+    "bpm": 127.24,
+    "bpmConfidence": 0.37,
+    "beatOffset": 1.6862,
+    "key": {
+      "name": "Gm",
+      "camelot": "6A",
+      "confidence": 0.56
+    },
+    "rmsDb": -12.8,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

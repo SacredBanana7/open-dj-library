@@ -1,0 +1,52 @@
+{
+  "version": 1,
+  "id": "archive.org:GIR132/01Decapitation In The Subway.mp3",
+  "source": "archive.org",
+  "title": "01Decapitation In The Subway",
+  "artist": "Zero Gravity Funeral",
+  "album": "GIR132",
+  "pageUrl": "https://archive.org/details/GIR132",
+  "audioUrl": "https://archive.org/download/GIR132/01Decapitation%20In%20The%20Subway.mp3",
+  "fileName": "01Decapitation In The Subway.mp3",
+  "sizeBytes": 24183419,
+  "license": {
+    "code": "by-nc-nd",
+    "version": "3.0",
+    "label": "CC BY-NC-ND 3.0",
+    "url": "http://creativecommons.org/licenses/by-nc-nd/3.0/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": false,
+    "shareAlike": false,
+    "publicDomain": false
+  },
+  "genre": "Experimental",
+  "tags": [
+    "Zero",
+    "Gravity",
+    "Funeral",
+    "ZGF",
+    "Zero Gravity Funeral",
+    "Galactic",
+    "Intolerance",
+    "Records",
+    "GIR",
+    "GIR132",
+    "HNW",
+    "ANW"
+  ],
+  "analysis": {
+    "durationSec": 604.47,
+    "bpm": 153.12,
+    "bpmConfidence": 0.37,
+    "beatOffset": 0.0259,
+    "key": {
+      "name": "Bm",
+      "camelot": "10A",
+      "confidence": 0.44
+    },
+    "rmsDb": -4.9,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

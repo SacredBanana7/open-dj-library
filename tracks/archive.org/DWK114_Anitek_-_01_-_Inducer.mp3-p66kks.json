@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "id": "archive.org:DWK114/Anitek_-_01_-_Inducer.mp3",
+  "source": "archive.org",
+  "title": "Inducer",
+  "artist": "Anitek",
+  "album": "Sae Yeon (LP)",
+  "pageUrl": "https://archive.org/details/DWK114",
+  "audioUrl": "https://archive.org/download/DWK114/Anitek_-_01_-_Inducer.mp3",
+  "fileName": "Anitek_-_01_-_Inducer.mp3",
+  "sizeBytes": 6995678,
+  "license": {
+    "code": "by-nc-nd",
+    "version": "3.0",
+    "label": "CC BY-NC-ND 3.0",
+    "url": "http://creativecommons.org/licenses/by-nc-nd/3.0/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": false,
+    "shareAlike": false,
+    "publicDomain": false
+  },
+  "genre": "Hip Hop",
+  "tags": [
+    "Anitek",
+    "Dusted Wax Kingdom",
+    "trip-hop",
+    "abstract hip-hop",
+    "lo-fi",
+    "dub",
+    "chillout"
+  ],
+  "analysis": {
+    "durationSec": 174.84,
+    "bpm": 86,
+    "bpmConfidence": 1,
+    "beatOffset": 0.3869,
+    "key": {
+      "name": "Cm",
+      "camelot": "5A",
+      "confidence": 0.91
+    },
+    "rmsDb": -16.8,
+    "analyzer": "pulsar-dj/analysis-worker 0.1",
+    "tempoFolded": 0.5
+  },
+  "added": "2026-11-01"
+}

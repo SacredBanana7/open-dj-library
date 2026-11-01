@@ -1,0 +1,43 @@
+{
+  "version": 1,
+  "id": "openverse:3797ed4f-042b-4048-a4e2-e129fb5353bf",
+  "source": "openverse",
+  "provider": "jamendo",
+  "title": "Electro House",
+  "artist": "DJ STIVIT",
+  "artistUrl": "https://www.jamendo.com/artist/485678/Stivit_Production",
+  "album": "PromoMix",
+  "pageUrl": "https://www.jamendo.com/track/1300784",
+  "audioUrl": "https://prod-1.storage.jamendo.com/?trackid=1300784&format=mp32",
+  "fileName": "DJ STIVIT - Electro House.mp3",
+  "license": {
+    "code": "by-sa",
+    "version": "3.0",
+    "label": "CC BY-SA 3.0",
+    "url": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "attribution": true,
+    "commercial": true,
+    "derivatives": true,
+    "shareAlike": true,
+    "publicDomain": false
+  },
+  "genre": "House",
+  "tags": [
+    "instrumental",
+    "speed_medium"
+  ],
+  "analysis": {
+    "durationSec": 315.76,
+    "bpm": 130,
+    "bpmConfidence": 1,
+    "beatOffset": 0.1213,
+    "key": {
+      "name": "C",
+      "camelot": "8B",
+      "confidence": 0.7
+    },
+    "rmsDb": -12,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

@@ -1,0 +1,45 @@
+{
+  "version": 1,
+  "id": "openverse:2cbb56e4-772d-46a8-93ca-aa979939f5ea",
+  "source": "openverse",
+  "provider": "jamendo",
+  "title": "Melodic Trance",
+  "artist": "Matti Paalanen",
+  "artistUrl": "https://www.jamendo.com/artist/3944/matti.paalanen",
+  "album": "Trance",
+  "pageUrl": "https://www.jamendo.com/track/1021968",
+  "audioUrl": "https://prod-1.storage.jamendo.com/?trackid=1021968&format=mp32",
+  "fileName": "Matti Paalanen - Melodic Trance.mp3",
+  "license": {
+    "code": "by-nc-nd",
+    "version": "3.0",
+    "label": "CC BY-NC-ND 3.0",
+    "url": "https://creativecommons.org/licenses/by-nc-nd/3.0/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": false,
+    "shareAlike": false,
+    "publicDomain": false
+  },
+  "genre": "Trance",
+  "tags": [
+    "happy",
+    "instrumental",
+    "speed_medium",
+    "upbeat"
+  ],
+  "analysis": {
+    "durationSec": 220.17,
+    "bpm": 135,
+    "bpmConfidence": 0.67,
+    "beatOffset": 0.0619,
+    "key": {
+      "name": "C",
+      "camelot": "8B",
+      "confidence": 0.83
+    },
+    "rmsDb": -14,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

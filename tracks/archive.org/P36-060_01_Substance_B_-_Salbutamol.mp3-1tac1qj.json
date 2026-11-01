@@ -1,0 +1,44 @@
+{
+  "version": 1,
+  "id": "archive.org:P36-060/01_Substance_B_-_Salbutamol.mp3",
+  "source": "archive.org",
+  "title": "Salbutamol",
+  "artist": "Substance B",
+  "album": "Agonistes Beta-2",
+  "pageUrl": "https://archive.org/details/P36-060",
+  "audioUrl": "https://archive.org/download/P36-060/01_Substance_B_-_Salbutamol.mp3",
+  "fileName": "01_Substance_B_-_Salbutamol.mp3",
+  "sizeBytes": 11614319,
+  "license": {
+    "code": "by-nc-nd",
+    "version": "3.0",
+    "label": "CC BY-NC-ND 3.0",
+    "url": "http://creativecommons.org/licenses/by-nc-nd/3.0/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": false,
+    "shareAlike": false,
+    "publicDomain": false
+  },
+  "genre": "Dubstep",
+  "tags": [
+    "Abstract",
+    "Dubstep",
+    "Drill & Bass",
+    "Breakcore"
+  ],
+  "analysis": {
+    "durationSec": 279.75,
+    "bpm": 139,
+    "bpmConfidence": 0.66,
+    "beatOffset": 0.6219,
+    "key": {
+      "name": "D",
+      "camelot": "10B",
+      "confidence": 0.73
+    },
+    "rmsDb": -8.3,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

@@ -1,0 +1,52 @@
+{
+  "version": 1,
+  "id": "archive.org:puMpE018_-_damagez_-_shanti_baba_meets_toy_factory/damagez_-_shanti_baba_meets_toy_factory_-_cool_breeze.mp3",
+  "source": "archive.org",
+  "title": "Cool Breeze",
+  "artist": "DaMaGeZ",
+  "album": "Shanti Baba Meets Toy Factory",
+  "pageUrl": "https://archive.org/details/puMpE018_-_damagez_-_shanti_baba_meets_toy_factory",
+  "audioUrl": "https://archive.org/download/puMpE018_-_damagez_-_shanti_baba_meets_toy_factory/damagez_-_shanti_baba_meets_toy_factory_-_cool_breeze.mp3",
+  "fileName": "damagez_-_shanti_baba_meets_toy_factory_-_cool_breeze.mp3",
+  "sizeBytes": 6895616,
+  "license": {
+    "code": "by-nd",
+    "version": "2.5",
+    "label": "CC BY-ND 2.5",
+    "url": "http://creativecommons.org/licenses/by-nd/2.5/",
+    "attribution": true,
+    "commercial": true,
+    "derivatives": false,
+    "shareAlike": false,
+    "publicDomain": false
+  },
+  "genre": "Breakbeat",
+  "tags": [
+    "idm",
+    "ambient",
+    "chill",
+    "world music",
+    "damagez",
+    "postunder",
+    "breaks",
+    "ethnic",
+    "tribal",
+    "game",
+    "dub",
+    "funk"
+  ],
+  "analysis": {
+    "durationSec": 215.46,
+    "bpm": 137.36,
+    "bpmConfidence": 0.74,
+    "beatOffset": 0.1528,
+    "key": {
+      "name": "Bm",
+      "camelot": "10A",
+      "confidence": 0.78
+    },
+    "rmsDb": -11.3,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

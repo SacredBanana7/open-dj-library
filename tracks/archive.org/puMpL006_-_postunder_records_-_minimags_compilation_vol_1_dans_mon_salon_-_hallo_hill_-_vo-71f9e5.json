@@ -1,0 +1,53 @@
+{
+  "version": 1,
+  "id": "archive.org:puMpL006_-_postunder_records_-_minimags_compilation_vol_1/dans_mon_salon_-_hallo_hill_-_vov_remix.mp3",
+  "source": "archive.org",
+  "title": "Hallo Hill (VOV Remix)",
+  "artist": "Dans Mon Salon",
+  "album": "Postunder Records Minimags Compilation Volume 1",
+  "pageUrl": "https://archive.org/details/puMpL006_-_postunder_records_-_minimags_compilation_vol_1",
+  "audioUrl": "https://archive.org/download/puMpL006_-_postunder_records_-_minimags_compilation_vol_1/dans_mon_salon_-_hallo_hill_-_vov_remix.mp3",
+  "fileName": "dans_mon_salon_-_hallo_hill_-_vov_remix.mp3",
+  "sizeBytes": 6922240,
+  "license": {
+    "code": "by-nd",
+    "version": "2.5",
+    "label": "CC BY-ND 2.5",
+    "url": "http://creativecommons.org/licenses/by-nd/2.5/",
+    "attribution": true,
+    "commercial": true,
+    "derivatives": false,
+    "shareAlike": false,
+    "publicDomain": false
+  },
+  "genre": "Hip Hop",
+  "tags": [
+    "postunder",
+    "compilation",
+    "idm",
+    "ambient",
+    "brekas",
+    "experimental",
+    "rave",
+    "goa",
+    "downtempo",
+    "triphop",
+    "hiphop",
+    "game"
+  ],
+  "analysis": {
+    "durationSec": 288.73,
+    "bpm": 75,
+    "bpmConfidence": 0.79,
+    "beatOffset": 0.1594,
+    "key": {
+      "name": "Em",
+      "camelot": "9A",
+      "confidence": 0.68
+    },
+    "rmsDb": -15.4,
+    "analyzer": "pulsar-dj/analysis-worker 0.1",
+    "tempoFolded": 0.5
+  },
+  "added": "2026-11-01"
+}

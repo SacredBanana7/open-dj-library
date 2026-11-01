@@ -1,0 +1,44 @@
+{
+  "version": 1,
+  "id": "openverse:131f3ca7-6d86-4d4d-9eb8-c8a256f6fde0",
+  "source": "openverse",
+  "provider": "jamendo",
+  "title": "Hip Hop Circus",
+  "artist": "DJ l'Alien",
+  "artistUrl": "https://www.jamendo.com/artist/366442/DJ_l'Alien",
+  "album": "Instrumental Hip Hop Delight",
+  "pageUrl": "https://www.jamendo.com/track/726173",
+  "audioUrl": "https://prod-1.storage.jamendo.com/?trackid=726173&format=mp32",
+  "fileName": "DJ l'Alien - Hip Hop Circus.mp3",
+  "license": {
+    "code": "by-nc-sa",
+    "version": "3.0",
+    "label": "CC BY-NC-SA 3.0",
+    "url": "https://creativecommons.org/licenses/by-nc-sa/3.0/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": true,
+    "shareAlike": true,
+    "publicDomain": false
+  },
+  "genre": "Hip Hop",
+  "tags": [
+    "instrumental",
+    "speed_medium"
+  ],
+  "analysis": {
+    "durationSec": 155.22,
+    "bpm": 67,
+    "bpmConfidence": 0.76,
+    "beatOffset": 1.1917,
+    "key": {
+      "name": "Dm",
+      "camelot": "7A",
+      "confidence": 0.7
+    },
+    "rmsDb": -10.6,
+    "analyzer": "pulsar-dj/analysis-worker 0.1",
+    "tempoFolded": 0.5
+  },
+  "added": "2026-11-01"
+}

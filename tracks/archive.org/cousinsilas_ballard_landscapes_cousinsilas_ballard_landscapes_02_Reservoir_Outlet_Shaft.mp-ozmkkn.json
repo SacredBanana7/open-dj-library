@@ -1,0 +1,46 @@
+{
+  "version": 1,
+  "id": "archive.org:cousinsilas_ballard_landscapes/cousinsilas_ballard_landscapes_02_Reservoir_Outlet_Shaft.mp3",
+  "source": "archive.org",
+  "title": "Reservoir Outlet Shaft",
+  "artist": "Cousin Silas",
+  "album": "Ballard Landscapes",
+  "pageUrl": "https://archive.org/details/cousinsilas_ballard_landscapes",
+  "audioUrl": "https://archive.org/download/cousinsilas_ballard_landscapes/cousinsilas_ballard_landscapes_02_Reservoir_Outlet_Shaft.mp3",
+  "fileName": "cousinsilas_ballard_landscapes_02_Reservoir_Outlet_Shaft.mp3",
+  "sizeBytes": 4422157,
+  "license": {
+    "code": "by-nc-sa",
+    "version": "3.0",
+    "label": "CC BY-NC-SA 3.0",
+    "url": "http://creativecommons.org/licenses/by-nc-sa/3.0/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": true,
+    "shareAlike": true,
+    "publicDomain": false
+  },
+  "genre": "Ambient",
+  "tags": [
+    "ambient",
+    "soundscapes",
+    "drone",
+    "experimental",
+    "earth monkey productions",
+    "psychedelic"
+  ],
+  "analysis": {
+    "durationSec": 184.16,
+    "bpm": 162.08,
+    "bpmConfidence": 0.39,
+    "beatOffset": 1.2429,
+    "key": {
+      "name": "F",
+      "camelot": "7B",
+      "confidence": 0.77
+    },
+    "rmsDb": -22.2,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

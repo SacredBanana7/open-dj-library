@@ -1,0 +1,52 @@
+{
+  "version": 1,
+  "id": "archive.org:nws.bpm071/01 トランスミッションクローズ - FUTUROラジオ 88.mp3",
+  "source": "archive.org",
+  "title": "トランスミッションクローズ - FUTUROラジオ 88",
+  "artist": "T.V.スクリーン",
+  "album": "[VSS009] #クリックメトナイト",
+  "pageUrl": "https://archive.org/details/nws.bpm071",
+  "audioUrl": "https://archive.org/download/nws.bpm071/01%20%E3%83%88%E3%83%A9%E3%83%B3%E3%82%B9%E3%83%9F%E3%83%83%E3%82%B7%E3%83%A7%E3%83%B3%E3%82%AF%E3%83%AD%E3%83%BC%E3%82%B9%E3%82%99%20-%20FUTURO%E3%83%A9%E3%82%B7%E3%82%99%E3%82%AA%2088.mp3",
+  "fileName": "01 トランスミッションクローズ - FUTUROラジオ 88.mp3",
+  "sizeBytes": 10369764,
+  "license": {
+    "code": "by-nc-sa",
+    "version": "4.0",
+    "label": "CC BY-NC-SA 4.0",
+    "url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": true,
+    "shareAlike": true,
+    "publicDomain": false
+  },
+  "genre": "Dubstep",
+  "tags": [
+    "chill-out",
+    "classical",
+    "downtempo",
+    "dub",
+    "dubstep",
+    "easy-listening",
+    "electronic",
+    "folk",
+    "glitch",
+    "lounge",
+    "lowtech",
+    "sad-electronics"
+  ],
+  "analysis": {
+    "durationSec": 256.85,
+    "bpm": 137.74,
+    "bpmConfidence": 0.39,
+    "beatOffset": 1.0312,
+    "key": {
+      "name": "C",
+      "camelot": "8B",
+      "confidence": 0.92
+    },
+    "rmsDb": -13.7,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

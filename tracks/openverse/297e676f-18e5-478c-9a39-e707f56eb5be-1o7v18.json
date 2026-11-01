@@ -1,0 +1,46 @@
+{
+  "version": 1,
+  "id": "openverse:297e676f-18e5-478c-9a39-e707f56eb5be",
+  "source": "openverse",
+  "provider": "jamendo",
+  "title": "Ambient Voyager",
+  "artist": "Zeropage",
+  "artistUrl": "https://www.jamendo.com/artist/2986/zeropage",
+  "album": "Ambient Pills",
+  "pageUrl": "https://www.jamendo.com/track/20231",
+  "audioUrl": "https://prod-1.storage.jamendo.com/?trackid=20231&format=mp32",
+  "fileName": "Zeropage - Ambient Voyager.mp3",
+  "license": {
+    "code": "by",
+    "version": "3.0",
+    "label": "CC BY 3.0",
+    "url": "https://creativecommons.org/licenses/by/3.0/",
+    "attribution": true,
+    "commercial": true,
+    "derivatives": true,
+    "shareAlike": false,
+    "publicDomain": false
+  },
+  "genre": "Ambient",
+  "tags": [
+    "instrumental",
+    "neutral",
+    "peaceful",
+    "space",
+    "speed_medium"
+  ],
+  "analysis": {
+    "durationSec": 234.98,
+    "bpm": 133.34,
+    "bpmConfidence": 0.53,
+    "beatOffset": 0.4239,
+    "key": {
+      "name": "F#m",
+      "camelot": "11A",
+      "confidence": 0.83
+    },
+    "rmsDb": -10.2,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

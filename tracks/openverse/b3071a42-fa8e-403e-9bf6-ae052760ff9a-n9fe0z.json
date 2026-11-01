@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "id": "openverse:b3071a42-fa8e-403e-9bf6-ae052760ff9a",
+  "source": "openverse",
+  "provider": "jamendo",
+  "title": "Ambient Flight (Electro Vocal Mix)",
+  "artist": "Zeropage",
+  "artistUrl": "https://www.jamendo.com/artist/2986/zeropage",
+  "album": "Ambient Pills",
+  "pageUrl": "https://www.jamendo.com/track/20237",
+  "audioUrl": "https://prod-1.storage.jamendo.com/?trackid=20237&format=mp32",
+  "fileName": "Zeropage - Ambient Flight (Electro Vocal Mix).mp3",
+  "license": {
+    "code": "by",
+    "version": "3.0",
+    "label": "CC BY 3.0",
+    "url": "https://creativecommons.org/licenses/by/3.0/",
+    "attribution": true,
+    "commercial": true,
+    "derivatives": true,
+    "shareAlike": false,
+    "publicDomain": false
+  },
+  "genre": "Ambient",
+  "tags": [
+    "female",
+    "lounge",
+    "peaceful",
+    "space",
+    "speed_medium",
+    "synthesizer",
+    "vocal"
+  ],
+  "analysis": {
+    "durationSec": 264,
+    "bpm": 165,
+    "bpmConfidence": 0.69,
+    "beatOffset": 0.0961,
+    "key": {
+      "name": "Am",
+      "camelot": "8A",
+      "confidence": 0.9
+    },
+    "rmsDb": -12.8,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

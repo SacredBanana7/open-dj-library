@@ -1,0 +1,49 @@
+{
+  "version": 1,
+  "id": "openverse:d3f174f2-7aec-4a39-9b2b-fac5add7353d",
+  "source": "openverse",
+  "provider": "jamendo",
+  "title": "Advice - Electro swing",
+  "artist": "Oleksii Bezsalov",
+  "artistUrl": "https://www.jamendo.com/artist/557600/Oleksii_Bezsalov",
+  "album": "Electro Swing #1",
+  "pageUrl": "https://www.jamendo.com/track/2031610",
+  "audioUrl": "https://prod-1.storage.jamendo.com/?trackid=2031610&format=mp32",
+  "fileName": "Oleksii Bezsalov - Advice - Electro swing.mp3",
+  "license": {
+    "code": "by-nc-nd",
+    "version": "3.0",
+    "label": "CC BY-NC-ND 3.0",
+    "url": "https://creativecommons.org/licenses/by-nc-nd/3.0/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": false,
+    "shareAlike": false,
+    "publicDomain": false
+  },
+  "genre": "Electro",
+  "tags": [
+    "funny",
+    "male",
+    "neutral",
+    "party",
+    "speed_medium",
+    "trumpet",
+    "vocal",
+    "wind"
+  ],
+  "analysis": {
+    "durationSec": 272.33,
+    "bpm": 109,
+    "bpmConfidence": 1,
+    "beatOffset": 1.2335,
+    "key": {
+      "name": "Fm",
+      "camelot": "4A",
+      "confidence": 0.84
+    },
+    "rmsDb": -10.8,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

@@ -1,0 +1,52 @@
+{
+  "version": 1,
+  "id": "archive.org:ca024_va_cs2/101_Luwte_Now_it_is.mp3",
+  "source": "archive.org",
+  "title": "101_Luwte_Now_it_is",
+  "artist": "Various",
+  "album": "ca024 - Various - Clinical Sounds - Vol.2",
+  "pageUrl": "https://archive.org/details/ca024_va_cs2",
+  "audioUrl": "https://archive.org/download/ca024_va_cs2/101_Luwte_Now_it_is.mp3",
+  "fileName": "101_Luwte_Now_it_is.mp3",
+  "sizeBytes": 5986978,
+  "license": {
+    "code": "by-nc-nd",
+    "version": "3.0",
+    "label": "CC BY-NC-ND 3.0",
+    "url": "http://creativecommons.org/licenses/by-nc-nd/3.0/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": false,
+    "shareAlike": false,
+    "publicDomain": false
+  },
+  "genre": "IDM / Electronica",
+  "tags": [
+    "clinical",
+    "illogical",
+    "turntablism",
+    "experimental",
+    "eclectic",
+    "noise",
+    "abstract",
+    "free improvisation",
+    "dark ambient",
+    "ambient",
+    "industrial",
+    "electronica"
+  ],
+  "analysis": {
+    "durationSec": 249.36,
+    "bpm": 162.5,
+    "bpmConfidence": 0.42,
+    "beatOffset": 0.67,
+    "key": {
+      "name": "G",
+      "camelot": "9B",
+      "confidence": 0.61
+    },
+    "rmsDb": -19.4,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "id": "archive.org:trbrp_tracks/trbrp_tracks_d1_02_Moss_Haiku_Lagesag_Haiku_Remix.mp3",
+  "source": "archive.org",
+  "title": "Lagesag - Moss Haiku (Lagesag Haiku Remix)",
+  "artist": "Lagesag",
+  "album": "The Resting Bench Remix Project - Volume 1",
+  "pageUrl": "https://archive.org/details/trbrp_tracks",
+  "audioUrl": "https://archive.org/download/trbrp_tracks/trbrp_tracks_d1_02_Moss_Haiku_Lagesag_Haiku_Remix.mp3",
+  "fileName": "trbrp_tracks_d1_02_Moss_Haiku_Lagesag_Haiku_Remix.mp3",
+  "sizeBytes": 5083029,
+  "license": {
+    "code": "by-nc-sa",
+    "version": "2.5",
+    "label": "CC BY-NC-SA 2.5",
+    "url": "http://creativecommons.org/licenses/by-nc-sa/2.5/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": true,
+    "shareAlike": true,
+    "publicDomain": false
+  },
+  "genre": "Hip Hop",
+  "tags": [
+    "remix",
+    "experimatal",
+    "hip hop",
+    "trip hop",
+    "avant garde",
+    "ambient",
+    "bootleg",
+    "mash up"
+  ],
+  "analysis": {
+    "durationSec": 211.7,
+    "bpm": 110,
+    "bpmConfidence": 0.74,
+    "beatOffset": 1.1145,
+    "key": {
+      "name": "G",
+      "camelot": "9B",
+      "confidence": 0.46
+    },
+    "rmsDb": -19.6,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

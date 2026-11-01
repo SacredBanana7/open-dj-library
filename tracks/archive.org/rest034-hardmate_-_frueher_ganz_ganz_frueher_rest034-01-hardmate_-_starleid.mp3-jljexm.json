@@ -1,0 +1,45 @@
+{
+  "version": 1,
+  "id": "archive.org:rest034-hardmate_-_frueher_ganz_ganz_frueher/rest034-01-hardmate_-_starleid.mp3",
+  "source": "archive.org",
+  "title": "Starleid",
+  "artist": "Hardmate",
+  "album": "[rest034] FrÃÂ¼her, ganz ganz frÃÂ¼her EP",
+  "pageUrl": "https://archive.org/details/rest034-hardmate_-_frueher_ganz_ganz_frueher",
+  "audioUrl": "https://archive.org/download/rest034-hardmate_-_frueher_ganz_ganz_frueher/rest034-01-hardmate_-_starleid.mp3",
+  "fileName": "rest034-01-hardmate_-_starleid.mp3",
+  "sizeBytes": 13862912,
+  "license": {
+    "code": "by-nc-nd",
+    "version": "3.0",
+    "label": "CC BY-NC-ND 3.0",
+    "url": "http://creativecommons.org/licenses/by-nc-nd/3.0/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": false,
+    "shareAlike": false,
+    "publicDomain": false
+  },
+  "genre": "Trance",
+  "tags": [
+    "Tech House",
+    "Deep Tech",
+    "Hard Trance",
+    "Techno",
+    "Minimal"
+  ],
+  "analysis": {
+    "durationSec": 346.51,
+    "bpm": 124,
+    "bpmConfidence": 1,
+    "beatOffset": 0.999,
+    "key": {
+      "name": "G",
+      "camelot": "9B",
+      "confidence": 0.65
+    },
+    "rmsDb": -12.4,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

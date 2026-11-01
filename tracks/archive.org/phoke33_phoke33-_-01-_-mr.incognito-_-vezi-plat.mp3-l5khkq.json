@@ -1,0 +1,52 @@
+{
+  "version": 1,
+  "id": "archive.org:phoke33/phoke33-_-01-_-mr.incognito-_-vezi-plat.mp3",
+  "source": "archive.org",
+  "title": "Vezi Plat",
+  "artist": "Mr. Incognito",
+  "album": "Secret Melodies",
+  "pageUrl": "https://archive.org/details/phoke33",
+  "audioUrl": "https://archive.org/download/phoke33/phoke33-_-01-_-mr.incognito-_-vezi-plat.mp3",
+  "fileName": "phoke33-_-01-_-mr.incognito-_-vezi-plat.mp3",
+  "sizeBytes": 7112934,
+  "license": {
+    "code": "by-nc-nd",
+    "version": "3.0",
+    "label": "CC BY-NC-ND 3.0 DE",
+    "url": "http://creativecommons.org/licenses/by-nc-nd/3.0/de/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": false,
+    "shareAlike": false,
+    "publicDomain": false
+  },
+  "genre": "Electro",
+  "tags": [
+    "melodic electronica",
+    "dark melodic electronica",
+    "dark spherical IDM breaks",
+    "energetic",
+    "fat",
+    "rocking",
+    "mysterious spheres",
+    "elektro",
+    "electro",
+    "Breakbeat",
+    "Electro/IDM/Experimental/Breaks",
+    "netlabel"
+  ],
+  "analysis": {
+    "durationSec": 255.44,
+    "bpm": 138.76,
+    "bpmConfidence": 0.43,
+    "beatOffset": 0.0552,
+    "key": {
+      "name": "F#",
+      "camelot": "2B",
+      "confidence": 0.83
+    },
+    "rmsDb": -15.5,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

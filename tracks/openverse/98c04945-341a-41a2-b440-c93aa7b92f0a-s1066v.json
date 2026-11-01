@@ -1,0 +1,45 @@
+{
+  "version": 1,
+  "id": "openverse:98c04945-341a-41a2-b440-c93aa7b92f0a",
+  "source": "openverse",
+  "provider": "jamendo",
+  "title": "Helike [Drum and Bass]",
+  "artist": "Hardcore Scm",
+  "artistUrl": "https://www.jamendo.com/artist/366513/Hardcore_Scm",
+  "album": "Hardcore Scm - 2016",
+  "pageUrl": "https://www.jamendo.com/track/1406196",
+  "audioUrl": "https://prod-1.storage.jamendo.com/?trackid=1406196&format=mp32",
+  "fileName": "Hardcore Scm - Helike [Drum and Bass].mp3",
+  "license": {
+    "code": "by",
+    "version": "3.0",
+    "label": "CC BY 3.0",
+    "url": "https://creativecommons.org/licenses/by/3.0/",
+    "attribution": true,
+    "commercial": true,
+    "derivatives": true,
+    "shareAlike": false,
+    "publicDomain": false
+  },
+  "genre": "Drum & Bass",
+  "tags": [
+    "dnb",
+    "instrumental",
+    "neutral",
+    "speed_medium"
+  ],
+  "analysis": {
+    "durationSec": 320.45,
+    "bpm": 120,
+    "bpmConfidence": 1,
+    "beatOffset": 0.7306,
+    "key": {
+      "name": "Gm",
+      "camelot": "6A",
+      "confidence": 0.87
+    },
+    "rmsDb": -17,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

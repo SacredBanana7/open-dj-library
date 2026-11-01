@@ -1,0 +1,52 @@
+{
+  "version": 1,
+  "id": "archive.org:phoke31/phoke31-_-01-_-madstyle-_-frozen_planet.mp3",
+  "source": "archive.org",
+  "title": "Frozen Planet",
+  "artist": "Madstyle",
+  "album": "Chillusion ep",
+  "pageUrl": "https://archive.org/details/phoke31",
+  "audioUrl": "https://archive.org/download/phoke31/phoke31-_-01-_-madstyle-_-frozen_planet.mp3",
+  "fileName": "phoke31-_-01-_-madstyle-_-frozen_planet.mp3",
+  "sizeBytes": 5853626,
+  "license": {
+    "code": "by-nc-nd",
+    "version": "3.0",
+    "label": "CC BY-NC-ND 3.0 DE",
+    "url": "http://creativecommons.org/licenses/by-nc-nd/3.0/de/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": false,
+    "shareAlike": false,
+    "publicDomain": false
+  },
+  "genre": "Breakbeat",
+  "tags": [
+    "chilly",
+    "melodies",
+    "nice",
+    "smooth",
+    "breaks",
+    "Laidback Electronica",
+    "melodic electronica",
+    "relaxed",
+    "energetic",
+    "fat",
+    "rocking",
+    "synth power"
+  ],
+  "analysis": {
+    "durationSec": 212.77,
+    "bpm": 115,
+    "bpmConfidence": 1,
+    "beatOffset": 2.0848,
+    "key": {
+      "name": "A#m",
+      "camelot": "3A",
+      "confidence": 0.81
+    },
+    "rmsDb": -19.3,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

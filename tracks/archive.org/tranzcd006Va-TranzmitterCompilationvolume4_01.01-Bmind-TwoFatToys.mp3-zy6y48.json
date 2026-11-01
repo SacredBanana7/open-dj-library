@@ -1,0 +1,52 @@
+{
+  "version": 1,
+  "id": "archive.org:tranzcd006Va-TranzmitterCompilationvolume4/01.01-Bmind-TwoFatToys.mp3",
+  "source": "archive.org",
+  "title": "01.1- Bmind - Two Fat Toys",
+  "artist": "Tranzmitter Netlabel",
+  "album": "[TRANZCD006] VA- Tranzmitter Compilation (Volume 4)",
+  "pageUrl": "https://archive.org/details/tranzcd006Va-TranzmitterCompilationvolume4",
+  "audioUrl": "https://archive.org/download/tranzcd006Va-TranzmitterCompilationvolume4/01.01-Bmind-TwoFatToys.mp3",
+  "fileName": "01.01-Bmind-TwoFatToys.mp3",
+  "sizeBytes": 16221171,
+  "license": {
+    "code": "by-nd",
+    "version": "3.0",
+    "label": "CC BY-ND 3.0",
+    "url": "http://creativecommons.org/licenses/by-nd/3.0/",
+    "attribution": true,
+    "commercial": true,
+    "derivatives": false,
+    "shareAlike": false,
+    "publicDomain": false
+  },
+  "genre": "Breakbeat",
+  "tags": [
+    "Tranzmitter Netlabel",
+    "Projekt Gestalten",
+    "Haveck",
+    "Moskardi",
+    "Holocaos",
+    "Techno",
+    "Ambient",
+    "Downbeat",
+    "Dublicator",
+    "TicK",
+    "House",
+    "Dub Techno"
+  ],
+  "analysis": {
+    "durationSec": 676.62,
+    "bpm": 123,
+    "bpmConfidence": 1,
+    "beatOffset": 1.4745,
+    "key": {
+      "name": "Gm",
+      "camelot": "6A",
+      "confidence": 0.67
+    },
+    "rmsDb": -16.3,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

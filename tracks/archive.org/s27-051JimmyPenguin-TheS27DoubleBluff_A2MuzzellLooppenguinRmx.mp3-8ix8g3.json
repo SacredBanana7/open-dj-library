@@ -1,0 +1,42 @@
+{
+  "version": 1,
+  "id": "archive.org:s27-051JimmyPenguin-TheS27DoubleBluff/A2MuzzellLooppenguinRmx.mp3",
+  "source": "archive.org",
+  "title": "A2 Muzzell Loop (Penguin RMX)",
+  "artist": "Jimmy Penguin",
+  "album": "The S27 Double Bluff : Side A",
+  "pageUrl": "https://archive.org/details/s27-051JimmyPenguin-TheS27DoubleBluff",
+  "audioUrl": "https://archive.org/download/s27-051JimmyPenguin-TheS27DoubleBluff/A2MuzzellLooppenguinRmx.mp3",
+  "fileName": "A2MuzzellLooppenguinRmx.mp3",
+  "sizeBytes": 8492966,
+  "license": {
+    "code": "by-nc-nd",
+    "version": "3.0",
+    "label": "CC BY-NC-ND 3.0",
+    "url": "http://creativecommons.org/licenses/by-nc-nd/3.0/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": false,
+    "shareAlike": false,
+    "publicDomain": false
+  },
+  "genre": "Hip Hop",
+  "tags": [
+    "Jimmy Penguin, Section 27, new release, The S27 Double Bluff, August 2010, [S27-051], Hip-Hop, Electronica, Downtempo, Creative Commons, by-nc-nd, Nozl, Community Skratch Games, DJ Muzzell, Deviant, UK, Ireland,"
+  ],
+  "analysis": {
+    "durationSec": 212.22,
+    "bpm": 82,
+    "bpmConfidence": 0.77,
+    "beatOffset": 0.7756,
+    "key": {
+      "name": "Cm",
+      "camelot": "5A",
+      "confidence": 0.72
+    },
+    "rmsDb": -12.2,
+    "analyzer": "pulsar-dj/analysis-worker 0.1",
+    "tempoFolded": 0.5
+  },
+  "added": "2026-11-01"
+}

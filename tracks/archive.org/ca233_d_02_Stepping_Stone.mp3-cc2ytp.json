@@ -1,0 +1,46 @@
+{
+  "version": 1,
+  "id": "archive.org:ca233_d/02_Stepping_Stone.mp3",
+  "source": "archive.org",
+  "title": "Stepping Stone",
+  "artist": "dmyra",
+  "album": "ca233 - dmyra - Mind Over Mind",
+  "pageUrl": "https://archive.org/details/ca233_d",
+  "audioUrl": "https://archive.org/download/ca233_d/02_Stepping_Stone.mp3",
+  "fileName": "02_Stepping_Stone.mp3",
+  "sizeBytes": 10554373,
+  "license": {
+    "code": "by-nc-nd",
+    "version": "3.0",
+    "label": "CC BY-NC-ND 3.0",
+    "url": "http://creativecommons.org/licenses/by-nc-nd/3.0/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": false,
+    "shareAlike": false,
+    "publicDomain": false
+  },
+  "genre": "Disco / Funk",
+  "tags": [
+    "anti-rock",
+    "quasi-funk",
+    "acoustic",
+    "romantic",
+    "folk",
+    "other"
+  ],
+  "analysis": {
+    "durationSec": 262.01,
+    "bpm": 125,
+    "bpmConfidence": 1,
+    "beatOffset": 0.8451,
+    "key": {
+      "name": "Am",
+      "camelot": "8A",
+      "confidence": 0.7
+    },
+    "rmsDb": -15.8,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

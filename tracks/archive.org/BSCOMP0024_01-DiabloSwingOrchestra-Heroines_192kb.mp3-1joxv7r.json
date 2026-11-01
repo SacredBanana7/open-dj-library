@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "id": "archive.org:BSCOMP0024/01-DiabloSwingOrchestra-Heroines_192kb.mp3",
+  "source": "archive.org",
+  "title": "01 - Diablo Swing Orchestra - Heroines",
+  "artist": "Diablo Swing Orchestra",
+  "album": "netBloc Vol. 24: tiuqottigeloot",
+  "pageUrl": "https://archive.org/details/BSCOMP0024",
+  "audioUrl": "https://archive.org/download/BSCOMP0024/01-DiabloSwingOrchestra-Heroines_192kb.mp3",
+  "fileName": "01-DiabloSwingOrchestra-Heroines_192kb.mp3",
+  "sizeBytes": 7881154,
+  "license": {
+    "code": "by-nc-nd",
+    "version": "3.0",
+    "label": "CC BY-NC-ND 3.0",
+    "url": "http://creativecommons.org/licenses/by-nc-nd/3.0/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": false,
+    "shareAlike": false,
+    "publicDomain": false
+  },
+  "genre": "Electro",
+  "tags": [
+    "rock",
+    "pop",
+    "indie-pop",
+    "electro-pop",
+    "hip-hop",
+    "lounge",
+    "electropop",
+    "metal"
+  ],
+  "analysis": {
+    "durationSec": 322.56,
+    "bpm": 126.88,
+    "bpmConfidence": 0.85,
+    "beatOffset": 0.1883,
+    "key": {
+      "name": "C#m",
+      "camelot": "12A",
+      "confidence": 0.77
+    },
+    "rmsDb": -21,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

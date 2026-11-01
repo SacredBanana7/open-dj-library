@@ -1,0 +1,43 @@
+{
+  "version": 1,
+  "id": "openverse:af577fa5-6f46-4319-9001-2465b39b6512",
+  "source": "openverse",
+  "provider": "jamendo",
+  "title": "Try to move heaven and earth (Techno rmx) (142 bpm)",
+  "artist": "Prana Yama",
+  "artistUrl": "https://www.jamendo.com/artist/348111/Prana_Yama",
+  "album": "Techno Tracks",
+  "pageUrl": "https://www.jamendo.com/track/296937",
+  "audioUrl": "https://prod-1.storage.jamendo.com/?trackid=296937&format=mp32",
+  "fileName": "Prana Yama - Try to move heaven and earth (Techno rmx) (142 bpm).mp3",
+  "license": {
+    "code": "by-nc-sa",
+    "version": "2.0",
+    "label": "CC BY-NC-SA 2.0 FR",
+    "url": "https://creativecommons.org/licenses/by-nc-sa/2.0/fr/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": true,
+    "shareAlike": true,
+    "publicDomain": false
+  },
+  "genre": "Techno",
+  "tags": [
+    "instrumental",
+    "speed_medium"
+  ],
+  "analysis": {
+    "durationSec": 305.94,
+    "bpm": 142,
+    "bpmConfidence": 1,
+    "beatOffset": 0.0145,
+    "key": {
+      "name": "A#m",
+      "camelot": "3A",
+      "confidence": 0.8
+    },
+    "rmsDb": -8.9,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

@@ -1,0 +1,44 @@
+{
+  "version": 1,
+  "id": "archive.org:bump009/bump009_01-the_farcry-castaway.mp3",
+  "source": "archive.org",
+  "title": "Castaway",
+  "artist": "The FarCry",
+  "album": "An Introspective To FarCry",
+  "pageUrl": "https://archive.org/details/bump009",
+  "audioUrl": "https://archive.org/download/bump009/bump009_01-the_farcry-castaway.mp3",
+  "fileName": "bump009_01-the_farcry-castaway.mp3",
+  "sizeBytes": 6616338,
+  "license": {
+    "code": "by-nc-sa",
+    "version": "2.5",
+    "label": "CC BY-NC-SA 2.5",
+    "url": "http://creativecommons.org/licenses/by-nc-sa/2.5/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": true,
+    "shareAlike": true,
+    "publicDomain": false
+  },
+  "genre": "House",
+  "tags": [
+    "Dance",
+    "House",
+    "Trance",
+    "Techno"
+  ],
+  "analysis": {
+    "durationSec": 206.63,
+    "bpm": 120,
+    "bpmConfidence": 1,
+    "beatOffset": 0.8021,
+    "key": {
+      "name": "F#",
+      "camelot": "2B",
+      "confidence": 0.76
+    },
+    "rmsDb": -21.2,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

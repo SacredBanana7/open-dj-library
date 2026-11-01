@@ -1,0 +1,52 @@
+{
+  "version": 1,
+  "id": "archive.org:chase040/1-01_-_Larsp_-_Ritournelle.mp3",
+  "source": "archive.org",
+  "title": "Larsp - Ritournelle",
+  "artist": "Larsp",
+  "album": "[chase040] - V/A - Desolation - CD1",
+  "pageUrl": "https://archive.org/details/chase040",
+  "audioUrl": "https://archive.org/download/chase040/1-01_-_Larsp_-_Ritournelle.mp3",
+  "fileName": "1-01_-_Larsp_-_Ritournelle.mp3",
+  "sizeBytes": 10745866,
+  "license": {
+    "code": "by-nc-nd",
+    "version": "3.0",
+    "label": "CC BY-NC-ND 3.0",
+    "url": "http://creativecommons.org/licenses/by-nc-nd/3.0/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": false,
+    "shareAlike": false,
+    "publicDomain": false
+  },
+  "genre": "Dubstep",
+  "tags": [
+    "desolation",
+    "ambient",
+    "d ark ambient",
+    "idm",
+    "drum'n'bass",
+    "darkstep",
+    "dubstep",
+    "glitch",
+    "hardcore",
+    "breakcore",
+    "techno",
+    "experimental"
+  ],
+  "analysis": {
+    "durationSec": 263.13,
+    "bpm": 136,
+    "bpmConfidence": 0.89,
+    "beatOffset": 0.2765,
+    "key": {
+      "name": "Gm",
+      "camelot": "6A",
+      "confidence": 0.53
+    },
+    "rmsDb": -15.9,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

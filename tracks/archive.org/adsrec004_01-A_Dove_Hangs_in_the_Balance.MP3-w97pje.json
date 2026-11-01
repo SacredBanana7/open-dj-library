@@ -1,0 +1,45 @@
+{
+  "version": 1,
+  "id": "archive.org:adsrec004/01-A_Dove_Hangs_in_the_Balance.MP3",
+  "source": "archive.org",
+  "title": "A Dove Hangs in the Balance",
+  "artist": "Ornament",
+  "album": "Ornament",
+  "pageUrl": "https://archive.org/details/adsrec004",
+  "audioUrl": "https://archive.org/download/adsrec004/01-A_Dove_Hangs_in_the_Balance.MP3",
+  "fileName": "01-A_Dove_Hangs_in_the_Balance.MP3",
+  "sizeBytes": 5842944,
+  "license": {
+    "code": "by-nc-sa",
+    "version": "2.5",
+    "label": "CC BY-NC-SA 2.5",
+    "url": "http://creativecommons.org/licenses/by-nc-sa/2.5/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": true,
+    "shareAlike": true,
+    "publicDomain": false
+  },
+  "genre": "Electro",
+  "tags": [
+    "Ambient",
+    "Folk",
+    "Experimental",
+    "Electronica",
+    "Electro, IDM, Experimental"
+  ],
+  "analysis": {
+    "durationSec": 243.36,
+    "bpm": 168.8,
+    "bpmConfidence": 0.41,
+    "beatOffset": 1.2379,
+    "key": {
+      "name": "G#m",
+      "camelot": "1A",
+      "confidence": 0.77
+    },
+    "rmsDb": -15.8,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

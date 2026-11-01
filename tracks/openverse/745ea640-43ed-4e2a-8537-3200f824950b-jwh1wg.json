@@ -1,0 +1,51 @@
+{
+  "version": 1,
+  "id": "openverse:745ea640-43ed-4e2a-8537-3200f824950b",
+  "source": "openverse",
+  "provider": "jamendo",
+  "title": "Ils me rendent dingue - Hip Hop style",
+  "artist": "Hip HOP Consient",
+  "artistUrl": "https://www.jamendo.com/artist/507190/Hip_HOP_Consient",
+  "album": "Hip Hop Conscient 2",
+  "pageUrl": "https://www.jamendo.com/track/1558837",
+  "audioUrl": "https://prod-1.storage.jamendo.com/?trackid=1558837&format=mp32",
+  "fileName": "Hip HOP Consient - Ils me rendent dingue - Hip Hop style.mp3",
+  "license": {
+    "code": "by-sa",
+    "version": "3.0",
+    "label": "CC BY-SA 3.0",
+    "url": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "attribution": true,
+    "commercial": true,
+    "derivatives": true,
+    "shareAlike": true,
+    "publicDomain": false
+  },
+  "genre": "Hip Hop",
+  "tags": [
+    "drums",
+    "groovy",
+    "happy",
+    "love",
+    "male",
+    "sampler",
+    "speed_medium",
+    "urban",
+    "vocal"
+  ],
+  "analysis": {
+    "durationSec": 239.34,
+    "bpm": 84,
+    "bpmConfidence": 0.8,
+    "beatOffset": 0.054,
+    "key": {
+      "name": "Cm",
+      "camelot": "5A",
+      "confidence": 0.56
+    },
+    "rmsDb": -17.9,
+    "analyzer": "pulsar-dj/analysis-worker 0.1",
+    "tempoFolded": 0.5
+  },
+  "added": "2026-11-01"
+}

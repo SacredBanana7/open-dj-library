@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "id": "archive.org:BSCOMP0003/02-ThierryBlanchard-QuincaillierdeStyle_192kb.mp3",
+  "source": "archive.org",
+  "title": "02 - Thierry Blanchard - Quincaillier de Style",
+  "artist": "Thierry Blanchard",
+  "album": "netBloc Vol. 3: La Plus Belle Guerre",
+  "pageUrl": "https://archive.org/details/BSCOMP0003",
+  "audioUrl": "https://archive.org/download/BSCOMP0003/02-ThierryBlanchard-QuincaillierdeStyle_192kb.mp3",
+  "fileName": "02-ThierryBlanchard-QuincaillierdeStyle_192kb.mp3",
+  "sizeBytes": 4977090,
+  "license": {
+    "code": "by-nc-nd",
+    "version": "3.0",
+    "label": "CC BY-NC-ND 3.0",
+    "url": "http://creativecommons.org/licenses/by-nc-nd/3.0/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": false,
+    "shareAlike": false,
+    "publicDomain": false
+  },
+  "genre": "Hip Hop",
+  "tags": [
+    "rock",
+    "pop",
+    "jazz",
+    "electronica",
+    "trip-hop",
+    "hip-hop",
+    "metal"
+  ],
+  "analysis": {
+    "durationSec": 200.75,
+    "bpm": 84.6,
+    "bpmConfidence": 0.43,
+    "beatOffset": 1.2129,
+    "key": {
+      "name": "Bm",
+      "camelot": "10A",
+      "confidence": 0.6
+    },
+    "rmsDb": -19,
+    "analyzer": "pulsar-dj/analysis-worker 0.1",
+    "tempoFolded": 0.5
+  },
+  "added": "2026-11-01"
+}

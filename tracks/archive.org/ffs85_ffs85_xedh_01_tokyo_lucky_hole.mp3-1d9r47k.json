@@ -1,0 +1,42 @@
+{
+  "version": 1,
+  "id": "archive.org:ffs85/ffs85_xedh_01_tokyo_lucky_hole.mp3",
+  "source": "archive.org",
+  "title": "Tokyo Lucky Hole",
+  "artist": "xedh",
+  "album": "El Extasis Y La Agonia De La Hormiga Electrica",
+  "pageUrl": "https://archive.org/details/ffs85",
+  "audioUrl": "https://archive.org/download/ffs85/ffs85_xedh_01_tokyo_lucky_hole.mp3",
+  "fileName": "ffs85_xedh_01_tokyo_lucky_hole.mp3",
+  "sizeBytes": 6618092,
+  "license": {
+    "code": "by-nc",
+    "version": "2.5",
+    "label": "CC BY-NC 2.5",
+    "url": "http://creativecommons.org/licenses/by-nc/2.5/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": true,
+    "shareAlike": false,
+    "publicDomain": false
+  },
+  "genre": "Ambient",
+  "tags": [
+    "Dark ambient",
+    "Noise"
+  ],
+  "analysis": {
+    "durationSec": 275.66,
+    "bpm": 150,
+    "bpmConfidence": 0.43,
+    "beatOffset": 1.2189,
+    "key": {
+      "name": "F#m",
+      "camelot": "11A",
+      "confidence": 0.41
+    },
+    "rmsDb": -18.7,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

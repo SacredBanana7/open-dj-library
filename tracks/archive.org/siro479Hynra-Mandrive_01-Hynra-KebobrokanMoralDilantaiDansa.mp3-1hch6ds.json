@@ -1,0 +1,42 @@
+{
+  "version": 1,
+  "id": "archive.org:siro479Hynra-Mandrive/01-Hynra-KebobrokanMoralDilantaiDansa.mp3",
+  "source": "archive.org",
+  "title": "Kebobrokan Moral Dilantai Dansa",
+  "artist": "Hynra",
+  "album": "Mandrive",
+  "pageUrl": "https://archive.org/details/siro479Hynra-Mandrive",
+  "audioUrl": "https://archive.org/download/siro479Hynra-Mandrive/01-Hynra-KebobrokanMoralDilantaiDansa.mp3",
+  "fileName": "01-Hynra-KebobrokanMoralDilantaiDansa.mp3",
+  "sizeBytes": 10338757,
+  "license": {
+    "code": "by-nc-nd",
+    "version": "3.0",
+    "label": "CC BY-NC-ND 3.0",
+    "url": "http://creativecommons.org/licenses/by-nc-nd/3.0/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": false,
+    "shareAlike": false,
+    "publicDomain": false
+  },
+  "genre": "Dubstep",
+  "tags": [
+    "Dubstep",
+    "Bass Music"
+  ],
+  "analysis": {
+    "durationSec": 305.89,
+    "bpm": 173.08,
+    "bpmConfidence": 0.37,
+    "beatOffset": 1.1787,
+    "key": {
+      "name": "C#",
+      "camelot": "3B",
+      "confidence": 0.67
+    },
+    "rmsDb": -9.5,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

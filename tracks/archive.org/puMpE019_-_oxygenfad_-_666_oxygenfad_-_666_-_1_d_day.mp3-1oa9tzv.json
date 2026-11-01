@@ -1,0 +1,52 @@
+{
+  "version": 1,
+  "id": "archive.org:puMpE019_-_oxygenfad_-_666/oxygenfad_-_666_-_1_d_day.mp3",
+  "source": "archive.org",
+  "title": "D Day",
+  "artist": "Oxygenfad",
+  "album": "666",
+  "pageUrl": "https://archive.org/details/puMpE019_-_oxygenfad_-_666",
+  "audioUrl": "https://archive.org/download/puMpE019_-_oxygenfad_-_666/oxygenfad_-_666_-_1_d_day.mp3",
+  "fileName": "oxygenfad_-_666_-_1_d_day.mp3",
+  "sizeBytes": 6338560,
+  "license": {
+    "code": "by-nc-nd",
+    "version": "3.0",
+    "label": "CC BY-NC-ND 3.0",
+    "url": "http://creativecommons.org/licenses/by-nc-nd/3.0/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": false,
+    "shareAlike": false,
+    "publicDomain": false
+  },
+  "genre": "Drum & Bass",
+  "tags": [
+    "jungle",
+    "gothic",
+    "IDM",
+    "breakcore",
+    "breakbeat",
+    "hardcore",
+    "electronica",
+    "metal",
+    "music",
+    "oxygenfad",
+    "postunder",
+    "crazy"
+  ],
+  "analysis": {
+    "durationSec": 263.94,
+    "bpm": 142.72,
+    "bpmConfidence": 0.43,
+    "beatOffset": 1.6132,
+    "key": {
+      "name": "Am",
+      "camelot": "8A",
+      "confidence": 0.76
+    },
+    "rmsDb": -16.3,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

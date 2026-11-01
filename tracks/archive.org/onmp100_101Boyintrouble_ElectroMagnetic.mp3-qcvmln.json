@@ -1,0 +1,52 @@
+{
+  "version": 1,
+  "id": "archive.org:onmp100/101Boyintrouble_ElectroMagnetic.mp3",
+  "source": "archive.org",
+  "title": "Electro Magnetic",
+  "artist": "Boy in trouble",
+  "album": "The best ON-Mix tracks according to Kodjax",
+  "pageUrl": "https://archive.org/details/onmp100",
+  "audioUrl": "https://archive.org/download/onmp100/101Boyintrouble_ElectroMagnetic.mp3",
+  "fileName": "101Boyintrouble_ElectroMagnetic.mp3",
+  "sizeBytes": 7380992,
+  "license": {
+    "code": "by-nc",
+    "version": "3.0",
+    "label": "CC BY-NC 3.0",
+    "url": "http://creativecommons.org/licenses/by-nc/3.0/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": true,
+    "shareAlike": false,
+    "publicDomain": false
+  },
+  "genre": "Techno",
+  "tags": [
+    "House",
+    "Techno",
+    "Club-House",
+    "Hardhouse",
+    "Tribal",
+    "Disco",
+    "Club",
+    "ON-Mix",
+    "Oilboy's aftersun",
+    "Mr.DeVo!",
+    "Kodjax",
+    "Porngroove"
+  ],
+  "analysis": {
+    "durationSec": 307.41,
+    "bpm": 125,
+    "bpmConfidence": 1,
+    "beatOffset": 1.1251,
+    "key": {
+      "name": "Gm",
+      "camelot": "6A",
+      "confidence": 0.6
+    },
+    "rmsDb": -9.6,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

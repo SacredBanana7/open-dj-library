@@ -1,0 +1,54 @@
+name: Einreichung verarbeiten
+on:
+  issues:
+    types: [opened]
+permissions:
+  contents: write
+  pull-requests: write
+  issues: write
+jobs:
+  submit:
+    if: contains(github.event.issue.labels.*.name, 'einreichung')
+    runs-on: ubuntu-latest
+    timeout-minutes: 40
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - run: npm ci
+      - name: Analysieren
+        id: run
+        env:
+          BODY: ${{ github.event.issue.body }}
+        run: |
+          LINK=$(printf '%s' "$BODY" | grep -oE 'https://archive\.org/details/[A-Za-z0-9._-]+' | head -1)
+          GENRE=$(printf '%s' "$BODY" | grep -oxE 'techno|house|dnb|dubstep|trance|hiphop|disco|electro|breaks|electronica|ambient|experimental' | head -1)
+          set +e
+          node tools/submit.mjs "$LINK" --genre "$GENRE" > out.txt 2>&1
+          echo "code=$?" >> "$GITHUB_OUTPUT"
+          cat out.txt
+          node tools/build-catalog.mjs
+      - name: Pull Request öffnen
+        if: steps.run.outputs.code == '0'
+        env:
+          GH_TOKEN: ${{ github.token }}
+          N: ${{ github.event.issue.number }}
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898288+github-actions[bot]@users.noreply.github.com"
+          git checkout -b "einreichung-$N"
+          git add tracks catalog.json
+          git commit -m "Einreichung #$N"
+          git push origin "einreichung-$N"
+          gh pr create --title "Einreichung #$N" --body "Closes #$N" --head "einreichung-$N"
+          { echo 'Danke! Analysiert und als Pull Request eingereicht:'; echo '```'; cat out.txt; echo '```'; } > msg.txt
+          gh issue comment "$N" --body-file msg.txt
+      - name: Fehler melden
+        if: steps.run.outputs.code != '0'
+        env:
+          GH_TOKEN: ${{ github.token }}
+          N: ${{ github.event.issue.number }}
+        run: |
+          { echo 'Das hat leider nicht geklappt:'; echo '```'; cat out.txt; echo '```'; echo 'Prüfe den Link und die CC-Lizenz auf archive.org und reiche erneut ein.'; } > msg.txt
+          gh issue comment "$N" --body-file msg.txt

@@ -1,0 +1,41 @@
+{
+  "version": 1,
+  "id": "archive.org:unfound29/unfound29_02_-_easy_changes_-_original_moscow_life_form.mp3",
+  "source": "archive.org",
+  "title": "original moscow life form",
+  "artist": "easy changes",
+  "album": "[unfound29] easy changes - pitch and gas ep",
+  "pageUrl": "https://archive.org/details/unfound29",
+  "audioUrl": "https://archive.org/download/unfound29/unfound29_02_-_easy_changes_-_original_moscow_life_form.mp3",
+  "fileName": "unfound29_02_-_easy_changes_-_original_moscow_life_form.mp3",
+  "sizeBytes": 17002496,
+  "license": {
+    "code": "by-nc-nd",
+    "version": "3.0",
+    "label": "CC BY-NC-ND 3.0",
+    "url": "http://creativecommons.org/licenses/by-nc-nd/3.0/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": false,
+    "shareAlike": false,
+    "publicDomain": false
+  },
+  "genre": "Techno",
+  "tags": [
+    "minimal, techno, house"
+  ],
+  "analysis": {
+    "durationSec": 424.96,
+    "bpm": 126,
+    "bpmConfidence": 1,
+    "beatOffset": 1.4402,
+    "key": {
+      "name": "Cm",
+      "camelot": "5A",
+      "confidence": 0.47
+    },
+    "rmsDb": -9.6,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

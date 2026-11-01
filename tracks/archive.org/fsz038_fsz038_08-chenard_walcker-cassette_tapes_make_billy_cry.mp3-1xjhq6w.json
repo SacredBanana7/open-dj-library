@@ -1,0 +1,44 @@
+{
+  "version": 1,
+  "id": "archive.org:fsz038/fsz038_08-chenard_walcker-cassette_tapes_make_billy_cry.mp3",
+  "source": "archive.org",
+  "title": "Cassette Tapes Make Billy Cry",
+  "artist": "Chenard Walcker",
+  "album": "Houseplant [fsz038]",
+  "pageUrl": "https://archive.org/details/fsz038",
+  "audioUrl": "https://archive.org/download/fsz038/fsz038_08-chenard_walcker-cassette_tapes_make_billy_cry.mp3",
+  "fileName": "fsz038_08-chenard_walcker-cassette_tapes_make_billy_cry.mp3",
+  "sizeBytes": 5324800,
+  "license": {
+    "code": "by-nc",
+    "version": "2.5",
+    "label": "CC BY-NC 2.5",
+    "url": "http://creativecommons.org/licenses/by-nc/2.5/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": true,
+    "shareAlike": false,
+    "publicDomain": false
+  },
+  "genre": "Disco / Funk",
+  "tags": [
+    "Alternative",
+    "Jazz+Funk",
+    "Sample Madness",
+    "Plunderphonics"
+  ],
+  "analysis": {
+    "durationSec": 221.81,
+    "bpm": 107,
+    "bpmConfidence": 1,
+    "beatOffset": 0.7116,
+    "key": {
+      "name": "Cm",
+      "camelot": "5A",
+      "confidence": 0.51
+    },
+    "rmsDb": -10.9,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

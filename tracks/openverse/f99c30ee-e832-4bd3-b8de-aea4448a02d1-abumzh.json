@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "id": "openverse:f99c30ee-e832-4bd3-b8de-aea4448a02d1",
+  "source": "openverse",
+  "provider": "jamendo",
+  "title": "Dubstep fury",
+  "artist": "ADDICT SOUND",
+  "artistUrl": "https://www.jamendo.com/artist/451073/addict_sound",
+  "album": "Music for video and advertising project vol 3",
+  "pageUrl": "https://www.jamendo.com/track/1209449",
+  "audioUrl": "https://prod-1.storage.jamendo.com/?trackid=1209449&format=mp32",
+  "fileName": "ADDICT SOUND - Dubstep fury.mp3",
+  "license": {
+    "code": "by-nc-nd",
+    "version": "3.0",
+    "label": "CC BY-NC-ND 3.0",
+    "url": "https://creativecommons.org/licenses/by-nc-nd/3.0/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": false,
+    "shareAlike": false,
+    "publicDomain": false
+  },
+  "genre": "Dubstep",
+  "tags": [
+    "commercial",
+    "energetic",
+    "instrumental",
+    "neutral",
+    "speed_medium",
+    "sport",
+    "synthesizer"
+  ],
+  "analysis": {
+    "durationSec": 394.14,
+    "bpm": 120,
+    "bpmConfidence": 0.67,
+    "beatOffset": 0.7964,
+    "key": {
+      "name": "Gm",
+      "camelot": "6A",
+      "confidence": 0.89
+    },
+    "rmsDb": -14.4,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

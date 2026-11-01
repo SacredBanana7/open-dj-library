@@ -1,0 +1,45 @@
+{
+  "version": 1,
+  "id": "openverse:55188da4-4083-486a-a327-41dfc7da5d51",
+  "source": "openverse",
+  "provider": "jamendo",
+  "title": "DESTINY (Trance imaginogène)",
+  "artist": "Atomic cat",
+  "artistUrl": "https://www.jamendo.com/artist/2034/atomic.cat",
+  "album": "Trance Imagination",
+  "pageUrl": "https://www.jamendo.com/track/617289",
+  "audioUrl": "https://prod-1.storage.jamendo.com/?trackid=617289&format=mp32",
+  "fileName": "Atomic cat - DESTINY (Trance imaginogène).mp3",
+  "license": {
+    "code": "by-nc-nd",
+    "version": "3.0",
+    "label": "CC BY-NC-ND 3.0",
+    "url": "https://creativecommons.org/licenses/by-nc-nd/3.0/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": false,
+    "shareAlike": false,
+    "publicDomain": false
+  },
+  "genre": "Trance",
+  "tags": [
+    "energetic",
+    "instrumental",
+    "neutral",
+    "speed_medium"
+  ],
+  "analysis": {
+    "durationSec": 352.79,
+    "bpm": 144,
+    "bpmConfidence": 0.64,
+    "beatOffset": 0.5174,
+    "key": {
+      "name": "Am",
+      "camelot": "8A",
+      "confidence": 0.82
+    },
+    "rmsDb": -9.4,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

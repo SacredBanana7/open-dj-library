@@ -1,0 +1,52 @@
+{
+  "version": 1,
+  "id": "archive.org:nws.bpm073/01 ᴳᴵᴸᴳᴬᴹᴱˢᴴ ᵀᴬᴮᴸᴱᵀ 12 ᴸᴵᴺᴱˢ27-47 ᴵᴺᴬᴺᴺᴬ, ᴳᴵᴸᴳᴬᴹᴱˢᴴ ᴬᴺᴰ ᵀᴴᴱ ᴴᵁᴸᵁᴾᴾᵁ ᵀᴿᴱᴱ.mp3",
+  "source": "archive.org",
+  "title": "ᴳᴵᴸᴳᴬᴹᴱˢᴴ ᵀᴬᴮᴸᴱᵀ 12 ᴸᴵᴺᴱˢ27-47 ᴵᴺᴬᴺᴺᴬ, ᴳᴵᴸᴳᴬᴹᴱˢᴴ ᴬᴺᴰ ᵀᴴᴱ ᴴᵁᴸᵁᴾᴾᵁ ᵀᴿᴱᴱ",
+  "artist": "k♁sm♁r♁.n̴a̴b̴u̴",
+  "album": "[WTS120] Sea You Soon: Best of the Nabu",
+  "pageUrl": "https://archive.org/details/nws.bpm073",
+  "audioUrl": "https://archive.org/download/nws.bpm073/01%20%E1%B4%B3%E1%B4%B5%E1%B4%B8%E1%B4%B3%E1%B4%AC%E1%B4%B9%E1%B4%B1%CB%A2%E1%B4%B4%20%E1%B5%80%E1%B4%AC%E1%B4%AE%E1%B4%B8%E1%B4%B1%E1%B5%80%2012%20%E1%B4%B8%E1%B4%B5%E1%B4%BA%E1%B4%B1%CB%A227-47%20%E1%B4%B5%E1%B4%BA%E1%B4%AC%E1%B4%BA%E1%B4%BA%E1%B4%AC%2C%20%E1%B4%B3%E1%B4%B5%E1%B4%B8%E1%B4%B3%E1%B4%AC%E1%B4%B9%E1%B4%B1%CB%A2%E1%B4%B4%20%E1%B4%AC%E1%B4%BA%E1%B4%B0%20%E1%B5%80%E1%B4%B4%E1%B4%B1%20%E1%B4%B4%E1%B5%81%E1%B4%B8%E1%B5%81%E1%B4%BE%E1%B4%BE%E1%B5%81%20%E1%B5%80%E1%B4%BF%E1%B4%B1%E1%B4%B1.mp3",
+  "fileName": "01 ᴳᴵᴸᴳᴬᴹᴱˢᴴ ᵀᴬᴮᴸᴱᵀ 12 ᴸᴵᴺᴱˢ27-47 ᴵᴺᴬᴺᴺᴬ, ᴳᴵᴸᴳᴬᴹᴱˢᴴ ᴬᴺᴰ ᵀᴴᴱ ᴴᵁᴸᵁᴾᴾᵁ ᵀᴿᴱᴱ.mp3",
+  "sizeBytes": 8953416,
+  "license": {
+    "code": "by-nc-sa",
+    "version": "4.0",
+    "label": "CC BY-NC-SA 4.0",
+    "url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": true,
+    "shareAlike": true,
+    "publicDomain": false
+  },
+  "genre": "Dubstep",
+  "tags": [
+    "ambient",
+    "blues",
+    "chemical-beats",
+    "chill-out",
+    "classical",
+    "downtempo",
+    "dub",
+    "dubstep",
+    "electro",
+    "electronic",
+    "experimental",
+    "folk"
+  ],
+  "analysis": {
+    "durationSec": 203.87,
+    "bpm": 159.66,
+    "bpmConfidence": 0.4,
+    "beatOffset": 0.741,
+    "key": {
+      "name": "Am",
+      "camelot": "8A",
+      "confidence": 0.47
+    },
+    "rmsDb": -8.1,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

@@ -1,0 +1,52 @@
+{
+  "version": 1,
+  "id": "archive.org:ambientcollective005/02.the-distant-city-lights-by-anaboat.mp3",
+  "source": "archive.org",
+  "title": "The Distant City Lights - AnaBoat",
+  "artist": "Philippe Chavaroche",
+  "album": "Ambient Collective: Whispers In The Night",
+  "pageUrl": "https://archive.org/details/ambientcollective005",
+  "audioUrl": "https://archive.org/download/ambientcollective005/02.the-distant-city-lights-by-anaboat.mp3",
+  "fileName": "02.the-distant-city-lights-by-anaboat.mp3",
+  "sizeBytes": 7872612,
+  "license": {
+    "code": "by-nd",
+    "version": "2.5",
+    "label": "CC BY-ND 2.5",
+    "url": "http://creativecommons.org/licenses/by-nd/2.5/",
+    "attribution": true,
+    "commercial": true,
+    "derivatives": false,
+    "shareAlike": false,
+    "publicDomain": false
+  },
+  "genre": "Ambient",
+  "tags": [
+    "Ambient",
+    "usr/sbin",
+    "Blaster78",
+    "jujigen",
+    "kevin rees",
+    "SteveTheKeys",
+    "Transmission '71",
+    "Na-Koja-Abad",
+    "Quantinuity",
+    "bluejooz",
+    "Sonoprint",
+    "Altus"
+  ],
+  "analysis": {
+    "durationSec": 327.97,
+    "bpm": 120,
+    "bpmConfidence": 0.54,
+    "beatOffset": 0.083,
+    "key": {
+      "name": "A#m",
+      "camelot": "3A",
+      "confidence": 0.8
+    },
+    "rmsDb": -17.8,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

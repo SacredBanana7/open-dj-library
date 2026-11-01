@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "id": "archive.org:DWK069/Esbe_-_01_-_I_And_I.mp3",
+  "source": "archive.org",
+  "title": "I And I",
+  "artist": "Esbe",
+  "album": "Late Night Headphones (Volume 1)",
+  "pageUrl": "https://archive.org/details/DWK069",
+  "audioUrl": "https://archive.org/download/DWK069/Esbe_-_01_-_I_And_I.mp3",
+  "fileName": "Esbe_-_01_-_I_And_I.mp3",
+  "sizeBytes": 11031483,
+  "license": {
+    "code": "by-nc-nd",
+    "version": "3.0",
+    "label": "CC BY-NC-ND 3.0",
+    "url": "http://creativecommons.org/licenses/by-nc-nd/3.0/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": false,
+    "shareAlike": false,
+    "publicDomain": false
+  },
+  "genre": "Hip Hop",
+  "tags": [
+    "Esbe",
+    "Dusted Wax Kingdom",
+    "chilled",
+    "beats",
+    "deep",
+    "abstract hip-hop",
+    "trip-hop"
+  ],
+  "analysis": {
+    "durationSec": 275.7,
+    "bpm": 66.78,
+    "bpmConfidence": 0.42,
+    "beatOffset": 1.756,
+    "key": {
+      "name": "G#m",
+      "camelot": "1A",
+      "confidence": 0.7
+    },
+    "rmsDb": -11.7,
+    "analyzer": "pulsar-dj/analysis-worker 0.1",
+    "tempoFolded": 0.5
+  },
+  "added": "2026-11-01"
+}

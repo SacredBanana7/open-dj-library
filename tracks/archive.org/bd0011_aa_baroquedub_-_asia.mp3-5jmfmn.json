@@ -1,0 +1,46 @@
+{
+  "version": 1,
+  "id": "archive.org:bd0011/aa_baroquedub_-_asia.mp3",
+  "source": "archive.org",
+  "title": "asia",
+  "artist": "baroquedub",
+  "album": "Dark Side Dubs [bd0011]",
+  "pageUrl": "https://archive.org/details/bd0011",
+  "audioUrl": "https://archive.org/download/bd0011/aa_baroquedub_-_asia.mp3",
+  "fileName": "aa_baroquedub_-_asia.mp3",
+  "sizeBytes": 6975777,
+  "license": {
+    "code": "by-nc-nd",
+    "version": "2.0",
+    "label": "CC BY-NC-ND 2.0 UK",
+    "url": "http://creativecommons.org/licenses/by-nc-nd/2.0/uk/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": false,
+    "shareAlike": false,
+    "publicDomain": false
+  },
+  "genre": "Dubstep",
+  "tags": [
+    "dub",
+    "digidub",
+    "reggae",
+    "ragga",
+    "dubstep",
+    "instrumental"
+  ],
+  "analysis": {
+    "durationSec": 288.03,
+    "bpm": 120,
+    "bpmConfidence": 0.84,
+    "beatOffset": 1.2942,
+    "key": {
+      "name": "C#m",
+      "camelot": "12A",
+      "confidence": 0.44
+    },
+    "rmsDb": -13.5,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

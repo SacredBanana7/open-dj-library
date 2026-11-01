@@ -1,0 +1,52 @@
+{
+  "version": 1,
+  "id": "archive.org:lcl31LataSinSenalNoSignal/LCL31_-_Lata_-_Sin_Senal_No_Signal_-_02_-_Sin_Sinal_Dub.mp3",
+  "source": "archive.org",
+  "title": "Sin Señal Dub",
+  "artist": "mildtape",
+  "album": "Sin Señal/No Signal",
+  "pageUrl": "https://archive.org/details/lcl31LataSinSenalNoSignal",
+  "audioUrl": "https://archive.org/download/lcl31LataSinSenalNoSignal/LCL31_-_Lata_-_Sin_Senal_No_Signal_-_02_-_Sin_Sinal_Dub.mp3",
+  "fileName": "LCL31_-_Lata_-_Sin_Senal_No_Signal_-_02_-_Sin_Sinal_Dub.mp3",
+  "sizeBytes": 8528064,
+  "license": {
+    "code": "by-nc-nd",
+    "version": "3.0",
+    "label": "CC BY-NC-ND 3.0",
+    "url": "http://creativecommons.org/licenses/by-nc-nd/3.0/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": false,
+    "shareAlike": false,
+    "publicDomain": false
+  },
+  "genre": "Electro",
+  "tags": [
+    "trip hop",
+    "electronica",
+    "dub",
+    "electro",
+    "latin",
+    "latino",
+    "south america",
+    "chile",
+    "lata",
+    "barraco parra",
+    "ebsa",
+    "mildtape"
+  ],
+  "analysis": {
+    "durationSec": 213.1,
+    "bpm": 144,
+    "bpmConfidence": 0.98,
+    "beatOffset": 1.0198,
+    "key": {
+      "name": "Cm",
+      "camelot": "5A",
+      "confidence": 0.69
+    },
+    "rmsDb": -15.3,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

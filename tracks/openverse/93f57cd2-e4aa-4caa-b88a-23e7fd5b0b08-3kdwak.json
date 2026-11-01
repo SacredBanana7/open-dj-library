@@ -1,0 +1,46 @@
+{
+  "version": 1,
+  "id": "openverse:93f57cd2-e4aa-4caa-b88a-23e7fd5b0b08",
+  "source": "openverse",
+  "provider": "jamendo",
+  "title": "In your Eyes (Trance)",
+  "artist": "Atomic cat",
+  "artistUrl": "https://www.jamendo.com/artist/2034/atomic.cat",
+  "album": "Shadows of Light",
+  "pageUrl": "https://www.jamendo.com/track/382594",
+  "audioUrl": "https://prod-1.storage.jamendo.com/?trackid=382594&format=mp32",
+  "fileName": "Atomic cat - In your Eyes (Trance).mp3",
+  "license": {
+    "code": "by-nc-nd",
+    "version": "3.0",
+    "label": "CC BY-NC-ND 3.0",
+    "url": "https://creativecommons.org/licenses/by-nc-nd/3.0/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": false,
+    "shareAlike": false,
+    "publicDomain": false
+  },
+  "genre": "Trance",
+  "tags": [
+    "energetic",
+    "happy",
+    "instrumental",
+    "neutral",
+    "speed_high"
+  ],
+  "analysis": {
+    "durationSec": 319.43,
+    "bpm": 145,
+    "bpmConfidence": 0.78,
+    "beatOffset": 1.6398,
+    "key": {
+      "name": "C",
+      "camelot": "8B",
+      "confidence": 0.93
+    },
+    "rmsDb": -10,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

@@ -1,0 +1,42 @@
+{
+  "version": 1,
+  "id": "archive.org:emb006/emb006_01_Terminal_Sound_System_-_Fused.mp3",
+  "source": "archive.org",
+  "title": "Fused",
+  "artist": "Terminal Sound System",
+  "album": "Solaris",
+  "pageUrl": "https://archive.org/details/emb006",
+  "audioUrl": "https://archive.org/download/emb006/emb006_01_Terminal_Sound_System_-_Fused.mp3",
+  "fileName": "emb006_01_Terminal_Sound_System_-_Fused.mp3",
+  "sizeBytes": 10644190,
+  "license": {
+    "code": "by-nc-sa",
+    "version": "2.0",
+    "label": "CC BY-NC-SA 2.0",
+    "url": "http://creativecommons.org/licenses/by-nc-sa/2.0/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": true,
+    "shareAlike": true,
+    "publicDomain": false
+  },
+  "genre": "Breakbeat",
+  "tags": [
+    "Ambient Techno",
+    "Electro/IDM/Experimental/Breaks"
+  ],
+  "analysis": {
+    "durationSec": 443.24,
+    "bpm": 137.5,
+    "bpmConfidence": 0.4,
+    "beatOffset": 1.4973,
+    "key": {
+      "name": "Fm",
+      "camelot": "4A",
+      "confidence": 0.61
+    },
+    "rmsDb": -10.3,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

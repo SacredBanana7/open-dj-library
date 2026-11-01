@@ -1,0 +1,45 @@
+{
+  "version": 1,
+  "id": "archive.org:fsz025/fsz025_02-oscar_and_the_jets-dolphin_after_baby.mp3",
+  "source": "archive.org",
+  "title": "Dolphin After Baby",
+  "artist": "Oscar and the Jets",
+  "album": "Insane Baby [fsz025]",
+  "pageUrl": "https://archive.org/details/fsz025",
+  "audioUrl": "https://archive.org/download/fsz025/fsz025_02-oscar_and_the_jets-dolphin_after_baby.mp3",
+  "fileName": "fsz025_02-oscar_and_the_jets-dolphin_after_baby.mp3",
+  "sizeBytes": 4261888,
+  "license": {
+    "code": "by-nc",
+    "version": "2.5",
+    "label": "CC BY-NC 2.5",
+    "url": "http://creativecommons.org/licenses/by-nc/2.5/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": true,
+    "shareAlike": false,
+    "publicDomain": false
+  },
+  "genre": "Disco / Funk",
+  "tags": [
+    "Alternative",
+    "Avantgarde",
+    "Jazz+Funk",
+    "Sample Madness",
+    "Plunderphonics"
+  ],
+  "analysis": {
+    "durationSec": 177.55,
+    "bpm": 142,
+    "bpmConfidence": 1,
+    "beatOffset": 0.248,
+    "key": {
+      "name": "A#",
+      "camelot": "6B",
+      "confidence": 0.71
+    },
+    "rmsDb": -15.4,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

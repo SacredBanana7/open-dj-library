@@ -1,0 +1,52 @@
+{
+  "version": 1,
+  "id": "archive.org:pantoufle_tagada/pj001_-_01_-_Purusha_-_Rabirabi.mp3",
+  "source": "archive.org",
+  "title": "Rabirabi",
+  "artist": "Purusha",
+  "album": "[pj001] Pantoufle Tagada",
+  "pageUrl": "https://archive.org/details/pantoufle_tagada",
+  "audioUrl": "https://archive.org/download/pantoufle_tagada/pj001_-_01_-_Purusha_-_Rabirabi.mp3",
+  "fileName": "pj001_-_01_-_Purusha_-_Rabirabi.mp3",
+  "sizeBytes": 4276224,
+  "license": {
+    "code": "by-nc-sa",
+    "version": "3.0",
+    "label": "CC BY-NC-SA 3.0",
+    "url": "http://creativecommons.org/licenses/by-nc-sa/3.0/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": true,
+    "shareAlike": true,
+    "publicDomain": false
+  },
+  "genre": "IDM / Electronica",
+  "tags": [
+    "various",
+    "artists",
+    "petite",
+    "jolie",
+    "naive",
+    "cute",
+    "electronica",
+    "glitch",
+    "idm",
+    "folktronica",
+    "pop",
+    "folk"
+  ],
+  "analysis": {
+    "durationSec": 178.1,
+    "bpm": 172.36,
+    "bpmConfidence": 0.79,
+    "beatOffset": 0.944,
+    "key": {
+      "name": "D",
+      "camelot": "10B",
+      "confidence": 0.91
+    },
+    "rmsDb": -16.1,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

@@ -1,0 +1,45 @@
+{
+  "version": 1,
+  "id": "archive.org:AA002/AA02-02-monsieur_connard-deductions_indecise.mp3",
+  "source": "archive.org",
+  "title": "dÃÂÃÂ©ductions indÃÂÃÂ©cises",
+  "artist": "monsieur connard",
+  "album": "souvenirs ÃÂÃÂ©lastiques",
+  "pageUrl": "https://archive.org/details/AA002",
+  "audioUrl": "https://archive.org/download/AA002/AA02-02-monsieur_connard-deductions_indecise.mp3",
+  "fileName": "AA02-02-monsieur_connard-deductions_indecise.mp3",
+  "sizeBytes": 9053664,
+  "license": {
+    "code": "by-nc-nd",
+    "version": "2.5",
+    "label": "CC BY-NC-ND 2.5",
+    "url": "http://creativecommons.org/licenses/by-nc-nd/2.5/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": false,
+    "shareAlike": false,
+    "publicDomain": false
+  },
+  "genre": "Hip Hop",
+  "tags": [
+    "Lo-Fi",
+    "Electronica",
+    "IDM",
+    "idm, glitch-hop, downtempo, breaks.",
+    "post-hiphop"
+  ],
+  "analysis": {
+    "durationSec": 313.97,
+    "bpm": 120,
+    "bpmConfidence": 0.81,
+    "beatOffset": 0.0066,
+    "key": {
+      "name": "D",
+      "camelot": "10B",
+      "confidence": 0.8
+    },
+    "rmsDb": -11.8,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

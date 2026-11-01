@@ -1,0 +1,43 @@
+{
+  "version": 1,
+  "id": "archive.org:siro614OmegaDubExperience-TheBankruptcyJazz/02-OmegaDubExperience-UrbanAtmospheres.mp3",
+  "source": "archive.org",
+  "title": "Urban Atmospheres",
+  "artist": "Omega Dub Experience",
+  "album": "The Bankruptcy Jazz",
+  "pageUrl": "https://archive.org/details/siro614OmegaDubExperience-TheBankruptcyJazz",
+  "audioUrl": "https://archive.org/download/siro614OmegaDubExperience-TheBankruptcyJazz/02-OmegaDubExperience-UrbanAtmospheres.mp3",
+  "fileName": "02-OmegaDubExperience-UrbanAtmospheres.mp3",
+  "sizeBytes": 18802651,
+  "license": {
+    "code": "by-nc-nd",
+    "version": "3.0",
+    "label": "CC BY-NC-ND 3.0",
+    "url": "http://creativecommons.org/licenses/by-nc-nd/3.0/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": false,
+    "shareAlike": false,
+    "publicDomain": false
+  },
+  "genre": "Drum & Bass",
+  "tags": [
+    "Drum & Bass",
+    "Jungle",
+    "Jazz-Step"
+  ],
+  "analysis": {
+    "durationSec": 469.81,
+    "bpm": 165,
+    "bpmConfidence": 0.38,
+    "beatOffset": 1.1493,
+    "key": {
+      "name": "Gm",
+      "camelot": "6A",
+      "confidence": 0.7
+    },
+    "rmsDb": -10.4,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

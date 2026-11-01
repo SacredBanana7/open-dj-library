@@ -1,0 +1,47 @@
+{
+  "version": 1,
+  "id": "archive.org:diginet010/diginet010_02_idhren_-_magma.mp3",
+  "source": "archive.org",
+  "title": "magma",
+  "artist": "idhren",
+  "album": "[diginet010] va - background feelings",
+  "pageUrl": "https://archive.org/details/diginet010",
+  "audioUrl": "https://archive.org/download/diginet010/diginet010_02_idhren_-_magma.mp3",
+  "fileName": "diginet010_02_idhren_-_magma.mp3",
+  "sizeBytes": 12376064,
+  "license": {
+    "code": "by-nc-nd",
+    "version": "2.5",
+    "label": "CC BY-NC-ND 2.5",
+    "url": "http://creativecommons.org/licenses/by-nc-nd/2.5/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": false,
+    "shareAlike": false,
+    "publicDomain": false
+  },
+  "genre": "Techno",
+  "tags": [
+    "digilog",
+    "compilation",
+    "minimal",
+    "deep",
+    "house",
+    "techno",
+    "idm"
+  ],
+  "analysis": {
+    "durationSec": 386.6,
+    "bpm": 150,
+    "bpmConfidence": 0.46,
+    "beatOffset": 0.3064,
+    "key": {
+      "name": "C#",
+      "camelot": "3B",
+      "confidence": 0.85
+    },
+    "rmsDb": -11,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

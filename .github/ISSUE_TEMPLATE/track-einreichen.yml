@@ -1,0 +1,35 @@
+name: Eigene Musik einreichen
+description: Deine auf archive.org hochgeladene Musik in den Katalog bringen
+title: "Einreichung: "
+labels: [einreichung]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        **So geht's:**
+        1. Lade deine Tracks als MP3 auf [archive.org/upload](https://archive.org/upload) hoch (kostenlos).
+        2. Wähle dort unter *License* eine **Creative-Commons-Lizenz** (z. B. CC BY 4.0) oder CC0.
+        3. Kopiere den Link zur Seite (`https://archive.org/details/...`) hier rein.
+
+        Ein Bot analysiert BPM, Beatgrid und Tonart und öffnet einen Pull Request. Gespeichert werden nur die Daten und der Link, die Musik bleibt auf archive.org.
+  - type: input
+    id: link
+    attributes:
+      label: archive.org-Link
+      placeholder: https://archive.org/details/mein-album
+    validations:
+      required: true
+  - type: dropdown
+    id: genre
+    attributes:
+      label: Genre
+      options: [techno, house, dnb, dubstep, trance, hiphop, disco, electro, breaks, electronica, ambient, experimental]
+    validations:
+      required: true
+  - type: checkboxes
+    id: rights
+    attributes:
+      label: Rechte
+      options:
+        - label: Ich habe die Rechte an dieser Musik (selbst gemacht oder alle Beteiligten sind einverstanden) und sie enthält keine fremden, nicht freigegebenen Samples.
+          required: true

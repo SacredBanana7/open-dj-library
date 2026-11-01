@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "id": "archive.org:exp042/box_-_core_-_02_-_runner.mp3",
+  "source": "archive.org",
+  "title": "Runner",
+  "artist": "box",
+  "album": "Core",
+  "pageUrl": "https://archive.org/details/exp042",
+  "audioUrl": "https://archive.org/download/exp042/box_-_core_-_02_-_runner.mp3",
+  "fileName": "box_-_core_-_02_-_runner.mp3",
+  "sizeBytes": 7963648,
+  "license": {
+    "code": "by-nc-sa",
+    "version": "2.5",
+    "label": "CC BY-NC-SA 2.5",
+    "url": "http://creativecommons.org/licenses/by-nc-sa/2.5/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": true,
+    "shareAlike": true,
+    "publicDomain": false
+  },
+  "genre": "Techno",
+  "tags": [
+    "electro",
+    "techno",
+    "808",
+    "idm",
+    "electronic",
+    "dance",
+    "experimental",
+    "electronica"
+  ],
+  "analysis": {
+    "durationSec": 300.74,
+    "bpm": 123,
+    "bpmConfidence": 1,
+    "beatOffset": 0.0322,
+    "key": {
+      "name": "Am",
+      "camelot": "8A",
+      "confidence": 0.42
+    },
+    "rmsDb": -14.5,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

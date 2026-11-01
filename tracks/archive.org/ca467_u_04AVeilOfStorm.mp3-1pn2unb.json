@@ -1,0 +1,43 @@
+{
+  "version": 1,
+  "id": "archive.org:ca467_u/04AVeilOfStorm.mp3",
+  "source": "archive.org",
+  "title": "04 - A veil of storm",
+  "artist": "Ujjaya",
+  "album": "ca467 - Ujjaya - The Master of Crossroads",
+  "pageUrl": "https://archive.org/details/ca467_u",
+  "audioUrl": "https://archive.org/download/ca467_u/04AVeilOfStorm.mp3",
+  "fileName": "04AVeilOfStorm.mp3",
+  "sizeBytes": 6244347,
+  "license": {
+    "code": "by-nc-nd",
+    "version": "3.0",
+    "label": "CC BY-NC-ND 3.0",
+    "url": "http://creativecommons.org/licenses/by-nc-nd/3.0/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": false,
+    "shareAlike": false,
+    "publicDomain": false
+  },
+  "genre": "Ambient",
+  "tags": [
+    "ethno-ambient",
+    "processed guitar",
+    "electroacoustic"
+  ],
+  "analysis": {
+    "durationSec": 156.06,
+    "bpm": 152.54,
+    "bpmConfidence": 0.42,
+    "beatOffset": 1.4982,
+    "key": {
+      "name": "B",
+      "camelot": "1B",
+      "confidence": 0.75
+    },
+    "rmsDb": -17,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

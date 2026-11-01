@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "id": "archive.org:quiz047/quiz047-03-cansei_de_ser_sexy-alala-rylans_remix.mp3",
+  "source": "archive.org",
+  "title": "alala_(rylan's_remix)",
+  "artist": "cansei_de_ser_sexy",
+  "album": "(pop quiz 047) rylan - get yr freq on",
+  "pageUrl": "https://archive.org/details/quiz047",
+  "audioUrl": "https://archive.org/download/quiz047/quiz047-03-cansei_de_ser_sexy-alala-rylans_remix.mp3",
+  "fileName": "quiz047-03-cansei_de_ser_sexy-alala-rylans_remix.mp3",
+  "sizeBytes": 8110080,
+  "license": {
+    "code": "by-nc-nd",
+    "version": "2.5",
+    "label": "CC BY-NC-ND 2.5 CA",
+    "url": "http://creativecommons.org/licenses/by-nc-nd/2.5/ca/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": false,
+    "shareAlike": false,
+    "publicDomain": false
+  },
+  "genre": "Trance",
+  "tags": [
+    "Electro",
+    "Techno",
+    "Trance",
+    "Hard Dance",
+    "Pop",
+    "R'n'B",
+    "Tech House",
+    "Minimal"
+  ],
+  "analysis": {
+    "durationSec": 248.89,
+    "bpm": 135,
+    "bpmConfidence": 0.95,
+    "beatOffset": 0.9308,
+    "key": {
+      "name": "D#m",
+      "camelot": "2A",
+      "confidence": 0.68
+    },
+    "rmsDb": -9.4,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "id": "archive.org:Lars_Leonhard_Infected_Ep/Lars_Leonhard_-_Rainy_Day.mp3",
+  "source": "archive.org",
+  "title": "Lars Leonhard - Rainy Day",
+  "artist": "Lars Leonhard",
+  "album": "Infected Ep",
+  "pageUrl": "https://archive.org/details/Lars_Leonhard_Infected_Ep",
+  "audioUrl": "https://archive.org/download/Lars_Leonhard_Infected_Ep/Lars_Leonhard_-_Rainy_Day.mp3",
+  "fileName": "Lars_Leonhard_-_Rainy_Day.mp3",
+  "sizeBytes": 10775346,
+  "license": {
+    "code": "by-nc-nd",
+    "version": "2.5",
+    "label": "CC BY-NC-ND 2.5 IT",
+    "url": "http://creativecommons.org/licenses/by-nc-nd/2.5/it/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": false,
+    "shareAlike": false,
+    "publicDomain": false
+  },
+  "genre": "Trance",
+  "tags": [
+    "lars leonhard",
+    "infected ep",
+    "progressive house",
+    "deepindub",
+    "dub",
+    "dub techno",
+    "trance",
+    "free download music"
+  ],
+  "analysis": {
+    "durationSec": 260.41,
+    "bpm": 130,
+    "bpmConfidence": 1,
+    "beatOffset": 0.5552,
+    "key": {
+      "name": "E",
+      "camelot": "12B",
+      "confidence": 0.65
+    },
+    "rmsDb": -15.5,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

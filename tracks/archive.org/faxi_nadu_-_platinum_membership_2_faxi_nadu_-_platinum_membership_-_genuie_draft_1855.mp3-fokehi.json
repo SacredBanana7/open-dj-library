@@ -1,0 +1,52 @@
+{
+  "version": 1,
+  "id": "archive.org:faxi_nadu_-_platinum_membership/2_faxi_nadu_-_platinum_membership_-_genuie_draft_1855.mp3",
+  "source": "archive.org",
+  "title": "Genuie D.r.a.f.t 1855",
+  "artist": "Faxi Nadu",
+  "album": "Platinum Membership",
+  "pageUrl": "https://archive.org/details/faxi_nadu_-_platinum_membership",
+  "audioUrl": "https://archive.org/download/faxi_nadu_-_platinum_membership/2_faxi_nadu_-_platinum_membership_-_genuie_draft_1855.mp3",
+  "fileName": "2_faxi_nadu_-_platinum_membership_-_genuie_draft_1855.mp3",
+  "sizeBytes": 9218048,
+  "license": {
+    "code": "by-nc-nd",
+    "version": "2.0",
+    "label": "CC BY-NC-ND 2.0",
+    "url": "http://creativecommons.org/licenses/by-nc-nd/2.0/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": false,
+    "shareAlike": false,
+    "publicDomain": false
+  },
+  "genre": "Trance",
+  "tags": [
+    "Club",
+    "Techno",
+    "Trance",
+    "Computer",
+    "Psytrance",
+    "Suomisaundi",
+    "Goa",
+    "Faxi Nadu",
+    "Postunder",
+    "Game",
+    "Pop",
+    "Dance"
+  ],
+  "analysis": {
+    "durationSec": 288.05,
+    "bpm": 140,
+    "bpmConfidence": 1,
+    "beatOffset": 1.1094,
+    "key": {
+      "name": "G#m",
+      "camelot": "1A",
+      "confidence": 0.5
+    },
+    "rmsDb": -10.4,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

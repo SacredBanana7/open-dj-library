@@ -1,0 +1,44 @@
+{
+  "version": 1,
+  "id": "archive.org:ACP058_Prince_Kong_-_Dub_War/02-Stronger_v2.mp3",
+  "source": "archive.org",
+  "title": "Stronger v2",
+  "artist": "Prince Kong",
+  "album": "Dub War",
+  "pageUrl": "https://archive.org/details/ACP058_Prince_Kong_-_Dub_War",
+  "audioUrl": "https://archive.org/download/ACP058_Prince_Kong_-_Dub_War/02-Stronger_v2.mp3",
+  "fileName": "02-Stronger_v2.mp3",
+  "sizeBytes": 9298921,
+  "license": {
+    "code": "by-nc-nd",
+    "version": "3.0",
+    "label": "CC BY-NC-ND 3.0",
+    "url": "http://creativecommons.org/licenses/by-nc-nd/3.0/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": false,
+    "shareAlike": false,
+    "publicDomain": false
+  },
+  "genre": "Dubstep",
+  "tags": [
+    "dub",
+    "dancehall",
+    "jungle",
+    "dubstep"
+  ],
+  "analysis": {
+    "durationSec": 231.52,
+    "bpm": 141,
+    "bpmConfidence": 1,
+    "beatOffset": 0.027,
+    "key": {
+      "name": "Em",
+      "camelot": "9A",
+      "confidence": 0.49
+    },
+    "rmsDb": -10.6,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

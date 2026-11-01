@@ -1,0 +1,43 @@
+{
+  "version": 1,
+  "id": "openverse:94524fa4-1b78-4142-abf2-5e5df3888d30",
+  "source": "openverse",
+  "provider": "jamendo",
+  "title": "jam drum and bass",
+  "artist": "Flip Or Slam",
+  "artistUrl": "https://www.jamendo.com/artist/338508/Flip_Or_Slam",
+  "album": "jam sessions",
+  "pageUrl": "https://www.jamendo.com/track/143699",
+  "audioUrl": "https://prod-1.storage.jamendo.com/?trackid=143699&format=mp32",
+  "fileName": "Flip Or Slam - jam drum and bass.mp3",
+  "license": {
+    "code": "by-nc-sa",
+    "version": "2.0",
+    "label": "CC BY-NC-SA 2.0 FR",
+    "url": "https://creativecommons.org/licenses/by-nc-sa/2.0/fr/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": true,
+    "shareAlike": true,
+    "publicDomain": false
+  },
+  "genre": "Drum & Bass",
+  "tags": [
+    "instrumental",
+    "speed_medium"
+  ],
+  "analysis": {
+    "durationSec": 210.11,
+    "bpm": 140.86,
+    "bpmConfidence": 0.55,
+    "beatOffset": 1.4611,
+    "key": {
+      "name": "Bm",
+      "camelot": "10A",
+      "confidence": 0.44
+    },
+    "rmsDb": -14.9,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

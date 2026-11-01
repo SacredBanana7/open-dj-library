@@ -1,0 +1,46 @@
+{
+  "version": 1,
+  "id": "openverse:e1041488-8224-40de-976d-49a7dcbaab87",
+  "source": "openverse",
+  "provider": "jamendo",
+  "title": "Speaker System feat. ayah - space between us (Dubstep Remix)",
+  "artist": "Speaker System",
+  "artistUrl": "https://www.jamendo.com/artist/438321/Speaker_System",
+  "album": "DarkSize",
+  "pageUrl": "https://www.jamendo.com/track/1114951",
+  "audioUrl": "https://prod-1.storage.jamendo.com/?trackid=1114951&format=mp32",
+  "fileName": "Speaker System - Speaker System feat. ayah - space between us (Dubstep Remix).mp3",
+  "license": {
+    "code": "by-nc-sa",
+    "version": "3.0",
+    "label": "CC BY-NC-SA 3.0",
+    "url": "https://creativecommons.org/licenses/by-nc-sa/3.0/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": true,
+    "shareAlike": true,
+    "publicDomain": false
+  },
+  "genre": "Dubstep",
+  "tags": [
+    "computer",
+    "female",
+    "gamemusic",
+    "speed_medium",
+    "vocal"
+  ],
+  "analysis": {
+    "durationSec": 338.72,
+    "bpm": 163.42,
+    "bpmConfidence": 0.39,
+    "beatOffset": 1.1373,
+    "key": {
+      "name": "F",
+      "camelot": "7B",
+      "confidence": 0.67
+    },
+    "rmsDb": -11.1,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "id": "archive.org:trbrp_tracks/trbrp_tracks_d2_01_Second_Sight.mp3",
+  "source": "archive.org",
+  "title": "Adrian Carter - Second Sight",
+  "artist": "Adrian Carter",
+  "album": "The Resting Bench Remix Project - Volume 1",
+  "pageUrl": "https://archive.org/details/trbrp_tracks",
+  "audioUrl": "https://archive.org/download/trbrp_tracks/trbrp_tracks_d2_01_Second_Sight.mp3",
+  "fileName": "trbrp_tracks_d2_01_Second_Sight.mp3",
+  "sizeBytes": 7701724,
+  "license": {
+    "code": "by-nc-sa",
+    "version": "2.5",
+    "label": "CC BY-NC-SA 2.5",
+    "url": "http://creativecommons.org/licenses/by-nc-sa/2.5/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": true,
+    "shareAlike": true,
+    "publicDomain": false
+  },
+  "genre": "Hip Hop",
+  "tags": [
+    "remix",
+    "experimatal",
+    "hip hop",
+    "trip hop",
+    "avant garde",
+    "ambient",
+    "bootleg",
+    "mash up"
+  ],
+  "analysis": {
+    "durationSec": 320.81,
+    "bpm": 120,
+    "bpmConfidence": 1,
+    "beatOffset": 0.341,
+    "key": {
+      "name": "G#m",
+      "camelot": "1A",
+      "confidence": 0.64
+    },
+    "rmsDb": -17.5,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

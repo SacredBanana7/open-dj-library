@@ -1,0 +1,46 @@
+{
+  "version": 1,
+  "id": "openverse:d7aa18ff-c9e7-47d5-9a2f-2654a56460f6",
+  "source": "openverse",
+  "provider": "jamendo",
+  "title": "Ambient 2",
+  "artist": "Matti Paalanen",
+  "artistUrl": "https://www.jamendo.com/artist/3944/matti.paalanen",
+  "album": "Advertising",
+  "pageUrl": "https://www.jamendo.com/track/1195871",
+  "audioUrl": "https://prod-1.storage.jamendo.com/?trackid=1195871&format=mp32",
+  "fileName": "Matti Paalanen - Ambient 2.mp3",
+  "license": {
+    "code": "by-nc-nd",
+    "version": "3.0",
+    "label": "CC BY-NC-ND 3.0",
+    "url": "https://creativecommons.org/licenses/by-nc-nd/3.0/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": false,
+    "shareAlike": false,
+    "publicDomain": false
+  },
+  "genre": "Ambient",
+  "tags": [
+    "ambience",
+    "inspirational",
+    "instrumental",
+    "soft",
+    "speed_medium"
+  ],
+  "analysis": {
+    "durationSec": 191.06,
+    "bpm": 150,
+    "bpmConfidence": 0.5,
+    "beatOffset": 0.4138,
+    "key": {
+      "name": "C",
+      "camelot": "8B",
+      "confidence": 0.94
+    },
+    "rmsDb": -17.6,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

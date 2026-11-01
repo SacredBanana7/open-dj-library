@@ -1,0 +1,51 @@
+{
+  "version": 1,
+  "id": "archive.org:fsz050/fsz050_01-chenard_walcker-our_father_with_yellow_eyes.mp3",
+  "source": "archive.org",
+  "title": "Our Father With Yellow Eyes",
+  "artist": "Chenard Walcker",
+  "album": "The Pusher [fsz050]",
+  "pageUrl": "https://archive.org/details/fsz050",
+  "audioUrl": "https://archive.org/download/fsz050/fsz050_01-chenard_walcker-our_father_with_yellow_eyes.mp3",
+  "fileName": "fsz050_01-chenard_walcker-our_father_with_yellow_eyes.mp3",
+  "sizeBytes": 5789902,
+  "license": {
+    "code": "by-nc",
+    "version": "2.5",
+    "label": "CC BY-NC 2.5",
+    "url": "http://creativecommons.org/licenses/by-nc/2.5/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": true,
+    "shareAlike": false,
+    "publicDomain": false
+  },
+  "genre": "Disco / Funk",
+  "tags": [
+    "Alternative",
+    "Fuzzed Out Hardrock",
+    "Blues",
+    "Jazz+Funk",
+    "Psychedelia",
+    "Soul",
+    "Folk",
+    "Progressive",
+    "Heavy Rock",
+    "Sample Madness",
+    "Plunderphonics"
+  ],
+  "analysis": {
+    "durationSec": 241.21,
+    "bpm": 121,
+    "bpmConfidence": 0.79,
+    "beatOffset": 1.6961,
+    "key": {
+      "name": "Fm",
+      "camelot": "4A",
+      "confidence": 0.62
+    },
+    "rmsDb": -13.3,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

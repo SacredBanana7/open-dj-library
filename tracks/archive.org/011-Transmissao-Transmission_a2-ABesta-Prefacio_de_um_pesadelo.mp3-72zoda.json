@@ -1,0 +1,45 @@
+{
+  "version": 1,
+  "id": "archive.org:011-Transmissao-Transmission/a2-ABesta-Prefacio_de_um_pesadelo.mp3",
+  "source": "archive.org",
+  "title": "ABesta - Prefacio de um pesadelo",
+  "artist": "ABesta",
+  "album": "Transmissao / Transmission / Transmision",
+  "pageUrl": "https://archive.org/details/011-Transmissao-Transmission",
+  "audioUrl": "https://archive.org/download/011-Transmissao-Transmission/a2-ABesta-Prefacio_de_um_pesadelo.mp3",
+  "fileName": "a2-ABesta-Prefacio_de_um_pesadelo.mp3",
+  "sizeBytes": 4730880,
+  "license": {
+    "code": "by-nc-sa",
+    "version": "2.5",
+    "label": "CC BY-NC-SA 2.5",
+    "url": "http://creativecommons.org/licenses/by-nc-sa/2.5/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": true,
+    "shareAlike": true,
+    "publicDomain": false
+  },
+  "genre": "Experimental",
+  "tags": [
+    "Noise",
+    "Glitch",
+    "Electroacoustic",
+    "Drone",
+    "Illbient"
+  ],
+  "analysis": {
+    "durationSec": 197.02,
+    "bpm": 160.5,
+    "bpmConfidence": 0.4,
+    "beatOffset": 1.1698,
+    "key": {
+      "name": "Gm",
+      "camelot": "6A",
+      "confidence": 0.32
+    },
+    "rmsDb": -14.3,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

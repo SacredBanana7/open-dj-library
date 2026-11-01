@@ -1,0 +1,52 @@
+{
+  "version": 1,
+  "id": "archive.org:amp042_Rememverberation/02_399_golpes.mp3",
+  "source": "archive.org",
+  "title": "02. 399 golpes",
+  "artist": "Víctor Sequí",
+  "album": "Rememverberation",
+  "pageUrl": "https://archive.org/details/amp042_Rememverberation",
+  "audioUrl": "https://archive.org/download/amp042_Rememverberation/02_399_golpes.mp3",
+  "fileName": "02_399_golpes.mp3",
+  "sizeBytes": 6332952,
+  "license": {
+    "code": "by-nc-nd",
+    "version": "2.5",
+    "label": "CC BY-NC-ND 2.5 MX",
+    "url": "http://creativecommons.org/licenses/by-nc-nd/2.5/mx/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": false,
+    "shareAlike": false,
+    "publicDomain": false
+  },
+  "genre": "Experimental",
+  "tags": [
+    "instrumental",
+    "victor sequi",
+    "free improv",
+    "experimental",
+    "field recordings",
+    "sampling",
+    "espaÃ±a",
+    "amp recs",
+    "funcle",
+    "Rememverberation",
+    "clarinete",
+    "Trio Antimanierista"
+  ],
+  "analysis": {
+    "durationSec": 158.35,
+    "bpm": 172.22,
+    "bpmConfidence": 0.41,
+    "beatOffset": 0.3897,
+    "key": {
+      "name": "F",
+      "camelot": "7B",
+      "confidence": 0.79
+    },
+    "rmsDb": -19.1,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

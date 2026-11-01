@@ -1,0 +1,49 @@
+{
+  "version": 1,
+  "id": "archive.org:digitaldiamonds065.1/[DigitalDiamonds065.1]_A2_Code_Therapy_-_Scape_From_Reality_(Adamson_Remix).mp3",
+  "source": "archive.org",
+  "title": "Scape From Reality (Adamson Remix)",
+  "artist": "Code Therapy",
+  "album": "Scape From Reality Remixes Chapter One",
+  "pageUrl": "https://archive.org/details/digitaldiamonds065.1",
+  "audioUrl": "https://archive.org/download/digitaldiamonds065.1/%5BDigitalDiamonds065.1%5D_A2_Code_Therapy_-_Scape_From_Reality_(Adamson_Remix).mp3",
+  "fileName": "[DigitalDiamonds065.1]_A2_Code_Therapy_-_Scape_From_Reality_(Adamson_Remix).mp3",
+  "sizeBytes": 17563581,
+  "license": {
+    "code": "by-nd",
+    "version": "4.0",
+    "label": "CC BY-ND 4.0",
+    "url": "https://creativecommons.org/licenses/by-nd/4.0/",
+    "attribution": true,
+    "commercial": true,
+    "derivatives": false,
+    "shareAlike": false,
+    "publicDomain": false
+  },
+  "genre": "Trance",
+  "tags": [
+    "Ozka",
+    "Adamson",
+    "Trilingo",
+    "Nicorus",
+    "Techno",
+    "Trance",
+    "Remix",
+    "EP",
+    "Digital Diamonds"
+  ],
+  "analysis": {
+    "durationSec": 426.24,
+    "bpm": 127,
+    "bpmConfidence": 0.89,
+    "beatOffset": 0.6307,
+    "key": {
+      "name": "A#m",
+      "camelot": "3A",
+      "confidence": 0.85
+    },
+    "rmsDb": -9.6,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

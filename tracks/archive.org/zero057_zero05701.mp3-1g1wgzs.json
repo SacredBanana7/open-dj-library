@@ -1,0 +1,41 @@
+{
+  "version": 1,
+  "id": "archive.org:zero057/zero05701.mp3",
+  "source": "archive.org",
+  "title": "Misfits, Jonas, Misfits",
+  "artist": "Dead+Hurt",
+  "album": "Zeromoon Sampler III: An Explanation of Difficult Music",
+  "pageUrl": "https://archive.org/details/zero057",
+  "audioUrl": "https://archive.org/download/zero057/zero05701.mp3",
+  "fileName": "zero05701.mp3",
+  "sizeBytes": 5440799,
+  "license": {
+    "code": "by-nc-sa",
+    "version": "2.0",
+    "label": "CC BY-NC-SA 2.0",
+    "url": "http://creativecommons.org/licenses/by-nc-sa/2.0/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": true,
+    "shareAlike": true,
+    "publicDomain": false
+  },
+  "genre": "Experimental",
+  "tags": [
+    "Experimental"
+  ],
+  "analysis": {
+    "durationSec": 226.61,
+    "bpm": 120,
+    "bpmConfidence": 1,
+    "beatOffset": 1.0263,
+    "key": {
+      "name": "F#",
+      "camelot": "2B",
+      "confidence": 0.72
+    },
+    "rmsDb": -19.2,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

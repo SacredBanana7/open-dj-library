@@ -1,0 +1,43 @@
+{
+  "version": 1,
+  "id": "openverse:9ccafeab-8b70-4494-9d45-9a264a72154f",
+  "source": "openverse",
+  "provider": "jamendo",
+  "title": "techno is love",
+  "artist": "Nasofix",
+  "artistUrl": "https://www.jamendo.com/artist/348494/NaSoFiX",
+  "album": "Auf und davon",
+  "pageUrl": "https://www.jamendo.com/track/307991",
+  "audioUrl": "https://prod-1.storage.jamendo.com/?trackid=307991&format=mp32",
+  "fileName": "Nasofix - techno is love.mp3",
+  "license": {
+    "code": "by-sa",
+    "version": "2.0",
+    "label": "CC BY-SA 2.0 DE",
+    "url": "https://creativecommons.org/licenses/by-sa/2.0/de/",
+    "attribution": true,
+    "commercial": true,
+    "derivatives": true,
+    "shareAlike": true,
+    "publicDomain": false
+  },
+  "genre": "Techno",
+  "tags": [
+    "instrumental",
+    "speed_medium"
+  ],
+  "analysis": {
+    "durationSec": 385.95,
+    "bpm": 126,
+    "bpmConfidence": 1,
+    "beatOffset": 0.003,
+    "key": {
+      "name": "F#m",
+      "camelot": "11A",
+      "confidence": 0.83
+    },
+    "rmsDb": -12.2,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

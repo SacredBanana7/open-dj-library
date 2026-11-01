@@ -1,0 +1,46 @@
+{
+  "version": 1,
+  "id": "archive.org:exp039/resynthesize_-_heart_and_soul_direct_-_02_-_carnal_incarnate.mp3",
+  "source": "archive.org",
+  "title": "Carnal Incarnate",
+  "artist": "resynthesize",
+  "album": "Heart and Soul Direct",
+  "pageUrl": "https://archive.org/details/exp039",
+  "audioUrl": "https://archive.org/download/exp039/resynthesize_-_heart_and_soul_direct_-_02_-_carnal_incarnate.mp3",
+  "fileName": "resynthesize_-_heart_and_soul_direct_-_02_-_carnal_incarnate.mp3",
+  "sizeBytes": 7431680,
+  "license": {
+    "code": "by-nc-sa",
+    "version": "2.5",
+    "label": "CC BY-NC-SA 2.5",
+    "url": "http://creativecommons.org/licenses/by-nc-sa/2.5/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": true,
+    "shareAlike": true,
+    "publicDomain": false
+  },
+  "genre": "Breakbeat",
+  "tags": [
+    "idm",
+    "electronica",
+    "downtempo",
+    "drum'n'bass",
+    "breaks",
+    "experimental"
+  ],
+  "analysis": {
+    "durationSec": 316.96,
+    "bpm": 167.38,
+    "bpmConfidence": 0.39,
+    "beatOffset": 1.1849,
+    "key": {
+      "name": "Am",
+      "camelot": "8A",
+      "confidence": 0.64
+    },
+    "rmsDb": -14.3,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

@@ -1,0 +1,46 @@
+{
+  "version": 1,
+  "id": "archive.org:fsz020/fsz020_03-chenard_walcker-na_na_na_na.mp3",
+  "source": "archive.org",
+  "title": "Na Na Na Na",
+  "artist": "Chenard Walcker",
+  "album": "Echolalie [fsz020]",
+  "pageUrl": "https://archive.org/details/fsz020",
+  "audioUrl": "https://archive.org/download/fsz020/fsz020_03-chenard_walcker-na_na_na_na.mp3",
+  "fileName": "fsz020_03-chenard_walcker-na_na_na_na.mp3",
+  "sizeBytes": 4071424,
+  "license": {
+    "code": "by-nc",
+    "version": "2.5",
+    "label": "CC BY-NC 2.5",
+    "url": "http://creativecommons.org/licenses/by-nc/2.5/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": true,
+    "shareAlike": false,
+    "publicDomain": false
+  },
+  "genre": "Disco / Funk",
+  "tags": [
+    "Alternative",
+    "Avantgarde",
+    "Jazz+Funk",
+    "Sample Madness",
+    "Plunderphonics",
+    "Sound Art"
+  ],
+  "analysis": {
+    "durationSec": 169.56,
+    "bpm": 126.68,
+    "bpmConfidence": 0.97,
+    "beatOffset": 0.9295,
+    "key": {
+      "name": "A#",
+      "camelot": "6B",
+      "confidence": 0.48
+    },
+    "rmsDb": -15.6,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

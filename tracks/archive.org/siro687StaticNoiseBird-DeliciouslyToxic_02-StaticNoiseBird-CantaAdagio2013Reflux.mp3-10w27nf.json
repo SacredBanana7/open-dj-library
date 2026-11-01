@@ -1,0 +1,45 @@
+{
+  "version": 1,
+  "id": "archive.org:siro687StaticNoiseBird-DeliciouslyToxic/02-StaticNoiseBird-CantaAdagio2013Reflux.mp3",
+  "source": "archive.org",
+  "title": "Canta Adagio (2013 Reflux)",
+  "artist": "Static Noise Bird",
+  "album": "Deliciously Toxic",
+  "pageUrl": "https://archive.org/details/siro687StaticNoiseBird-DeliciouslyToxic",
+  "audioUrl": "https://archive.org/download/siro687StaticNoiseBird-DeliciouslyToxic/02-StaticNoiseBird-CantaAdagio2013Reflux.mp3",
+  "fileName": "02-StaticNoiseBird-CantaAdagio2013Reflux.mp3",
+  "sizeBytes": 21628143,
+  "license": {
+    "code": "by-nc-nd",
+    "version": "4.0",
+    "label": "CC BY-NC-ND 4.0",
+    "url": "http://creativecommons.org/licenses/by-nc-nd/4.0/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": false,
+    "shareAlike": false,
+    "publicDomain": false
+  },
+  "genre": "Trance",
+  "tags": [
+    "Electronica",
+    "Breakbeat",
+    "Hard Trance",
+    "Ambient",
+    "Experimental"
+  ],
+  "analysis": {
+    "durationSec": 530.14,
+    "bpm": 140,
+    "bpmConfidence": 1,
+    "beatOffset": 0.2167,
+    "key": {
+      "name": "Dm",
+      "camelot": "7A",
+      "confidence": 0.77
+    },
+    "rmsDb": -9.2,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

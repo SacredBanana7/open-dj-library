@@ -1,0 +1,52 @@
+{
+  "version": 1,
+  "id": "archive.org:onmp052/01DjThopa_MaryPoppers.mp3",
+  "source": "archive.org",
+  "title": "Mary Poppers",
+  "artist": "Dj Thopa",
+  "album": "Moments of iBuzz Pleasure",
+  "pageUrl": "https://archive.org/details/onmp052",
+  "audioUrl": "https://archive.org/download/onmp052/01DjThopa_MaryPoppers.mp3",
+  "fileName": "01DjThopa_MaryPoppers.mp3",
+  "sizeBytes": 10756096,
+  "license": {
+    "code": "by-nc",
+    "version": "3.0",
+    "label": "CC BY-NC 3.0",
+    "url": "http://creativecommons.org/licenses/by-nc/3.0/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": true,
+    "shareAlike": false,
+    "publicDomain": false
+  },
+  "genre": "House",
+  "tags": [
+    "iGroove",
+    "iBuzz",
+    "iPod",
+    "House",
+    "Techno",
+    "Club-House",
+    "Hardhouse",
+    "Tribal",
+    "Disco",
+    "Club",
+    "ON-Mix",
+    "Dj Thopa"
+  ],
+  "analysis": {
+    "durationSec": 448.03,
+    "bpm": 120,
+    "bpmConfidence": 1,
+    "beatOffset": 0.0849,
+    "key": {
+      "name": "G",
+      "camelot": "9B",
+      "confidence": 0.64
+    },
+    "rmsDb": -17.3,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

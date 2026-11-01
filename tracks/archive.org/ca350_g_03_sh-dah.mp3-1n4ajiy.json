@@ -1,0 +1,49 @@
+{
+  "version": 1,
+  "id": "archive.org:ca350_g/03_sh-dah.mp3",
+  "source": "archive.org",
+  "title": "sh-dah",
+  "artist": "gillicuddy",
+  "album": "ca350 - gillicuddy - the yaouhl! mashups",
+  "pageUrl": "https://archive.org/details/ca350_g",
+  "audioUrl": "https://archive.org/download/ca350_g/03_sh-dah.mp3",
+  "fileName": "03_sh-dah.mp3",
+  "sizeBytes": 8958763,
+  "license": {
+    "code": "by-nc-nd",
+    "version": "3.0",
+    "label": "CC BY-NC-ND 3.0",
+    "url": "http://creativecommons.org/licenses/by-nc-nd/3.0/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": false,
+    "shareAlike": false,
+    "publicDomain": false
+  },
+  "genre": "Ambient",
+  "tags": [
+    "indie",
+    "rock",
+    "folk",
+    "post-rock",
+    "lo-fi",
+    "psychedelic",
+    "ambient",
+    "drone",
+    "experimental"
+  ],
+  "analysis": {
+    "durationSec": 215.04,
+    "bpm": 141.2,
+    "bpmConfidence": 0.42,
+    "beatOffset": 0.5104,
+    "key": {
+      "name": "G",
+      "camelot": "9B",
+      "confidence": 0.66
+    },
+    "rmsDb": -14,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

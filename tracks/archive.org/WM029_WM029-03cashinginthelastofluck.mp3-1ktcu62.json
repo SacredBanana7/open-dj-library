@@ -1,0 +1,45 @@
+{
+  "version": 1,
+  "id": "archive.org:WM029/WM029-03cashinginthelastofluck.mp3",
+  "source": "archive.org",
+  "title": "Cashing in the last of luck",
+  "artist": "Daghoti",
+  "album": "I've got braces too",
+  "pageUrl": "https://archive.org/details/WM029",
+  "audioUrl": "https://archive.org/download/WM029/WM029-03cashinginthelastofluck.mp3",
+  "fileName": "WM029-03cashinginthelastofluck.mp3",
+  "sizeBytes": 7370677,
+  "license": {
+    "code": "by-nc-sa",
+    "version": "2.5",
+    "label": "CC BY-NC-SA 2.5",
+    "url": "http://creativecommons.org/licenses/by-nc-sa/2.5/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": true,
+    "shareAlike": true,
+    "publicDomain": false
+  },
+  "genre": "Trance",
+  "tags": [
+    "Break Beats",
+    "Weirdomusic",
+    "Electronica",
+    "Ambient Dub",
+    "Dub/Trance"
+  ],
+  "analysis": {
+    "durationSec": 230.27,
+    "bpm": 139.88,
+    "bpmConfidence": 0.39,
+    "beatOffset": 1.3107,
+    "key": {
+      "name": "A#m",
+      "camelot": "3A",
+      "confidence": 0.37
+    },
+    "rmsDb": -15.2,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

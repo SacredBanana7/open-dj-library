@@ -1,0 +1,46 @@
+{
+  "version": 1,
+  "id": "archive.org:BSCOMP0013/02-Poxfil-SolidGround_192kb.mp3",
+  "source": "archive.org",
+  "title": "02 - Poxfil - Solid Ground",
+  "artist": "Poxfil",
+  "album": "netBloc Vol. 13: color in a world of monochrome",
+  "pageUrl": "https://archive.org/details/BSCOMP0013",
+  "audioUrl": "https://archive.org/download/BSCOMP0013/02-Poxfil-SolidGround_192kb.mp3",
+  "fileName": "02-Poxfil-SolidGround_192kb.mp3",
+  "sizeBytes": 7461108,
+  "license": {
+    "code": "by-nc-nd",
+    "version": "3.0",
+    "label": "CC BY-NC-ND 3.0",
+    "url": "http://creativecommons.org/licenses/by-nc-nd/3.0/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": false,
+    "shareAlike": false,
+    "publicDomain": false
+  },
+  "genre": "Hip Hop",
+  "tags": [
+    "rock",
+    "electronic",
+    "pop",
+    "indie",
+    "hip-hop",
+    "electropop"
+  ],
+  "analysis": {
+    "durationSec": 304.03,
+    "bpm": 120,
+    "bpmConfidence": 0.92,
+    "beatOffset": 0.0103,
+    "key": {
+      "name": "Cm",
+      "camelot": "5A",
+      "confidence": 0.96
+    },
+    "rmsDb": -20.3,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

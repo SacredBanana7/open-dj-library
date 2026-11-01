@@ -1,0 +1,44 @@
+{
+  "version": 1,
+  "id": "openverse:bb2709ce-4a80-4f54-a6c6-084f22aefb0a",
+  "source": "openverse",
+  "provider": "jamendo",
+  "title": "Hip Hop Dont Stop (Feat Knife Crew)",
+  "artist": "EJAY IVAN LAC",
+  "artistUrl": "https://www.jamendo.com/artist/352097/EJAY_IVAN_LAC",
+  "album": "Ejay Ivan Lac The Story (2001 - 2010)",
+  "pageUrl": "https://www.jamendo.com/track/1465413",
+  "audioUrl": "https://prod-1.storage.jamendo.com/?trackid=1465413&format=mp32",
+  "fileName": "EJAY IVAN LAC - Hip Hop Dont Stop (Feat Knife Crew).mp3",
+  "license": {
+    "code": "by-nc-nd",
+    "version": "3.0",
+    "label": "CC BY-NC-ND 3.0",
+    "url": "https://creativecommons.org/licenses/by-nc-nd/3.0/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": false,
+    "shareAlike": false,
+    "publicDomain": false
+  },
+  "genre": "Hip Hop",
+  "tags": [
+    "instrumental",
+    "neutral",
+    "speed_medium"
+  ],
+  "analysis": {
+    "durationSec": 284.71,
+    "bpm": 120,
+    "bpmConfidence": 0.63,
+    "beatOffset": 0.2253,
+    "key": {
+      "name": "Cm",
+      "camelot": "5A",
+      "confidence": 0.76
+    },
+    "rmsDb": -16.8,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

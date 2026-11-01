@@ -1,0 +1,44 @@
+{
+  "version": 1,
+  "id": "openverse:eb68f94d-bc8a-40e8-82d7-fd9003e0233b",
+  "source": "openverse",
+  "provider": "jamendo",
+  "title": "Plasma Beat (Alternative Electronica Mix)",
+  "artist": "DJ Mar.S.",
+  "artistUrl": "https://www.jamendo.com/artist/349301/DJ_Mar.S.",
+  "album": "Electronica",
+  "pageUrl": "https://www.jamendo.com/track/321966",
+  "audioUrl": "https://prod-1.storage.jamendo.com/?trackid=321966&format=mp32",
+  "fileName": "DJ Mar.S. - Plasma Beat (Alternative Electronica Mix).mp3",
+  "license": {
+    "code": "by-nc-sa",
+    "version": "3.0",
+    "label": "CC BY-NC-SA 3.0",
+    "url": "https://creativecommons.org/licenses/by-nc-sa/3.0/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": true,
+    "shareAlike": true,
+    "publicDomain": false
+  },
+  "genre": "IDM / Electronica",
+  "tags": [
+    "instrumental",
+    "neutral",
+    "speed_high"
+  ],
+  "analysis": {
+    "durationSec": 326.55,
+    "bpm": 140,
+    "bpmConfidence": 1,
+    "beatOffset": 1.7109,
+    "key": {
+      "name": "G",
+      "camelot": "9B",
+      "confidence": 0.63
+    },
+    "rmsDb": -10.8,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

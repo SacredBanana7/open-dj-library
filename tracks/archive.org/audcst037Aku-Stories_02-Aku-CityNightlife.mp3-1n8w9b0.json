@@ -1,0 +1,46 @@
+{
+  "version": 1,
+  "id": "archive.org:audcst037Aku-Stories/02-Aku-CityNightlife.mp3",
+  "source": "archive.org",
+  "title": "02 - AKU - City nightlife",
+  "artist": "AKU",
+  "album": "Stories",
+  "pageUrl": "https://archive.org/details/audcst037Aku-Stories",
+  "audioUrl": "https://archive.org/download/audcst037Aku-Stories/02-Aku-CityNightlife.mp3",
+  "fileName": "02-Aku-CityNightlife.mp3",
+  "sizeBytes": 14080109,
+  "license": {
+    "code": "by-nc",
+    "version": "3.0",
+    "label": "CC BY-NC 3.0",
+    "url": "http://creativecommons.org/licenses/by-nc/3.0/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": true,
+    "shareAlike": false,
+    "publicDomain": false
+  },
+  "genre": "Techno",
+  "tags": [
+    "audiocast",
+    "productions",
+    "AKU",
+    "stories",
+    "techno",
+    "trance"
+  ],
+  "analysis": {
+    "durationSec": 345.05,
+    "bpm": 130.66,
+    "bpmConfidence": 0.39,
+    "beatOffset": 0.0874,
+    "key": {
+      "name": "Bm",
+      "camelot": "10A",
+      "confidence": 0.9
+    },
+    "rmsDb": -8.8,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

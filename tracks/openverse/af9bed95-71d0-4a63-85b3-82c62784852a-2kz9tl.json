@@ -1,0 +1,43 @@
+{
+  "version": 1,
+  "id": "openverse:af9bed95-71d0-4a63-85b3-82c62784852a",
+  "source": "openverse",
+  "provider": "jamendo",
+  "title": "DJ MIX Hip Hop Mix",
+  "artist": "DJ MIX",
+  "artistUrl": "https://www.jamendo.com/artist/351055/DJ_MIX",
+  "album": "Spykeland",
+  "pageUrl": "https://www.jamendo.com/track/360123",
+  "audioUrl": "https://prod-1.storage.jamendo.com/?trackid=360123&format=mp32",
+  "fileName": "DJ MIX - DJ MIX Hip Hop Mix.mp3",
+  "license": {
+    "code": "by-nc-sa",
+    "version": "2.0",
+    "label": "CC BY-NC-SA 2.0 FR",
+    "url": "https://creativecommons.org/licenses/by-nc-sa/2.0/fr/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": true,
+    "shareAlike": true,
+    "publicDomain": false
+  },
+  "genre": "Hip Hop",
+  "tags": [
+    "instrumental",
+    "speed_medium"
+  ],
+  "analysis": {
+    "durationSec": 196.42,
+    "bpm": 94,
+    "bpmConfidence": 1,
+    "beatOffset": 1.0995,
+    "key": {
+      "name": "F#",
+      "camelot": "2B",
+      "confidence": 0.62
+    },
+    "rmsDb": -16,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

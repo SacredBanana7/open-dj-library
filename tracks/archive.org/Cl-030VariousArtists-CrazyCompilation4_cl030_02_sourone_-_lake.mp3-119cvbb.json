@@ -1,0 +1,47 @@
+{
+  "version": 1,
+  "id": "archive.org:Cl-030VariousArtists-CrazyCompilation4/cl030_02_sourone_-_lake.mp3",
+  "source": "archive.org",
+  "title": "Lake",
+  "artist": "Sourone",
+  "album": "Crazy Compilation #4",
+  "pageUrl": "https://archive.org/details/Cl-030VariousArtists-CrazyCompilation4",
+  "audioUrl": "https://archive.org/download/Cl-030VariousArtists-CrazyCompilation4/cl030_02_sourone_-_lake.mp3",
+  "fileName": "cl030_02_sourone_-_lake.mp3",
+  "sizeBytes": 11647491,
+  "license": {
+    "code": "by-nc-nd",
+    "version": "3.0",
+    "label": "CC BY-NC-ND 3.0 DE",
+    "url": "http://creativecommons.org/licenses/by-nc-nd/3.0/de/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": false,
+    "shareAlike": false,
+    "publicDomain": false
+  },
+  "genre": "Dubstep",
+  "tags": [
+    "electronic",
+    "idm",
+    "glitch",
+    "dubstep",
+    "experimental",
+    "netaudio",
+    "creative commons"
+  ],
+  "analysis": {
+    "durationSec": 288.16,
+    "bpm": 172.78,
+    "bpmConfidence": 0.38,
+    "beatOffset": 0.8734,
+    "key": {
+      "name": "Am",
+      "camelot": "8A",
+      "confidence": 0.74
+    },
+    "rmsDb": -15.7,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

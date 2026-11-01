@@ -1,0 +1,43 @@
+{
+  "version": 1,
+  "id": "openverse:ecd474fd-9053-40a5-8192-fb7d1f905571",
+  "source": "openverse",
+  "provider": "jamendo",
+  "title": "Hip-Hop Music",
+  "artist": "DJ Farwest",
+  "artistUrl": "https://www.jamendo.com/artist/2114/dj.farwest",
+  "album": "Hip-Hop Nation",
+  "pageUrl": "https://www.jamendo.com/track/15130",
+  "audioUrl": "https://prod-1.storage.jamendo.com/?trackid=15130&format=mp32",
+  "fileName": "DJ Farwest - Hip-Hop Music.mp3",
+  "license": {
+    "code": "nc-sampling+",
+    "version": "1.0",
+    "label": "CC NC-Sampling+ 1.0",
+    "url": "https://creativecommons.org/licenses/nc-sampling+/1.0/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": false,
+    "shareAlike": false,
+    "publicDomain": false
+  },
+  "genre": "Hip Hop",
+  "tags": [
+    "instrumental",
+    "speed_medium"
+  ],
+  "analysis": {
+    "durationSec": 167.63,
+    "bpm": 99.86,
+    "bpmConfidence": 1,
+    "beatOffset": 0.2906,
+    "key": {
+      "name": "Cm",
+      "camelot": "5A",
+      "confidence": 0.72
+    },
+    "rmsDb": -15.5,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

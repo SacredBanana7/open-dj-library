@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "id": "archive.org:chase005/01_-_Producer_Snafu_-_Welcome_To_The_Mind_Of_Producer_Snafu.mp3",
+  "source": "archive.org",
+  "title": "Welcome To The Mind Of Producer Snafu",
+  "artist": "Producer Snafu",
+  "album": "IDM For Cholos",
+  "pageUrl": "https://archive.org/details/chase005",
+  "audioUrl": "https://archive.org/download/chase005/01_-_Producer_Snafu_-_Welcome_To_The_Mind_Of_Producer_Snafu.mp3",
+  "fileName": "01_-_Producer_Snafu_-_Welcome_To_The_Mind_Of_Producer_Snafu.mp3",
+  "sizeBytes": 5710056,
+  "license": {
+    "code": "by-nc-sa",
+    "version": "2.0",
+    "label": "CC BY-NC-SA 2.0 FR",
+    "url": "http://creativecommons.org/licenses/by-nc-sa/2.0/fr/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": true,
+    "shareAlike": true,
+    "publicDomain": false
+  },
+  "genre": "Drum & Bass",
+  "tags": [
+    "Drum and Bass",
+    "Breakcore",
+    "Hardcore",
+    "Snafu",
+    "Chase",
+    "Speedcore",
+    "Cheapcore"
+  ],
+  "analysis": {
+    "durationSec": 237.87,
+    "bpm": 185,
+    "bpmConfidence": 0.83,
+    "beatOffset": 2.0282,
+    "key": {
+      "name": "Gm",
+      "camelot": "6A",
+      "confidence": 0.43
+    },
+    "rmsDb": -10.9,
+    "analyzer": "pulsar-dj/analysis-worker 0.1",
+    "tempoFolded": 2
+  },
+  "added": "2026-11-01"
+}

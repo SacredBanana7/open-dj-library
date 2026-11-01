@@ -1,0 +1,45 @@
+{
+  "version": 1,
+  "id": "archive.org:fsz033/fsz033_01-chenard_walcker-in_his_hand_1.mp3",
+  "source": "archive.org",
+  "title": "In His Hand 1",
+  "artist": "Chenard Walcker",
+  "album": "Hands [fsz033]",
+  "pageUrl": "https://archive.org/details/fsz033",
+  "audioUrl": "https://archive.org/download/fsz033/fsz033_01-chenard_walcker-in_his_hand_1.mp3",
+  "fileName": "fsz033_01-chenard_walcker-in_his_hand_1.mp3",
+  "sizeBytes": 5177344,
+  "license": {
+    "code": "by-nc",
+    "version": "2.5",
+    "label": "CC BY-NC 2.5",
+    "url": "http://creativecommons.org/licenses/by-nc/2.5/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": true,
+    "shareAlike": false,
+    "publicDomain": false
+  },
+  "genre": "Disco / Funk",
+  "tags": [
+    "Alternative",
+    "Avantgarde",
+    "Jazz+Funk",
+    "Sample Madness",
+    "Plunderphonics"
+  ],
+  "analysis": {
+    "durationSec": 215.98,
+    "bpm": 137.36,
+    "bpmConfidence": 0.49,
+    "beatOffset": 0.789,
+    "key": {
+      "name": "G#",
+      "camelot": "4B",
+      "confidence": 0.51
+    },
+    "rmsDb": -11,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

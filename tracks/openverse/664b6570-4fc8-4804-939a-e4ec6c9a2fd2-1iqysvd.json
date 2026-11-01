@@ -1,0 +1,47 @@
+{
+  "version": 1,
+  "id": "openverse:664b6570-4fc8-4804-939a-e4ec6c9a2fd2",
+  "source": "openverse",
+  "provider": "jamendo",
+  "title": "Electro House Dance Motivating Party Tune",
+  "artist": "PremiumMusic (Instrumental Version)",
+  "artistUrl": "https://www.jamendo.com/artist/420766/PremiumMusic",
+  "album": "Futuristic Electro Dance House Minimal Techno Party Producer",
+  "pageUrl": "https://www.jamendo.com/track/985634",
+  "audioUrl": "https://prod-1.storage.jamendo.com/?trackid=985634&format=mp32",
+  "fileName": "PremiumMusic (Instrumental Version) - Electro House Dance Motivating Party Tune.mp3",
+  "license": {
+    "code": "by-nc-nd",
+    "version": "3.0",
+    "label": "CC BY-NC-ND 3.0",
+    "url": "https://creativecommons.org/licenses/by-nc-nd/3.0/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": false,
+    "shareAlike": false,
+    "publicDomain": false
+  },
+  "genre": "Electro",
+  "tags": [
+    "happy",
+    "instrumental",
+    "neutral",
+    "party",
+    "speed_high",
+    "summer"
+  ],
+  "analysis": {
+    "durationSec": 195.98,
+    "bpm": 130,
+    "bpmConfidence": 0.64,
+    "beatOffset": 0.002,
+    "key": {
+      "name": "G",
+      "camelot": "9B",
+      "confidence": 0.78
+    },
+    "rmsDb": -11.5,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

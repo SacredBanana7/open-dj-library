@@ -1,0 +1,44 @@
+{
+  "version": 1,
+  "id": "archive.org:bp060/03_-_Syndrom_-_La_Vallee_Noire.mp3",
+  "source": "archive.org",
+  "title": "La Vallée Noire",
+  "artist": "Syndrôm",
+  "album": "Nomades En No Man's Land",
+  "pageUrl": "https://archive.org/details/bp060",
+  "audioUrl": "https://archive.org/download/bp060/03_-_Syndrom_-_La_Vallee_Noire.mp3",
+  "fileName": "03_-_Syndrom_-_La_Vallee_Noire.mp3",
+  "sizeBytes": 13310017,
+  "license": {
+    "code": "by-nc-nd",
+    "version": "3.0",
+    "label": "CC BY-NC-ND 3.0",
+    "url": "http://creativecommons.org/licenses/by-nc-nd/3.0/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": false,
+    "shareAlike": false,
+    "publicDomain": false
+  },
+  "genre": "Breakbeat",
+  "tags": [
+    "Breakbeat",
+    "Dub",
+    "Electro",
+    "IDM"
+  ],
+  "analysis": {
+    "durationSec": 332.72,
+    "bpm": 121.54,
+    "bpmConfidence": 0.44,
+    "beatOffset": 1.8112,
+    "key": {
+      "name": "Dm",
+      "camelot": "7A",
+      "confidence": 0.81
+    },
+    "rmsDb": -8.9,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

@@ -1,0 +1,43 @@
+{
+  "version": 1,
+  "id": "openverse:4c342cf4-518b-4aef-a840-0abe47478db8",
+  "source": "openverse",
+  "provider": "jamendo",
+  "title": "DJ GARCIA -ELECTRO STYLE 2009",
+  "artist": "DJ GARCIA",
+  "artistUrl": "https://www.jamendo.com/artist/354263/DJ_GARCIA",
+  "album": "DJ GARCIA - ELECTRO STYLE",
+  "pageUrl": "https://www.jamendo.com/track/445371",
+  "audioUrl": "https://prod-1.storage.jamendo.com/?trackid=445371&format=mp32",
+  "fileName": "DJ GARCIA - DJ GARCIA -ELECTRO STYLE 2009.mp3",
+  "license": {
+    "code": "by-sa",
+    "version": "2.0",
+    "label": "CC BY-SA 2.0 FR",
+    "url": "https://creativecommons.org/licenses/by-sa/2.0/fr/",
+    "attribution": true,
+    "commercial": true,
+    "derivatives": true,
+    "shareAlike": true,
+    "publicDomain": false
+  },
+  "genre": "Electro",
+  "tags": [
+    "instrumental",
+    "speed_medium"
+  ],
+  "analysis": {
+    "durationSec": 178.13,
+    "bpm": 128,
+    "bpmConfidence": 1,
+    "beatOffset": 0.9388,
+    "key": {
+      "name": "Dm",
+      "camelot": "7A",
+      "confidence": 0.87
+    },
+    "rmsDb": -8.9,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

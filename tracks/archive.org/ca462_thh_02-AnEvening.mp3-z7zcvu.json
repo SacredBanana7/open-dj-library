@@ -1,0 +1,46 @@
+{
+  "version": 1,
+  "id": "archive.org:ca462_thh/02-AnEvening.mp3",
+  "source": "archive.org",
+  "title": "02 - An Evening",
+  "artist": "Tobias Herzz Hallbauer",
+  "album": "ca462 - Tobias Herzz Hallbauer - Verses 2",
+  "pageUrl": "https://archive.org/details/ca462_thh",
+  "audioUrl": "https://archive.org/download/ca462_thh/02-AnEvening.mp3",
+  "fileName": "02-AnEvening.mp3",
+  "sizeBytes": 7173049,
+  "license": {
+    "code": "by-nc-nd",
+    "version": "3.0",
+    "label": "CC BY-NC-ND 3.0",
+    "url": "http://creativecommons.org/licenses/by-nc-nd/3.0/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": false,
+    "shareAlike": false,
+    "publicDomain": false
+  },
+  "genre": "IDM / Electronica",
+  "tags": [
+    "indie",
+    "electronica",
+    "alternative",
+    "krautrock",
+    "trip hop",
+    "other"
+  ],
+  "analysis": {
+    "durationSec": 179.07,
+    "bpm": 161.32,
+    "bpmConfidence": 0.41,
+    "beatOffset": 1.2761,
+    "key": {
+      "name": "Fm",
+      "camelot": "4A",
+      "confidence": 0.76
+    },
+    "rmsDb": -12.3,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

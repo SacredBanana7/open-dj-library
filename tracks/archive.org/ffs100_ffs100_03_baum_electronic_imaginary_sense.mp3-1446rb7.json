@@ -1,0 +1,46 @@
+{
+  "version": 1,
+  "id": "archive.org:ffs100/ffs100_03_baum_electronic_imaginary_sense.mp3",
+  "source": "archive.org",
+  "title": "Baum Electronic - Imaginary Sense",
+  "artist": "Baum Electronic",
+  "album": "Keep Away From Showbiz",
+  "pageUrl": "https://archive.org/details/ffs100",
+  "audioUrl": "https://archive.org/download/ffs100/ffs100_03_baum_electronic_imaginary_sense.mp3",
+  "fileName": "ffs100_03_baum_electronic_imaginary_sense.mp3",
+  "sizeBytes": 3735552,
+  "license": {
+    "code": "by-nc",
+    "version": "2.5",
+    "label": "CC BY-NC 2.5",
+    "url": "http://creativecommons.org/licenses/by-nc/2.5/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": true,
+    "shareAlike": false,
+    "publicDomain": false
+  },
+  "genre": "Electro",
+  "tags": [
+    "Harsh noise",
+    "Dark ambient",
+    "Experimental",
+    "Electronic",
+    "Power noise",
+    "Electro-Industrial"
+  ],
+  "analysis": {
+    "durationSec": 233.4,
+    "bpm": 135.76,
+    "bpmConfidence": 0.88,
+    "beatOffset": 0.0255,
+    "key": {
+      "name": "C",
+      "camelot": "8B",
+      "confidence": 0.67
+    },
+    "rmsDb": -9.3,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

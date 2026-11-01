@@ -1,0 +1,42 @@
+{
+  "version": 1,
+  "id": "archive.org:BB025-Trackmark---nein-clubbing/trackmark-nineClubbing-track04-newFalsch.mp3",
+  "source": "archive.org",
+  "title": "new Falsch",
+  "artist": "Trackmark",
+  "album": "Trackmark - nein clubbing [BB25]",
+  "pageUrl": "https://archive.org/details/BB025-Trackmark---nein-clubbing",
+  "audioUrl": "https://archive.org/download/BB025-Trackmark---nein-clubbing/trackmark-nineClubbing-track04-newFalsch.mp3",
+  "fileName": "trackmark-nineClubbing-track04-newFalsch.mp3",
+  "sizeBytes": 8252992,
+  "license": {
+    "code": "by-nc-sa",
+    "version": "2.0",
+    "label": "CC BY-NC-SA 2.0",
+    "url": "http://creativecommons.org/licenses/by-nc-sa/2.0/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": true,
+    "shareAlike": true,
+    "publicDomain": false
+  },
+  "genre": "Breakbeat",
+  "tags": [
+    "Minimal-Dub",
+    "Electro/IDM/Experimental/Breaks"
+  ],
+  "analysis": {
+    "durationSec": 257.88,
+    "bpm": 169.46,
+    "bpmConfidence": 0.4,
+    "beatOffset": 0.5101,
+    "key": {
+      "name": "B",
+      "camelot": "1B",
+      "confidence": 0.6
+    },
+    "rmsDb": -14.6,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

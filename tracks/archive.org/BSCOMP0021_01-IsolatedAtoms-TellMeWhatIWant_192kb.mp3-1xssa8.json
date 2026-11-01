@@ -1,0 +1,47 @@
+{
+  "version": 1,
+  "id": "archive.org:BSCOMP0021/01-IsolatedAtoms-TellMeWhatIWant_192kb.mp3",
+  "source": "archive.org",
+  "title": "01 - Isolated Atoms - Tell Me What I Want",
+  "artist": "Isolated Atoms",
+  "album": "netBloc Vol. 21: opening your ears with jamendo",
+  "pageUrl": "https://archive.org/details/BSCOMP0021",
+  "audioUrl": "https://archive.org/download/BSCOMP0021/01-IsolatedAtoms-TellMeWhatIWant_192kb.mp3",
+  "fileName": "01-IsolatedAtoms-TellMeWhatIWant_192kb.mp3",
+  "sizeBytes": 5415040,
+  "license": {
+    "code": "by-nc-nd",
+    "version": "3.0",
+    "label": "CC BY-NC-ND 3.0",
+    "url": "http://creativecommons.org/licenses/by-nc-nd/3.0/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": false,
+    "shareAlike": false,
+    "publicDomain": false
+  },
+  "genre": "Drum & Bass",
+  "tags": [
+    "rock",
+    "pop",
+    "drum n bass",
+    "dnb",
+    "hip-hop",
+    "indie-rock",
+    "indie-pop"
+  ],
+  "analysis": {
+    "durationSec": 220.69,
+    "bpm": 136.5,
+    "bpmConfidence": 0.61,
+    "beatOffset": 0.0334,
+    "key": {
+      "name": "G#m",
+      "camelot": "1A",
+      "confidence": 0.93
+    },
+    "rmsDb": -23,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

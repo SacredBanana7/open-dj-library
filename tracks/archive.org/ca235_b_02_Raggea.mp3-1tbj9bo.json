@@ -1,0 +1,43 @@
+{
+  "version": 1,
+  "id": "archive.org:ca235_b/02_Raggea.mp3",
+  "source": "archive.org",
+  "title": "02 - Raggea",
+  "artist": "Bockinger",
+  "album": "ca235 - Bockinger – Tongeflüster - Ep",
+  "pageUrl": "https://archive.org/details/ca235_b",
+  "audioUrl": "https://archive.org/download/ca235_b/02_Raggea.mp3",
+  "fileName": "02_Raggea.mp3",
+  "sizeBytes": 10972718,
+  "license": {
+    "code": "by-nc-nd",
+    "version": "3.0",
+    "label": "CC BY-NC-ND 3.0",
+    "url": "http://creativecommons.org/licenses/by-nc-nd/3.0/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": false,
+    "shareAlike": false,
+    "publicDomain": false
+  },
+  "genre": "Electro",
+  "tags": [
+    "experimental",
+    "electro",
+    "minimal"
+  ],
+  "analysis": {
+    "durationSec": 274.26,
+    "bpm": 135,
+    "bpmConfidence": 1,
+    "beatOffset": 0.0263,
+    "key": {
+      "name": "Bm",
+      "camelot": "10A",
+      "confidence": 0.69
+    },
+    "rmsDb": -12.8,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

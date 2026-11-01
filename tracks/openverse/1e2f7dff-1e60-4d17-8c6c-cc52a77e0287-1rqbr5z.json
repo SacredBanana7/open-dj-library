@@ -1,0 +1,43 @@
+{
+  "version": 1,
+  "id": "openverse:1e2f7dff-1e60-4d17-8c6c-cc52a77e0287",
+  "source": "openverse",
+  "provider": "jamendo",
+  "title": "drum n bass",
+  "artist": "Vincent Vega",
+  "artistUrl": "https://www.jamendo.com/artist/351683/VIncent_Vega_(2)",
+  "album": "VEGA - 2",
+  "pageUrl": "https://www.jamendo.com/track/369206",
+  "audioUrl": "https://prod-1.storage.jamendo.com/?trackid=369206&format=mp32",
+  "fileName": "Vincent Vega - drum n bass.mp3",
+  "license": {
+    "code": "by-nc-sa",
+    "version": "2.5",
+    "label": "CC BY-NC-SA 2.5 IT",
+    "url": "https://creativecommons.org/licenses/by-nc-sa/2.5/it/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": true,
+    "shareAlike": true,
+    "publicDomain": false
+  },
+  "genre": "Drum & Bass",
+  "tags": [
+    "instrumental",
+    "speed_veryhigh"
+  ],
+  "analysis": {
+    "durationSec": 289.45,
+    "bpm": 110,
+    "bpmConfidence": 1,
+    "beatOffset": 0.9078,
+    "key": {
+      "name": "D#m",
+      "camelot": "2A",
+      "confidence": 0.41
+    },
+    "rmsDb": -15.8,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

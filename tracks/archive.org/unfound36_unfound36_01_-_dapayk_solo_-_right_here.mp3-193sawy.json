@@ -1,0 +1,41 @@
+{
+  "version": 1,
+  "id": "archive.org:unfound36/unfound36_01_-_dapayk_solo_-_right_here.mp3",
+  "source": "archive.org",
+  "title": "right here",
+  "artist": "dapayk solo",
+  "album": "[unfound36] dapayk solo - bits for dirty minds and places",
+  "pageUrl": "https://archive.org/details/unfound36",
+  "audioUrl": "https://archive.org/download/unfound36/unfound36_01_-_dapayk_solo_-_right_here.mp3",
+  "fileName": "unfound36_01_-_dapayk_solo_-_right_here.mp3",
+  "sizeBytes": 12982896,
+  "license": {
+    "code": "by-nc-nd",
+    "version": "3.0",
+    "label": "CC BY-NC-ND 3.0 US",
+    "url": "http://creativecommons.org/licenses/by-nc-nd/3.0/us/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": false,
+    "shareAlike": false,
+    "publicDomain": false
+  },
+  "genre": "House",
+  "tags": [
+    "techno, house, minimal"
+  ],
+  "analysis": {
+    "durationSec": 324.48,
+    "bpm": 125,
+    "bpmConfidence": 1,
+    "beatOffset": 0.723,
+    "key": {
+      "name": "F",
+      "camelot": "7B",
+      "confidence": 0.6
+    },
+    "rmsDb": -11,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

@@ -1,0 +1,41 @@
+{
+  "version": 1,
+  "id": "archive.org:1016AD/1016AD-2-Tom_Dazing-Scrambled_Lowball.mp3",
+  "source": "archive.org",
+  "title": "Scrambled Lowball",
+  "artist": "Tom Dazing",
+  "album": "Aesthetik Label Showcase",
+  "pageUrl": "https://archive.org/details/1016AD",
+  "audioUrl": "https://archive.org/download/1016AD/1016AD-2-Tom_Dazing-Scrambled_Lowball.mp3",
+  "fileName": "1016AD-2-Tom_Dazing-Scrambled_Lowball.mp3",
+  "sizeBytes": 16941066,
+  "license": {
+    "code": "by-nc-sa",
+    "version": "3.0",
+    "label": "CC BY-NC-SA 3.0",
+    "url": "http://creativecommons.org/licenses/by-nc-sa/3.0/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": true,
+    "shareAlike": true,
+    "publicDomain": false
+  },
+  "genre": "Techno",
+  "tags": [
+    "techno, electronic, after-dinner"
+  ],
+  "analysis": {
+    "durationSec": 422.84,
+    "bpm": 120,
+    "bpmConfidence": 1,
+    "beatOffset": 1.841,
+    "key": {
+      "name": "F#m",
+      "camelot": "11A",
+      "confidence": 0.66
+    },
+    "rmsDb": -9.6,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

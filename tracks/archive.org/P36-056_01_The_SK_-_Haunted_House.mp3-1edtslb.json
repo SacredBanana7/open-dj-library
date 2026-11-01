@@ -1,0 +1,41 @@
+{
+  "version": 1,
+  "id": "archive.org:P36-056/01_The_SK_-_Haunted_House.mp3",
+  "source": "archive.org",
+  "title": "Haunted House",
+  "artist": "The S.K.",
+  "album": "Haunted Tales",
+  "pageUrl": "https://archive.org/details/P36-056",
+  "audioUrl": "https://archive.org/download/P36-056/01_The_SK_-_Haunted_House.mp3",
+  "fileName": "01_The_SK_-_Haunted_House.mp3",
+  "sizeBytes": 11836264,
+  "license": {
+    "code": "by-nc-nd",
+    "version": "3.0",
+    "label": "CC BY-NC-ND 3.0",
+    "url": "http://creativecommons.org/licenses/by-nc-nd/3.0/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": false,
+    "shareAlike": false,
+    "publicDomain": false
+  },
+  "genre": "Dubstep",
+  "tags": [
+    "Dubstep"
+  ],
+  "analysis": {
+    "durationSec": 279.48,
+    "bpm": 140,
+    "bpmConfidence": 0.91,
+    "beatOffset": 0.8804,
+    "key": {
+      "name": "F#m",
+      "camelot": "11A",
+      "confidence": 0.44
+    },
+    "rmsDb": -11.2,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

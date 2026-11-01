@@ -1,0 +1,43 @@
+{
+  "version": 1,
+  "id": "openverse:adeb0696-0107-4040-bc8f-d6edfdc56cb3",
+  "source": "openverse",
+  "provider": "jamendo",
+  "title": "Nondescript Electronica",
+  "artist": "Uncool Bob",
+  "artistUrl": "https://www.jamendo.com/artist/341101/Uncool_Bob",
+  "album": "First Album from 1999",
+  "pageUrl": "https://www.jamendo.com/track/201443",
+  "audioUrl": "https://prod-1.storage.jamendo.com/?trackid=201443&format=mp32",
+  "fileName": "Uncool Bob - Nondescript Electronica.mp3",
+  "license": {
+    "code": "by-nc-sa",
+    "version": "3.0",
+    "label": "CC BY-NC-SA 3.0",
+    "url": "https://creativecommons.org/licenses/by-nc-sa/3.0/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": true,
+    "shareAlike": true,
+    "publicDomain": false
+  },
+  "genre": "IDM / Electronica",
+  "tags": [
+    "instrumental",
+    "speed_medium"
+  ],
+  "analysis": {
+    "durationSec": 267.91,
+    "bpm": 135.88,
+    "bpmConfidence": 0.63,
+    "beatOffset": 0.0333,
+    "key": {
+      "name": "F#",
+      "camelot": "2B",
+      "confidence": 0.72
+    },
+    "rmsDb": -21.6,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

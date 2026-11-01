@@ -1,0 +1,46 @@
+{
+  "version": 1,
+  "id": "archive.org:001records.com-01-_USTEDNO_Canguro_cosmico/02_canguro_cosmico.mp3",
+  "source": "archive.org",
+  "title": "02_canguro_cosmico",
+  "artist": "Usted No!",
+  "album": "Canguro Cosmico (EP)",
+  "pageUrl": "https://archive.org/details/001records.com-01-_USTEDNO_Canguro_cosmico",
+  "audioUrl": "https://archive.org/download/001records.com-01-_USTEDNO_Canguro_cosmico/02_canguro_cosmico.mp3",
+  "fileName": "02_canguro_cosmico.mp3",
+  "sizeBytes": 11249664,
+  "license": {
+    "code": "by-nc",
+    "version": "3.0",
+    "label": "CC BY-NC 3.0",
+    "url": "http://creativecommons.org/licenses/by-nc/3.0/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": true,
+    "shareAlike": false,
+    "publicDomain": false
+  },
+  "genre": "House",
+  "tags": [
+    "001records",
+    "downtempo",
+    "house music",
+    "electronic music",
+    "free music",
+    "cosmic kangaroo"
+  ],
+  "analysis": {
+    "durationSec": 351.5,
+    "bpm": 126,
+    "bpmConfidence": 0.73,
+    "beatOffset": 1.0031,
+    "key": {
+      "name": "G",
+      "camelot": "9B",
+      "confidence": 0.77
+    },
+    "rmsDb": -7.6,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

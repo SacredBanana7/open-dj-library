@@ -1,0 +1,46 @@
+{
+  "version": 1,
+  "id": "archive.org:enrmp380_chtin_mara_-_clandestine_identities/01_chtin_mara_-_thief_of_fire.mp3",
+  "source": "archive.org",
+  "title": "Thief of Fire",
+  "artist": "Chtin Mara",
+  "album": "Clandestine Identities",
+  "pageUrl": "https://archive.org/details/enrmp380_chtin_mara_-_clandestine_identities",
+  "audioUrl": "https://archive.org/download/enrmp380_chtin_mara_-_clandestine_identities/01_chtin_mara_-_thief_of_fire.mp3",
+  "fileName": "01_chtin_mara_-_thief_of_fire.mp3",
+  "sizeBytes": 13199237,
+  "license": {
+    "code": "by-nc",
+    "version": "3.0",
+    "label": "CC BY-NC 3.0",
+    "url": "http://creativecommons.org/licenses/by-nc/3.0/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": true,
+    "shareAlike": false,
+    "publicDomain": false
+  },
+  "genre": "Dubstep",
+  "tags": [
+    "tripstep",
+    "triphop",
+    "dubstep",
+    "jazz",
+    "experimental",
+    "malevocals"
+  ],
+  "analysis": {
+    "durationSec": 329.93,
+    "bpm": 129.54,
+    "bpmConfidence": 0.37,
+    "beatOffset": 0.5414,
+    "key": {
+      "name": "C#",
+      "camelot": "3B",
+      "confidence": 0.48
+    },
+    "rmsDb": -10.5,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

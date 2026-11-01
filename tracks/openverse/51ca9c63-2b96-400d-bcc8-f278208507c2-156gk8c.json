@@ -1,0 +1,45 @@
+{
+  "version": 1,
+  "id": "openverse:51ca9c63-2b96-400d-bcc8-f278208507c2",
+  "source": "openverse",
+  "provider": "jamendo",
+  "title": "Ambient Music for Yoga 11",
+  "artist": "Hasenchat",
+  "artistUrl": "https://www.jamendo.com/artist/386200/hasenchat",
+  "album": "Music for Sport 3 - Ambient Edition",
+  "pageUrl": "https://www.jamendo.com/track/1098872",
+  "audioUrl": "https://prod-1.storage.jamendo.com/?trackid=1098872&format=mp32",
+  "fileName": "Hasenchat - Ambient Music for Yoga 11.mp3",
+  "license": {
+    "code": "by-nc-sa",
+    "version": "3.0",
+    "label": "CC BY-NC-SA 3.0",
+    "url": "https://creativecommons.org/licenses/by-nc-sa/3.0/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": true,
+    "shareAlike": true,
+    "publicDomain": false
+  },
+  "genre": "Ambient",
+  "tags": [
+    "instrumental",
+    "speed_medium",
+    "spiritual",
+    "swiming"
+  ],
+  "analysis": {
+    "durationSec": 375.5,
+    "bpm": 109.92,
+    "bpmConfidence": 1,
+    "beatOffset": 2.1774,
+    "key": {
+      "name": "Am",
+      "camelot": "8A",
+      "confidence": 0.66
+    },
+    "rmsDb": -22.5,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

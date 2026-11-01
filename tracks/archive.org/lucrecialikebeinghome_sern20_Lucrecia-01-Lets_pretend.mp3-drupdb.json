@@ -1,0 +1,41 @@
+{
+  "version": 1,
+  "id": "archive.org:lucrecialikebeinghome/sern20_Lucrecia-01-Lets_pretend.mp3",
+  "source": "archive.org",
+  "title": "01 - Let's pretend",
+  "artist": "Lucrecia",
+  "album": "Like being home ep",
+  "pageUrl": "https://archive.org/details/lucrecialikebeinghome",
+  "audioUrl": "https://archive.org/download/lucrecialikebeinghome/sern20_Lucrecia-01-Lets_pretend.mp3",
+  "fileName": "sern20_Lucrecia-01-Lets_pretend.mp3",
+  "sizeBytes": 7255243,
+  "license": {
+    "code": "by-nc-nd",
+    "version": "3.0",
+    "label": "CC BY-NC-ND 3.0",
+    "url": "http://creativecommons.org/licenses/by-nc-nd/3.0/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": false,
+    "shareAlike": false,
+    "publicDomain": false
+  },
+  "genre": "IDM / Electronica",
+  "tags": [
+    "pop, electronica, series media"
+  ],
+  "analysis": {
+    "durationSec": 220.06,
+    "bpm": 120,
+    "bpmConfidence": 1,
+    "beatOffset": 0.2686,
+    "key": {
+      "name": "G#",
+      "camelot": "4B",
+      "confidence": 0.91
+    },
+    "rmsDb": -14.5,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

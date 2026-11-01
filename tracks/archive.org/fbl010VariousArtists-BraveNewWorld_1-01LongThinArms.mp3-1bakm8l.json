@@ -1,0 +1,52 @@
+{
+  "version": 1,
+  "id": "archive.org:fbl010VariousArtists-BraveNewWorld/1-01LongThinArms.mp3",
+  "source": "archive.org",
+  "title": "1-01 Long Thin Arms",
+  "artist": "Marcus Fischer",
+  "album": "Brave New World",
+  "pageUrl": "https://archive.org/details/fbl010VariousArtists-BraveNewWorld",
+  "audioUrl": "https://archive.org/download/fbl010VariousArtists-BraveNewWorld/1-01LongThinArms.mp3",
+  "fileName": "1-01LongThinArms.mp3",
+  "sizeBytes": 11690511,
+  "license": {
+    "code": "by-nc-nd",
+    "version": "3.0",
+    "label": "CC BY-NC-ND 3.0",
+    "url": "http://creativecommons.org/licenses/by-nc-nd/3.0/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": false,
+    "shareAlike": false,
+    "publicDomain": false
+  },
+  "genre": "IDM / Electronica",
+  "tags": [
+    "ambient",
+    "experimental",
+    "idm",
+    "spoken word",
+    "abstract",
+    "poetic",
+    "urban landscapes",
+    "Marcus Fischer",
+    "Leonardo Rosado",
+    "Pascal Savy",
+    "Landcrash",
+    "Luca Nasciuti"
+  ],
+  "analysis": {
+    "durationSec": 285.81,
+    "bpm": 125.58,
+    "bpmConfidence": 0.36,
+    "beatOffset": 1.6337,
+    "key": {
+      "name": "Em",
+      "camelot": "9A",
+      "confidence": 0.84
+    },
+    "rmsDb": -14.6,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

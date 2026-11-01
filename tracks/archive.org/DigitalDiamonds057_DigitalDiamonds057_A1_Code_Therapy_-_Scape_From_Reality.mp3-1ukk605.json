@@ -1,0 +1,46 @@
+{
+  "version": 1,
+  "id": "archive.org:DigitalDiamonds057/[DigitalDiamonds057]_A1_Code_Therapy_-_Scape_From_Reality.mp3",
+  "source": "archive.org",
+  "title": "Scape From Reality",
+  "artist": "Code Therapy",
+  "album": "Scape From Reality EP",
+  "pageUrl": "https://archive.org/details/DigitalDiamonds057",
+  "audioUrl": "https://archive.org/download/DigitalDiamonds057/%5BDigitalDiamonds057%5D_A1_Code_Therapy_-_Scape_From_Reality.mp3",
+  "fileName": "[DigitalDiamonds057]_A1_Code_Therapy_-_Scape_From_Reality.mp3",
+  "sizeBytes": 19493283,
+  "license": {
+    "code": "by-nd",
+    "version": "4.0",
+    "label": "CC BY-ND 4.0",
+    "url": "http://creativecommons.org/licenses/by-nd/4.0/",
+    "attribution": true,
+    "commercial": true,
+    "derivatives": false,
+    "shareAlike": false,
+    "publicDomain": false
+  },
+  "genre": "Trance",
+  "tags": [
+    "Alic",
+    "Code therapy",
+    "Psychedelic",
+    "Techno",
+    "Remix",
+    "Trance"
+  ],
+  "analysis": {
+    "durationSec": 474.25,
+    "bpm": 128,
+    "bpmConfidence": 1,
+    "beatOffset": 0.0451,
+    "key": {
+      "name": "G#",
+      "camelot": "4B",
+      "confidence": 0.89
+    },
+    "rmsDb": -9.1,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

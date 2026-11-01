@@ -1,0 +1,52 @@
+{
+  "version": 1,
+  "id": "archive.org:onmp200/102_Practitune_He_s_mine.mp3",
+  "source": "archive.org",
+  "title": "He's mine",
+  "artist": "Practitune",
+  "album": "Best of ON-Mix 101-199",
+  "pageUrl": "https://archive.org/details/onmp200",
+  "audioUrl": "https://archive.org/download/onmp200/102_Practitune_He_s_mine.mp3",
+  "fileName": "102_Practitune_He_s_mine.mp3",
+  "sizeBytes": 7340032,
+  "license": {
+    "code": "by-nd",
+    "version": "3.0",
+    "label": "CC BY-ND 3.0",
+    "url": "http://creativecommons.org/licenses/by-nd/3.0/",
+    "attribution": true,
+    "commercial": true,
+    "derivatives": false,
+    "shareAlike": false,
+    "publicDomain": false
+  },
+  "genre": "Dubstep",
+  "tags": [
+    "Oilboy's aftersun",
+    "Practitune",
+    "Nostalgia Rhythm Orchestra",
+    "River325",
+    "Humdrm",
+    "Dharmatec",
+    "The Radiator",
+    "Notorious Twins",
+    "Boktor",
+    "The Circadian Rythms",
+    "Being-Boring",
+    "Kara Queen"
+  ],
+  "analysis": {
+    "durationSec": 305.68,
+    "bpm": 129.9,
+    "bpmConfidence": 1,
+    "beatOffset": 0.483,
+    "key": {
+      "name": "Fm",
+      "camelot": "4A",
+      "confidence": 0.52
+    },
+    "rmsDb": -13.2,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

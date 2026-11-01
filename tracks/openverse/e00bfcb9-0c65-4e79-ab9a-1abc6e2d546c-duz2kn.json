@@ -1,0 +1,43 @@
+{
+  "version": 1,
+  "id": "openverse:e00bfcb9-0c65-4e79-ab9a-1abc6e2d546c",
+  "source": "openverse",
+  "provider": "jamendo",
+  "title": "electronica",
+  "artist": "esole",
+  "artistUrl": "https://www.jamendo.com/artist/358223/edu_soler",
+  "album": "my song",
+  "pageUrl": "https://www.jamendo.com/track/538006",
+  "audioUrl": "https://prod-1.storage.jamendo.com/?trackid=538006&format=mp32",
+  "fileName": "esole - electronica.mp3",
+  "license": {
+    "code": "by-nc-sa",
+    "version": "2.5",
+    "label": "CC BY-NC-SA 2.5 ES",
+    "url": "https://creativecommons.org/licenses/by-nc-sa/2.5/es/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": true,
+    "shareAlike": true,
+    "publicDomain": false
+  },
+  "genre": "IDM / Electronica",
+  "tags": [
+    "instrumental",
+    "speed_medium"
+  ],
+  "analysis": {
+    "durationSec": 480.36,
+    "bpm": 132,
+    "bpmConfidence": 1,
+    "beatOffset": 0.141,
+    "key": {
+      "name": "C",
+      "camelot": "8B",
+      "confidence": 0.56
+    },
+    "rmsDb": -22.6,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

@@ -1,0 +1,45 @@
+{
+  "version": 1,
+  "id": "archive.org:foot010/foot010_01-dj_kirill_sergeew-2_minutes_38_seconds_to_kiss.mp3",
+  "source": "archive.org",
+  "title": "2 Minutes 38 Seconds To Kiss",
+  "artist": "DJ Kirill Sergeew",
+  "album": "72",
+  "pageUrl": "https://archive.org/details/foot010",
+  "audioUrl": "https://archive.org/download/foot010/foot010_01-dj_kirill_sergeew-2_minutes_38_seconds_to_kiss.mp3",
+  "fileName": "foot010_01-dj_kirill_sergeew-2_minutes_38_seconds_to_kiss.mp3",
+  "sizeBytes": 3809668,
+  "license": {
+    "code": "by-nc-sa",
+    "version": "2.5",
+    "label": "CC BY-NC-SA 2.5",
+    "url": "http://creativecommons.org/licenses/by-nc-sa/2.5/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": true,
+    "shareAlike": true,
+    "publicDomain": false
+  },
+  "genre": "Breakbeat",
+  "tags": [
+    "Jazz",
+    "Trip-Hop",
+    "Breakbeat",
+    "Downtempo",
+    "Avantgarde"
+  ],
+  "analysis": {
+    "durationSec": 158.56,
+    "bpm": 170.12,
+    "bpmConfidence": 0.54,
+    "beatOffset": 0.8058,
+    "key": {
+      "name": "Am",
+      "camelot": "8A",
+      "confidence": 0.53
+    },
+    "rmsDb": -19,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

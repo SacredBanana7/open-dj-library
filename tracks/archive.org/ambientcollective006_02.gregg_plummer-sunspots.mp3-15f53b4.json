@@ -1,0 +1,52 @@
+{
+  "version": 1,
+  "id": "archive.org:ambientcollective006/02.gregg_plummer-sunspots.mp3",
+  "source": "archive.org",
+  "title": "Sunspots",
+  "artist": "Gregg Plummer",
+  "album": "Ambient Collective: Infinite Space",
+  "pageUrl": "https://archive.org/details/ambientcollective006",
+  "audioUrl": "https://archive.org/download/ambientcollective006/02.gregg_plummer-sunspots.mp3",
+  "fileName": "02.gregg_plummer-sunspots.mp3",
+  "sizeBytes": 12344868,
+  "license": {
+    "code": "by-nc-nd",
+    "version": "2.5",
+    "label": "CC BY-NC-ND 2.5",
+    "url": "http://creativecommons.org/licenses/by-nc-nd/2.5/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": false,
+    "shareAlike": false,
+    "publicDomain": false
+  },
+  "genre": "Ambient",
+  "tags": [
+    "ambient collective",
+    "sonoprint",
+    "gregg plummer",
+    "4m33s",
+    "philippe chavaroche",
+    "normal",
+    "tf-drone",
+    "mooma",
+    "palancar",
+    "usr/sbin",
+    "modulator esp",
+    "phrozenlight"
+  ],
+  "analysis": {
+    "durationSec": 514.32,
+    "bpm": 156,
+    "bpmConfidence": 0.37,
+    "beatOffset": 0.1377,
+    "key": {
+      "name": "C",
+      "camelot": "8B",
+      "confidence": 0.95
+    },
+    "rmsDb": -19.5,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

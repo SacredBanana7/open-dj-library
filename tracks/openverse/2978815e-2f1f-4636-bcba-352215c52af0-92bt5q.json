@@ -1,0 +1,45 @@
+{
+  "version": 1,
+  "id": "openverse:2978815e-2f1f-4636-bcba-352215c52af0",
+  "source": "openverse",
+  "provider": "jamendo",
+  "title": "raining at the crescent house",
+  "artist": "Williamson",
+  "artistUrl": "https://www.jamendo.com/artist/337763/Williamson_(2)",
+  "album": "A few things to hear before we all blow up",
+  "pageUrl": "https://www.jamendo.com/track/124363",
+  "audioUrl": "https://prod-1.storage.jamendo.com/?trackid=124363&format=mp32",
+  "fileName": "Williamson - raining at the crescent house.mp3",
+  "license": {
+    "code": "by-sa",
+    "version": "3.0",
+    "label": "CC BY-SA 3.0",
+    "url": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "attribution": true,
+    "commercial": true,
+    "derivatives": true,
+    "shareAlike": true,
+    "publicDomain": false
+  },
+  "genre": "House",
+  "tags": [
+    "instrumental",
+    "neutral",
+    "peaceful",
+    "speed_medium"
+  ],
+  "analysis": {
+    "durationSec": 267.55,
+    "bpm": 163.78,
+    "bpmConfidence": 0.4,
+    "beatOffset": 0.3449,
+    "key": {
+      "name": "G",
+      "camelot": "9B",
+      "confidence": 0.95
+    },
+    "rmsDb": -16.2,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

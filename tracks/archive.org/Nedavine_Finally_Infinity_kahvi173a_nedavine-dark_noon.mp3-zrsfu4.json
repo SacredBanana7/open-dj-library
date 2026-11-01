@@ -1,0 +1,41 @@
+{
+  "version": 1,
+  "id": "archive.org:Nedavine_Finally_Infinity/kahvi173a_nedavine-dark_noon.mp3",
+  "source": "archive.org",
+  "title": "Dark Noon",
+  "artist": "Rubicante",
+  "album": "Nedavine - Finally Infinity EP [kahvi173]",
+  "pageUrl": "https://archive.org/details/Nedavine_Finally_Infinity",
+  "audioUrl": "https://archive.org/download/Nedavine_Finally_Infinity/kahvi173a_nedavine-dark_noon.mp3",
+  "fileName": "kahvi173a_nedavine-dark_noon.mp3",
+  "sizeBytes": 6771200,
+  "license": {
+    "code": "by-nd",
+    "version": "3.0",
+    "label": "CC BY-ND 3.0",
+    "url": "http://creativecommons.org/licenses/by-nd/3.0/",
+    "attribution": true,
+    "commercial": true,
+    "derivatives": false,
+    "shareAlike": false,
+    "publicDomain": false
+  },
+  "genre": "IDM / Electronica",
+  "tags": [
+    "Kahvi,IDM,Ambient"
+  ],
+  "analysis": {
+    "durationSec": 275.43,
+    "bpm": 140,
+    "bpmConfidence": 0.97,
+    "beatOffset": 1.065,
+    "key": {
+      "name": "D",
+      "camelot": "10B",
+      "confidence": 0.7
+    },
+    "rmsDb": -16.3,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

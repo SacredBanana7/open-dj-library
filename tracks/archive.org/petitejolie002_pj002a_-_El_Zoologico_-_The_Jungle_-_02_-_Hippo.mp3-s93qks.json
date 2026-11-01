@@ -1,0 +1,49 @@
+{
+  "version": 1,
+  "id": "archive.org:petitejolie002/pj002a_-_El_Zoologico_-_The_Jungle_-_02_-_Hippo.mp3",
+  "source": "archive.org",
+  "title": "Hippo",
+  "artist": "El Zoológico",
+  "album": "[pj002a] The Jungle",
+  "pageUrl": "https://archive.org/details/petitejolie002",
+  "audioUrl": "https://archive.org/download/petitejolie002/pj002a_-_El_Zoologico_-_The_Jungle_-_02_-_Hippo.mp3",
+  "fileName": "pj002a_-_El_Zoologico_-_The_Jungle_-_02_-_Hippo.mp3",
+  "sizeBytes": 3762176,
+  "license": {
+    "code": "by-nc-sa",
+    "version": "3.0",
+    "label": "CC BY-NC-SA 3.0",
+    "url": "http://creativecommons.org/licenses/by-nc-sa/3.0/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": true,
+    "shareAlike": true,
+    "publicDomain": false
+  },
+  "genre": "Drum & Bass",
+  "tags": [
+    "cute",
+    "petite",
+    "jolie",
+    "pop",
+    "electronica",
+    "animals",
+    "jungle",
+    "aquarium",
+    "toys"
+  ],
+  "analysis": {
+    "durationSec": 156.73,
+    "bpm": 126.68,
+    "bpmConfidence": 0.41,
+    "beatOffset": 0.3416,
+    "key": {
+      "name": "B",
+      "camelot": "1B",
+      "confidence": 0.94
+    },
+    "rmsDb": -18.1,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

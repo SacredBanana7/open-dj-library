@@ -1,0 +1,44 @@
+{
+  "version": 1,
+  "id": "openverse:a4912e1c-af59-4ead-8da7-635f42e226ed",
+  "source": "openverse",
+  "provider": "jamendo",
+  "title": "Electronica 2",
+  "artist": "J.Blasco",
+  "artistUrl": "https://www.jamendo.com/artist/5390/j.blasco",
+  "album": "Electronica",
+  "pageUrl": "https://www.jamendo.com/track/713326",
+  "audioUrl": "https://prod-1.storage.jamendo.com/?trackid=713326&format=mp32",
+  "fileName": "J.Blasco - Electronica 2.mp3",
+  "license": {
+    "code": "by-nc",
+    "version": "3.0",
+    "label": "CC BY-NC 3.0",
+    "url": "https://creativecommons.org/licenses/by-nc/3.0/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": true,
+    "shareAlike": false,
+    "publicDomain": false
+  },
+  "genre": "IDM / Electronica",
+  "tags": [
+    "instrumental",
+    "neutral",
+    "speed_medium"
+  ],
+  "analysis": {
+    "durationSec": 265.34,
+    "bpm": 120,
+    "bpmConfidence": 1,
+    "beatOffset": 0.2527,
+    "key": {
+      "name": "Em",
+      "camelot": "9A",
+      "confidence": 0.71
+    },
+    "rmsDb": -16.7,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

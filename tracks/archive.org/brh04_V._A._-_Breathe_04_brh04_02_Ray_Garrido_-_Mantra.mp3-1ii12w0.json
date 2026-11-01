@@ -1,0 +1,52 @@
+{
+  "version": 1,
+  "id": "archive.org:brh04_V._A._-_Breathe_04/brh04_02_Ray_Garrido_-_Mantra.mp3",
+  "source": "archive.org",
+  "title": "Mantra",
+  "artist": "Ray Garrido",
+  "album": "Breathe 04",
+  "pageUrl": "https://archive.org/details/brh04_V._A._-_Breathe_04",
+  "audioUrl": "https://archive.org/download/brh04_V._A._-_Breathe_04/brh04_02_Ray_Garrido_-_Mantra.mp3",
+  "fileName": "brh04_02_Ray_Garrido_-_Mantra.mp3",
+  "sizeBytes": 14062755,
+  "license": {
+    "code": "by-nc-nd",
+    "version": "3.0",
+    "label": "CC BY-NC-ND 3.0",
+    "url": "http://creativecommons.org/licenses/by-nc-nd/3.0/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": false,
+    "shareAlike": false,
+    "publicDomain": false
+  },
+  "genre": "Breakbeat",
+  "tags": [
+    "netaudio",
+    "compilation",
+    "electronica",
+    "downtempo",
+    "triphop",
+    "ambient",
+    "idm",
+    "breaks",
+    "breathe",
+    "breathe compilations",
+    "netlabel",
+    "1981"
+  ],
+  "analysis": {
+    "durationSec": 338.1,
+    "bpm": 96,
+    "bpmConfidence": 0.91,
+    "beatOffset": 0.0275,
+    "key": {
+      "name": "A",
+      "camelot": "11B",
+      "confidence": 0.62
+    },
+    "rmsDb": -13.3,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

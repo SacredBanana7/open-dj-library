@@ -1,0 +1,45 @@
+{
+  "version": 1,
+  "id": "archive.org:HL018/03-ulisses.mp3",
+  "source": "archive.org",
+  "title": "ulisses",
+  "artist": "Ocaixi",
+  "album": "Jove Carn Japonesa",
+  "pageUrl": "https://archive.org/details/HL018",
+  "audioUrl": "https://archive.org/download/HL018/03-ulisses.mp3",
+  "fileName": "03-ulisses.mp3",
+  "sizeBytes": 3338655,
+  "license": {
+    "code": "by-nc-nd",
+    "version": "2.5",
+    "label": "CC BY-NC-ND 2.5",
+    "url": "http://creativecommons.org/licenses/by-nc-nd/2.5/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": false,
+    "shareAlike": false,
+    "publicDomain": false
+  },
+  "genre": "Experimental",
+  "tags": [
+    "ocaixi",
+    "hamsterloco",
+    "japanese",
+    "catalan",
+    "experimental"
+  ],
+  "analysis": {
+    "durationSec": 207.78,
+    "bpm": 133.32,
+    "bpmConfidence": 0.49,
+    "beatOffset": 0.1656,
+    "key": {
+      "name": "Em",
+      "camelot": "9A",
+      "confidence": 0.77
+    },
+    "rmsDb": -9.9,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

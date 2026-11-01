@@ -1,0 +1,46 @@
+{
+  "version": 1,
+  "id": "archive.org:DWK117/Tab_and_Anitek_-_05_-_Moloko_Plus.mp3",
+  "source": "archive.org",
+  "title": "Moloko Plus",
+  "artist": "Tab & Anitek",
+  "album": "Project Monarch (LP)",
+  "pageUrl": "https://archive.org/details/DWK117",
+  "audioUrl": "https://archive.org/download/DWK117/Tab_and_Anitek_-_05_-_Moloko_Plus.mp3",
+  "fileName": "Tab_and_Anitek_-_05_-_Moloko_Plus.mp3",
+  "sizeBytes": 7269440,
+  "license": {
+    "code": "by-nc-nd",
+    "version": "3.0",
+    "label": "CC BY-NC-ND 3.0",
+    "url": "http://creativecommons.org/licenses/by-nc-nd/3.0/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": false,
+    "shareAlike": false,
+    "publicDomain": false
+  },
+  "genre": "Hip Hop",
+  "tags": [
+    "Anitek",
+    "Tab",
+    "Dusted Wax Kingdom",
+    "abstract hip-hop",
+    "big beat",
+    "trip-hop"
+  ],
+  "analysis": {
+    "durationSec": 181.61,
+    "bpm": 98.68,
+    "bpmConfidence": 0.72,
+    "beatOffset": 0.635,
+    "key": {
+      "name": "C#",
+      "camelot": "3B",
+      "confidence": 0.84
+    },
+    "rmsDb": -15.2,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

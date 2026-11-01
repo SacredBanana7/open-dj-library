@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "id": "archive.org:hpr011_DJPaternoster/DJPaternoster_WhiteFlag_02-Planeterium.mp3",
+  "source": "archive.org",
+  "title": "Planeterium",
+  "artist": "DJ Paternoster",
+  "album": "White Flag",
+  "pageUrl": "https://archive.org/details/hpr011_DJPaternoster",
+  "audioUrl": "https://archive.org/download/hpr011_DJPaternoster/DJPaternoster_WhiteFlag_02-Planeterium.mp3",
+  "fileName": "DJPaternoster_WhiteFlag_02-Planeterium.mp3",
+  "sizeBytes": 7479296,
+  "license": {
+    "code": "by-nc-sa",
+    "version": "3.0",
+    "label": "CC BY-NC-SA 3.0",
+    "url": "http://creativecommons.org/licenses/by-nc-sa/3.0/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": true,
+    "shareAlike": true,
+    "publicDomain": false
+  },
+  "genre": "Trance",
+  "tags": [
+    "dj",
+    "spacey",
+    "trance",
+    "techno",
+    "dance",
+    "electronica",
+    "instrumental",
+    "happy puppy"
+  ],
+  "analysis": {
+    "durationSec": 311.56,
+    "bpm": 120,
+    "bpmConfidence": 0.7,
+    "beatOffset": 1.8696,
+    "key": {
+      "name": "Gm",
+      "camelot": "6A",
+      "confidence": 0.71
+    },
+    "rmsDb": -14.8,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

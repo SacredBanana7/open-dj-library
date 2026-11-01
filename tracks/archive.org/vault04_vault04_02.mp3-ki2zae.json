@@ -1,0 +1,42 @@
+{
+  "version": 1,
+  "id": "archive.org:vault04/vault04_02.mp3",
+  "source": "archive.org",
+  "title": "The Neon God",
+  "artist": "Xingu Hill",
+  "album": "Relay",
+  "pageUrl": "https://archive.org/details/vault04",
+  "audioUrl": "https://archive.org/download/vault04/vault04_02.mp3",
+  "fileName": "vault04_02.mp3",
+  "sizeBytes": 10672128,
+  "license": {
+    "code": "by-nc-nd",
+    "version": "2.0",
+    "label": "CC BY-NC-ND 2.0",
+    "url": "http://creativecommons.org/licenses/by-nc-nd/2.0/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": false,
+    "shareAlike": false,
+    "publicDomain": false
+  },
+  "genre": "Breakbeat",
+  "tags": [
+    "IDM",
+    "Electro/IDM/Experimental/Breaks"
+  ],
+  "analysis": {
+    "durationSec": 465.67,
+    "bpm": 164.68,
+    "bpmConfidence": 0.38,
+    "beatOffset": 0.4872,
+    "key": {
+      "name": "C",
+      "camelot": "8B",
+      "confidence": 0.41
+    },
+    "rmsDb": -16.4,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

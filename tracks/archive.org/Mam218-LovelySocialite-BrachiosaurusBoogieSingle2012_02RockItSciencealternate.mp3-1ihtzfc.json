@@ -1,0 +1,52 @@
+{
+  "version": 1,
+  "id": "archive.org:Mam218-LovelySocialite-BrachiosaurusBoogieSingle2012/02RockItSciencealternate.mp3",
+  "source": "archive.org",
+  "title": "Rock it, Science (Alternate)",
+  "artist": "Lovely Socialite Mrs. Thomas W. Phipps",
+  "album": "Brachiosaurus Boogie Single",
+  "pageUrl": "https://archive.org/details/Mam218-LovelySocialite-BrachiosaurusBoogieSingle2012",
+  "audioUrl": "https://archive.org/download/Mam218-LovelySocialite-BrachiosaurusBoogieSingle2012/02RockItSciencealternate.mp3",
+  "fileName": "02RockItSciencealternate.mp3",
+  "sizeBytes": 16712347,
+  "license": {
+    "code": "by-nc-nd",
+    "version": "3.0",
+    "label": "CC BY-NC-ND 3.0",
+    "url": "http://creativecommons.org/licenses/by-nc-nd/3.0/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": false,
+    "shareAlike": false,
+    "publicDomain": false
+  },
+  "genre": "Experimental",
+  "tags": [
+    "lovely socialite",
+    "lovely socialite mrs. thomas w. phipps",
+    "brachiosaurus boogie",
+    "for kids!",
+    "rock it science",
+    "alternate take",
+    "jazz",
+    "madison",
+    "wisconsin",
+    "experimental",
+    "experimental jazz",
+    "rock"
+  ],
+  "analysis": {
+    "durationSec": 537.97,
+    "bpm": 153.84,
+    "bpmConfidence": 0.37,
+    "beatOffset": 0.4198,
+    "key": {
+      "name": "Dm",
+      "camelot": "7A",
+      "confidence": 0.78
+    },
+    "rmsDb": -14.3,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

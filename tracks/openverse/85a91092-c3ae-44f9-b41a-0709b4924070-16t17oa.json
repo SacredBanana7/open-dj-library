@@ -1,0 +1,44 @@
+{
+  "version": 1,
+  "id": "openverse:85a91092-c3ae-44f9-b41a-0709b4924070",
+  "source": "openverse",
+  "provider": "jamendo",
+  "title": "The Only House",
+  "artist": "C.J.ROGERS",
+  "artistUrl": "https://www.jamendo.com/artist/336426/c.j.rogers",
+  "album": "MUSIC 4 All",
+  "pageUrl": "https://www.jamendo.com/track/84739",
+  "audioUrl": "https://prod-1.storage.jamendo.com/?trackid=84739&format=mp32",
+  "fileName": "C.J.ROGERS - The Only House.mp3",
+  "license": {
+    "code": "by-nc-sa",
+    "version": "3.0",
+    "label": "CC BY-NC-SA 3.0",
+    "url": "https://creativecommons.org/licenses/by-nc-sa/3.0/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": true,
+    "shareAlike": true,
+    "publicDomain": false
+  },
+  "genre": "House",
+  "tags": [
+    "instrumental",
+    "neutral",
+    "speed_medium"
+  ],
+  "analysis": {
+    "durationSec": 271.62,
+    "bpm": 158.5,
+    "bpmConfidence": 0.4,
+    "beatOffset": 0.5649,
+    "key": {
+      "name": "Am",
+      "camelot": "8A",
+      "confidence": 0.75
+    },
+    "rmsDb": -15.3,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

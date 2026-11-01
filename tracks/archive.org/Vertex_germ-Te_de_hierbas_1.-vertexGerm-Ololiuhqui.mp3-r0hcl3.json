@@ -1,0 +1,52 @@
+{
+  "version": 1,
+  "id": "archive.org:Vertex_germ-Te_de_hierbas/1.-vertexGerm-Ololiuhqui.mp3",
+  "source": "archive.org",
+  "title": "1.-Vertex Germ - Ololiuhqui",
+  "artist": "Vertex Germ",
+  "album": "Vertex_Germ - Te_de_Hierbas",
+  "pageUrl": "https://archive.org/details/Vertex_germ-Te_de_hierbas",
+  "audioUrl": "https://archive.org/download/Vertex_germ-Te_de_hierbas/1.-vertexGerm-Ololiuhqui.mp3",
+  "fileName": "1.-vertexGerm-Ololiuhqui.mp3",
+  "sizeBytes": 5480576,
+  "license": {
+    "code": "by-nc-sa",
+    "version": "3.0",
+    "label": "CC BY-NC-SA 3.0",
+    "url": "http://creativecommons.org/licenses/by-nc-sa/3.0/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": true,
+    "shareAlike": true,
+    "publicDomain": false
+  },
+  "genre": "Ambient",
+  "tags": [
+    "Ãtnico",
+    "Ambient",
+    "Ritual",
+    "Glitch",
+    "Granular",
+    "ElectroacÃºstica",
+    "Peyote",
+    "Marihuana",
+    "Hongos",
+    "LSD",
+    "Yopo",
+    "Mezcalina"
+  ],
+  "analysis": {
+    "durationSec": 342.44,
+    "bpm": 143.82,
+    "bpmConfidence": 0.37,
+    "beatOffset": 0.6447,
+    "key": {
+      "name": "A#m",
+      "camelot": "3A",
+      "confidence": 0.52
+    },
+    "rmsDb": -10.5,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

@@ -1,0 +1,43 @@
+{
+  "version": 1,
+  "id": "openverse:d7663ab9-5b72-4ab4-aecf-3b8aef471316",
+  "source": "openverse",
+  "provider": "jamendo",
+  "title": "Emotions in progress (Techno version) (145 bpm)",
+  "artist": "Prana Yama",
+  "artistUrl": "https://www.jamendo.com/artist/348111/Prana_Yama",
+  "album": "Techno Tracks",
+  "pageUrl": "https://www.jamendo.com/track/296862",
+  "audioUrl": "https://prod-1.storage.jamendo.com/?trackid=296862&format=mp32",
+  "fileName": "Prana Yama - Emotions in progress (Techno version) (145 bpm).mp3",
+  "license": {
+    "code": "by-nc-sa",
+    "version": "2.0",
+    "label": "CC BY-NC-SA 2.0 FR",
+    "url": "https://creativecommons.org/licenses/by-nc-sa/2.0/fr/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": true,
+    "shareAlike": true,
+    "publicDomain": false
+  },
+  "genre": "Techno",
+  "tags": [
+    "instrumental",
+    "speed_veryhigh"
+  ],
+  "analysis": {
+    "durationSec": 208.54,
+    "bpm": 145,
+    "bpmConfidence": 1,
+    "beatOffset": 0.0007,
+    "key": {
+      "name": "Am",
+      "camelot": "8A",
+      "confidence": 0.65
+    },
+    "rmsDb": -10.5,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

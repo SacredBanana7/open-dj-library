@@ -1,0 +1,43 @@
+{
+  "version": 1,
+  "id": "openverse:dac549e7-8f53-49f9-b012-c8622bb9d1ec",
+  "source": "openverse",
+  "provider": "jamendo",
+  "title": "ELECTRONICA 1",
+  "artist": "Syntronica (Peter Steele)",
+  "artistUrl": "https://www.jamendo.com/artist/369582/Syntronica_(Peter_Steele)",
+  "album": "SYNTRONICA - A SELECTION OF ORIGINAL AMBIENT ELECTRONICA SYNTHES",
+  "pageUrl": "https://www.jamendo.com/track/796094",
+  "audioUrl": "https://prod-1.storage.jamendo.com/?trackid=796094&format=mp32",
+  "fileName": "Syntronica (Peter Steele) - ELECTRONICA 1.mp3",
+  "license": {
+    "code": "by-nc-nd",
+    "version": "3.0",
+    "label": "CC BY-NC-ND 3.0",
+    "url": "https://creativecommons.org/licenses/by-nc-nd/3.0/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": false,
+    "shareAlike": false,
+    "publicDomain": false
+  },
+  "genre": "IDM / Electronica",
+  "tags": [
+    "instrumental",
+    "speed_medium"
+  ],
+  "analysis": {
+    "durationSec": 312.02,
+    "bpm": 110.18,
+    "bpmConfidence": 1,
+    "beatOffset": 0.4374,
+    "key": {
+      "name": "B",
+      "camelot": "1B",
+      "confidence": 0.63
+    },
+    "rmsDb": -22.6,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

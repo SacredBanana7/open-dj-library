@@ -1,0 +1,45 @@
+{
+  "version": 1,
+  "id": "archive.org:brh16_V.A._-_Ayra/brh16_01_Glenn_Sogge_-_Ayra.mp3",
+  "source": "archive.org",
+  "title": "Ayra",
+  "artist": "Glenn Sogge",
+  "album": "Ayra",
+  "pageUrl": "https://archive.org/details/brh16_V.A._-_Ayra",
+  "audioUrl": "https://archive.org/download/brh16_V.A._-_Ayra/brh16_01_Glenn_Sogge_-_Ayra.mp3",
+  "fileName": "brh16_01_Glenn_Sogge_-_Ayra.mp3",
+  "sizeBytes": 26400768,
+  "license": {
+    "code": "by-nc-sa",
+    "version": "4.0",
+    "label": "CC BY-NC-SA 4.0",
+    "url": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": true,
+    "shareAlike": true,
+    "publicDomain": false
+  },
+  "genre": "Drum & Bass",
+  "tags": [
+    "drum and bass",
+    "electronic",
+    "dark ambient",
+    "electronic noir",
+    "ambient"
+  ],
+  "analysis": {
+    "durationSec": 641.75,
+    "bpm": 163.64,
+    "bpmConfidence": 0.37,
+    "beatOffset": 0.3491,
+    "key": {
+      "name": "D#m",
+      "camelot": "2A",
+      "confidence": 0.83
+    },
+    "rmsDb": -24.2,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

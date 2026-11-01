@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "id": "archive.org:BSXE0002/01-02-Gissle_192kb.mp3",
+  "source": "archive.org",
+  "title": "01 - 02 - Gissle",
+  "artist": "Tha Silent Partner",
+  "album": "Tha Complete Platters Sessions XE (Disc 1 - Platters Acts 1 & 2)",
+  "pageUrl": "https://archive.org/details/BSXE0002",
+  "audioUrl": "https://archive.org/download/BSXE0002/01-02-Gissle_192kb.mp3",
+  "fileName": "01-02-Gissle_192kb.mp3",
+  "sizeBytes": 4792770,
+  "license": {
+    "code": "by-nc-nd",
+    "version": "3.0",
+    "label": "CC BY-NC-ND 3.0",
+    "url": "http://creativecommons.org/licenses/by-nc-nd/3.0/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": false,
+    "shareAlike": false,
+    "publicDomain": false
+  },
+  "genre": "Disco / Funk",
+  "tags": [
+    "blocsonic",
+    "xtended edition",
+    "tha silent partner",
+    "funk",
+    "soul",
+    "beats",
+    "vinyl",
+    "hip-hop"
+  ],
+  "analysis": {
+    "durationSec": 187.38,
+    "bpm": 109.34,
+    "bpmConfidence": 0.63,
+    "beatOffset": 0.7889,
+    "key": {
+      "name": "Bm",
+      "camelot": "10A",
+      "confidence": 0.73
+    },
+    "rmsDb": -18,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

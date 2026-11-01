@@ -1,0 +1,43 @@
+{
+  "version": 1,
+  "id": "openverse:526dabcf-df25-4223-a270-e1101363896a",
+  "source": "openverse",
+  "provider": "jamendo",
+  "title": "Drum 'n' Bass",
+  "artist": "DJ Mar.S.",
+  "artistUrl": "https://www.jamendo.com/artist/349301/DJ_Mar.S.",
+  "album": "Electronica",
+  "pageUrl": "https://www.jamendo.com/track/321961",
+  "audioUrl": "https://prod-1.storage.jamendo.com/?trackid=321961&format=mp32",
+  "fileName": "DJ Mar.S. - Drum 'n' Bass.mp3",
+  "license": {
+    "code": "by-nc-sa",
+    "version": "3.0",
+    "label": "CC BY-NC-SA 3.0",
+    "url": "https://creativecommons.org/licenses/by-nc-sa/3.0/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": true,
+    "shareAlike": true,
+    "publicDomain": false
+  },
+  "genre": "Drum & Bass",
+  "tags": [
+    "instrumental",
+    "speed_high"
+  ],
+  "analysis": {
+    "durationSec": 300,
+    "bpm": 140,
+    "bpmConfidence": 0.95,
+    "beatOffset": 0.4292,
+    "key": {
+      "name": "C",
+      "camelot": "8B",
+      "confidence": 0.77
+    },
+    "rmsDb": -10.6,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

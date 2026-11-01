@@ -1,0 +1,47 @@
+{
+  "version": 1,
+  "id": "archive.org:mn009/mn009_05-titan_and_yez-edit_01.mp3",
+  "source": "archive.org",
+  "title": "edit_01",
+  "artist": "titan and yez",
+  "album": "[mn009] cancel, don't save, save",
+  "pageUrl": "https://archive.org/details/mn009",
+  "audioUrl": "https://archive.org/download/mn009/mn009_05-titan_and_yez-edit_01.mp3",
+  "fileName": "mn009_05-titan_and_yez-edit_01.mp3",
+  "sizeBytes": 8000051,
+  "license": {
+    "code": "by-nc-nd",
+    "version": "2.5",
+    "label": "CC BY-NC-ND 2.5",
+    "url": "http://creativecommons.org/licenses/by-nc-nd/2.5/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": false,
+    "shareAlike": false,
+    "publicDomain": false
+  },
+  "genre": "Techno",
+  "tags": [
+    "Electronic",
+    "Electronica",
+    "Experimental",
+    "Noise",
+    "Glitch",
+    "Minimal",
+    "Techno"
+  ],
+  "analysis": {
+    "durationSec": 333.06,
+    "bpm": 130,
+    "bpmConfidence": 0.65,
+    "beatOffset": 1.756,
+    "key": {
+      "name": "Fm",
+      "camelot": "4A",
+      "confidence": 0.51
+    },
+    "rmsDb": -12.9,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

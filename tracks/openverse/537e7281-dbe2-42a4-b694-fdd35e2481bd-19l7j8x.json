@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "id": "openverse:537e7281-dbe2-42a4-b694-fdd35e2481bd",
+  "source": "openverse",
+  "provider": "jamendo",
+  "title": "Igor Pumphonia - Ambient Magical Futuristic Calm",
+  "artist": "Igor Pumphonia",
+  "artistUrl": "https://www.jamendo.com/artist/475967/ChillRecords",
+  "album": "Igor Pumphonia - Survivor",
+  "pageUrl": "https://www.jamendo.com/track/1518625",
+  "audioUrl": "https://prod-1.storage.jamendo.com/?trackid=1518625&format=mp32",
+  "fileName": "Igor Pumphonia - Igor Pumphonia - Ambient Magical Futuristic Calm.mp3",
+  "license": {
+    "code": "by-nc-nd",
+    "version": "3.0",
+    "label": "CC BY-NC-ND 3.0",
+    "url": "https://creativecommons.org/licenses/by-nc-nd/3.0/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": false,
+    "shareAlike": false,
+    "publicDomain": false
+  },
+  "genre": "Ambient",
+  "tags": [
+    "futuristic",
+    "inspirational",
+    "instrumental",
+    "motivational",
+    "piano",
+    "speed_low",
+    "strings"
+  ],
+  "analysis": {
+    "durationSec": 190.42,
+    "bpm": 150,
+    "bpmConfidence": 0.89,
+    "beatOffset": 0.8386,
+    "key": {
+      "name": "D",
+      "camelot": "10B",
+      "confidence": 0.55
+    },
+    "rmsDb": -10.9,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

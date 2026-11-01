@@ -1,0 +1,43 @@
+{
+  "version": 1,
+  "id": "openverse:13ba9bd4-596a-43e5-b9f5-64e226c4458f",
+  "source": "openverse",
+  "provider": "jamendo",
+  "title": "Broken Air - Learned to Fly (more air drum and bass remix)",
+  "artist": "Tunguska Electronic Music Society",
+  "artistUrl": "https://www.jamendo.com/artist/343607/Tunguska_Chillout_Grooves_vol.1",
+  "album": "Siberian Jungle Vol.3",
+  "pageUrl": "https://www.jamendo.com/track/942563",
+  "audioUrl": "https://prod-1.storage.jamendo.com/?trackid=942563&format=mp32",
+  "fileName": "Tunguska Electronic Music Society - Broken Air - Learned to Fly (more air drum and bass remix).mp3",
+  "license": {
+    "code": "by-nd",
+    "version": "3.0",
+    "label": "CC BY-ND 3.0",
+    "url": "https://creativecommons.org/licenses/by-nd/3.0/",
+    "attribution": true,
+    "commercial": true,
+    "derivatives": false,
+    "shareAlike": false,
+    "publicDomain": false
+  },
+  "genre": "Drum & Bass",
+  "tags": [
+    "instrumental",
+    "speed_veryhigh"
+  ],
+  "analysis": {
+    "durationSec": 351.09,
+    "bpm": 175,
+    "bpmConfidence": 0.9,
+    "beatOffset": 0.3416,
+    "key": {
+      "name": "C#m",
+      "camelot": "12A",
+      "confidence": 0.76
+    },
+    "rmsDb": -11.1,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

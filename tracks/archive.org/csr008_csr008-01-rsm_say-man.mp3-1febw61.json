@@ -1,0 +1,52 @@
+{
+  "version": 1,
+  "id": "archive.org:csr008/csr008-01-rsm_say-man.mp3",
+  "source": "archive.org",
+  "title": "Say Man",
+  "artist": "R. Stevie Moore",
+  "album": "R. Stevie Moore - Tra La La La Phooey! [csr008]",
+  "pageUrl": "https://archive.org/details/csr008",
+  "audioUrl": "https://archive.org/download/csr008/csr008-01-rsm_say-man.mp3",
+  "fileName": "csr008-01-rsm_say-man.mp3",
+  "sizeBytes": 13496320,
+  "license": {
+    "code": "by-nc",
+    "version": "1.0",
+    "label": "CC BY-NC 1.0",
+    "url": "http://creativecommons.org/licenses/by-nc/1.0/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": true,
+    "shareAlike": false,
+    "publicDomain": false
+  },
+  "genre": "Disco / Funk",
+  "tags": [
+    "Acoustic",
+    "Alternative",
+    "Blues",
+    "Classic Rock",
+    "Country",
+    "Cult",
+    "Folk",
+    "Funk",
+    "Indie",
+    "Lo-Fi",
+    "Pop",
+    "Rock"
+  ],
+  "analysis": {
+    "durationSec": 562.29,
+    "bpm": 129.8,
+    "bpmConfidence": 0.9,
+    "beatOffset": 0.9744,
+    "key": {
+      "name": "C#",
+      "camelot": "3B",
+      "confidence": 0.71
+    },
+    "rmsDb": -15.1,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

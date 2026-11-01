@@ -1,0 +1,46 @@
+{
+  "version": 1,
+  "id": "archive.org:bd0011/a_baroquedub_-_crash-and-burn.mp3",
+  "source": "archive.org",
+  "title": "crash and burn (feat. mr.doll)",
+  "artist": "baroquedub",
+  "album": "Dark Side Dubs [bd0011]",
+  "pageUrl": "https://archive.org/details/bd0011",
+  "audioUrl": "https://archive.org/download/bd0011/a_baroquedub_-_crash-and-burn.mp3",
+  "fileName": "a_baroquedub_-_crash-and-burn.mp3",
+  "sizeBytes": 6163551,
+  "license": {
+    "code": "by-nc-nd",
+    "version": "2.0",
+    "label": "CC BY-NC-ND 2.0 UK",
+    "url": "http://creativecommons.org/licenses/by-nc-nd/2.0/uk/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": false,
+    "shareAlike": false,
+    "publicDomain": false
+  },
+  "genre": "Dubstep",
+  "tags": [
+    "dub",
+    "digidub",
+    "reggae",
+    "ragga",
+    "dubstep",
+    "instrumental"
+  ],
+  "analysis": {
+    "durationSec": 254.18,
+    "bpm": 166.5,
+    "bpmConfidence": 0.49,
+    "beatOffset": 0.159,
+    "key": {
+      "name": "G",
+      "camelot": "9B",
+      "confidence": 0.66
+    },
+    "rmsDb": -9.4,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

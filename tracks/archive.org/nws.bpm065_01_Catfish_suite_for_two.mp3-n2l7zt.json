@@ -1,0 +1,52 @@
+{
+  "version": 1,
+  "id": "archive.org:nws.bpm065/01 Catfish suite for two.mp3",
+  "source": "archive.org",
+  "title": "Catfish suite for two",
+  "artist": "Autonomaton",
+  "album": "[mhrk244] The underwater fires",
+  "pageUrl": "https://archive.org/details/nws.bpm065",
+  "audioUrl": "https://archive.org/download/nws.bpm065/01%20Catfish%20suite%20for%20two.mp3",
+  "fileName": "01 Catfish suite for two.mp3",
+  "sizeBytes": 10071237,
+  "license": {
+    "code": "by-nc-sa",
+    "version": "4.0",
+    "label": "CC BY-NC-SA 4.0",
+    "url": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": true,
+    "shareAlike": true,
+    "publicDomain": false
+  },
+  "genre": "Dubstep",
+  "tags": [
+    "chill-out",
+    "downtempo",
+    "dubstep",
+    "dubtech",
+    "electronic",
+    "experimental",
+    "hip-hop",
+    "idm",
+    "industrial",
+    "minimal-pop",
+    "pop",
+    "spoken-word"
+  ],
+  "analysis": {
+    "durationSec": 249.77,
+    "bpm": 120,
+    "bpmConfidence": 0.72,
+    "beatOffset": 1.7019,
+    "key": {
+      "name": "D",
+      "camelot": "10B",
+      "confidence": 0.41
+    },
+    "rmsDb": -12.8,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

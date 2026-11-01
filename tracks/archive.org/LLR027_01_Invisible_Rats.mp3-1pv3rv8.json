@@ -1,0 +1,43 @@
+{
+  "version": 1,
+  "id": "archive.org:LLR027/01_Invisible_Rats.mp3",
+  "source": "archive.org",
+  "title": "Invisible Rats",
+  "artist": "2 Player Guess What",
+  "album": "More Songs About Animals, Bugs and Vans",
+  "pageUrl": "https://archive.org/details/LLR027",
+  "audioUrl": "https://archive.org/download/LLR027/01_Invisible_Rats.mp3",
+  "fileName": "01_Invisible_Rats.mp3",
+  "sizeBytes": 3772768,
+  "license": {
+    "code": "by-nc-sa",
+    "version": "2.5",
+    "label": "CC BY-NC-SA 2.5",
+    "url": "http://creativecommons.org/licenses/by-nc-sa/2.5/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": true,
+    "shareAlike": true,
+    "publicDomain": false
+  },
+  "genre": "Drum & Bass",
+  "tags": [
+    "electronic music",
+    "video game music",
+    "drum and bass"
+  ],
+  "analysis": {
+    "durationSec": 179.98,
+    "bpm": 163.64,
+    "bpmConfidence": 0.4,
+    "beatOffset": 1.0065,
+    "key": {
+      "name": "Dm",
+      "camelot": "7A",
+      "confidence": 0.83
+    },
+    "rmsDb": -15,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

@@ -1,0 +1,44 @@
+{
+  "version": 1,
+  "id": "archive.org:nt108/nt108-1-siblings-litter.mp3",
+  "source": "archive.org",
+  "title": "Litter",
+  "artist": "Siblings",
+  "album": "Litter EP",
+  "pageUrl": "https://archive.org/details/nt108",
+  "audioUrl": "https://archive.org/download/nt108/nt108-1-siblings-litter.mp3",
+  "fileName": "nt108-1-siblings-litter.mp3",
+  "sizeBytes": 6945924,
+  "license": {
+    "code": "by-nc-nd",
+    "version": "3.0",
+    "label": "CC BY-NC-ND 3.0",
+    "url": "http://creativecommons.org/licenses/by-nc-nd/3.0/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": false,
+    "shareAlike": false,
+    "publicDomain": false
+  },
+  "genre": "House",
+  "tags": [
+    "indie pop",
+    "disco",
+    "house",
+    "IDM"
+  ],
+  "analysis": {
+    "durationSec": 269.48,
+    "bpm": 104,
+    "bpmConfidence": 1,
+    "beatOffset": 1.2143,
+    "key": {
+      "name": "Gm",
+      "camelot": "6A",
+      "confidence": 0.53
+    },
+    "rmsDb": -14.1,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

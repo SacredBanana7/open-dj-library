@@ -1,0 +1,43 @@
+{
+  "version": 1,
+  "id": "archive.org:tkep011/tkep011-b-detonador-tobogan.mp3",
+  "source": "archive.org",
+  "title": "tobogan",
+  "artist": "detonador",
+  "album": "tkep011",
+  "pageUrl": "https://archive.org/details/tkep011",
+  "audioUrl": "https://archive.org/download/tkep011/tkep011-b-detonador-tobogan.mp3",
+  "fileName": "tkep011-b-detonador-tobogan.mp3",
+  "sizeBytes": 5236864,
+  "license": {
+    "code": "by-nc-nd",
+    "version": "3.0",
+    "label": "CC BY-NC-ND 3.0",
+    "url": "http://creativecommons.org/licenses/by-nc-nd/3.0/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": false,
+    "shareAlike": false,
+    "publicDomain": false
+  },
+  "genre": "Drum & Bass",
+  "tags": [
+    "TECHKILLA",
+    "drum and bass",
+    "ecuador"
+  ],
+  "analysis": {
+    "durationSec": 261.75,
+    "bpm": 173.28,
+    "bpmConfidence": 0.39,
+    "beatOffset": 0.1673,
+    "key": {
+      "name": "Am",
+      "camelot": "8A",
+      "confidence": 0.73
+    },
+    "rmsDb": -7.1,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

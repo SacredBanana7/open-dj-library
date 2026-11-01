@@ -1,0 +1,47 @@
+{
+  "version": 1,
+  "id": "archive.org:ca290_zk/01_Mount_of_Olives.mp3",
+  "source": "archive.org",
+  "title": "01 - Mount of Olives",
+  "artist": "Zack Kouns",
+  "album": "ca290 - Zack Kouns - I lift my hands against the gods",
+  "pageUrl": "https://archive.org/details/ca290_zk",
+  "audioUrl": "https://archive.org/download/ca290_zk/01_Mount_of_Olives.mp3",
+  "fileName": "01_Mount_of_Olives.mp3",
+  "sizeBytes": 10247573,
+  "license": {
+    "code": "by-nc-nd",
+    "version": "3.0",
+    "label": "CC BY-NC-ND 3.0",
+    "url": "http://creativecommons.org/licenses/by-nc-nd/3.0/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": false,
+    "shareAlike": false,
+    "publicDomain": false
+  },
+  "genre": "Experimental",
+  "tags": [
+    "other",
+    "experimental",
+    "psychedelic",
+    "jazz",
+    "acoustic",
+    "post-rock",
+    "spoken words"
+  ],
+  "analysis": {
+    "durationSec": 256.13,
+    "bpm": 145.16,
+    "bpmConfidence": 0.41,
+    "beatOffset": 0.8779,
+    "key": {
+      "name": "Em",
+      "camelot": "9A",
+      "confidence": 0.54
+    },
+    "rmsDb": -21.8,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

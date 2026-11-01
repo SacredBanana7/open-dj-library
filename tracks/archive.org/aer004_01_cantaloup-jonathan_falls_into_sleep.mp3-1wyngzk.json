@@ -1,0 +1,41 @@
+{
+  "version": 1,
+  "id": "archive.org:aer004/01_cantaloup-jonathan_falls_into_sleep.mp3",
+  "source": "archive.org",
+  "title": "jonathan falls into sleep",
+  "artist": "cantaloup",
+  "album": "tonight it shows",
+  "pageUrl": "https://archive.org/details/aer004",
+  "audioUrl": "https://archive.org/download/aer004/01_cantaloup-jonathan_falls_into_sleep.mp3",
+  "fileName": "01_cantaloup-jonathan_falls_into_sleep.mp3",
+  "sizeBytes": 9033856,
+  "license": {
+    "code": "by-nc-sa",
+    "version": "2.5",
+    "label": "CC BY-NC-SA 2.5",
+    "url": "http://creativecommons.org/licenses/by-nc-sa/2.5/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": true,
+    "shareAlike": true,
+    "publicDomain": false
+  },
+  "genre": "Ambient",
+  "tags": [
+    "Ambient, Postrock, Pop, Psychedelic"
+  ],
+  "analysis": {
+    "durationSec": 376.25,
+    "bpm": 163.92,
+    "bpmConfidence": 0.39,
+    "beatOffset": 1.1641,
+    "key": {
+      "name": "F",
+      "camelot": "7B",
+      "confidence": 0.77
+    },
+    "rmsDb": -14.2,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

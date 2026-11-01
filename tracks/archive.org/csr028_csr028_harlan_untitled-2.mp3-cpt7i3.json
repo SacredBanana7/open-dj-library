@@ -1,0 +1,43 @@
+{
+  "version": 1,
+  "id": "archive.org:csr028/csr028_harlan_untitled-2.mp3",
+  "source": "archive.org",
+  "title": "Untitled 2",
+  "artist": "Harlan",
+  "album": "The Beat Maker",
+  "pageUrl": "https://archive.org/details/csr028",
+  "audioUrl": "https://archive.org/download/csr028/csr028_harlan_untitled-2.mp3",
+  "fileName": "csr028_harlan_untitled-2.mp3",
+  "sizeBytes": 4327424,
+  "license": {
+    "code": "by-nc",
+    "version": "1.0",
+    "label": "CC BY-NC 1.0",
+    "url": "http://creativecommons.org/licenses/by-nc/1.0/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": true,
+    "shareAlike": false,
+    "publicDomain": false
+  },
+  "genre": "Breakbeat",
+  "tags": [
+    "Lo-Fi",
+    "Instrumental Hip-Hop",
+    "Breakbeat"
+  ],
+  "analysis": {
+    "durationSec": 180.24,
+    "bpm": 173.84,
+    "bpmConfidence": 0.43,
+    "beatOffset": 0.5803,
+    "key": {
+      "name": "A#",
+      "camelot": "6B",
+      "confidence": 0.67
+    },
+    "rmsDb": -18,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

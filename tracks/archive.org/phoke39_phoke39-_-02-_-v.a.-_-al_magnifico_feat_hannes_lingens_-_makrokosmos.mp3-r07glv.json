@@ -1,0 +1,52 @@
+{
+  "version": 1,
+  "id": "archive.org:phoke39/phoke39-_-02-_-v.a.-_-al_magnifico_feat_hannes_lingens_-_makrokosmos.mp3",
+  "source": "archive.org",
+  "title": "02 - Al Magnifico feat. Hannes Ling - Makrokosmos",
+  "artist": "Al Magnifico feat. Hannes Ling",
+  "album": "v.a. - phonocake's petit fours 2006",
+  "pageUrl": "https://archive.org/details/phoke39",
+  "audioUrl": "https://archive.org/download/phoke39/phoke39-_-02-_-v.a.-_-al_magnifico_feat_hannes_lingens_-_makrokosmos.mp3",
+  "fileName": "phoke39-_-02-_-v.a.-_-al_magnifico_feat_hannes_lingens_-_makrokosmos.mp3",
+  "sizeBytes": 5745318,
+  "license": {
+    "code": "by-nc-nd",
+    "version": "3.0",
+    "label": "CC BY-NC-ND 3.0 DE",
+    "url": "http://creativecommons.org/licenses/by-nc-nd/3.0/de/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": false,
+    "shareAlike": false,
+    "publicDomain": false
+  },
+  "genre": "Electro",
+  "tags": [
+    "electro",
+    "minimal",
+    "ambient",
+    "field recordings",
+    "melodic electronica",
+    "dark melodic electronica",
+    "mysterious",
+    "psy-chill",
+    "spheres",
+    "rocking",
+    "netlabel",
+    "phonocake"
+  ],
+  "analysis": {
+    "durationSec": 204.78,
+    "bpm": 150,
+    "bpmConfidence": 0.43,
+    "beatOffset": 0.6402,
+    "key": {
+      "name": "A",
+      "camelot": "11B",
+      "confidence": 0.8
+    },
+    "rmsDb": -14.2,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

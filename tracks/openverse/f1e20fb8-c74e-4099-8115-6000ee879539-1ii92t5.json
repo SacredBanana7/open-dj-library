@@ -1,0 +1,46 @@
+{
+  "version": 1,
+  "id": "openverse:f1e20fb8-c74e-4099-8115-6000ee879539",
+  "source": "openverse",
+  "provider": "jamendo",
+  "title": "Amsterdam feat PMC_Truthful - I Love Hip - Hop",
+  "artist": "PMC_Truthful",
+  "artistUrl": "https://www.jamendo.com/artist/436457/PMC_Truthful",
+  "album": "Truthful",
+  "pageUrl": "https://www.jamendo.com/track/1054316",
+  "audioUrl": "https://prod-1.storage.jamendo.com/?trackid=1054316&format=mp32",
+  "fileName": "PMC_Truthful - Amsterdam feat PMC_Truthful - I Love Hip - Hop.mp3",
+  "license": {
+    "code": "by-nc-sa",
+    "version": "3.0",
+    "label": "CC BY-NC-SA 3.0",
+    "url": "https://creativecommons.org/licenses/by-nc-sa/3.0/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": true,
+    "shareAlike": true,
+    "publicDomain": false
+  },
+  "genre": "Hip Hop",
+  "tags": [
+    "male",
+    "pmc_truthful",
+    "speed_medium",
+    "vocal"
+  ],
+  "analysis": {
+    "durationSec": 242.02,
+    "bpm": 66.56,
+    "bpmConfidence": 1,
+    "beatOffset": 1.6575,
+    "key": {
+      "name": "A#m",
+      "camelot": "3A",
+      "confidence": 0.78
+    },
+    "rmsDb": -10.7,
+    "analyzer": "pulsar-dj/analysis-worker 0.1",
+    "tempoFolded": 0.5
+  },
+  "added": "2026-11-01"
+}

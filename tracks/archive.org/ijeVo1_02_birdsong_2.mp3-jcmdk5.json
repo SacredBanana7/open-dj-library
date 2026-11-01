@@ -1,0 +1,46 @@
+{
+  "version": 1,
+  "id": "archive.org:ijeVo1/02_birdsong_2.mp3",
+  "source": "archive.org",
+  "title": "birdsong 2",
+  "artist": "elizabeth veldon",
+  "album": "birdsong (for Ai Weiwei) & O swallow swallow/ Le Prince d’Aquitaine à la tour abolie",
+  "pageUrl": "https://archive.org/details/ijeVo1",
+  "audioUrl": "https://archive.org/download/ijeVo1/02_birdsong_2.mp3",
+  "fileName": "02_birdsong_2.mp3",
+  "sizeBytes": 12922788,
+  "license": {
+    "code": "by-nc-nd",
+    "version": "3.0",
+    "label": "CC BY-NC-ND 3.0",
+    "url": "http://creativecommons.org/licenses/by-nc-nd/3.0/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": false,
+    "shareAlike": false,
+    "publicDomain": false
+  },
+  "genre": "Experimental",
+  "tags": [
+    "Electronic",
+    "Experimental",
+    "Avant-garde",
+    "Sound Art",
+    "Noise",
+    "Harsh Noise"
+  ],
+  "analysis": {
+    "durationSec": 319.78,
+    "bpm": 120,
+    "bpmConfidence": 0.4,
+    "beatOffset": 1.4152,
+    "key": {
+      "name": "G#m",
+      "camelot": "1A",
+      "confidence": 0.22
+    },
+    "rmsDb": -4.2,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

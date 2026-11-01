@@ -1,0 +1,43 @@
+{
+  "version": 1,
+  "id": "openverse:c95d886b-2d4d-438e-807b-6622d3ff4e32",
+  "source": "openverse",
+  "provider": "jamendo",
+  "title": "Electronica - Cold North Pole",
+  "artist": "Electronica",
+  "artistUrl": "https://www.jamendo.com/artist/350474/Electronica_(2)",
+  "album": "Electronica",
+  "pageUrl": "https://www.jamendo.com/track/347608",
+  "audioUrl": "https://prod-1.storage.jamendo.com/?trackid=347608&format=mp32",
+  "fileName": "Electronica - Electronica - Cold North Pole.mp3",
+  "license": {
+    "code": "by-nc-nd",
+    "version": "3.0",
+    "label": "CC BY-NC-ND 3.0",
+    "url": "https://creativecommons.org/licenses/by-nc-nd/3.0/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": false,
+    "shareAlike": false,
+    "publicDomain": false
+  },
+  "genre": "IDM / Electronica",
+  "tags": [
+    "instrumental",
+    "speed_high"
+  ],
+  "analysis": {
+    "durationSec": 294.1,
+    "bpm": 160,
+    "bpmConfidence": 1,
+    "beatOffset": 0.752,
+    "key": {
+      "name": "G",
+      "camelot": "9B",
+      "confidence": 0.79
+    },
+    "rmsDb": -15,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

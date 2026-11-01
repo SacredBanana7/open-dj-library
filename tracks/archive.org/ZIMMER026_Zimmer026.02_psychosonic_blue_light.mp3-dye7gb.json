@@ -1,0 +1,43 @@
+{
+  "version": 1,
+  "id": "archive.org:ZIMMER026/Zimmer026.02_psychosonic__blue_light.mp3",
+  "source": "archive.org",
+  "title": "Zimmer026.02 - blue light",
+  "artist": "psychosonic",
+  "album": "Zimmer026 - jupiter tales",
+  "pageUrl": "https://archive.org/details/ZIMMER026",
+  "audioUrl": "https://archive.org/download/ZIMMER026/Zimmer026.02_psychosonic__blue_light.mp3",
+  "fileName": "Zimmer026.02_psychosonic__blue_light.mp3",
+  "sizeBytes": 5896192,
+  "license": {
+    "code": "by-nc-sa",
+    "version": "2.5",
+    "label": "CC BY-NC-SA 2.5",
+    "url": "http://creativecommons.org/licenses/by-nc-sa/2.5/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": true,
+    "shareAlike": true,
+    "publicDomain": false
+  },
+  "genre": "Trance",
+  "tags": [
+    "trance",
+    "ambient",
+    "techno"
+  ],
+  "analysis": {
+    "durationSec": 294.71,
+    "bpm": 173.44,
+    "bpmConfidence": 0.38,
+    "beatOffset": 1.0426,
+    "key": {
+      "name": "D#m",
+      "camelot": "2A",
+      "confidence": 0.85
+    },
+    "rmsDb": -20.6,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

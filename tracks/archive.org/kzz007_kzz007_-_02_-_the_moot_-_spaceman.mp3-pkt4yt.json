@@ -1,0 +1,52 @@
+{
+  "version": 1,
+  "id": "archive.org:kzz007/kzz007_-_02_-_the_moot_-_spaceman.mp3",
+  "source": "archive.org",
+  "title": "02. The Moot - Spaceman",
+  "artist": "The Moot",
+  "album": "Party in Space compilation",
+  "pageUrl": "https://archive.org/details/kzz007",
+  "audioUrl": "https://archive.org/download/kzz007/kzz007_-_02_-_the_moot_-_spaceman.mp3",
+  "fileName": "kzz007_-_02_-_the_moot_-_spaceman.mp3",
+  "sizeBytes": 6795603,
+  "license": {
+    "code": "by-nc-nd",
+    "version": "3.0",
+    "label": "CC BY-NC-ND 3.0",
+    "url": "http://creativecommons.org/licenses/by-nc-nd/3.0/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": false,
+    "shareAlike": false,
+    "publicDomain": false
+  },
+  "genre": "House",
+  "tags": [
+    "kids",
+    "children",
+    "outer space",
+    "Kazoomzoom",
+    "Michael House",
+    "The Moot",
+    "Cryptacize",
+    "Charlie Burgess",
+    "René Vis",
+    "Flo and Eline",
+    "Archbishop Jason Polland",
+    "Miller, Schletty, Thomas, and Gómez"
+  ],
+  "analysis": {
+    "durationSec": 170.02,
+    "bpm": 162.74,
+    "bpmConfidence": 0.43,
+    "beatOffset": 0.4125,
+    "key": {
+      "name": "F#m",
+      "camelot": "11A",
+      "confidence": 0.84
+    },
+    "rmsDb": -10.9,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

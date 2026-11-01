@@ -1,0 +1,45 @@
+{
+  "version": 1,
+  "id": "archive.org:adsrec002/Fire_In_The_Mirror.mp3",
+  "source": "archive.org",
+  "title": "Fire In The Mirror",
+  "artist": "When The Weather Reflects The Mood",
+  "album": "Pathetic Fallacy E.P.",
+  "pageUrl": "https://archive.org/details/adsrec002",
+  "audioUrl": "https://archive.org/download/adsrec002/Fire_In_The_Mirror.mp3",
+  "fileName": "Fire_In_The_Mirror.mp3",
+  "sizeBytes": 6597099,
+  "license": {
+    "code": "by-nc-sa",
+    "version": "2.5",
+    "label": "CC BY-NC-SA 2.5",
+    "url": "http://creativecommons.org/licenses/by-nc-sa/2.5/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": true,
+    "shareAlike": true,
+    "publicDomain": false
+  },
+  "genre": "Drum & Bass",
+  "tags": [
+    "Experimental",
+    "Drum and Bass",
+    "Electronica",
+    "IDM",
+    "Post Rock"
+  ],
+  "analysis": {
+    "durationSec": 274.78,
+    "bpm": 162.76,
+    "bpmConfidence": 0.4,
+    "beatOffset": 0.4508,
+    "key": {
+      "name": "E",
+      "camelot": "12B",
+      "confidence": 0.55
+    },
+    "rmsDb": -10.5,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

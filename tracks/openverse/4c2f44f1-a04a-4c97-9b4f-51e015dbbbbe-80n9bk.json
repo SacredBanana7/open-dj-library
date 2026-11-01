@@ -1,0 +1,46 @@
+{
+  "version": 1,
+  "id": "openverse:4c2f44f1-a04a-4c97-9b4f-51e015dbbbbe",
+  "source": "openverse",
+  "provider": "jamendo",
+  "title": "Old Mexico (Dubstep)",
+  "artist": "Capashen",
+  "artistUrl": "https://www.jamendo.com/artist/340768/Capashen",
+  "album": "Departure",
+  "pageUrl": "https://www.jamendo.com/track/1075894",
+  "audioUrl": "https://prod-1.storage.jamendo.com/?trackid=1075894&format=mp32",
+  "fileName": "Capashen - Old Mexico (Dubstep).mp3",
+  "license": {
+    "code": "by-nc-sa",
+    "version": "3.0",
+    "label": "CC BY-NC-SA 3.0",
+    "url": "https://creativecommons.org/licenses/by-nc-sa/3.0/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": true,
+    "shareAlike": true,
+    "publicDomain": false
+  },
+  "genre": "Dubstep",
+  "tags": [
+    "brostep",
+    "classicalguitar",
+    "instrumental",
+    "speed_medium",
+    "synthesizer"
+  ],
+  "analysis": {
+    "durationSec": 213.86,
+    "bpm": 129.44,
+    "bpmConfidence": 0.39,
+    "beatOffset": 0.0257,
+    "key": {
+      "name": "Gm",
+      "camelot": "6A",
+      "confidence": 0.76
+    },
+    "rmsDb": -10.6,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

@@ -1,0 +1,52 @@
+{
+  "version": 1,
+  "id": "archive.org:nws487/02 BONGOSAUR!.mp3",
+  "source": "archive.org",
+  "title": "BONGOSAUR!",
+  "artist": "Nuer",
+  "album": "[SR211] Gaar",
+  "pageUrl": "https://archive.org/details/nws487",
+  "audioUrl": "https://archive.org/download/nws487/02%20BONGOSAUR!.mp3",
+  "fileName": "02 BONGOSAUR!.mp3",
+  "sizeBytes": 4843017,
+  "license": {
+    "code": "by-nc-nd",
+    "version": "4.0",
+    "label": "CC BY-NC-ND 4.0",
+    "url": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": false,
+    "shareAlike": false,
+    "publicDomain": false
+  },
+  "genre": "Dubstep",
+  "tags": [
+    "ambient",
+    "chill-out",
+    "classical",
+    "downtempo",
+    "dub",
+    "dubstep",
+    "electronic",
+    "funk",
+    "hip-hop",
+    "indietronic",
+    "new-wave",
+    "world"
+  ],
+  "analysis": {
+    "durationSec": 209.57,
+    "bpm": 119,
+    "bpmConfidence": 0.54,
+    "beatOffset": 0.6009,
+    "key": {
+      "name": "C#",
+      "camelot": "3B",
+      "confidence": 0.71
+    },
+    "rmsDb": -9.6,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

@@ -1,0 +1,45 @@
+{
+  "version": 1,
+  "id": "openverse:04b2b8e6-544c-4a54-815c-3e8c7a8274bb",
+  "source": "openverse",
+  "provider": "jamendo",
+  "title": "Hip Hop",
+  "artist": "la sektion",
+  "artistUrl": "https://www.jamendo.com/artist/336491/la_sektion",
+  "album": "Playlist 2007",
+  "pageUrl": "https://www.jamendo.com/track/114161",
+  "audioUrl": "https://prod-1.storage.jamendo.com/?trackid=114161&format=mp32",
+  "fileName": "la sektion - Hip Hop.mp3",
+  "license": {
+    "code": "by-nc-sa",
+    "version": "3.0",
+    "label": "CC BY-NC-SA 3.0",
+    "url": "https://creativecommons.org/licenses/by-nc-sa/3.0/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": true,
+    "shareAlike": true,
+    "publicDomain": false
+  },
+  "genre": "Hip Hop",
+  "tags": [
+    "male",
+    "militant",
+    "speed_medium",
+    "vocal"
+  ],
+  "analysis": {
+    "durationSec": 297.01,
+    "bpm": 120,
+    "bpmConfidence": 0.81,
+    "beatOffset": 0.0022,
+    "key": {
+      "name": "Am",
+      "camelot": "8A",
+      "confidence": 0.84
+    },
+    "rmsDb": -15,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

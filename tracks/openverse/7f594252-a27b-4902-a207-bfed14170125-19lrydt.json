@@ -1,0 +1,46 @@
+{
+  "version": 1,
+  "id": "openverse:7f594252-a27b-4902-a207-bfed14170125",
+  "source": "openverse",
+  "provider": "jamendo",
+  "title": "Techno Guru",
+  "artist": "Hasenchat",
+  "artistUrl": "https://www.jamendo.com/artist/386200/hasenchat",
+  "album": "Bollywood Hills - The Album",
+  "pageUrl": "https://www.jamendo.com/track/1087504",
+  "audioUrl": "https://prod-1.storage.jamendo.com/?trackid=1087504&format=mp32",
+  "fileName": "Hasenchat - Techno Guru.mp3",
+  "license": {
+    "code": "by-nc-sa",
+    "version": "3.0",
+    "label": "CC BY-NC-SA 3.0",
+    "url": "https://creativecommons.org/licenses/by-nc-sa/3.0/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": true,
+    "shareAlike": true,
+    "publicDomain": false
+  },
+  "genre": "Techno",
+  "tags": [
+    "bollywood",
+    "female",
+    "hindi",
+    "speed_medium",
+    "vocal"
+  ],
+  "analysis": {
+    "durationSec": 384.44,
+    "bpm": 120,
+    "bpmConfidence": 0.43,
+    "beatOffset": 0.747,
+    "key": {
+      "name": "C#m",
+      "camelot": "12A",
+      "confidence": 0.87
+    },
+    "rmsDb": -14.6,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

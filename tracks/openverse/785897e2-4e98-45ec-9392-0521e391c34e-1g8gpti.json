@@ -1,0 +1,47 @@
+{
+  "version": 1,
+  "id": "openverse:785897e2-4e98-45ec-9392-0521e391c34e",
+  "source": "openverse",
+  "provider": "jamendo",
+  "title": "4 Senses (Dubstep Remix From the Intro Of Unspoken)",
+  "artist": "DJ Mar.S. Aka One Milk",
+  "artistUrl": "https://www.jamendo.com/artist/367557/DJ_Mar.S._Aka_One_Milk",
+  "album": "Trancity",
+  "pageUrl": "https://www.jamendo.com/track/936444",
+  "audioUrl": "https://prod-1.storage.jamendo.com/?trackid=936444&format=mp32",
+  "fileName": "DJ Mar.S. Aka One Milk - 4 Senses (Dubstep Remix From the Intro Of Unspoken).mp3",
+  "license": {
+    "code": "by-sa",
+    "version": "2.0",
+    "label": "CC BY-SA 2.0 DE",
+    "url": "https://creativecommons.org/licenses/by-sa/2.0/de/",
+    "attribution": true,
+    "commercial": true,
+    "derivatives": true,
+    "shareAlike": true,
+    "publicDomain": false
+  },
+  "genre": "Dubstep",
+  "tags": [
+    "chiptunes",
+    "computer",
+    "instrumental",
+    "neutral",
+    "speed_medium",
+    "videogame"
+  ],
+  "analysis": {
+    "durationSec": 171.43,
+    "bpm": 160,
+    "bpmConfidence": 0.39,
+    "beatOffset": 1.2279,
+    "key": {
+      "name": "Gm",
+      "camelot": "6A",
+      "confidence": 0.72
+    },
+    "rmsDb": -8.7,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

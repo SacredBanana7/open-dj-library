@@ -1,0 +1,45 @@
+{
+  "version": 1,
+  "id": "openverse:8082755d-1867-4bab-b7bf-bec62b537339",
+  "source": "openverse",
+  "provider": "jamendo",
+  "title": "Nines - Trance",
+  "artist": "Snabisch",
+  "artistUrl": "https://www.jamendo.com/artist/357317/Snabisch",
+  "album": "The best moments",
+  "pageUrl": "https://www.jamendo.com/track/576938",
+  "audioUrl": "https://prod-1.storage.jamendo.com/?trackid=576938&format=mp32",
+  "fileName": "Snabisch - Nines - Trance.mp3",
+  "license": {
+    "code": "by-sa",
+    "version": "3.0",
+    "label": "CC BY-SA 3.0",
+    "url": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "attribution": true,
+    "commercial": true,
+    "derivatives": true,
+    "shareAlike": true,
+    "publicDomain": false
+  },
+  "genre": "Trance",
+  "tags": [
+    "female",
+    "speed_medium",
+    "synthesizer",
+    "vocal"
+  ],
+  "analysis": {
+    "durationSec": 320.55,
+    "bpm": 140,
+    "bpmConfidence": 0.74,
+    "beatOffset": 1.6974,
+    "key": {
+      "name": "Am",
+      "camelot": "8A",
+      "confidence": 0.89
+    },
+    "rmsDb": -12.1,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

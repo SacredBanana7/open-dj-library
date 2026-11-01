@@ -1,0 +1,47 @@
+{
+  "version": 1,
+  "id": "openverse:75ae858d-965f-4d34-9f52-09d226c8afc5",
+  "source": "openverse",
+  "provider": "jamendo",
+  "title": "Electro House Dance Club Put Your Hands Up",
+  "artist": "PremiumMusic (Instrumental Version)",
+  "artistUrl": "https://www.jamendo.com/artist/420766/PremiumMusic",
+  "album": "Futuristic Electro Dance House Minimal Techno Party Producer",
+  "pageUrl": "https://www.jamendo.com/track/985629",
+  "audioUrl": "https://prod-1.storage.jamendo.com/?trackid=985629&format=mp32",
+  "fileName": "PremiumMusic (Instrumental Version) - Electro House Dance Club Put Your Hands Up.mp3",
+  "license": {
+    "code": "by-nc-nd",
+    "version": "3.0",
+    "label": "CC BY-NC-ND 3.0",
+    "url": "https://creativecommons.org/licenses/by-nc-nd/3.0/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": false,
+    "shareAlike": false,
+    "publicDomain": false
+  },
+  "genre": "Electro",
+  "tags": [
+    "happy",
+    "inspirational",
+    "instrumental",
+    "party",
+    "speed_high",
+    "summer"
+  ],
+  "analysis": {
+    "durationSec": 473.43,
+    "bpm": 124,
+    "bpmConfidence": 0.36,
+    "beatOffset": 1.8257,
+    "key": {
+      "name": "F#",
+      "camelot": "2B",
+      "confidence": 0.8
+    },
+    "rmsDb": -9.4,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

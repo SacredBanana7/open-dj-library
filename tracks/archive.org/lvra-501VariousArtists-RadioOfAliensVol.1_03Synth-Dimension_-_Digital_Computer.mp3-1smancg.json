@@ -1,0 +1,52 @@
+{
+  "version": 1,
+  "id": "archive.org:lvra-501VariousArtists-RadioOfAliensVol.1/03Synth-Dimension_-_Digital_Computer.mp3",
+  "source": "archive.org",
+  "title": "Digital Computer",
+  "artist": "Synth-Dimension",
+  "album": "v/a - Radio Of Aliens Vol. 1 (2011)",
+  "pageUrl": "https://archive.org/details/lvra-501VariousArtists-RadioOfAliensVol.1",
+  "audioUrl": "https://archive.org/download/lvra-501VariousArtists-RadioOfAliensVol.1/03Synth-Dimension_-_Digital_Computer.mp3",
+  "fileName": "03Synth-Dimension_-_Digital_Computer.mp3",
+  "sizeBytes": 14529351,
+  "license": {
+    "code": "by-nc-nd",
+    "version": "3.0",
+    "label": "CC BY-NC-ND 3.0",
+    "url": "http://creativecommons.org/licenses/by-nc-nd/3.0/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": false,
+    "shareAlike": false,
+    "publicDomain": false
+  },
+  "genre": "Disco / Funk",
+  "tags": [
+    "Laser Visa",
+    "spacesynth",
+    "italodisco",
+    "italo disco",
+    "Sci-Fi",
+    "spacesound",
+    "radio of aliens",
+    "EugeneKha",
+    "Magic Studio",
+    "Project A",
+    "Spacebirds",
+    "Space Station"
+  ],
+  "analysis": {
+    "durationSec": 363.1,
+    "bpm": 124,
+    "bpmConfidence": 1,
+    "beatOffset": 1.1705,
+    "key": {
+      "name": "Am",
+      "camelot": "8A",
+      "confidence": 0.72
+    },
+    "rmsDb": -13.8,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

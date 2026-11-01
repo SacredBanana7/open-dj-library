@@ -1,0 +1,52 @@
+{
+  "version": 1,
+  "id": "archive.org:AlexanderLisovskyPETIAandVOLKI/djet_01_Outrage.mp3",
+  "source": "archive.org",
+  "title": "01_Outrage",
+  "artist": "Alexander Lisovsky",
+  "album": "PETIA and VOLKI",
+  "pageUrl": "https://archive.org/details/AlexanderLisovskyPETIAandVOLKI",
+  "audioUrl": "https://archive.org/download/AlexanderLisovskyPETIAandVOLKI/djet_01_Outrage.mp3",
+  "fileName": "djet_01_Outrage.mp3",
+  "sizeBytes": 6583116,
+  "license": {
+    "code": "by-nc-nd",
+    "version": "3.0",
+    "label": "CC BY-NC-ND 3.0",
+    "url": "http://creativecommons.org/licenses/by-nc-nd/3.0/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": false,
+    "shareAlike": false,
+    "publicDomain": false
+  },
+  "genre": "Breakbeat",
+  "tags": [
+    "breaks",
+    "electronica",
+    "experimental",
+    "reggae",
+    "dub",
+    "sound art",
+    "eclectic",
+    "electronica",
+    "experimental",
+    "reggae",
+    "dub",
+    "sound art"
+  ],
+  "analysis": {
+    "durationSec": 274.18,
+    "bpm": 123.18,
+    "bpmConfidence": 0.38,
+    "beatOffset": 0.8997,
+    "key": {
+      "name": "Dm",
+      "camelot": "7A",
+      "confidence": 0.74
+    },
+    "rmsDb": -14.8,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

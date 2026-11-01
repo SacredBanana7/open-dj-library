@@ -1,0 +1,47 @@
+{
+  "version": 1,
+  "id": "archive.org:chase005/02_-_Producer_Snafu_-_Hellfire.mp3",
+  "source": "archive.org",
+  "title": "Hellfire",
+  "artist": "Producer Snafu",
+  "album": "IDM For Cholos",
+  "pageUrl": "https://archive.org/details/chase005",
+  "audioUrl": "https://archive.org/download/chase005/02_-_Producer_Snafu_-_Hellfire.mp3",
+  "fileName": "02_-_Producer_Snafu_-_Hellfire.mp3",
+  "sizeBytes": 7462350,
+  "license": {
+    "code": "by-nc-sa",
+    "version": "2.0",
+    "label": "CC BY-NC-SA 2.0 FR",
+    "url": "http://creativecommons.org/licenses/by-nc-sa/2.0/fr/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": true,
+    "shareAlike": true,
+    "publicDomain": false
+  },
+  "genre": "Drum & Bass",
+  "tags": [
+    "Drum and Bass",
+    "Breakcore",
+    "Hardcore",
+    "Snafu",
+    "Chase",
+    "Speedcore",
+    "Cheapcore"
+  ],
+  "analysis": {
+    "durationSec": 310.88,
+    "bpm": 140,
+    "bpmConfidence": 0.47,
+    "beatOffset": 1.5327,
+    "key": {
+      "name": "Am",
+      "camelot": "8A",
+      "confidence": 0.64
+    },
+    "rmsDb": -7.3,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

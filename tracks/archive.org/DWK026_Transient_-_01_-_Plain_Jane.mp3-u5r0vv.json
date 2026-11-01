@@ -1,0 +1,49 @@
+{
+  "version": 1,
+  "id": "archive.org:DWK026/Transient_-_01_-_Plain_Jane.mp3",
+  "source": "archive.org",
+  "title": "Plain Jane",
+  "artist": "Transient",
+  "album": "A Sudden Soft Implosion of Noiselessness",
+  "pageUrl": "https://archive.org/details/DWK026",
+  "audioUrl": "https://archive.org/download/DWK026/Transient_-_01_-_Plain_Jane.mp3",
+  "fileName": "Transient_-_01_-_Plain_Jane.mp3",
+  "sizeBytes": 8931456,
+  "license": {
+    "code": "by-nc-nd",
+    "version": "3.0",
+    "label": "CC BY-NC-ND 3.0",
+    "url": "http://creativecommons.org/licenses/by-nc-nd/3.0/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": false,
+    "shareAlike": false,
+    "publicDomain": false
+  },
+  "genre": "Breakbeat",
+  "tags": [
+    "Transient",
+    "Dusted Wax Kingdom",
+    "trip-hop",
+    "breakbeat",
+    "ambient",
+    "chillout",
+    "electronica",
+    "IDM",
+    "chilled beats"
+  ],
+  "analysis": {
+    "durationSec": 223.45,
+    "bpm": 162.5,
+    "bpmConfidence": 0.63,
+    "beatOffset": 0.0977,
+    "key": {
+      "name": "G",
+      "camelot": "9B",
+      "confidence": 0.77
+    },
+    "rmsDb": -12,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

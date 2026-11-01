@@ -1,0 +1,45 @@
+{
+  "version": 1,
+  "id": "archive.org:WM012/wm012-02slowshowinoslo.mp3",
+  "source": "archive.org",
+  "title": "Slowshowinoslo",
+  "artist": "Happy Elf",
+  "album": "Output from the past",
+  "pageUrl": "https://archive.org/details/WM012",
+  "audioUrl": "https://archive.org/download/WM012/wm012-02slowshowinoslo.mp3",
+  "fileName": "wm012-02slowshowinoslo.mp3",
+  "sizeBytes": 6572032,
+  "license": {
+    "code": "by-nc-sa",
+    "version": "2.0",
+    "label": "CC BY-NC-SA 2.0",
+    "url": "http://creativecommons.org/licenses/by-nc-sa/2.0/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": true,
+    "shareAlike": true,
+    "publicDomain": false
+  },
+  "genre": "House",
+  "tags": [
+    "Club-House",
+    "Electropop",
+    "Album Releases",
+    "Weirdomusic",
+    "Electro"
+  ],
+  "analysis": {
+    "durationSec": 273.79,
+    "bpm": 127.3,
+    "bpmConfidence": 0.4,
+    "beatOffset": 0.4094,
+    "key": {
+      "name": "Gm",
+      "camelot": "6A",
+      "confidence": 0.7
+    },
+    "rmsDb": -13.6,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

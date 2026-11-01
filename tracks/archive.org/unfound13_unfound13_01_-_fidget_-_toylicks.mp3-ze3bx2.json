@@ -1,0 +1,44 @@
+{
+  "version": 1,
+  "id": "archive.org:unfound13/unfound13_01_-_fidget_-_toylicks.mp3",
+  "source": "archive.org",
+  "title": "toylicks",
+  "artist": "fidget",
+  "album": "[unfound13] unhappy anniversary",
+  "pageUrl": "https://archive.org/details/unfound13",
+  "audioUrl": "https://archive.org/download/unfound13/unfound13_01_-_fidget_-_toylicks.mp3",
+  "fileName": "unfound13_01_-_fidget_-_toylicks.mp3",
+  "sizeBytes": 12439863,
+  "license": {
+    "code": "by-nc-nd",
+    "version": "2.5",
+    "label": "CC BY-NC-ND 2.5",
+    "url": "http://creativecommons.org/licenses/by-nc-nd/2.5/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": false,
+    "shareAlike": false,
+    "publicDomain": false
+  },
+  "genre": "Techno",
+  "tags": [
+    "Experimental",
+    "Ambient",
+    "Microhouse",
+    "minimal techno"
+  ],
+  "analysis": {
+    "durationSec": 388.65,
+    "bpm": 124.28,
+    "bpmConfidence": 0.43,
+    "beatOffset": 0.7155,
+    "key": {
+      "name": "F",
+      "camelot": "7B",
+      "confidence": 0.71
+    },
+    "rmsDb": -14.5,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

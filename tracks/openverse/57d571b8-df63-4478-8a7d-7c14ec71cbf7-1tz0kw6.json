@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "id": "openverse:57d571b8-df63-4478-8a7d-7c14ec71cbf7",
+  "source": "openverse",
+  "provider": "jamendo",
+  "title": "The Life (drum and bass, energetic, sporт, Epic, movie trailer, motivation)",
+  "artist": "Roman Batiuk",
+  "artistUrl": "https://www.jamendo.com/artist/496074/Roman_Batyuk",
+  "album": "Beginning",
+  "pageUrl": "https://www.jamendo.com/track/1406572",
+  "audioUrl": "https://prod-1.storage.jamendo.com/?trackid=1406572&format=mp32",
+  "fileName": "Roman Batiuk - The Life (drum and bass, energetic, sporт, Epic, movie trailer, motivation).mp3",
+  "license": {
+    "code": "by-nc-nd",
+    "version": "3.0",
+    "label": "CC BY-NC-ND 3.0",
+    "url": "https://creativecommons.org/licenses/by-nc-nd/3.0/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": false,
+    "shareAlike": false,
+    "publicDomain": false
+  },
+  "genre": "Drum & Bass",
+  "tags": [
+    "action",
+    "epic",
+    "instrumental",
+    "motivational",
+    "moviesountrack",
+    "speed_medium",
+    "sport"
+  ],
+  "analysis": {
+    "durationSec": 292.02,
+    "bpm": 120,
+    "bpmConfidence": 1,
+    "beatOffset": 1.0062,
+    "key": {
+      "name": "Bm",
+      "camelot": "10A",
+      "confidence": 0.94
+    },
+    "rmsDb": -15.5,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

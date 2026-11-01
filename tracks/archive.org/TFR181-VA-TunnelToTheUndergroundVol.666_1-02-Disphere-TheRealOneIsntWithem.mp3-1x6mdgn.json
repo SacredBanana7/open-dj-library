@@ -1,0 +1,52 @@
+{
+  "version": 1,
+  "id": "archive.org:TFR181-VA-TunnelToTheUndergroundVol.666/1-02-Disphere-TheRealOneIsntWithem.mp3",
+  "source": "archive.org",
+  "title": "1 - 02 - disphere - The Real One Isn't With'em",
+  "artist": "disphere",
+  "album": "Tunnel To The Underground Vol. 666 - Chapter 6",
+  "pageUrl": "https://archive.org/details/TFR181-VA-TunnelToTheUndergroundVol.666",
+  "audioUrl": "https://archive.org/download/TFR181-VA-TunnelToTheUndergroundVol.666/1-02-Disphere-TheRealOneIsntWithem.mp3",
+  "fileName": "1-02-Disphere-TheRealOneIsntWithem.mp3",
+  "sizeBytes": 7096155,
+  "license": {
+    "code": "by-nc-nd",
+    "version": "3.0",
+    "label": "CC BY-NC-ND 3.0",
+    "url": "http://creativecommons.org/licenses/by-nc-nd/3.0/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": false,
+    "shareAlike": false,
+    "publicDomain": false
+  },
+  "genre": "Ambient",
+  "tags": [
+    "Various",
+    "Artists",
+    "Tunnel",
+    "To",
+    "The",
+    "Underground",
+    "Vol.",
+    "666",
+    "death",
+    "metal",
+    "grindcore",
+    "noise"
+  ],
+  "analysis": {
+    "durationSec": 221.62,
+    "bpm": 144.88,
+    "bpmConfidence": 0.5,
+    "beatOffset": 0.3723,
+    "key": {
+      "name": "G",
+      "camelot": "9B",
+      "confidence": 0.63
+    },
+    "rmsDb": -11.9,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

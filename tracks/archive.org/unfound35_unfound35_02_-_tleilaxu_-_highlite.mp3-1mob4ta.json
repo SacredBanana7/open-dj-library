@@ -1,0 +1,41 @@
+{
+  "version": 1,
+  "id": "archive.org:unfound35/unfound35_02_-_tleilaxu_-_highlite.mp3",
+  "source": "archive.org",
+  "title": "highlite",
+  "artist": "tleilaxu",
+  "album": "[unfound35] tleilaxu - sleepercel",
+  "pageUrl": "https://archive.org/details/unfound35",
+  "audioUrl": "https://archive.org/download/unfound35/unfound35_02_-_tleilaxu_-_highlite.mp3",
+  "fileName": "unfound35_02_-_tleilaxu_-_highlite.mp3",
+  "sizeBytes": 18278400,
+  "license": {
+    "code": "by-nc-nd",
+    "version": "3.0",
+    "label": "CC BY-NC-ND 3.0 US",
+    "url": "http://creativecommons.org/licenses/by-nc-nd/3.0/us/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": false,
+    "shareAlike": false,
+    "publicDomain": false
+  },
+  "genre": "House",
+  "tags": [
+    "techno, house, minimal"
+  ],
+  "analysis": {
+    "durationSec": 456.84,
+    "bpm": 127,
+    "bpmConfidence": 1,
+    "beatOffset": 0.8674,
+    "key": {
+      "name": "E",
+      "camelot": "12B",
+      "confidence": 0.45
+    },
+    "rmsDb": -11.6,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

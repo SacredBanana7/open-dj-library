@@ -1,0 +1,44 @@
+{
+  "version": 1,
+  "id": "archive.org:bump009/bump009_02-the_farcry-baby_funk.mp3",
+  "source": "archive.org",
+  "title": "Baby Funk",
+  "artist": "The FarCry",
+  "album": "An Introspective To FarCry",
+  "pageUrl": "https://archive.org/details/bump009",
+  "audioUrl": "https://archive.org/download/bump009/bump009_02-the_farcry-baby_funk.mp3",
+  "fileName": "bump009_02-the_farcry-baby_funk.mp3",
+  "sizeBytes": 6193364,
+  "license": {
+    "code": "by-nc-sa",
+    "version": "2.5",
+    "label": "CC BY-NC-SA 2.5",
+    "url": "http://creativecommons.org/licenses/by-nc-sa/2.5/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": true,
+    "shareAlike": true,
+    "publicDomain": false
+  },
+  "genre": "House",
+  "tags": [
+    "Dance",
+    "House",
+    "Trance",
+    "Techno"
+  ],
+  "analysis": {
+    "durationSec": 193.41,
+    "bpm": 126.88,
+    "bpmConfidence": 1,
+    "beatOffset": 0.1545,
+    "key": {
+      "name": "Dm",
+      "camelot": "7A",
+      "confidence": 0.71
+    },
+    "rmsDb": -15,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

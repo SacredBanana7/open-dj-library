@@ -1,0 +1,46 @@
+{
+  "version": 1,
+  "id": "openverse:666beae4-2ece-4c2e-a464-dec7dbee8b50",
+  "source": "openverse",
+  "provider": "jamendo",
+  "title": "Electronica Voodoo",
+  "artist": "Pitched In Black",
+  "artistUrl": "https://www.jamendo.com/artist/482302/PiTcHeDInBLacK",
+  "album": "SinusVipeR",
+  "pageUrl": "https://www.jamendo.com/track/1768930",
+  "audioUrl": "https://prod-1.storage.jamendo.com/?trackid=1768930&format=mp32",
+  "fileName": "Pitched In Black - Electronica Voodoo.mp3",
+  "license": {
+    "code": "by-nc-nd",
+    "version": "3.0",
+    "label": "CC BY-NC-ND 3.0",
+    "url": "https://creativecommons.org/licenses/by-nc-nd/3.0/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": false,
+    "shareAlike": false,
+    "publicDomain": false
+  },
+  "genre": "IDM / Electronica",
+  "tags": [
+    "energetic",
+    "instrumental",
+    "neutral",
+    "speed_medium",
+    "synthesizer"
+  ],
+  "analysis": {
+    "durationSec": 512.41,
+    "bpm": 166.2,
+    "bpmConfidence": 0.4,
+    "beatOffset": 1.265,
+    "key": {
+      "name": "D",
+      "camelot": "10B",
+      "confidence": 0.65
+    },
+    "rmsDb": -7.9,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

@@ -1,0 +1,52 @@
+{
+  "version": 1,
+  "id": "archive.org:Necktar2017Volume7/002.Goddess_Reprisal_Dave_Migman_Necktar_2017_v7.mp3",
+  "source": "archive.org",
+  "title": "Goddess Reprisal",
+  "artist": "Dave Migman",
+  "album": "Necktar 2017 vol.7",
+  "pageUrl": "https://archive.org/details/Necktar2017Volume7",
+  "audioUrl": "https://archive.org/download/Necktar2017Volume7/002.Goddess_Reprisal_Dave_Migman_Necktar_2017_v7.mp3",
+  "fileName": "002.Goddess_Reprisal_Dave_Migman_Necktar_2017_v7.mp3",
+  "sizeBytes": 3903862,
+  "license": {
+    "code": "by-nc-sa",
+    "version": "4.0",
+    "label": "CC BY-NC-SA 4.0",
+    "url": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": true,
+    "shareAlike": true,
+    "publicDomain": false
+  },
+  "genre": "Trance",
+  "tags": [
+    "colibri necrophile",
+    "earsheltering",
+    "H.A.K. Lo-Fi Record",
+    "free",
+    "metacompilation",
+    "necktar 2017",
+    "horsnorme",
+    "compilation",
+    "death",
+    "transmission",
+    "life",
+    "myth"
+  ],
+  "analysis": {
+    "durationSec": 243.83,
+    "bpm": 120,
+    "bpmConfidence": 0.41,
+    "beatOffset": 1.6751,
+    "key": {
+      "name": "E",
+      "camelot": "12B",
+      "confidence": 0.53
+    },
+    "rmsDb": -15.7,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

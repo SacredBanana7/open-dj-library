@@ -1,0 +1,44 @@
+{
+  "version": 1,
+  "id": "archive.org:1bit_003/1bit_003_01_-_Nicorola_-_Popstar.mp3",
+  "source": "archive.org",
+  "title": "Popstar",
+  "artist": "Nicorola",
+  "album": "Bitstick E.P.",
+  "pageUrl": "https://archive.org/details/1bit_003",
+  "audioUrl": "https://archive.org/download/1bit_003/1bit_003_01_-_Nicorola_-_Popstar.mp3",
+  "fileName": "1bit_003_01_-_Nicorola_-_Popstar.mp3",
+  "sizeBytes": 5433344,
+  "license": {
+    "code": "by-nc-sa",
+    "version": "2.0",
+    "label": "CC BY-NC-SA 2.0",
+    "url": "http://creativecommons.org/licenses/by-nc-sa/2.0/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": true,
+    "shareAlike": true,
+    "publicDomain": false
+  },
+  "genre": "Breakbeat",
+  "tags": [
+    "Broken Beats",
+    "dream pop",
+    "Downbeat",
+    "Breaks, Downtempo, Abstract Mechanical Beats"
+  ],
+  "analysis": {
+    "durationSec": 226.35,
+    "bpm": 144.38,
+    "bpmConfidence": 0.63,
+    "beatOffset": 1.2437,
+    "key": {
+      "name": "Am",
+      "camelot": "8A",
+      "confidence": 0.8
+    },
+    "rmsDb": -22.3,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

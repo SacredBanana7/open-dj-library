@@ -1,0 +1,47 @@
+{
+  "version": 1,
+  "id": "openverse:240fcdd9-8a99-409a-bb5e-dc7cd3cf0e13",
+  "source": "openverse",
+  "provider": "jamendo",
+  "title": "Euanthe [Drum and Bass]",
+  "artist": "Hardcore Scm",
+  "artistUrl": "https://www.jamendo.com/artist/366513/Hardcore_Scm",
+  "album": "Hardcore Scm - 2016",
+  "pageUrl": "https://www.jamendo.com/track/1406197",
+  "audioUrl": "https://prod-1.storage.jamendo.com/?trackid=1406197&format=mp32",
+  "fileName": "Hardcore Scm - Euanthe [Drum and Bass].mp3",
+  "license": {
+    "code": "by",
+    "version": "3.0",
+    "label": "CC BY 3.0",
+    "url": "https://creativecommons.org/licenses/by/3.0/",
+    "attribution": true,
+    "commercial": true,
+    "derivatives": true,
+    "shareAlike": false,
+    "publicDomain": false
+  },
+  "genre": "Drum & Bass",
+  "tags": [
+    "instrumental",
+    "neutral",
+    "percussion",
+    "speed_medium",
+    "strange",
+    "videogame"
+  ],
+  "analysis": {
+    "durationSec": 444.02,
+    "bpm": 116.66,
+    "bpmConfidence": 0.73,
+    "beatOffset": 1.8821,
+    "key": {
+      "name": "C",
+      "camelot": "8B",
+      "confidence": 0.74
+    },
+    "rmsDb": -17.5,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

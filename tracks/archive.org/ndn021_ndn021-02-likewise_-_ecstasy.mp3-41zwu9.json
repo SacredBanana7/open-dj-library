@@ -1,0 +1,43 @@
+{
+  "version": 1,
+  "id": "archive.org:ndn021/ndn021-02-likewise_-_ecstasy.mp3",
+  "source": "archive.org",
+  "title": "Ecstasy",
+  "artist": "Likewise",
+  "album": "[ndn021] - likewise - ideas ep",
+  "pageUrl": "https://archive.org/details/ndn021",
+  "audioUrl": "https://archive.org/download/ndn021/ndn021-02-likewise_-_ecstasy.mp3",
+  "fileName": "ndn021-02-likewise_-_ecstasy.mp3",
+  "sizeBytes": 2772992,
+  "license": {
+    "code": "by-nc-nd",
+    "version": "2.0",
+    "label": "CC BY-NC-ND 2.0",
+    "url": "http://creativecommons.org/licenses/by-nc-nd/2.0/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": false,
+    "shareAlike": false,
+    "publicDomain": false
+  },
+  "genre": "Drum & Bass",
+  "tags": [
+    "Ambient/Dnb",
+    "Melodic down beat",
+    "Electronic Fusion"
+  ],
+  "analysis": {
+    "durationSec": 173.14,
+    "bpm": 163.64,
+    "bpmConfidence": 0.41,
+    "beatOffset": 0.181,
+    "key": {
+      "name": "Gm",
+      "camelot": "6A",
+      "confidence": 0.72
+    },
+    "rmsDb": -13.9,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

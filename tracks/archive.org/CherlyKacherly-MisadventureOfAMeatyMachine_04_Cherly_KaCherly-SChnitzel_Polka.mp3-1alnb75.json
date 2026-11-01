@@ -1,0 +1,46 @@
+{
+  "version": 1,
+  "id": "archive.org:CherlyKacherly-MisadventureOfAMeatyMachine/04_Cherly_KaCherly-SChnitzel_Polka.mp3",
+  "source": "archive.org",
+  "title": "SChnitzel Polka",
+  "artist": "Cherly KaCherly",
+  "album": "Misadventure of a Meaty Machine",
+  "pageUrl": "https://archive.org/details/CherlyKacherly-MisadventureOfAMeatyMachine",
+  "audioUrl": "https://archive.org/download/CherlyKacherly-MisadventureOfAMeatyMachine/04_Cherly_KaCherly-SChnitzel_Polka.mp3",
+  "fileName": "04_Cherly_KaCherly-SChnitzel_Polka.mp3",
+  "sizeBytes": 6929717,
+  "license": {
+    "code": "by-nc-sa",
+    "version": "3.0",
+    "label": "CC BY-NC-SA 3.0",
+    "url": "http://creativecommons.org/licenses/by-nc-sa/3.0/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": true,
+    "shareAlike": true,
+    "publicDomain": false
+  },
+  "genre": "Disco / Funk",
+  "tags": [
+    "Torture Disco",
+    "Polka",
+    "Outer Space",
+    "SChnitzel",
+    "Hell-Dog",
+    "Skull Tones"
+  ],
+  "analysis": {
+    "durationSec": 172.33,
+    "bpm": 120,
+    "bpmConfidence": 0.61,
+    "beatOffset": 0.2949,
+    "key": {
+      "name": "Am",
+      "camelot": "8A",
+      "confidence": 0.84
+    },
+    "rmsDb": -8.5,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

@@ -1,0 +1,44 @@
+{
+  "version": 1,
+  "id": "archive.org:pna017/PNA017_01_OXYGENFAD_-_FEELS_GOOD_TO_BE_MAKING_MUSIC_AGAIN.mp3",
+  "source": "archive.org",
+  "title": "Feels good to be making music again",
+  "artist": "Oxygenfad",
+  "album": "Dimension X Vol 1",
+  "pageUrl": "https://archive.org/details/pna017",
+  "audioUrl": "https://archive.org/download/pna017/PNA017_01_OXYGENFAD_-_FEELS_GOOD_TO_BE_MAKING_MUSIC_AGAIN.mp3",
+  "fileName": "PNA017_01_OXYGENFAD_-_FEELS_GOOD_TO_BE_MAKING_MUSIC_AGAIN.mp3",
+  "sizeBytes": 10751999,
+  "license": {
+    "code": "by-nc-sa",
+    "version": "2.5",
+    "label": "CC BY-NC-SA 2.5",
+    "url": "http://creativecommons.org/licenses/by-nc-sa/2.5/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": true,
+    "shareAlike": true,
+    "publicDomain": false
+  },
+  "genre": "IDM / Electronica",
+  "tags": [
+    "Drill and Bass",
+    "IDM",
+    "Braindance",
+    "Acid"
+  ],
+  "analysis": {
+    "durationSec": 447.91,
+    "bpm": 120,
+    "bpmConfidence": 0.87,
+    "beatOffset": 1.2958,
+    "key": {
+      "name": "Am",
+      "camelot": "8A",
+      "confidence": 0.73
+    },
+    "rmsDb": -18,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

@@ -1,0 +1,47 @@
+{
+  "version": 1,
+  "id": "archive.org:1bit_013/1bit013_-_02_-_Mathias_Kaden_-_Turn.mp3",
+  "source": "archive.org",
+  "title": "Mathias Kaden - Turn",
+  "artist": "Mathias Kaden",
+  "album": "Celebration Compilation #2",
+  "pageUrl": "https://archive.org/details/1bit_013",
+  "audioUrl": "https://archive.org/download/1bit_013/1bit013_-_02_-_Mathias_Kaden_-_Turn.mp3",
+  "fileName": "1bit013_-_02_-_Mathias_Kaden_-_Turn.mp3",
+  "sizeBytes": 11352192,
+  "license": {
+    "code": "by-nc-sa",
+    "version": "2.5",
+    "label": "CC BY-NC-SA 2.5",
+    "url": "http://creativecommons.org/licenses/by-nc-sa/2.5/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": true,
+    "shareAlike": true,
+    "publicDomain": false
+  },
+  "genre": "Techno",
+  "tags": [
+    "minimal techno",
+    "electronica",
+    "dub techno",
+    "lounge",
+    "deep techno",
+    "ambient",
+    "electro"
+  ],
+  "analysis": {
+    "durationSec": 354.63,
+    "bpm": 128,
+    "bpmConfidence": 1,
+    "beatOffset": 0.1403,
+    "key": {
+      "name": "Bm",
+      "camelot": "10A",
+      "confidence": 0.45
+    },
+    "rmsDb": -17.5,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

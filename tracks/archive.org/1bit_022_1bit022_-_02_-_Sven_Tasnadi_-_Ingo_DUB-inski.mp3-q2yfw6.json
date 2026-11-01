@@ -1,0 +1,51 @@
+{
+  "version": 1,
+  "id": "archive.org:1bit_022/1bit022_-_02_-_Sven_Tasnadi_-_Ingo_DUB-inski.mp3",
+  "source": "archive.org",
+  "title": "Ingo DUB-inski",
+  "artist": "Sven Tasnadi",
+  "album": "Collected Works",
+  "pageUrl": "https://archive.org/details/1bit_022",
+  "audioUrl": "https://archive.org/download/1bit_022/1bit022_-_02_-_Sven_Tasnadi_-_Ingo_DUB-inski.mp3",
+  "fileName": "1bit022_-_02_-_Sven_Tasnadi_-_Ingo_DUB-inski.mp3",
+  "sizeBytes": 13635712,
+  "license": {
+    "code": "by-nc-sa",
+    "version": "2.5",
+    "label": "CC BY-NC-SA 2.5",
+    "url": "http://creativecommons.org/licenses/by-nc-sa/2.5/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": true,
+    "shareAlike": true,
+    "publicDomain": false
+  },
+  "genre": "Techno",
+  "tags": [
+    "1bit",
+    "wonder",
+    "minimal",
+    "deep",
+    "techno",
+    "1bit-wonder",
+    "tasnadi",
+    "electronic",
+    "mp3",
+    "netaudio",
+    "netlabel"
+  ],
+  "analysis": {
+    "durationSec": 426,
+    "bpm": 120,
+    "bpmConfidence": 1,
+    "beatOffset": 0.2406,
+    "key": {
+      "name": "F",
+      "camelot": "7B",
+      "confidence": 0.47
+    },
+    "rmsDb": -11,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

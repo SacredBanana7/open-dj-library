@@ -1,0 +1,45 @@
+{
+  "version": 1,
+  "id": "archive.org:WM032/WM032-01Frankophiel.mp3",
+  "source": "archive.org",
+  "title": "Frankophiel",
+  "artist": "Rockformation Diskokugel",
+  "album": "Zum Geburtstag von Moritz R und Frank F",
+  "pageUrl": "https://archive.org/details/WM032",
+  "audioUrl": "https://archive.org/download/WM032/WM032-01Frankophiel.mp3",
+  "fileName": "WM032-01Frankophiel.mp3",
+  "sizeBytes": 8084624,
+  "license": {
+    "code": "by-nc-sa",
+    "version": "2.5",
+    "label": "CC BY-NC-SA 2.5",
+    "url": "http://creativecommons.org/licenses/by-nc-sa/2.5/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": true,
+    "shareAlike": true,
+    "publicDomain": false
+  },
+  "genre": "Experimental",
+  "tags": [
+    "weirdomusic",
+    "experimental",
+    "weird",
+    "compilation",
+    "german"
+  ],
+  "analysis": {
+    "durationSec": 252.55,
+    "bpm": 123.5,
+    "bpmConfidence": 1,
+    "beatOffset": 1.5441,
+    "key": {
+      "name": "A#",
+      "camelot": "6B",
+      "confidence": 0.78
+    },
+    "rmsDb": -16.9,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

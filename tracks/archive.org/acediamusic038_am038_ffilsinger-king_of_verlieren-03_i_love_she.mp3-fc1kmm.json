@@ -1,0 +1,42 @@
+{
+  "version": 1,
+  "id": "archive.org:acediamusic038/am038_ffilsinger-king_of_verlieren-03_i_love_she.mp3",
+  "source": "archive.org",
+  "title": "i love she",
+  "artist": "Florian Filsinger",
+  "album": "King of Verlieren",
+  "pageUrl": "https://archive.org/details/acediamusic038",
+  "audioUrl": "https://archive.org/download/acediamusic038/am038_ffilsinger-king_of_verlieren-03_i_love_she.mp3",
+  "fileName": "am038_ffilsinger-king_of_verlieren-03_i_love_she.mp3",
+  "sizeBytes": 5712906,
+  "license": {
+    "code": "by",
+    "version": "2.5",
+    "label": "CC BY 2.5",
+    "url": "http://creativecommons.org/licenses/by/2.5/",
+    "attribution": true,
+    "commercial": true,
+    "derivatives": true,
+    "shareAlike": false,
+    "publicDomain": false
+  },
+  "genre": "IDM / Electronica",
+  "tags": [
+    "Electro/IDM/Experimental/Breaks",
+    "Electro"
+  ],
+  "analysis": {
+    "durationSec": 244,
+    "bpm": 160,
+    "bpmConfidence": 0.49,
+    "beatOffset": 0.5024,
+    "key": {
+      "name": "Bm",
+      "camelot": "10A",
+      "confidence": 0.76
+    },
+    "rmsDb": -8.6,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

@@ -1,0 +1,44 @@
+{
+  "version": 1,
+  "id": "archive.org:1011AD/Monochord_2_No_question_no_answer_1011AD.mp3",
+  "source": "archive.org",
+  "title": "No Question No Answer",
+  "artist": "Monochord",
+  "album": "Contradictions EP",
+  "pageUrl": "https://archive.org/details/1011AD",
+  "audioUrl": "https://archive.org/download/1011AD/Monochord_2_No_question_no_answer_1011AD.mp3",
+  "fileName": "Monochord_2_No_question_no_answer_1011AD.mp3",
+  "sizeBytes": 12354709,
+  "license": {
+    "code": "by-nc-sa",
+    "version": "2.5",
+    "label": "CC BY-NC-SA 2.5",
+    "url": "http://creativecommons.org/licenses/by-nc-sa/2.5/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": true,
+    "shareAlike": true,
+    "publicDomain": false
+  },
+  "genre": "House",
+  "tags": [
+    "House",
+    "Minimal Techno",
+    "Electronic",
+    "Electro"
+  ],
+  "analysis": {
+    "durationSec": 386.35,
+    "bpm": 130,
+    "bpmConfidence": 1,
+    "beatOffset": 0.0319,
+    "key": {
+      "name": "A",
+      "camelot": "11B",
+      "confidence": 0.84
+    },
+    "rmsDb": -18.4,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

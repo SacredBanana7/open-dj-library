@@ -1,0 +1,50 @@
+{
+  "version": 1,
+  "id": "openverse:0c975500-7eb5-4b03-b8b4-e286e0072e6f",
+  "source": "openverse",
+  "provider": "jamendo",
+  "title": "The House that leaves you always wanting more",
+  "artist": "Monkeyland",
+  "artistUrl": "https://www.jamendo.com/artist/520768/Monkeyland_(2)",
+  "album": "The house that leaves you always wanting more",
+  "pageUrl": "https://www.jamendo.com/track/1674630",
+  "audioUrl": "https://prod-1.storage.jamendo.com/?trackid=1674630&format=mp32",
+  "fileName": "Monkeyland - The House that leaves you always wanting more.mp3",
+  "license": {
+    "code": "by-nc-nd",
+    "version": "3.0",
+    "label": "CC BY-NC-ND 3.0",
+    "url": "https://creativecommons.org/licenses/by-nc-nd/3.0/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": false,
+    "shareAlike": false,
+    "publicDomain": false
+  },
+  "genre": "House",
+  "tags": [
+    "atmospheric",
+    "guitar",
+    "male",
+    "neutral",
+    "soundscape",
+    "speed_medium",
+    "strings",
+    "upbeat",
+    "vocal"
+  ],
+  "analysis": {
+    "durationSec": 346,
+    "bpm": 120,
+    "bpmConfidence": 1,
+    "beatOffset": 0.2472,
+    "key": {
+      "name": "Bm",
+      "camelot": "10A",
+      "confidence": 0.66
+    },
+    "rmsDb": -13.2,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

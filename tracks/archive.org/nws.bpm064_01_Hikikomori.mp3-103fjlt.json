@@ -1,0 +1,50 @@
+{
+  "version": 1,
+  "id": "archive.org:nws.bpm064/01 Hikikomori.mp3",
+  "source": "archive.org",
+  "title": "Hikikomori",
+  "artist": "Floating Spirits",
+  "album": "[S27-177] Ronin 01 RED",
+  "pageUrl": "https://archive.org/details/nws.bpm064",
+  "audioUrl": "https://archive.org/download/nws.bpm064/01%20Hikikomori.mp3",
+  "fileName": "01 Hikikomori.mp3",
+  "sizeBytes": 13841670,
+  "license": {
+    "code": "by-nc-sa",
+    "version": "4.0",
+    "label": "CC BY-NC-SA 4.0",
+    "url": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": true,
+    "shareAlike": true,
+    "publicDomain": false
+  },
+  "genre": "Dubstep",
+  "tags": [
+    "chill-out",
+    "downtempo",
+    "dub",
+    "dubstep",
+    "dubtech",
+    "electronic",
+    "funk",
+    "house",
+    "microhouse",
+    "spoken-word"
+  ],
+  "analysis": {
+    "durationSec": 443.5,
+    "bpm": 140,
+    "bpmConfidence": 0.86,
+    "beatOffset": 1.4071,
+    "key": {
+      "name": "Fm",
+      "camelot": "4A",
+      "confidence": 0.76
+    },
+    "rmsDb": -15.6,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

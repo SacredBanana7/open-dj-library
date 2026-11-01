@@ -1,0 +1,43 @@
+{
+  "version": 1,
+  "id": "openverse:f2361efc-c0f1-4978-a99d-5f4b9ffa1129",
+  "source": "openverse",
+  "provider": "jamendo",
+  "title": "DJ Dinar - Electro Breaks",
+  "artist": "DJ Dinar",
+  "artistUrl": "https://www.jamendo.com/artist/360894/DJ_Dinar",
+  "album": "DJ Dinar",
+  "pageUrl": "https://www.jamendo.com/track/600227",
+  "audioUrl": "https://prod-1.storage.jamendo.com/?trackid=600227&format=mp32",
+  "fileName": "DJ Dinar - DJ Dinar - Electro Breaks.mp3",
+  "license": {
+    "code": "by-sa",
+    "version": "3.0",
+    "label": "CC BY-SA 3.0",
+    "url": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "attribution": true,
+    "commercial": true,
+    "derivatives": true,
+    "shareAlike": true,
+    "publicDomain": false
+  },
+  "genre": "Electro",
+  "tags": [
+    "instrumental",
+    "speed_medium"
+  ],
+  "analysis": {
+    "durationSec": 248.83,
+    "bpm": 140,
+    "bpmConfidence": 0.75,
+    "beatOffset": 0.6249,
+    "key": {
+      "name": "G",
+      "camelot": "9B",
+      "confidence": 0.45
+    },
+    "rmsDb": -10.3,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

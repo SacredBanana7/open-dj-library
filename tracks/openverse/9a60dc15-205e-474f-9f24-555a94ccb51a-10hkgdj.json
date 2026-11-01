@@ -1,0 +1,47 @@
+{
+  "version": 1,
+  "id": "openverse:9a60dc15-205e-474f-9f24-555a94ccb51a",
+  "source": "openverse",
+  "provider": "jamendo",
+  "title": "Relaxing Ambient Meditation",
+  "artist": "Alexis Music",
+  "artistUrl": "https://www.jamendo.com/artist/487189/YellowTea",
+  "album": "Meditative ambient music for relaxation VOL.2",
+  "pageUrl": "https://www.jamendo.com/track/1890501",
+  "audioUrl": "https://prod-1.storage.jamendo.com/?trackid=1890501&format=mp32",
+  "fileName": "Alexis Music - Relaxing Ambient Meditation.mp3",
+  "license": {
+    "code": "by-nc-nd",
+    "version": "3.0",
+    "label": "CC BY-NC-ND 3.0",
+    "url": "https://creativecommons.org/licenses/by-nc-nd/3.0/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": false,
+    "shareAlike": false,
+    "publicDomain": false
+  },
+  "genre": "Ambient",
+  "tags": [
+    "Meditation",
+    "instrumental",
+    "peaceful",
+    "relaxing",
+    "speed_verylow",
+    "synthesizer"
+  ],
+  "analysis": {
+    "durationSec": 331.2,
+    "bpm": 173.3,
+    "bpmConfidence": 0.38,
+    "beatOffset": 1.2095,
+    "key": {
+      "name": "C#m",
+      "camelot": "12A",
+      "confidence": 0.95
+    },
+    "rmsDb": -18.3,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

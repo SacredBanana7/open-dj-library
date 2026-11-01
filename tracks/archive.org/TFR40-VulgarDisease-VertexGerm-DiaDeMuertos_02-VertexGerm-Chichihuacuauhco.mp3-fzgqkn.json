@@ -1,0 +1,52 @@
+{
+  "version": 1,
+  "id": "archive.org:TFR40-VulgarDisease-VertexGerm-DiaDeMuertos/02-VertexGerm-Chichihuacuauhco.mp3",
+  "source": "archive.org",
+  "title": "02 - Vertex Germ - Chichihuacuauhco",
+  "artist": "Vertex Germ",
+  "album": "Día de Muertos",
+  "pageUrl": "https://archive.org/details/TFR40-VulgarDisease-VertexGerm-DiaDeMuertos",
+  "audioUrl": "https://archive.org/download/TFR40-VulgarDisease-VertexGerm-DiaDeMuertos/02-VertexGerm-Chichihuacuauhco.mp3",
+  "fileName": "02-VertexGerm-Chichihuacuauhco.mp3",
+  "sizeBytes": 11099640,
+  "license": {
+    "code": "by-nc-nd",
+    "version": "3.0",
+    "label": "CC BY-NC-ND 3.0",
+    "url": "http://creativecommons.org/licenses/by-nc-nd/3.0/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": false,
+    "shareAlike": false,
+    "publicDomain": false
+  },
+  "genre": "Ambient",
+  "tags": [
+    "Ambient",
+    "Ritual",
+    "Tribal",
+    "Nahuatl",
+    "Maya",
+    "Prehispanico",
+    "Power",
+    "Electronics",
+    "Harsh",
+    "Noise",
+    "Fusion",
+    "Dia"
+  ],
+  "analysis": {
+    "durationSec": 346.83,
+    "bpm": 131.4,
+    "bpmConfidence": 0.39,
+    "beatOffset": 1.6853,
+    "key": {
+      "name": "Gm",
+      "camelot": "6A",
+      "confidence": 0.59
+    },
+    "rmsDb": -10.9,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

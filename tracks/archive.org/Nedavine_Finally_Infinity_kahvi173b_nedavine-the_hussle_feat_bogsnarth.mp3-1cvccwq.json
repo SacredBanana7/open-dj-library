@@ -1,0 +1,41 @@
+{
+  "version": 1,
+  "id": "archive.org:Nedavine_Finally_Infinity/kahvi173b_nedavine-the_hussle_feat_bogsnarth.mp3",
+  "source": "archive.org",
+  "title": "The Hussle",
+  "artist": "Rubicante",
+  "album": "Nedavine - Finally Infinity EP [kahvi173]",
+  "pageUrl": "https://archive.org/details/Nedavine_Finally_Infinity",
+  "audioUrl": "https://archive.org/download/Nedavine_Finally_Infinity/kahvi173b_nedavine-the_hussle_feat_bogsnarth.mp3",
+  "fileName": "kahvi173b_nedavine-the_hussle_feat_bogsnarth.mp3",
+  "sizeBytes": 5258752,
+  "license": {
+    "code": "by-nd",
+    "version": "3.0",
+    "label": "CC BY-ND 3.0",
+    "url": "http://creativecommons.org/licenses/by-nd/3.0/",
+    "attribution": true,
+    "commercial": true,
+    "derivatives": false,
+    "shareAlike": false,
+    "publicDomain": false
+  },
+  "genre": "IDM / Electronica",
+  "tags": [
+    "Kahvi,IDM,Ambient"
+  ],
+  "analysis": {
+    "durationSec": 228.92,
+    "bpm": 173.44,
+    "bpmConfidence": 0.48,
+    "beatOffset": 0.7978,
+    "key": {
+      "name": "F#m",
+      "camelot": "11A",
+      "confidence": 0.75
+    },
+    "rmsDb": -14.9,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "id": "archive.org:060303/01_-_Marimba_en_vivo_.mp3",
+  "source": "archive.org",
+  "title": "Marimba (en vivo)",
+  "artist": "Vate",
+  "album": "060303",
+  "pageUrl": "https://archive.org/details/060303",
+  "audioUrl": "https://archive.org/download/060303/01_-_Marimba_en_vivo_.mp3",
+  "fileName": "01_-_Marimba_en_vivo_.mp3",
+  "sizeBytes": 8683648,
+  "license": {
+    "code": "by-nc-nd",
+    "version": "2.5",
+    "label": "CC BY-NC-ND 2.5",
+    "url": "http://creativecommons.org/licenses/by-nc-nd/2.5/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": false,
+    "shareAlike": false,
+    "publicDomain": false
+  },
+  "genre": "Electro",
+  "tags": [
+    "electronic",
+    "Electronica",
+    "Electro, IDM, Experimental",
+    "Electro",
+    "Indietronica",
+    "indie electronic",
+    "Urban Electronica",
+    "Nortec"
+  ],
+  "analysis": {
+    "durationSec": 334.12,
+    "bpm": 130,
+    "bpmConfidence": 0.81,
+    "beatOffset": 1.4001,
+    "key": {
+      "name": "C",
+      "camelot": "8B",
+      "confidence": 0.85
+    },
+    "rmsDb": -13.1,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

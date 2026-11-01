@@ -1,0 +1,45 @@
+{
+  "version": 1,
+  "id": "archive.org:rest034-hardmate_-_frueher_ganz_ganz_frueher/rest034-02-hardmate_-_planet_chaos.mp3",
+  "source": "archive.org",
+  "title": "Planet Chaos",
+  "artist": "Hardmate",
+  "album": "[rest034] FrÃÂ¼her, ganz ganz frÃÂ¼her EP",
+  "pageUrl": "https://archive.org/details/rest034-hardmate_-_frueher_ganz_ganz_frueher",
+  "audioUrl": "https://archive.org/download/rest034-hardmate_-_frueher_ganz_ganz_frueher/rest034-02-hardmate_-_planet_chaos.mp3",
+  "fileName": "rest034-02-hardmate_-_planet_chaos.mp3",
+  "sizeBytes": 13412352,
+  "license": {
+    "code": "by-nc-nd",
+    "version": "3.0",
+    "label": "CC BY-NC-ND 3.0",
+    "url": "http://creativecommons.org/licenses/by-nc-nd/3.0/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": false,
+    "shareAlike": false,
+    "publicDomain": false
+  },
+  "genre": "Trance",
+  "tags": [
+    "Tech House",
+    "Deep Tech",
+    "Hard Trance",
+    "Techno",
+    "Minimal"
+  ],
+  "analysis": {
+    "durationSec": 335.28,
+    "bpm": 121,
+    "bpmConfidence": 1,
+    "beatOffset": 1.5162,
+    "key": {
+      "name": "Cm",
+      "camelot": "5A",
+      "confidence": 0.66
+    },
+    "rmsDb": -9.5,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

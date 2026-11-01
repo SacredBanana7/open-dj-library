@@ -1,0 +1,47 @@
+{
+  "version": 1,
+  "id": "archive.org:kpu105/kpu105-Winnie-The-Shit-01-Meet-Nice-People.mp3",
+  "source": "archive.org",
+  "title": "Meet Nice People",
+  "artist": "Winnie The Shit",
+  "album": "Easy",
+  "pageUrl": "https://archive.org/details/kpu105",
+  "audioUrl": "https://archive.org/download/kpu105/kpu105-Winnie-The-Shit-01-Meet-Nice-People.mp3",
+  "fileName": "kpu105-Winnie-The-Shit-01-Meet-Nice-People.mp3",
+  "sizeBytes": 13844340,
+  "license": {
+    "code": "by-nc-nd",
+    "version": "3.0",
+    "label": "CC BY-NC-ND 3.0",
+    "url": "http://creativecommons.org/licenses/by-nc-nd/3.0/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": false,
+    "shareAlike": false,
+    "publicDomain": false
+  },
+  "genre": "Dubstep",
+  "tags": [
+    "dubstep",
+    "techno",
+    "breakbeat",
+    "drum n' bass",
+    "drill n' bass",
+    "mellow",
+    "down tempo"
+  ],
+  "analysis": {
+    "durationSec": 432.98,
+    "bpm": 129.3,
+    "bpmConfidence": 0.41,
+    "beatOffset": 0.8521,
+    "key": {
+      "name": "C",
+      "camelot": "8B",
+      "confidence": 0.79
+    },
+    "rmsDb": -15.9,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

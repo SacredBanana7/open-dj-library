@@ -1,0 +1,43 @@
+{
+  "version": 1,
+  "id": "openverse:879641f9-c9b2-41f3-a411-bf53e35c94e1",
+  "source": "openverse",
+  "provider": "jamendo",
+  "title": "Drumland - Ambient",
+  "artist": "Drumland",
+  "artistUrl": "https://www.jamendo.com/artist/373729/Drumland",
+  "album": "The First",
+  "pageUrl": "https://www.jamendo.com/track/866384",
+  "audioUrl": "https://prod-1.storage.jamendo.com/?trackid=866384&format=mp32",
+  "fileName": "Drumland - Drumland - Ambient.mp3",
+  "license": {
+    "code": "by-sa",
+    "version": "3.0",
+    "label": "CC BY-SA 3.0",
+    "url": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "attribution": true,
+    "commercial": true,
+    "derivatives": true,
+    "shareAlike": true,
+    "publicDomain": false
+  },
+  "genre": "Ambient",
+  "tags": [
+    "instrumental",
+    "speed_medium"
+  ],
+  "analysis": {
+    "durationSec": 342.02,
+    "bpm": 160,
+    "bpmConfidence": 1,
+    "beatOffset": 0.0035,
+    "key": {
+      "name": "C",
+      "camelot": "8B",
+      "confidence": 0.52
+    },
+    "rmsDb": -19.2,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

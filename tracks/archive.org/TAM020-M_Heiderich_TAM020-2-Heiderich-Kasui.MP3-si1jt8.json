@@ -1,0 +1,43 @@
+{
+  "version": 1,
+  "id": "archive.org:TAM020-M_Heiderich/TAM020-2-Heiderich-Kasui.MP3",
+  "source": "archive.org",
+  "title": "Kasui",
+  "artist": "Matthias Heiderich",
+  "album": "Raja",
+  "pageUrl": "https://archive.org/details/TAM020-M_Heiderich",
+  "audioUrl": "https://archive.org/download/TAM020-M_Heiderich/TAM020-2-Heiderich-Kasui.MP3",
+  "fileName": "TAM020-2-Heiderich-Kasui.MP3",
+  "sizeBytes": 6703192,
+  "license": {
+    "code": "by-nc-nd",
+    "version": "2.5",
+    "label": "CC BY-NC-ND 2.5",
+    "url": "http://creativecommons.org/licenses/by-nc-nd/2.5/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": false,
+    "shareAlike": false,
+    "publicDomain": false
+  },
+  "genre": "Drum & Bass",
+  "tags": [
+    "abstract",
+    "downbeat",
+    "drum and bass"
+  ],
+  "analysis": {
+    "durationSec": 279.28,
+    "bpm": 143.26,
+    "bpmConfidence": 0.6,
+    "beatOffset": 0.2544,
+    "key": {
+      "name": "Bm",
+      "camelot": "10A",
+      "confidence": 0.86
+    },
+    "rmsDb": -11.5,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

@@ -1,0 +1,46 @@
+{
+  "version": 1,
+  "id": "archive.org:WM035/BaccoBaccanels-BollateCentro-01-Unostraccio.mp3",
+  "source": "archive.org",
+  "title": "Uno straccio",
+  "artist": "Bacco Baccanels",
+  "album": "Bollate centro",
+  "pageUrl": "https://archive.org/details/WM035",
+  "audioUrl": "https://archive.org/download/WM035/BaccoBaccanels-BollateCentro-01-Unostraccio.mp3",
+  "fileName": "BaccoBaccanels-BollateCentro-01-Unostraccio.mp3",
+  "sizeBytes": 3341574,
+  "license": {
+    "code": "by-nc-sa",
+    "version": "2.5",
+    "label": "CC BY-NC-SA 2.5",
+    "url": "http://creativecommons.org/licenses/by-nc-sa/2.5/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": true,
+    "shareAlike": true,
+    "publicDomain": false
+  },
+  "genre": "Experimental",
+  "tags": [
+    "weirdomusic",
+    "experimental",
+    "weird",
+    "vocal",
+    "italian",
+    "a capella"
+  ],
+  "analysis": {
+    "durationSec": 208.69,
+    "bpm": 165.6,
+    "bpmConfidence": 0.4,
+    "beatOffset": 1.028,
+    "key": {
+      "name": "Gm",
+      "camelot": "6A",
+      "confidence": 0.49
+    },
+    "rmsDb": -21.9,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

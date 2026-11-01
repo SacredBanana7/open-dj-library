@@ -1,0 +1,47 @@
+{
+  "version": 1,
+  "id": "archive.org:ca295_ya/06_Dirty_Indie_Sound.mp3",
+  "source": "archive.org",
+  "title": "Dirty Indie Sound",
+  "artist": "Yoko Absorbing",
+  "album": "ca295 - Yoko Absorbing - Vinyl",
+  "pageUrl": "https://archive.org/details/ca295_ya",
+  "audioUrl": "https://archive.org/download/ca295_ya/06_Dirty_Indie_Sound.mp3",
+  "fileName": "06_Dirty_Indie_Sound.mp3",
+  "sizeBytes": 6985228,
+  "license": {
+    "code": "by-nc-nd",
+    "version": "3.0",
+    "label": "CC BY-NC-ND 3.0",
+    "url": "http://creativecommons.org/licenses/by-nc-nd/3.0/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": false,
+    "shareAlike": false,
+    "publicDomain": false
+  },
+  "genre": "Disco / Funk",
+  "tags": [
+    "avant-garage",
+    "experimental",
+    "soundcollage",
+    "free jazz",
+    "post-funk",
+    "minimalist",
+    "other"
+  ],
+  "analysis": {
+    "durationSec": 174.5,
+    "bpm": 170,
+    "bpmConfidence": 0.42,
+    "beatOffset": 0.6031,
+    "key": {
+      "name": "C",
+      "camelot": "8B",
+      "confidence": 0.47
+    },
+    "rmsDb": -8,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

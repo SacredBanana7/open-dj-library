@@ -1,0 +1,46 @@
+{
+  "version": 1,
+  "id": "archive.org:pj025/02_the_rain_song.mp3",
+  "source": "archive.org",
+  "title": "02 the rain song",
+  "artist": "Digi G'Alessio",
+  "album": "the rain book",
+  "pageUrl": "https://archive.org/details/pj025",
+  "audioUrl": "https://archive.org/download/pj025/02_the_rain_song.mp3",
+  "fileName": "02_the_rain_song.mp3",
+  "sizeBytes": 6184869,
+  "license": {
+    "code": "by-nc-sa",
+    "version": "3.0",
+    "label": "CC BY-NC-SA 3.0",
+    "url": "http://creativecommons.org/licenses/by-nc-sa/3.0/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": true,
+    "shareAlike": true,
+    "publicDomain": false
+  },
+  "genre": "Hip Hop",
+  "tags": [
+    "pitjamajusto",
+    "electro: hip hop",
+    "strangeitude",
+    "rain",
+    "book"
+  ],
+  "analysis": {
+    "durationSec": 155.72,
+    "bpm": 69,
+    "bpmConfidence": 0.55,
+    "beatOffset": 0.6084,
+    "key": {
+      "name": "Am",
+      "camelot": "8A",
+      "confidence": 0.38
+    },
+    "rmsDb": -12.6,
+    "analyzer": "pulsar-dj/analysis-worker 0.1",
+    "tempoFolded": 0.5
+  },
+  "added": "2026-11-01"
+}

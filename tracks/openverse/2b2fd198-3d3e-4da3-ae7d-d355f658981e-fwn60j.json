@@ -1,0 +1,43 @@
+{
+  "version": 1,
+  "id": "openverse:2b2fd198-3d3e-4da3-ae7d-d355f658981e",
+  "source": "openverse",
+  "provider": "jamendo",
+  "title": "Suite Electronica No.3",
+  "artist": "Midnight Media",
+  "artistUrl": "https://www.jamendo.com/artist/356416/Midnight_Media",
+  "album": "Strangers In A Strange Land",
+  "pageUrl": "https://www.jamendo.com/track/514226",
+  "audioUrl": "https://prod-1.storage.jamendo.com/?trackid=514226&format=mp32",
+  "fileName": "Midnight Media - Suite Electronica No.3.mp3",
+  "license": {
+    "code": "by-nc-sa",
+    "version": "3.0",
+    "label": "CC BY-NC-SA 3.0",
+    "url": "https://creativecommons.org/licenses/by-nc-sa/3.0/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": true,
+    "shareAlike": true,
+    "publicDomain": false
+  },
+  "genre": "IDM / Electronica",
+  "tags": [
+    "instrumental",
+    "speed_high"
+  ],
+  "analysis": {
+    "durationSec": 535.78,
+    "bpm": 125.18,
+    "bpmConfidence": 0.61,
+    "beatOffset": 1.6937,
+    "key": {
+      "name": "C",
+      "camelot": "8B",
+      "confidence": 0.87
+    },
+    "rmsDb": -23.3,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

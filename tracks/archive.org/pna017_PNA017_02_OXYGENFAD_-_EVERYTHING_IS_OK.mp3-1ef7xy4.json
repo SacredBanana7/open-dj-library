@@ -1,0 +1,44 @@
+{
+  "version": 1,
+  "id": "archive.org:pna017/PNA017_02_OXYGENFAD_-_EVERYTHING_IS_OK.mp3",
+  "source": "archive.org",
+  "title": "Everything is ok",
+  "artist": "Oxygenfad",
+  "album": "Dimension X Vol 1",
+  "pageUrl": "https://archive.org/details/pna017",
+  "audioUrl": "https://archive.org/download/pna017/PNA017_02_OXYGENFAD_-_EVERYTHING_IS_OK.mp3",
+  "fileName": "PNA017_02_OXYGENFAD_-_EVERYTHING_IS_OK.mp3",
+  "sizeBytes": 6913879,
+  "license": {
+    "code": "by-nc-sa",
+    "version": "2.5",
+    "label": "CC BY-NC-SA 2.5",
+    "url": "http://creativecommons.org/licenses/by-nc-sa/2.5/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": true,
+    "shareAlike": true,
+    "publicDomain": false
+  },
+  "genre": "IDM / Electronica",
+  "tags": [
+    "Drill and Bass",
+    "IDM",
+    "Braindance",
+    "Acid"
+  ],
+  "analysis": {
+    "durationSec": 288,
+    "bpm": 120,
+    "bpmConfidence": 0.65,
+    "beatOffset": 0.0094,
+    "key": {
+      "name": "G",
+      "camelot": "9B",
+      "confidence": 0.83
+    },
+    "rmsDb": -15.1,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

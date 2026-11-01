@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "id": "archive.org:rfr020/rfr020_01_Schnee_auf_den_Daechern.mp3",
+  "source": "archive.org",
+  "title": "01_Schnee_auf_den_Daechern",
+  "artist": "Michael Ballus",
+  "album": "[RFR020] Michael Ballus - In Weiter Ferne",
+  "pageUrl": "https://archive.org/details/rfr020",
+  "audioUrl": "https://archive.org/download/rfr020/rfr020_01_Schnee_auf_den_Daechern.mp3",
+  "fileName": "rfr020_01_Schnee_auf_den_Daechern.mp3",
+  "sizeBytes": 14410274,
+  "license": {
+    "code": "by-nc-nd",
+    "version": "3.0",
+    "label": "CC BY-NC-ND 3.0 DE",
+    "url": "http://creativecommons.org/licenses/by-nc-nd/3.0/de/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": false,
+    "shareAlike": false,
+    "publicDomain": false
+  },
+  "genre": "Techno",
+  "tags": [
+    "rfr020",
+    "rumpfunk",
+    "michael ballus",
+    "electronica",
+    "ambient",
+    "house",
+    "techno",
+    "techhouse"
+  ],
+  "analysis": {
+    "durationSec": 360.2,
+    "bpm": 173.42,
+    "bpmConfidence": 0.38,
+    "beatOffset": 0.8844,
+    "key": {
+      "name": "Am",
+      "camelot": "8A",
+      "confidence": 0.83
+    },
+    "rmsDb": -17.8,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

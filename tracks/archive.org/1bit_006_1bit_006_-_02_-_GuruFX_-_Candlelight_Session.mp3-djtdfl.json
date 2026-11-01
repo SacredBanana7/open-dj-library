@@ -1,0 +1,44 @@
+{
+  "version": 1,
+  "id": "archive.org:1bit_006/1bit_006_-_02_-_GuruFX_-_Candlelight_Session.mp3",
+  "source": "archive.org",
+  "title": "GuruFX - Candlelight Session",
+  "artist": "GuruFX",
+  "album": "Celebration Compilation",
+  "pageUrl": "https://archive.org/details/1bit_006",
+  "audioUrl": "https://archive.org/download/1bit_006/1bit_006_-_02_-_GuruFX_-_Candlelight_Session.mp3",
+  "fileName": "1bit_006_-_02_-_GuruFX_-_Candlelight_Session.mp3",
+  "sizeBytes": 10451072,
+  "license": {
+    "code": "by-nc-sa",
+    "version": "2.5",
+    "label": "CC BY-NC-SA 2.5",
+    "url": "http://creativecommons.org/licenses/by-nc-sa/2.5/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": true,
+    "shareAlike": true,
+    "publicDomain": false
+  },
+  "genre": "Techno",
+  "tags": [
+    "Downbeat",
+    "Electronic Pop",
+    "Minimal Techno",
+    "Deep House"
+  ],
+  "analysis": {
+    "durationSec": 435.38,
+    "bpm": 161.66,
+    "bpmConfidence": 0.38,
+    "beatOffset": 0.5505,
+    "key": {
+      "name": "C#m",
+      "camelot": "12A",
+      "confidence": 0.47
+    },
+    "rmsDb": -9.5,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

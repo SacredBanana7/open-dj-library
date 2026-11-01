@@ -1,0 +1,52 @@
+{
+  "version": 1,
+  "id": "archive.org:nws.bpm071/02 Emerald City _ 316.mp3",
+  "source": "archive.org",
+  "title": "Emerald City / 316",
+  "artist": "Dotlights",
+  "album": "[esc.rec.] NEW 9.0",
+  "pageUrl": "https://archive.org/details/nws.bpm071",
+  "audioUrl": "https://archive.org/download/nws.bpm071/02%20Emerald%20City%20_%20316.mp3",
+  "fileName": "02 Emerald City _ 316.mp3",
+  "sizeBytes": 20756232,
+  "license": {
+    "code": "by-nc-sa",
+    "version": "4.0",
+    "label": "CC BY-NC-SA 4.0",
+    "url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": true,
+    "shareAlike": true,
+    "publicDomain": false
+  },
+  "genre": "Dubstep",
+  "tags": [
+    "chill-out",
+    "classical",
+    "downtempo",
+    "dub",
+    "dubstep",
+    "easy-listening",
+    "electronic",
+    "folk",
+    "glitch",
+    "lounge",
+    "lowtech",
+    "sad-electronics"
+  ],
+  "analysis": {
+    "durationSec": 665.33,
+    "bpm": 157.5,
+    "bpmConfidence": 0.39,
+    "beatOffset": 0.0453,
+    "key": {
+      "name": "Em",
+      "camelot": "9A",
+      "confidence": 0.79
+    },
+    "rmsDb": -20.3,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

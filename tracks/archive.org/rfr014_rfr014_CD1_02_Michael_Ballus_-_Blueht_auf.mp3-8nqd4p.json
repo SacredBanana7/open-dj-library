@@ -1,0 +1,49 @@
+{
+  "version": 1,
+  "id": "archive.org:rfr014/rfr014_CD1_02_Michael_Ballus_-_Blueht_auf.mp3",
+  "source": "archive.org",
+  "title": "rfr014_CD1_02_Michael_Ballus_-_Blueht_auf",
+  "artist": "Michael Ballus",
+  "album": "[RFR014] V.A. - 2 Years Rumpfunk-Records",
+  "pageUrl": "https://archive.org/details/rfr014",
+  "audioUrl": "https://archive.org/download/rfr014/rfr014_CD1_02_Michael_Ballus_-_Blueht_auf.mp3",
+  "fileName": "rfr014_CD1_02_Michael_Ballus_-_Blueht_auf.mp3",
+  "sizeBytes": 14403877,
+  "license": {
+    "code": "by-nc-nd",
+    "version": "2.0",
+    "label": "CC BY-NC-ND 2.0 DE",
+    "url": "http://creativecommons.org/licenses/by-nc-nd/2.0/de/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": false,
+    "shareAlike": false,
+    "publicDomain": false
+  },
+  "genre": "House",
+  "tags": [
+    "rfr014",
+    "rumpfunk",
+    "rumpfunk-records",
+    "ambient",
+    "house",
+    "melancholic",
+    "minimal",
+    "techno",
+    "compilation"
+  ],
+  "analysis": {
+    "durationSec": 360.05,
+    "bpm": 126.72,
+    "bpmConfidence": 1,
+    "beatOffset": 0.7018,
+    "key": {
+      "name": "C#",
+      "camelot": "3B",
+      "confidence": 0.37
+    },
+    "rmsDb": -15.4,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

@@ -1,0 +1,52 @@
+{
+  "version": 1,
+  "id": "archive.org:onmp037/02OilboysAftersun_Talkdirtytome.mp3",
+  "source": "archive.org",
+  "title": "Talk dirty to me",
+  "artist": "Oilboy's aftersun",
+  "album": "Oil boiled fantasies",
+  "pageUrl": "https://archive.org/details/onmp037",
+  "audioUrl": "https://archive.org/download/onmp037/02OilboysAftersun_Talkdirtytome.mp3",
+  "fileName": "02OilboysAftersun_Talkdirtytome.mp3",
+  "sizeBytes": 6916096,
+  "license": {
+    "code": "by-nc",
+    "version": "3.0",
+    "label": "CC BY-NC 3.0",
+    "url": "http://creativecommons.org/licenses/by-nc/3.0/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": true,
+    "shareAlike": false,
+    "publicDomain": false
+  },
+  "genre": "House",
+  "tags": [
+    "disco",
+    "club",
+    "samba",
+    "tribal",
+    "Mr.DeVo!",
+    "Oilboy's aftersun",
+    "Oil boiled fantasies",
+    "House",
+    "clubhouse",
+    "dance",
+    "Sneek",
+    "Holland"
+  ],
+  "analysis": {
+    "durationSec": 288.03,
+    "bpm": 120,
+    "bpmConfidence": 1,
+    "beatOffset": 0.0345,
+    "key": {
+      "name": "Gm",
+      "camelot": "6A",
+      "confidence": 0.4
+    },
+    "rmsDb": -12.5,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

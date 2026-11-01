@@ -1,0 +1,45 @@
+{
+  "version": 1,
+  "id": "archive.org:fsz049/fsz049_01-chenard_walcker-metamorphoses.mp3",
+  "source": "archive.org",
+  "title": "Metamorphoses",
+  "artist": "Chenard Walcker",
+  "album": "Metamorphoses [fsz049]",
+  "pageUrl": "https://archive.org/details/fsz049",
+  "audioUrl": "https://archive.org/download/fsz049/fsz049_01-chenard_walcker-metamorphoses.mp3",
+  "fileName": "fsz049_01-chenard_walcker-metamorphoses.mp3",
+  "sizeBytes": 5130240,
+  "license": {
+    "code": "by-nc",
+    "version": "2.5",
+    "label": "CC BY-NC 2.5",
+    "url": "http://creativecommons.org/licenses/by-nc/2.5/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": true,
+    "shareAlike": false,
+    "publicDomain": false
+  },
+  "genre": "Disco / Funk",
+  "tags": [
+    "Alternative",
+    "Blues",
+    "Jazz+Funk",
+    "Sample Madness",
+    "Plunderphonics"
+  ],
+  "analysis": {
+    "durationSec": 213.71,
+    "bpm": 171,
+    "bpmConfidence": 0.74,
+    "beatOffset": 1.1379,
+    "key": {
+      "name": "G#m",
+      "camelot": "1A",
+      "confidence": 0.45
+    },
+    "rmsDb": -15,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

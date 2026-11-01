@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "id": "archive.org:exp036/exp036_-_102_-_brother_thadeus_-_cold_steel_out.mp3",
+  "source": "archive.org",
+  "title": "brother thadeus - cold steel out",
+  "artist": "brother thadeus",
+  "album": "the rhythm method",
+  "pageUrl": "https://archive.org/details/exp036",
+  "audioUrl": "https://archive.org/download/exp036/exp036_-_102_-_brother_thadeus_-_cold_steel_out.mp3",
+  "fileName": "exp036_-_102_-_brother_thadeus_-_cold_steel_out.mp3",
+  "sizeBytes": 7818752,
+  "license": {
+    "code": "by-nc-sa",
+    "version": "2.5",
+    "label": "CC BY-NC-SA 2.5",
+    "url": "http://creativecommons.org/licenses/by-nc-sa/2.5/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": true,
+    "shareAlike": true,
+    "publicDomain": false
+  },
+  "genre": "Techno",
+  "tags": [
+    "electro",
+    "idm",
+    "techno",
+    "beat",
+    "rhythm",
+    "experimental",
+    "dance",
+    "experimedia"
+  ],
+  "analysis": {
+    "durationSec": 240,
+    "bpm": 121.42,
+    "bpmConfidence": 0.41,
+    "beatOffset": 1.8184,
+    "key": {
+      "name": "E",
+      "camelot": "12B",
+      "confidence": 0.82
+    },
+    "rmsDb": -9.3,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

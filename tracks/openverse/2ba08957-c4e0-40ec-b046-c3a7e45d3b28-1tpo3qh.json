@@ -1,0 +1,47 @@
+{
+  "version": 1,
+  "id": "openverse:2ba08957-c4e0-40ec-b046-c3a7e45d3b28",
+  "source": "openverse",
+  "provider": "jamendo",
+  "title": "House Vai.",
+  "artist": "J.Blasco",
+  "artistUrl": "https://www.jamendo.com/artist/5390/j.blasco",
+  "album": "Electro House",
+  "pageUrl": "https://www.jamendo.com/track/397101",
+  "audioUrl": "https://prod-1.storage.jamendo.com/?trackid=397101&format=mp32",
+  "fileName": "J.Blasco - House Vai..mp3",
+  "license": {
+    "code": "by-sa",
+    "version": "3.0",
+    "label": "CC BY-SA 3.0",
+    "url": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "attribution": true,
+    "commercial": true,
+    "derivatives": true,
+    "shareAlike": true,
+    "publicDomain": false
+  },
+  "genre": "House",
+  "tags": [
+    "energetic",
+    "instrumental",
+    "neutral",
+    "speed_medium",
+    "synthesizer",
+    "videogame"
+  ],
+  "analysis": {
+    "durationSec": 236.3,
+    "bpm": 128,
+    "bpmConfidence": 1,
+    "beatOffset": 0.01,
+    "key": {
+      "name": "G",
+      "camelot": "9B",
+      "confidence": 0.76
+    },
+    "rmsDb": -17.8,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

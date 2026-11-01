@@ -1,0 +1,41 @@
+{
+  "version": 1,
+  "id": "archive.org:electronical_adm-014/adm-014-02-Mikael_Lind-Broken.mp3",
+  "source": "archive.org",
+  "title": "Broken",
+  "artist": "Mikael Lind",
+  "album": "After Summer, Comes Fall",
+  "pageUrl": "https://archive.org/details/electronical_adm-014",
+  "audioUrl": "https://archive.org/download/electronical_adm-014/adm-014-02-Mikael_Lind-Broken.mp3",
+  "fileName": "adm-014-02-Mikael_Lind-Broken.mp3",
+  "sizeBytes": 5122176,
+  "license": {
+    "code": "by-nc-nd",
+    "version": "2.0",
+    "label": "CC BY-NC-ND 2.0",
+    "url": "http://creativecommons.org/licenses/by-nc-nd/2.0/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": false,
+    "shareAlike": false,
+    "publicDomain": false
+  },
+  "genre": "Breakbeat",
+  "tags": [
+    "Electro/IDM/Experimental/Breaks"
+  ],
+  "analysis": {
+    "durationSec": 213.34,
+    "bpm": 163,
+    "bpmConfidence": 0.38,
+    "beatOffset": 0.2965,
+    "key": {
+      "name": "Fm",
+      "camelot": "4A",
+      "confidence": 0.66
+    },
+    "rmsDb": -16,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

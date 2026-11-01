@@ -1,0 +1,45 @@
+{
+  "version": 1,
+  "id": "openverse:9d25c4d6-e8d4-4e35-b765-017e81296c92",
+  "source": "openverse",
+  "provider": "jamendo",
+  "title": "Baby Keys ( Trance Mix )",
+  "artist": "Hasenchat",
+  "artistUrl": "https://www.jamendo.com/artist/386200/hasenchat",
+  "album": "the Mystery of Woman",
+  "pageUrl": "https://www.jamendo.com/track/1265191",
+  "audioUrl": "https://prod-1.storage.jamendo.com/?trackid=1265191&format=mp32",
+  "fileName": "Hasenchat - Baby Keys ( Trance Mix ).mp3",
+  "license": {
+    "code": "by-sa",
+    "version": "3.0",
+    "label": "CC BY-SA 3.0",
+    "url": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "attribution": true,
+    "commercial": true,
+    "derivatives": true,
+    "shareAlike": true,
+    "publicDomain": false
+  },
+  "genre": "Trance",
+  "tags": [
+    "baby",
+    "instrumental",
+    "neutral",
+    "speed_medium"
+  ],
+  "analysis": {
+    "durationSec": 585,
+    "bpm": 128,
+    "bpmConfidence": 0.59,
+    "beatOffset": 0.002,
+    "key": {
+      "name": "A#m",
+      "camelot": "3A",
+      "confidence": 0.83
+    },
+    "rmsDb": -15.8,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

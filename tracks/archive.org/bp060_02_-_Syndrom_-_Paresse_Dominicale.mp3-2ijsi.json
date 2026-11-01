@@ -1,0 +1,44 @@
+{
+  "version": 1,
+  "id": "archive.org:bp060/02_-_Syndrom_-_Paresse_Dominicale.mp3",
+  "source": "archive.org",
+  "title": "Paresse Dominicale",
+  "artist": "Syndrôm",
+  "album": "Nomades En No Man's Land",
+  "pageUrl": "https://archive.org/details/bp060",
+  "audioUrl": "https://archive.org/download/bp060/02_-_Syndrom_-_Paresse_Dominicale.mp3",
+  "fileName": "02_-_Syndrom_-_Paresse_Dominicale.mp3",
+  "sizeBytes": 8038507,
+  "license": {
+    "code": "by-nc-nd",
+    "version": "3.0",
+    "label": "CC BY-NC-ND 3.0",
+    "url": "http://creativecommons.org/licenses/by-nc-nd/3.0/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": false,
+    "shareAlike": false,
+    "publicDomain": false
+  },
+  "genre": "Breakbeat",
+  "tags": [
+    "Breakbeat",
+    "Dub",
+    "Electro",
+    "IDM"
+  ],
+  "analysis": {
+    "durationSec": 200.93,
+    "bpm": 159.32,
+    "bpmConfidence": 0.42,
+    "beatOffset": 1.0806,
+    "key": {
+      "name": "G#m",
+      "camelot": "1A",
+      "confidence": 0.71
+    },
+    "rmsDb": -10.1,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

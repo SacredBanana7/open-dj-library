@@ -1,0 +1,52 @@
+{
+  "version": 1,
+  "id": "archive.org:nws486/01 Way through hell.mp3",
+  "source": "archive.org",
+  "title": "Way through hell",
+  "artist": "Protuberance (feat. BlackpicK)",
+  "album": "[mhrk208] Recollections 3",
+  "pageUrl": "https://archive.org/details/nws486",
+  "audioUrl": "https://archive.org/download/nws486/01%20Way%20through%20hell.mp3",
+  "fileName": "01 Way through hell.mp3",
+  "sizeBytes": 10148162,
+  "license": {
+    "code": "by-nc-nd",
+    "version": "4.0",
+    "label": "CC BY-NC-ND 4.0",
+    "url": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": false,
+    "shareAlike": false,
+    "publicDomain": false
+  },
+  "genre": "Disco / Funk",
+  "tags": [
+    "chemical-beats",
+    "downtempo",
+    "electro",
+    "electronic",
+    "funk",
+    "indietronic",
+    "jazz",
+    "metal",
+    "minimal-pop",
+    "psychedelic",
+    "rock",
+    "spoken-word"
+  ],
+  "analysis": {
+    "durationSec": 251.19,
+    "bpm": 175.8,
+    "bpmConfidence": 0.87,
+    "beatOffset": 0.0898,
+    "key": {
+      "name": "F",
+      "camelot": "7B",
+      "confidence": 0.43
+    },
+    "rmsDb": -12,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

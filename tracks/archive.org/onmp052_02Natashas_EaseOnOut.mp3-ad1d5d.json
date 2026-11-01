@@ -1,0 +1,52 @@
+{
+  "version": 1,
+  "id": "archive.org:onmp052/02Natashas_EaseOnOut.mp3",
+  "source": "archive.org",
+  "title": "Ease On Out",
+  "artist": "Natashas",
+  "album": "Moments of iBuzz Pleasure",
+  "pageUrl": "https://archive.org/details/onmp052",
+  "audioUrl": "https://archive.org/download/onmp052/02Natashas_EaseOnOut.mp3",
+  "fileName": "02Natashas_EaseOnOut.mp3",
+  "sizeBytes": 5738496,
+  "license": {
+    "code": "by-nc",
+    "version": "3.0",
+    "label": "CC BY-NC 3.0",
+    "url": "http://creativecommons.org/licenses/by-nc/3.0/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": true,
+    "shareAlike": false,
+    "publicDomain": false
+  },
+  "genre": "House",
+  "tags": [
+    "iGroove",
+    "iBuzz",
+    "iPod",
+    "House",
+    "Techno",
+    "Club-House",
+    "Hardhouse",
+    "Tribal",
+    "Disco",
+    "Club",
+    "ON-Mix",
+    "Dj Thopa"
+  ],
+  "analysis": {
+    "durationSec": 239.07,
+    "bpm": 126,
+    "bpmConfidence": 1,
+    "beatOffset": 1.0043,
+    "key": {
+      "name": "Bm",
+      "camelot": "10A",
+      "confidence": 0.83
+    },
+    "rmsDb": -14,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

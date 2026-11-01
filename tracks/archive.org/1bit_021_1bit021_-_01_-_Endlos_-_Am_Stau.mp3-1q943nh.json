@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "id": "archive.org:1bit_021/1bit021_-_01_-_Endlos_-_Am_Stau.mp3",
+  "source": "archive.org",
+  "title": "Am Stau",
+  "artist": "Endlos",
+  "album": "Das musste ja so kommen EP",
+  "pageUrl": "https://archive.org/details/1bit_021",
+  "audioUrl": "https://archive.org/download/1bit_021/1bit021_-_01_-_Endlos_-_Am_Stau.mp3",
+  "fileName": "1bit021_-_01_-_Endlos_-_Am_Stau.mp3",
+  "sizeBytes": 10770432,
+  "license": {
+    "code": "by-nc-sa",
+    "version": "2.5",
+    "label": "CC BY-NC-SA 2.5",
+    "url": "http://creativecommons.org/licenses/by-nc-sa/2.5/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": true,
+    "shareAlike": true,
+    "publicDomain": false
+  },
+  "genre": "IDM / Electronica",
+  "tags": [
+    "1bit",
+    "1bit wonder",
+    "electronic",
+    "music",
+    "mp3",
+    "endlos",
+    "electronica",
+    "downbeat,chill,chillout"
+  ],
+  "analysis": {
+    "durationSec": 336.48,
+    "bpm": 133.34,
+    "bpmConfidence": 0.55,
+    "beatOffset": 1.2193,
+    "key": {
+      "name": "G",
+      "camelot": "9B",
+      "confidence": 0.81
+    },
+    "rmsDb": -12,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

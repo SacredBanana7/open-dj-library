@@ -1,0 +1,47 @@
+{
+  "version": 1,
+  "id": "archive.org:ca446_opa/02-Nakurilah.mp3",
+  "source": "archive.org",
+  "title": "02 - Nakurilah",
+  "artist": "Opa!",
+  "album": "ca446 - Opa! - Nakurlah",
+  "pageUrl": "https://archive.org/details/ca446_opa",
+  "audioUrl": "https://archive.org/download/ca446_opa/02-Nakurilah.mp3",
+  "fileName": "02-Nakurilah.mp3",
+  "sizeBytes": 11343455,
+  "license": {
+    "code": "by-nc-nd",
+    "version": "3.0",
+    "label": "CC BY-NC-ND 3.0",
+    "url": "http://creativecommons.org/licenses/by-nc-nd/3.0/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": false,
+    "shareAlike": false,
+    "publicDomain": false
+  },
+  "genre": "Experimental",
+  "tags": [
+    "world",
+    "russian klezmer",
+    "soviet pop",
+    "nostalgic kitsch",
+    "brass",
+    "experimental",
+    "acoustic"
+  ],
+  "analysis": {
+    "durationSec": 283.41,
+    "bpm": 130,
+    "bpmConfidence": 0.88,
+    "beatOffset": 0.8623,
+    "key": {
+      "name": "E",
+      "camelot": "12B",
+      "confidence": 0.78
+    },
+    "rmsDb": -11,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

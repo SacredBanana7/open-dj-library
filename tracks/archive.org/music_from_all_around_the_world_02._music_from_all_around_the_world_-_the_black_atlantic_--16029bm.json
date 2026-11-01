@@ -1,0 +1,50 @@
+{
+  "version": 1,
+  "id": "archive.org:music_from_all_around_the_world/02._music_from_all_around_the_world_-_the_black_atlantic_-_dandelion.mp3",
+  "source": "archive.org",
+  "title": "Dandelion",
+  "artist": "The Black Atlantic",
+  "album": "Music From All Around The World",
+  "pageUrl": "https://archive.org/details/music_from_all_around_the_world",
+  "audioUrl": "https://archive.org/download/music_from_all_around_the_world/02._music_from_all_around_the_world_-_the_black_atlantic_-_dandelion.mp3",
+  "fileName": "02._music_from_all_around_the_world_-_the_black_atlantic_-_dandelion.mp3",
+  "sizeBytes": 5113858,
+  "license": {
+    "code": "by-nc-nd",
+    "version": "3.0",
+    "label": "CC BY-NC-ND 3.0",
+    "url": "http://creativecommons.org/licenses/by-nc-nd/3.0/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": false,
+    "shareAlike": false,
+    "publicDomain": false
+  },
+  "genre": "Hip Hop",
+  "tags": [
+    "creative commons",
+    "2009",
+    "music",
+    "netaudio",
+    "netlabel",
+    "compilation",
+    "phlow",
+    "pop",
+    "hiphop",
+    "indie"
+  ],
+  "analysis": {
+    "durationSec": 157.54,
+    "bpm": 124,
+    "bpmConfidence": 1,
+    "beatOffset": 1.685,
+    "key": {
+      "name": "G",
+      "camelot": "9B",
+      "confidence": 0.89
+    },
+    "rmsDb": -16.3,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

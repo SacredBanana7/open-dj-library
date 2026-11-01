@@ -1,0 +1,43 @@
+{
+  "version": 1,
+  "id": "archive.org:ca314_d/01_You_Won_t_Feel.mp3",
+  "source": "archive.org",
+  "title": "01 - You Won't Feel",
+  "artist": "Dharmatec",
+  "album": "ca314 - Dharmatec - Justify My Sin - EP",
+  "pageUrl": "https://archive.org/details/ca314_d",
+  "audioUrl": "https://archive.org/download/ca314_d/01_You_Won_t_Feel.mp3",
+  "fileName": "01_You_Won_t_Feel.mp3",
+  "sizeBytes": 9829560,
+  "license": {
+    "code": "by-nc-nd",
+    "version": "3.0",
+    "label": "CC BY-NC-ND 3.0",
+    "url": "http://creativecommons.org/licenses/by-nc-nd/3.0/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": false,
+    "shareAlike": false,
+    "publicDomain": false
+  },
+  "genre": "Trance",
+  "tags": [
+    "electronic",
+    "psytrance",
+    "experimental"
+  ],
+  "analysis": {
+    "durationSec": 245.68,
+    "bpm": 132,
+    "bpmConfidence": 1,
+    "beatOffset": 0.9487,
+    "key": {
+      "name": "Am",
+      "camelot": "8A",
+      "confidence": 0.76
+    },
+    "rmsDb": -11.4,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

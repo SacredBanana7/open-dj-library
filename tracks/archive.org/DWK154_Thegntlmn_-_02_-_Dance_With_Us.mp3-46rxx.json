@@ -1,0 +1,46 @@
+{
+  "version": 1,
+  "id": "archive.org:DWK154/Thegntlmn_-_02_-_Dance_With_Us.mp3",
+  "source": "archive.org",
+  "title": "Dance With Us",
+  "artist": "Thegntlmn",
+  "album": "Earbuds (Volume 1) (EP)",
+  "pageUrl": "https://archive.org/details/DWK154",
+  "audioUrl": "https://archive.org/download/DWK154/Thegntlmn_-_02_-_Dance_With_Us.mp3",
+  "fileName": "Thegntlmn_-_02_-_Dance_With_Us.mp3",
+  "sizeBytes": 11125938,
+  "license": {
+    "code": "by-nc-nd",
+    "version": "3.0",
+    "label": "CC BY-NC-ND 3.0",
+    "url": "http://creativecommons.org/licenses/by-nc-nd/3.0/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": false,
+    "shareAlike": false,
+    "publicDomain": false
+  },
+  "genre": "Hip Hop",
+  "tags": [
+    "Thegntlmn",
+    "Dusted Wax Kingdom",
+    "instrumental hip-hop",
+    "trip-hop",
+    "lo-fi"
+  ],
+  "analysis": {
+    "durationSec": 276.48,
+    "bpm": 80.79,
+    "bpmConfidence": 0.51,
+    "beatOffset": 0.4343,
+    "key": {
+      "name": "Gm",
+      "camelot": "6A",
+      "confidence": 0.64
+    },
+    "rmsDb": -15.8,
+    "analyzer": "pulsar-dj/analysis-worker 0.1",
+    "tempoFolded": 0.5
+  },
+  "added": "2026-11-01"
+}

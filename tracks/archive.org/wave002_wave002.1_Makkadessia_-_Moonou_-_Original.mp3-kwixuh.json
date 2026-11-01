@@ -1,0 +1,52 @@
+{
+  "version": 1,
+  "id": "archive.org:wave002/wave002.1_Makkadessia_-_Moonou_-_Original.mp3",
+  "source": "archive.org",
+  "title": "Moonou (Original)",
+  "artist": "Makkadessia",
+  "album": "Moonou",
+  "pageUrl": "https://archive.org/details/wave002",
+  "audioUrl": "https://archive.org/download/wave002/wave002.1_Makkadessia_-_Moonou_-_Original.mp3",
+  "fileName": "wave002.1_Makkadessia_-_Moonou_-_Original.mp3",
+  "sizeBytes": 19235631,
+  "license": {
+    "code": "by-nc-nd",
+    "version": "3.0",
+    "label": "CC BY-NC-ND 3.0",
+    "url": "http://creativecommons.org/licenses/by-nc-nd/3.0/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": false,
+    "shareAlike": false,
+    "publicDomain": false
+  },
+  "genre": "Techno",
+  "tags": [
+    "deep",
+    "minimal",
+    "progressive",
+    "deephouse",
+    "trance",
+    "techno",
+    "netaudio",
+    "netlabel",
+    "free",
+    "music",
+    "DJ",
+    "tool"
+  ],
+  "analysis": {
+    "durationSec": 476.34,
+    "bpm": 129,
+    "bpmConfidence": 1,
+    "beatOffset": 0.9721,
+    "key": {
+      "name": "A#m",
+      "camelot": "3A",
+      "confidence": 0.67
+    },
+    "rmsDb": -11.2,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

@@ -1,0 +1,52 @@
+{
+  "version": 1,
+  "id": "archive.org:Vertex_germ-Te_de_hierbas/2.-vertexGerm-Tolohuaxihuitl.mp3",
+  "source": "archive.org",
+  "title": "2.-Vertex Germ - Tolohuaxihuitl",
+  "artist": "Vertex Germ",
+  "album": "Vertex_Germ - Te_de_Hierbas",
+  "pageUrl": "https://archive.org/details/Vertex_germ-Te_de_hierbas",
+  "audioUrl": "https://archive.org/download/Vertex_germ-Te_de_hierbas/2.-vertexGerm-Tolohuaxihuitl.mp3",
+  "fileName": "2.-vertexGerm-Tolohuaxihuitl.mp3",
+  "sizeBytes": 6023296,
+  "license": {
+    "code": "by-nc-sa",
+    "version": "3.0",
+    "label": "CC BY-NC-SA 3.0",
+    "url": "http://creativecommons.org/licenses/by-nc-sa/3.0/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": true,
+    "shareAlike": true,
+    "publicDomain": false
+  },
+  "genre": "Ambient",
+  "tags": [
+    "Ãtnico",
+    "Ambient",
+    "Ritual",
+    "Glitch",
+    "Granular",
+    "ElectroacÃºstica",
+    "Peyote",
+    "Marihuana",
+    "Hongos",
+    "LSD",
+    "Yopo",
+    "Mezcalina"
+  ],
+  "analysis": {
+    "durationSec": 376.16,
+    "bpm": 139.7,
+    "bpmConfidence": 0.38,
+    "beatOffset": 1.2896,
+    "key": {
+      "name": "Bm",
+      "camelot": "10A",
+      "confidence": 0.48
+    },
+    "rmsDb": -16.6,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

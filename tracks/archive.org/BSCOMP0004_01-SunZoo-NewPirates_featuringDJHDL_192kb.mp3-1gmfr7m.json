@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "id": "archive.org:BSCOMP0004/01-SunZoo-NewPirates_featuringDJHDL_192kb.mp3",
+  "source": "archive.org",
+  "title": "01 - Sun Zoo - New Pirates (featuring DJ HDL)",
+  "artist": "Sun Zoo",
+  "album": "netBloc Vol. 4: Soundtrack for the Coming Revolution",
+  "pageUrl": "https://archive.org/details/BSCOMP0004",
+  "audioUrl": "https://archive.org/download/BSCOMP0004/01-SunZoo-NewPirates_featuringDJHDL_192kb.mp3",
+  "fileName": "01-SunZoo-NewPirates_featuringDJHDL_192kb.mp3",
+  "sizeBytes": 5913026,
+  "license": {
+    "code": "by-nc-nd",
+    "version": "3.0",
+    "label": "CC BY-NC-ND 3.0",
+    "url": "http://creativecommons.org/licenses/by-nc-nd/3.0/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": false,
+    "shareAlike": false,
+    "publicDomain": false
+  },
+  "genre": "Hip Hop",
+  "tags": [
+    "rock",
+    "pop",
+    "electronica",
+    "trip-hop",
+    "hip-hop",
+    "post-rock",
+    "indie-rock"
+  ],
+  "analysis": {
+    "durationSec": 234.03,
+    "bpm": 85.25,
+    "bpmConfidence": 0.44,
+    "beatOffset": 1.1854,
+    "key": {
+      "name": "Am",
+      "camelot": "8A",
+      "confidence": 0.86
+    },
+    "rmsDb": -20.9,
+    "analyzer": "pulsar-dj/analysis-worker 0.1",
+    "tempoFolded": 0.5
+  },
+  "added": "2026-11-01"
+}

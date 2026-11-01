@@ -1,0 +1,45 @@
+{
+  "version": 1,
+  "id": "archive.org:siro629AnnoyingRingtone-EnvyARaveExperiment/01-AnnoyingRingtone-Envy.mp3",
+  "source": "archive.org",
+  "title": "01 - Annoying Ringtone - Envy",
+  "artist": "Annoying Ringtone",
+  "album": "Envy: A Rave Experiment",
+  "pageUrl": "https://archive.org/details/siro629AnnoyingRingtone-EnvyARaveExperiment",
+  "audioUrl": "https://archive.org/download/siro629AnnoyingRingtone-EnvyARaveExperiment/01-AnnoyingRingtone-Envy.mp3",
+  "fileName": "01-AnnoyingRingtone-Envy.mp3",
+  "sizeBytes": 12976190,
+  "license": {
+    "code": "by-nc-sa",
+    "version": "3.0",
+    "label": "CC BY-NC-SA 3.0",
+    "url": "http://creativecommons.org/licenses/by-nc-sa/3.0/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": true,
+    "shareAlike": true,
+    "publicDomain": false
+  },
+  "genre": "Breakbeat",
+  "tags": [
+    "Dance",
+    "Rave",
+    "Hardcore",
+    "Breakbeat",
+    "Speedcore"
+  ],
+  "analysis": {
+    "durationSec": 319.09,
+    "bpm": 170,
+    "bpmConfidence": 0.79,
+    "beatOffset": 0.0647,
+    "key": {
+      "name": "G#m",
+      "camelot": "1A",
+      "confidence": 0.45
+    },
+    "rmsDb": -12.4,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

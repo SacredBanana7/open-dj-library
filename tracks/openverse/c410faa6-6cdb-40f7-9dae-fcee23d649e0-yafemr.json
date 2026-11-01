@@ -1,0 +1,43 @@
+{
+  "version": 1,
+  "id": "openverse:c410faa6-6cdb-40f7-9dae-fcee23d649e0",
+  "source": "openverse",
+  "provider": "jamendo",
+  "title": "Electro Santana",
+  "artist": "Nébur Maik",
+  "artistUrl": "https://www.jamendo.com/artist/350575/Ruben_Parra",
+  "album": "20 Tracks",
+  "pageUrl": "https://www.jamendo.com/track/876341",
+  "audioUrl": "https://prod-1.storage.jamendo.com/?trackid=876341&format=mp32",
+  "fileName": "Nébur Maik - Electro Santana.mp3",
+  "license": {
+    "code": "by-nc-nd",
+    "version": "2.5",
+    "label": "CC BY-NC-ND 2.5 ES",
+    "url": "https://creativecommons.org/licenses/by-nc-nd/2.5/es/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": false,
+    "shareAlike": false,
+    "publicDomain": false
+  },
+  "genre": "Electro",
+  "tags": [
+    "instrumental",
+    "speed_medium"
+  ],
+  "analysis": {
+    "durationSec": 198,
+    "bpm": 120,
+    "bpmConfidence": 1,
+    "beatOffset": 1.248,
+    "key": {
+      "name": "Am",
+      "camelot": "8A",
+      "confidence": 0.81
+    },
+    "rmsDb": -22,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

@@ -1,0 +1,49 @@
+{
+  "version": 1,
+  "id": "openverse:7a3f56bb-9fe0-4e53-adcf-bf9ca2ca5233",
+  "source": "openverse",
+  "provider": "jamendo",
+  "title": "Pop &amp; Deep House",
+  "artist": "TNDR Productions",
+  "artistUrl": "https://www.jamendo.com/artist/536332/Zimakoff",
+  "album": "Pop &amp; Deep House",
+  "pageUrl": "https://www.jamendo.com/track/2266835",
+  "audioUrl": "https://prod-1.storage.jamendo.com/?trackid=2266835&format=mp32",
+  "fileName": "TNDR Productions - Pop &amp; Deep House.mp3",
+  "license": {
+    "code": "by-nc-nd",
+    "version": "3.0",
+    "label": "CC BY-NC-ND 3.0",
+    "url": "https://creativecommons.org/licenses/by-nc-nd/3.0/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": false,
+    "shareAlike": false,
+    "publicDomain": false
+  },
+  "genre": "House",
+  "tags": [
+    "bass",
+    "clubbing",
+    "emotional",
+    "male",
+    "neutral",
+    "speed_high",
+    "synthesizer",
+    "vocal"
+  ],
+  "analysis": {
+    "durationSec": 275.36,
+    "bpm": 124,
+    "bpmConfidence": 0.73,
+    "beatOffset": 0.9829,
+    "key": {
+      "name": "A#m",
+      "camelot": "3A",
+      "confidence": 0.88
+    },
+    "rmsDb": -11.6,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

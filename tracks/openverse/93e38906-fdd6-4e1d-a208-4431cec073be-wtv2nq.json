@@ -1,0 +1,47 @@
+{
+  "version": 1,
+  "id": "openverse:93e38906-fdd6-4e1d-a208-4431cec073be",
+  "source": "openverse",
+  "provider": "jamendo",
+  "title": "Melodic Techno",
+  "artist": "Jackson Frost",
+  "artistUrl": "https://www.jamendo.com/artist/551289/Jackson_Frost_(2)",
+  "album": "Melodic Techno",
+  "pageUrl": "https://www.jamendo.com/track/2004229",
+  "audioUrl": "https://prod-1.storage.jamendo.com/?trackid=2004229&format=mp32",
+  "fileName": "Jackson Frost - Melodic Techno.mp3",
+  "license": {
+    "code": "by-nc-nd",
+    "version": "3.0",
+    "label": "CC BY-NC-ND 3.0",
+    "url": "https://creativecommons.org/licenses/by-nc-nd/3.0/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": false,
+    "shareAlike": false,
+    "publicDomain": false
+  },
+  "genre": "Techno",
+  "tags": [
+    "clubbing",
+    "instrumental",
+    "neutral",
+    "speed_high",
+    "synthesizer",
+    "uplifting"
+  ],
+  "analysis": {
+    "durationSec": 199.02,
+    "bpm": 123,
+    "bpmConfidence": 1,
+    "beatOffset": 0.9786,
+    "key": {
+      "name": "Dm",
+      "camelot": "7A",
+      "confidence": 0.83
+    },
+    "rmsDb": -11.6,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

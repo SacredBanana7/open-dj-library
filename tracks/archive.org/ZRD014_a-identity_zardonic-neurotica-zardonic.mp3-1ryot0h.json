@@ -1,0 +1,52 @@
+{
+  "version": 1,
+  "id": "archive.org:ZRD014/a-identity_zardonic-neurotica-zardonic.mp3",
+  "source": "archive.org",
+  "title": "a-identity_zardonic-neurotica-zardonic",
+  "artist": "Identity & Zardonic",
+  "album": "[ZRD014] Neurotica / Natural Born Killers",
+  "pageUrl": "https://archive.org/details/ZRD014",
+  "audioUrl": "https://archive.org/download/ZRD014/a-identity_zardonic-neurotica-zardonic.mp3",
+  "fileName": "a-identity_zardonic-neurotica-zardonic.mp3",
+  "sizeBytes": 13502258,
+  "license": {
+    "code": "by-nc-sa",
+    "version": "3.0",
+    "label": "CC BY-NC-SA 3.0",
+    "url": "http://creativecommons.org/licenses/by-nc-sa/3.0/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": true,
+    "shareAlike": true,
+    "publicDomain": false
+  },
+  "genre": "Disco / Funk",
+  "tags": [
+    "Identity",
+    "Zardonic",
+    "Malsum",
+    "Recordings",
+    "Drum",
+    "Bass",
+    "Hard",
+    "Dark",
+    "Neuro",
+    "Funk",
+    "Nuero",
+    "Neurofunk"
+  ],
+  "analysis": {
+    "durationSec": 337.5,
+    "bpm": 169.54,
+    "bpmConfidence": 0.4,
+    "beatOffset": 1.2326,
+    "key": {
+      "name": "G#m",
+      "camelot": "1A",
+      "confidence": 0.33
+    },
+    "rmsDb": -7.9,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

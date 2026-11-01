@@ -1,0 +1,51 @@
+{
+  "version": 1,
+  "id": "archive.org:ca309_tmms/02_DawnOfTheDmitri.mp3",
+  "source": "archive.org",
+  "title": "02 - Dawn Of The Dmitri",
+  "artist": "Turkey Makes Me Sleepy",
+  "album": "ca309 - Turkey Makes Me Sleepy - The Big Part Of The Wishbone",
+  "pageUrl": "https://archive.org/details/ca309_tmms",
+  "audioUrl": "https://archive.org/download/ca309_tmms/02_DawnOfTheDmitri.mp3",
+  "fileName": "02_DawnOfTheDmitri.mp3",
+  "sizeBytes": 27170113,
+  "license": {
+    "code": "by-nc-nd",
+    "version": "3.0",
+    "label": "CC BY-NC-ND 3.0",
+    "url": "http://creativecommons.org/licenses/by-nc-nd/3.0/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": false,
+    "shareAlike": false,
+    "publicDomain": false
+  },
+  "genre": "Electro",
+  "tags": [
+    "experimental",
+    "improvisation",
+    "electroacoustic",
+    "electronic",
+    "psycho-chaotic",
+    "psy-electro",
+    "eclectic",
+    "sound collage",
+    "concrete",
+    "cassette culture",
+    "other"
+  ],
+  "analysis": {
+    "durationSec": 679.21,
+    "bpm": 168.5,
+    "bpmConfidence": 0.37,
+    "beatOffset": 0.7952,
+    "key": {
+      "name": "Am",
+      "camelot": "8A",
+      "confidence": 0.28
+    },
+    "rmsDb": -18.4,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

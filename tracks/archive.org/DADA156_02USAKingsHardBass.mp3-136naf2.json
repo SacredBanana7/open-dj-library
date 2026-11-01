@@ -1,0 +1,47 @@
+{
+  "version": 1,
+  "id": "archive.org:DADA156/02USAKingsHardBass.mp3",
+  "source": "archive.org",
+  "title": "Hard Bass",
+  "artist": "USA Kings",
+  "album": "Super USA Rap",
+  "pageUrl": "https://archive.org/details/DADA156",
+  "audioUrl": "https://archive.org/download/DADA156/02USAKingsHardBass.mp3",
+  "fileName": "02USAKingsHardBass.mp3",
+  "sizeBytes": 5102948,
+  "license": {
+    "code": "by-nc",
+    "version": "3.0",
+    "label": "CC BY-NC 3.0 NL",
+    "url": "http://creativecommons.org/licenses/by-nc/3.0/nl/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": true,
+    "shareAlike": false,
+    "publicDomain": false
+  },
+  "genre": "Electro",
+  "tags": [
+    "USA Kings",
+    "noise",
+    "breakcore",
+    "breakbeat",
+    "electro",
+    "experimental",
+    "DADA156"
+  ],
+  "analysis": {
+    "durationSec": 212.45,
+    "bpm": 145.16,
+    "bpmConfidence": 0.41,
+    "beatOffset": 0.5581,
+    "key": {
+      "name": "Dm",
+      "camelot": "7A",
+      "confidence": 0.59
+    },
+    "rmsDb": -8.6,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "id": "openverse:35eb11af-6017-49fe-9c03-f930e6868ccf",
+  "source": "openverse",
+  "provider": "jamendo",
+  "title": "SaReGaMa - Hip Hop 4 Alex (2006)",
+  "artist": "SaReGaMa",
+  "artistUrl": "https://www.jamendo.com/artist/4812/saregama",
+  "album": "Honky Fonky (EP)",
+  "pageUrl": "https://www.jamendo.com/track/73212",
+  "audioUrl": "https://prod-1.storage.jamendo.com/?trackid=73212&format=mp32",
+  "fileName": "SaReGaMa - SaReGaMa - Hip Hop 4 Alex (2006).mp3",
+  "license": {
+    "code": "by-nc-nd",
+    "version": "3.0",
+    "label": "CC BY-NC-ND 3.0",
+    "url": "https://creativecommons.org/licenses/by-nc-nd/3.0/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": false,
+    "shareAlike": false,
+    "publicDomain": false
+  },
+  "genre": "Hip Hop",
+  "tags": [
+    "documentary",
+    "groovy",
+    "instrumental",
+    "male",
+    "saxophone",
+    "speed_medium"
+  ],
+  "analysis": {
+    "durationSec": 310.7,
+    "bpm": 78.57,
+    "bpmConfidence": 0.41,
+    "beatOffset": 0.7012,
+    "key": {
+      "name": "Cm",
+      "camelot": "5A",
+      "confidence": 0.86
+    },
+    "rmsDb": -12.2,
+    "analyzer": "pulsar-dj/analysis-worker 0.1",
+    "tempoFolded": 0.5
+  },
+  "added": "2026-11-01"
+}

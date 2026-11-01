@@ -1,0 +1,52 @@
+{
+  "version": 1,
+  "id": "archive.org:tranzcd004Va-TranzmitterCompilationvolume3/02-Moskardi-HorteloriginalMix.mp3",
+  "source": "archive.org",
+  "title": "01.2- Moskardi - Hortel (Original Mix )",
+  "artist": "Tranzmitter Netlabel",
+  "album": "[TRANZCD004] VA - Tranzmitter Compilation (Volume 3)",
+  "pageUrl": "https://archive.org/details/tranzcd004Va-TranzmitterCompilationvolume3",
+  "audioUrl": "https://archive.org/download/tranzcd004Va-TranzmitterCompilationvolume3/02-Moskardi-HorteloriginalMix.mp3",
+  "fileName": "02-Moskardi-HorteloriginalMix.mp3",
+  "sizeBytes": 11225773,
+  "license": {
+    "code": "by-nd",
+    "version": "3.0",
+    "label": "CC BY-ND 3.0 BR",
+    "url": "http://creativecommons.org/licenses/by-nd/3.0/br/",
+    "attribution": true,
+    "commercial": true,
+    "derivatives": false,
+    "shareAlike": false,
+    "publicDomain": false
+  },
+  "genre": "House",
+  "tags": [
+    "Tranzmitter Netlabel",
+    "House",
+    "Deep House",
+    "Acid",
+    "Tech House",
+    "Techno",
+    "Experimental",
+    "EBM",
+    "Dub",
+    "Dubstep",
+    "Steppa",
+    "Drum N Bass"
+  ],
+  "analysis": {
+    "durationSec": 491.52,
+    "bpm": 125,
+    "bpmConfidence": 1,
+    "beatOffset": 0.0042,
+    "key": {
+      "name": "A#",
+      "camelot": "6B",
+      "confidence": 0.73
+    },
+    "rmsDb": -11.3,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

@@ -1,0 +1,43 @@
+{
+  "version": 1,
+  "id": "openverse:25aa607b-2ba2-4192-824d-2bbd581d9007",
+  "source": "openverse",
+  "provider": "jamendo",
+  "title": "Trans Breizh Techno (trance mix)",
+  "artist": "Mac Lomig",
+  "artistUrl": "https://www.jamendo.com/artist/1119/mac.lomig",
+  "album": "The Celtronic Project",
+  "pageUrl": "https://www.jamendo.com/track/7834",
+  "audioUrl": "https://prod-1.storage.jamendo.com/?trackid=7834&format=mp32",
+  "fileName": "Mac Lomig - Trans Breizh Techno (trance mix).mp3",
+  "license": {
+    "code": "by-nc-sa",
+    "version": "2.5",
+    "label": "CC BY-NC-SA 2.5",
+    "url": "https://creativecommons.org/licenses/by-nc-sa/2.5/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": true,
+    "shareAlike": true,
+    "publicDomain": false
+  },
+  "genre": "Techno",
+  "tags": [
+    "instrumental",
+    "speed_medium"
+  ],
+  "analysis": {
+    "durationSec": 384,
+    "bpm": 150,
+    "bpmConfidence": 1,
+    "beatOffset": 1.2006,
+    "key": {
+      "name": "C#",
+      "camelot": "3B",
+      "confidence": 0.62
+    },
+    "rmsDb": -20.1,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

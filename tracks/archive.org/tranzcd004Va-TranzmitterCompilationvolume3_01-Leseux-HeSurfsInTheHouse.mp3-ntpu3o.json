@@ -1,0 +1,52 @@
+{
+  "version": 1,
+  "id": "archive.org:tranzcd004Va-TranzmitterCompilationvolume3/01-Leseux-HeSurfsInTheHouse.mp3",
+  "source": "archive.org",
+  "title": "01.1- Leseux - He Surfs In The House",
+  "artist": "Tranzmitter Netlabel",
+  "album": "[TRANZCD004] VA - Tranzmitter Compilation (Volume 3)",
+  "pageUrl": "https://archive.org/details/tranzcd004Va-TranzmitterCompilationvolume3",
+  "audioUrl": "https://archive.org/download/tranzcd004Va-TranzmitterCompilationvolume3/01-Leseux-HeSurfsInTheHouse.mp3",
+  "fileName": "01-Leseux-HeSurfsInTheHouse.mp3",
+  "sizeBytes": 10918950,
+  "license": {
+    "code": "by-nd",
+    "version": "3.0",
+    "label": "CC BY-ND 3.0 BR",
+    "url": "http://creativecommons.org/licenses/by-nd/3.0/br/",
+    "attribution": true,
+    "commercial": true,
+    "derivatives": false,
+    "shareAlike": false,
+    "publicDomain": false
+  },
+  "genre": "House",
+  "tags": [
+    "Tranzmitter Netlabel",
+    "House",
+    "Deep House",
+    "Acid",
+    "Tech House",
+    "Techno",
+    "Experimental",
+    "EBM",
+    "Dub",
+    "Dubstep",
+    "Steppa",
+    "Drum N Bass"
+  ],
+  "analysis": {
+    "durationSec": 440.85,
+    "bpm": 123,
+    "bpmConfidence": 1,
+    "beatOffset": 0.0024,
+    "key": {
+      "name": "Am",
+      "camelot": "8A",
+      "confidence": 0.77
+    },
+    "rmsDb": -11.8,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

@@ -1,0 +1,47 @@
+{
+  "version": 1,
+  "id": "openverse:f47e40f2-0585-458a-8f90-e5a8039ca4da",
+  "source": "openverse",
+  "provider": "jamendo",
+  "title": "Network Visibility (Electro edit)",
+  "artist": "Biphenson",
+  "artistUrl": "https://www.jamendo.com/artist/2631/biphenson",
+  "album": "EAST",
+  "pageUrl": "https://www.jamendo.com/track/78320",
+  "audioUrl": "https://prod-1.storage.jamendo.com/?trackid=78320&format=mp32",
+  "fileName": "Biphenson - Network Visibility (Electro edit).mp3",
+  "license": {
+    "code": "by-nc-sa",
+    "version": "3.0",
+    "label": "CC BY-NC-SA 3.0",
+    "url": "https://creativecommons.org/licenses/by-nc-sa/3.0/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": true,
+    "shareAlike": true,
+    "publicDomain": false
+  },
+  "genre": "Electro",
+  "tags": [
+    "instrumental",
+    "neutral",
+    "nostalgic",
+    "speed_medium",
+    "synthesizer",
+    "videogame"
+  ],
+  "analysis": {
+    "durationSec": 174.52,
+    "bpm": 146.66,
+    "bpmConfidence": 0.87,
+    "beatOffset": 1.3592,
+    "key": {
+      "name": "Dm",
+      "camelot": "7A",
+      "confidence": 0.73
+    },
+    "rmsDb": -12.2,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

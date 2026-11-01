@@ -1,0 +1,47 @@
+{
+  "version": 1,
+  "id": "openverse:157af4fb-e94a-47d6-9ed5-cdc5d50eeb11",
+  "source": "openverse",
+  "provider": "jamendo",
+  "title": "trance immagination",
+  "artist": "Stefano mocini",
+  "artistUrl": "https://www.jamendo.com/artist/365142/stefano_mocini",
+  "album": "Dance till-you-drop",
+  "pageUrl": "https://www.jamendo.com/track/784835",
+  "audioUrl": "https://prod-1.storage.jamendo.com/?trackid=784835&format=mp32",
+  "fileName": "Stefano mocini - trance immagination.mp3",
+  "license": {
+    "code": "by-nc-sa",
+    "version": "3.0",
+    "label": "CC BY-NC-SA 3.0",
+    "url": "https://creativecommons.org/licenses/by-nc-sa/3.0/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": true,
+    "shareAlike": true,
+    "publicDomain": false
+  },
+  "genre": "Trance",
+  "tags": [
+    "computer",
+    "fashion",
+    "instrumental",
+    "political",
+    "speed_medium",
+    "synthesizer"
+  ],
+  "analysis": {
+    "durationSec": 176.58,
+    "bpm": 140,
+    "bpmConfidence": 1,
+    "beatOffset": 0.9221,
+    "key": {
+      "name": "Gm",
+      "camelot": "6A",
+      "confidence": 0.77
+    },
+    "rmsDb": -10.3,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

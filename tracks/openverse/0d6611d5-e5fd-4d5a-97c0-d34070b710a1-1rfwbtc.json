@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "id": "openverse:0d6611d5-e5fd-4d5a-97c0-d34070b710a1",
+  "source": "openverse",
+  "provider": "jamendo",
+  "title": "The House time",
+  "artist": "Andrea Barone",
+  "artistUrl": "https://www.jamendo.com/artist/4820/andrea.barone",
+  "album": "New Land",
+  "pageUrl": "https://www.jamendo.com/track/35110",
+  "audioUrl": "https://prod-1.storage.jamendo.com/?trackid=35110&format=mp32",
+  "fileName": "Andrea Barone - The House time.mp3",
+  "license": {
+    "code": "by-nc",
+    "version": "2.5",
+    "label": "CC BY-NC 2.5 IT",
+    "url": "https://creativecommons.org/licenses/by-nc/2.5/it/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": true,
+    "shareAlike": false,
+    "publicDomain": false
+  },
+  "genre": "House",
+  "tags": [
+    "drums",
+    "instrumental",
+    "lounge",
+    "neutral",
+    "peaceful",
+    "speed_medium",
+    "synthesizer"
+  ],
+  "analysis": {
+    "durationSec": 320.05,
+    "bpm": 120,
+    "bpmConfidence": 1,
+    "beatOffset": 1.0324,
+    "key": {
+      "name": "D",
+      "camelot": "10B",
+      "confidence": 0.75
+    },
+    "rmsDb": -12.7,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

@@ -1,0 +1,49 @@
+{
+  "version": 1,
+  "id": "archive.org:OpusMagnus/02__Bank_Holiday.mp3",
+  "source": "archive.org",
+  "title": "Bank Holiday",
+  "artist": "Adhesion",
+  "album": "Opus Magnus",
+  "pageUrl": "https://archive.org/details/OpusMagnus",
+  "audioUrl": "https://archive.org/download/OpusMagnus/02__Bank_Holiday.mp3",
+  "fileName": "02__Bank_Holiday.mp3",
+  "sizeBytes": 4534044,
+  "license": {
+    "code": "by-nc-sa",
+    "version": "2.5",
+    "label": "CC BY-NC-SA 2.5",
+    "url": "http://creativecommons.org/licenses/by-nc-sa/2.5/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": true,
+    "shareAlike": true,
+    "publicDomain": false
+  },
+  "genre": "Techno",
+  "tags": [
+    "Electronic",
+    "Techno",
+    "Ambient",
+    "Experimental",
+    "Beyond Classification",
+    "Bit Pop",
+    "Full Album",
+    "Album-A-Day",
+    "Evil Residence Records"
+  ],
+  "analysis": {
+    "durationSec": 173.68,
+    "bpm": 152,
+    "bpmConfidence": 1,
+    "beatOffset": 0.7921,
+    "key": {
+      "name": "C",
+      "camelot": "8B",
+      "confidence": 0.86
+    },
+    "rmsDb": -12.3,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

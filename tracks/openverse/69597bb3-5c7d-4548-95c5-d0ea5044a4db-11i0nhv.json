@@ -1,0 +1,45 @@
+{
+  "version": 1,
+  "id": "openverse:69597bb3-5c7d-4548-95c5-d0ea5044a4db",
+  "source": "openverse",
+  "provider": "jamendo",
+  "title": "Bad Girl - Hip Hop Mix",
+  "artist": "Hasenchat",
+  "artistUrl": "https://www.jamendo.com/artist/386200/hasenchat",
+  "album": "Rap and Hip Hop 5",
+  "pageUrl": "https://www.jamendo.com/track/1055121",
+  "audioUrl": "https://prod-1.storage.jamendo.com/?trackid=1055121&format=mp32",
+  "fileName": "Hasenchat - Bad Girl - Hip Hop Mix.mp3",
+  "license": {
+    "code": "by-sa",
+    "version": "3.0",
+    "label": "CC BY-SA 3.0",
+    "url": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "attribution": true,
+    "commercial": true,
+    "derivatives": true,
+    "shareAlike": true,
+    "publicDomain": false
+  },
+  "genre": "Hip Hop",
+  "tags": [
+    "hop",
+    "instrumental",
+    "speed_medium"
+  ],
+  "analysis": {
+    "durationSec": 334.29,
+    "bpm": 80.21,
+    "bpmConfidence": 0.49,
+    "beatOffset": 0.539,
+    "key": {
+      "name": "A#m",
+      "camelot": "3A",
+      "confidence": 0.75
+    },
+    "rmsDb": -23.5,
+    "analyzer": "pulsar-dj/analysis-worker 0.1",
+    "tempoFolded": 0.5
+  },
+  "added": "2026-11-01"
+}

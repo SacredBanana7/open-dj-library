@@ -1,0 +1,45 @@
+{
+  "version": 1,
+  "id": "archive.org:adsrec002/Flowers_Dont_Work.mp3",
+  "source": "archive.org",
+  "title": "Flowers Don't Work",
+  "artist": "When The Weather Reflects The Mood",
+  "album": "Pathetic Fallacy E.P.",
+  "pageUrl": "https://archive.org/details/adsrec002",
+  "audioUrl": "https://archive.org/download/adsrec002/Flowers_Dont_Work.mp3",
+  "fileName": "Flowers_Dont_Work.mp3",
+  "sizeBytes": 5776436,
+  "license": {
+    "code": "by-nc-sa",
+    "version": "2.5",
+    "label": "CC BY-NC-SA 2.5",
+    "url": "http://creativecommons.org/licenses/by-nc-sa/2.5/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": true,
+    "shareAlike": true,
+    "publicDomain": false
+  },
+  "genre": "Drum & Bass",
+  "tags": [
+    "Experimental",
+    "Drum and Bass",
+    "Electronica",
+    "IDM",
+    "Post Rock"
+  ],
+  "analysis": {
+    "durationSec": 240.59,
+    "bpm": 120,
+    "bpmConfidence": 0.55,
+    "beatOffset": 0.7047,
+    "key": {
+      "name": "Gm",
+      "camelot": "6A",
+      "confidence": 0.73
+    },
+    "rmsDb": -11,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

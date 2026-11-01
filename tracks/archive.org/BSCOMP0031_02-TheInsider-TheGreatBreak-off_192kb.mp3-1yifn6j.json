@@ -1,0 +1,52 @@
+{
+  "version": 1,
+  "id": "archive.org:BSCOMP0031/02-TheInsider-TheGreatBreak-off_192kb.mp3",
+  "source": "archive.org",
+  "title": "The Great Break-off",
+  "artist": "The Insider",
+  "album": "netBloc Vol. 31: Goodbye, Hello",
+  "pageUrl": "https://archive.org/details/BSCOMP0031",
+  "audioUrl": "https://archive.org/download/BSCOMP0031/02-TheInsider-TheGreatBreak-off_192kb.mp3",
+  "fileName": "02-TheInsider-TheGreatBreak-off_192kb.mp3",
+  "sizeBytes": 4709336,
+  "license": {
+    "code": "by-nc-nd",
+    "version": "3.0",
+    "label": "CC BY-NC-ND 3.0",
+    "url": "http://creativecommons.org/licenses/by-nc-nd/3.0/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": false,
+    "shareAlike": false,
+    "publicDomain": false
+  },
+  "genre": "Breakbeat",
+  "tags": [
+    "blocsonic",
+    "netbloc",
+    "creative commons",
+    "free",
+    "music",
+    "downloads",
+    "flac",
+    "mp3",
+    "ogg",
+    "nanowar",
+    "nanowar of steel",
+    "the insider"
+  ],
+  "analysis": {
+    "durationSec": 166.31,
+    "bpm": 157.32,
+    "bpmConfidence": 0.7,
+    "beatOffset": 1.0267,
+    "key": {
+      "name": "Bm",
+      "camelot": "10A",
+      "confidence": 0.72
+    },
+    "rmsDb": -13.6,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

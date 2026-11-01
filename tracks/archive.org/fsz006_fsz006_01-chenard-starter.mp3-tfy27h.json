@@ -1,0 +1,47 @@
+{
+  "version": 1,
+  "id": "archive.org:fsz006/fsz006_01-chenard-starter.mp3",
+  "source": "archive.org",
+  "title": "Starter",
+  "artist": "Chenard",
+  "album": "Haut-le-coeur [fsz006]",
+  "pageUrl": "https://archive.org/details/fsz006",
+  "audioUrl": "https://archive.org/download/fsz006/fsz006_01-chenard-starter.mp3",
+  "fileName": "fsz006_01-chenard-starter.mp3",
+  "sizeBytes": 6557696,
+  "license": {
+    "code": "by-nc",
+    "version": "2.5",
+    "label": "CC BY-NC 2.5",
+    "url": "http://creativecommons.org/licenses/by-nc/2.5/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": true,
+    "shareAlike": false,
+    "publicDomain": false
+  },
+  "genre": "Hip Hop",
+  "tags": [
+    "Alternative",
+    "Avantgarde",
+    "Hip-Hop",
+    "Jazz+Funk",
+    "Sample Madness",
+    "Plunderphonics"
+  ],
+  "analysis": {
+    "durationSec": 273.16,
+    "bpm": 77.86,
+    "bpmConfidence": 0.41,
+    "beatOffset": 0.6955,
+    "key": {
+      "name": "D",
+      "camelot": "10B",
+      "confidence": 0.69
+    },
+    "rmsDb": -16.3,
+    "analyzer": "pulsar-dj/analysis-worker 0.1",
+    "tempoFolded": 0.5
+  },
+  "added": "2026-11-01"
+}

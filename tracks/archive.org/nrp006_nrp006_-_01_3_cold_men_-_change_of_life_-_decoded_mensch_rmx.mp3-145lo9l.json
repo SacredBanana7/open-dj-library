@@ -1,0 +1,43 @@
+{
+  "version": 1,
+  "id": "archive.org:nrp006/nrp006_-_01_3_cold_men_-_change_of_life_-_decoded_mensch_rmx.mp3",
+  "source": "archive.org",
+  "title": "Change of life (Decoded Mensch rmx)",
+  "artist": "3 Cold Men",
+  "album": "Electromap -> LATAM",
+  "pageUrl": "https://archive.org/details/nrp006",
+  "audioUrl": "https://archive.org/download/nrp006/nrp006_-_01_3_cold_men_-_change_of_life_-_decoded_mensch_rmx.mp3",
+  "fileName": "nrp006_-_01_3_cold_men_-_change_of_life_-_decoded_mensch_rmx.mp3",
+  "sizeBytes": 6940672,
+  "license": {
+    "code": "by-nd",
+    "version": "3.0",
+    "label": "CC BY-ND 3.0",
+    "url": "http://creativecommons.org/licenses/by-nd/3.0/",
+    "attribution": true,
+    "commercial": true,
+    "derivatives": false,
+    "shareAlike": false,
+    "publicDomain": false
+  },
+  "genre": "Electro",
+  "tags": [
+    "Industrial",
+    "Electro",
+    "Synth"
+  ],
+  "analysis": {
+    "durationSec": 289.1,
+    "bpm": 134,
+    "bpmConfidence": 0.91,
+    "beatOffset": 0.0897,
+    "key": {
+      "name": "F",
+      "camelot": "7B",
+      "confidence": 0.76
+    },
+    "rmsDb": -12.6,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

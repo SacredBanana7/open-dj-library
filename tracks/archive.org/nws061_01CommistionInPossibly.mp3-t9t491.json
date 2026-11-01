@@ -1,0 +1,45 @@
+{
+  "version": 1,
+  "id": "archive.org:nws061/01CommistionInPossibly.mp3",
+  "source": "archive.org",
+  "title": "Commistion In Possibly",
+  "artist": "Apes on Tapes",
+  "album": "[HWR-009] You Open",
+  "pageUrl": "https://archive.org/details/nws061",
+  "audioUrl": "https://archive.org/download/nws061/01CommistionInPossibly.mp3",
+  "fileName": "01CommistionInPossibly.mp3",
+  "sizeBytes": 6447201,
+  "license": {
+    "code": "by-nc-sa",
+    "version": "3.0",
+    "label": "CC BY-NC-SA 3.0",
+    "url": "http://creativecommons.org/licenses/by-nc-sa/3.0/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": true,
+    "shareAlike": true,
+    "publicDomain": false
+  },
+  "genre": "Disco / Funk",
+  "tags": [
+    "new wave",
+    "electronic",
+    "sad electronics",
+    "funk",
+    "pop"
+  ],
+  "analysis": {
+    "durationSec": 194.85,
+    "bpm": 93,
+    "bpmConfidence": 1,
+    "beatOffset": 1.9465,
+    "key": {
+      "name": "Bm",
+      "camelot": "10A",
+      "confidence": 0.36
+    },
+    "rmsDb": -14.4,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

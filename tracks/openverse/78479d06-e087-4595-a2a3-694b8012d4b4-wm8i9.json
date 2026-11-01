@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "id": "openverse:78479d06-e087-4595-a2a3-694b8012d4b4",
+  "source": "openverse",
+  "provider": "jamendo",
+  "title": "Extreme Sports Dubstep 4 (Full track)",
+  "artist": "Vicate",
+  "artistUrl": "https://www.jamendo.com/artist/465078/Ivan_Ryzhko",
+  "album": "Extreme Sports Dubstep 4 (royalty free audio)",
+  "pageUrl": "https://www.jamendo.com/track/1453310",
+  "audioUrl": "https://prod-1.storage.jamendo.com/?trackid=1453310&format=mp32",
+  "fileName": "Vicate - Extreme Sports Dubstep 4 (Full track).mp3",
+  "license": {
+    "code": "by-nc-sa",
+    "version": "3.0",
+    "label": "CC BY-NC-SA 3.0",
+    "url": "https://creativecommons.org/licenses/by-nc-sa/3.0/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": true,
+    "shareAlike": true,
+    "publicDomain": false
+  },
+  "genre": "Dubstep",
+  "tags": [
+    "action",
+    "energetic",
+    "instrumental",
+    "neutral",
+    "speed_high",
+    "sport",
+    "synthesizer"
+  ],
+  "analysis": {
+    "durationSec": 168.83,
+    "bpm": 163.12,
+    "bpmConfidence": 0.42,
+    "beatOffset": 0.0588,
+    "key": {
+      "name": "Am",
+      "camelot": "8A",
+      "confidence": 0.93
+    },
+    "rmsDb": -11.1,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

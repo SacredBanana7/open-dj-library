@@ -1,0 +1,43 @@
+{
+  "version": 1,
+  "id": "archive.org:siro693OmegaDubExperience-VictoryOverTheSun/03-OmegaDubExperience-ViewsFromOuterSpace.mp3",
+  "source": "archive.org",
+  "title": "Views From Outer Space",
+  "artist": "Omega Dub Experience",
+  "album": "Victory Over The Sun",
+  "pageUrl": "https://archive.org/details/siro693OmegaDubExperience-VictoryOverTheSun",
+  "audioUrl": "https://archive.org/download/siro693OmegaDubExperience-VictoryOverTheSun/03-OmegaDubExperience-ViewsFromOuterSpace.mp3",
+  "fileName": "03-OmegaDubExperience-ViewsFromOuterSpace.mp3",
+  "sizeBytes": 17291967,
+  "license": {
+    "code": "by-nc-nd",
+    "version": "4.0",
+    "label": "CC BY-NC-ND 4.0",
+    "url": "http://creativecommons.org/licenses/by-nc-nd/4.0/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": false,
+    "shareAlike": false,
+    "publicDomain": false
+  },
+  "genre": "Drum & Bass",
+  "tags": [
+    "Drum & Bass",
+    "Jungle",
+    "Jazz-Step"
+  ],
+  "analysis": {
+    "durationSec": 430.89,
+    "bpm": 113.6,
+    "bpmConfidence": 0.57,
+    "beatOffset": 0.2658,
+    "key": {
+      "name": "Gm",
+      "camelot": "6A",
+      "confidence": 0.51
+    },
+    "rmsDb": -8.9,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

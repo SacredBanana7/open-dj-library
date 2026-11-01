@@ -1,0 +1,47 @@
+{
+  "version": 1,
+  "id": "archive.org:ca295_ya/02_Viny_Blues_Part1.mp3",
+  "source": "archive.org",
+  "title": "Vinyl Blues Part 1",
+  "artist": "Yoko Absorbing",
+  "album": "ca295 - Yoko Absorbing - Vinyl",
+  "pageUrl": "https://archive.org/details/ca295_ya",
+  "audioUrl": "https://archive.org/download/ca295_ya/02_Viny_Blues_Part1.mp3",
+  "fileName": "02_Viny_Blues_Part1.mp3",
+  "sizeBytes": 16404983,
+  "license": {
+    "code": "by-nc-nd",
+    "version": "3.0",
+    "label": "CC BY-NC-ND 3.0",
+    "url": "http://creativecommons.org/licenses/by-nc-nd/3.0/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": false,
+    "shareAlike": false,
+    "publicDomain": false
+  },
+  "genre": "Disco / Funk",
+  "tags": [
+    "avant-garage",
+    "experimental",
+    "soundcollage",
+    "free jazz",
+    "post-funk",
+    "minimalist",
+    "other"
+  ],
+  "analysis": {
+    "durationSec": 410,
+    "bpm": 120,
+    "bpmConfidence": 1,
+    "beatOffset": 1.0101,
+    "key": {
+      "name": "Am",
+      "camelot": "8A",
+      "confidence": 0.68
+    },
+    "rmsDb": -12.8,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

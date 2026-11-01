@@ -1,0 +1,41 @@
+{
+  "version": 1,
+  "id": "archive.org:siro337DjScratchin-NoExitEp/02-DjScratchin-LetUDown.mp3",
+  "source": "archive.org",
+  "title": "Let U Down",
+  "artist": "DJ Scratchin'",
+  "album": "No Exit EP",
+  "pageUrl": "https://archive.org/details/siro337DjScratchin-NoExitEp",
+  "audioUrl": "https://archive.org/download/siro337DjScratchin-NoExitEp/02-DjScratchin-LetUDown.mp3",
+  "fileName": "02-DjScratchin-LetUDown.mp3",
+  "sizeBytes": 11328325,
+  "license": {
+    "code": "by-nc-nd",
+    "version": "3.0",
+    "label": "CC BY-NC-ND 3.0",
+    "url": "http://creativecommons.org/licenses/by-nc-nd/3.0/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": false,
+    "shareAlike": false,
+    "publicDomain": false
+  },
+  "genre": "Dubstep",
+  "tags": [
+    "Dance / House / Dubstep / Electronica / Other"
+  ],
+  "analysis": {
+    "durationSec": 270.89,
+    "bpm": 140,
+    "bpmConfidence": 0.67,
+    "beatOffset": 0.0381,
+    "key": {
+      "name": "F#",
+      "camelot": "2B",
+      "confidence": 0.88
+    },
+    "rmsDb": -12.2,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

@@ -1,0 +1,45 @@
+{
+  "version": 1,
+  "id": "archive.org:ca294_bidn/01_improviso_em_branco_e_preto.mp3",
+  "source": "archive.org",
+  "title": "01 - Improviso em Branco e Preto (Carta as Videntes) [Mario Del Nunzio]",
+  "artist": "Bernardo Barros, Henrique Iwao & Mario Del Nunzio",
+  "album": "ca294 - Bernardo Barros, Henrique Iwao & Mario Del Nunzio - Musica Eletronica 2004",
+  "pageUrl": "https://archive.org/details/ca294_bidn",
+  "audioUrl": "https://archive.org/download/ca294_bidn/01_improviso_em_branco_e_preto.mp3",
+  "fileName": "01_improviso_em_branco_e_preto.mp3",
+  "sizeBytes": 18500254,
+  "license": {
+    "code": "by-nc-nd",
+    "version": "3.0",
+    "label": "CC BY-NC-ND 3.0",
+    "url": "http://creativecommons.org/licenses/by-nc-nd/3.0/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": false,
+    "shareAlike": false,
+    "publicDomain": false
+  },
+  "genre": "Experimental",
+  "tags": [
+    "electroacoustic",
+    "experimental",
+    "electronic",
+    "noise",
+    "glitch"
+  ],
+  "analysis": {
+    "durationSec": 462.45,
+    "bpm": 150,
+    "bpmConfidence": 0.47,
+    "beatOffset": 1.2669,
+    "key": {
+      "name": "B",
+      "camelot": "1B",
+      "confidence": 0.37
+    },
+    "rmsDb": -22.8,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

@@ -1,0 +1,45 @@
+{
+  "version": 1,
+  "id": "archive.org:fsz034/fsz034_01-chenard_walcker-klebo_stereo.mp3",
+  "source": "archive.org",
+  "title": "Klebo Stereo",
+  "artist": "Chenard Walcker",
+  "album": "Vodoun [fsz034]",
+  "pageUrl": "https://archive.org/details/fsz034",
+  "audioUrl": "https://archive.org/download/fsz034/fsz034_01-chenard_walcker-klebo_stereo.mp3",
+  "fileName": "fsz034_01-chenard_walcker-klebo_stereo.mp3",
+  "sizeBytes": 4552704,
+  "license": {
+    "code": "by-nc",
+    "version": "2.5",
+    "label": "CC BY-NC 2.5",
+    "url": "http://creativecommons.org/licenses/by-nc/2.5/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": true,
+    "shareAlike": false,
+    "publicDomain": false
+  },
+  "genre": "Disco / Funk",
+  "tags": [
+    "Alternative",
+    "Jazz+Funk",
+    "Porn Groove",
+    "Sample Madness",
+    "Plunderphonics"
+  ],
+  "analysis": {
+    "durationSec": 189.65,
+    "bpm": 119,
+    "bpmConfidence": 1,
+    "beatOffset": 0.6322,
+    "key": {
+      "name": "B",
+      "camelot": "1B",
+      "confidence": 0.66
+    },
+    "rmsDb": -10,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

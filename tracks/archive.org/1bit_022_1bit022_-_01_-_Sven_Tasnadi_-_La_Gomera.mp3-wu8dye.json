@@ -1,0 +1,51 @@
+{
+  "version": 1,
+  "id": "archive.org:1bit_022/1bit022_-_01_-_Sven_Tasnadi_-_La_Gomera.mp3",
+  "source": "archive.org",
+  "title": "La Gomera",
+  "artist": "Sven Tasnadi",
+  "album": "Collected Works",
+  "pageUrl": "https://archive.org/details/1bit_022",
+  "audioUrl": "https://archive.org/download/1bit_022/1bit022_-_01_-_Sven_Tasnadi_-_La_Gomera.mp3",
+  "fileName": "1bit022_-_01_-_Sven_Tasnadi_-_La_Gomera.mp3",
+  "sizeBytes": 15603840,
+  "license": {
+    "code": "by-nc-sa",
+    "version": "2.5",
+    "label": "CC BY-NC-SA 2.5",
+    "url": "http://creativecommons.org/licenses/by-nc-sa/2.5/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": true,
+    "shareAlike": true,
+    "publicDomain": false
+  },
+  "genre": "Techno",
+  "tags": [
+    "1bit",
+    "wonder",
+    "minimal",
+    "deep",
+    "techno",
+    "1bit-wonder",
+    "tasnadi",
+    "electronic",
+    "mp3",
+    "netaudio",
+    "netlabel"
+  ],
+  "analysis": {
+    "durationSec": 487.47,
+    "bpm": 120,
+    "bpmConfidence": 1,
+    "beatOffset": 0.478,
+    "key": {
+      "name": "Dm",
+      "camelot": "7A",
+      "confidence": 0.78
+    },
+    "rmsDb": -12.1,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

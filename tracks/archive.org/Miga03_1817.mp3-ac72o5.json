@@ -1,0 +1,41 @@
+{
+  "version": 1,
+  "id": "archive.org:Miga03/1817.mp3",
+  "source": "archive.org",
+  "title": "1817",
+  "artist": "animatek - Miga 03",
+  "album": "Capibara Tracks",
+  "pageUrl": "https://archive.org/details/Miga03",
+  "audioUrl": "https://archive.org/download/Miga03/1817.mp3",
+  "fileName": "1817.mp3",
+  "sizeBytes": 9605120,
+  "license": {
+    "code": "by-nc-sa",
+    "version": "2.5",
+    "label": "CC BY-NC-SA 2.5",
+    "url": "http://creativecommons.org/licenses/by-nc-sa/2.5/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": true,
+    "shareAlike": true,
+    "publicDomain": false
+  },
+  "genre": "Techno",
+  "tags": [
+    "minimal techno"
+  ],
+  "analysis": {
+    "durationSec": 300.09,
+    "bpm": 128,
+    "bpmConfidence": 1,
+    "beatOffset": 1.4617,
+    "key": {
+      "name": "C#",
+      "camelot": "3B",
+      "confidence": 0.66
+    },
+    "rmsDb": -22.2,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

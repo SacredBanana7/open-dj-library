@@ -1,0 +1,52 @@
+{
+  "version": 1,
+  "id": "archive.org:onmp068/01StraightComponent_TheTrigger2000.mp3",
+  "source": "archive.org",
+  "title": "The trigger(2000)",
+  "artist": "Straight Component",
+  "album": "Deja Vu-A Retrospective",
+  "pageUrl": "https://archive.org/details/onmp068",
+  "audioUrl": "https://archive.org/download/onmp068/01StraightComponent_TheTrigger2000.mp3",
+  "fileName": "01StraightComponent_TheTrigger2000.mp3",
+  "sizeBytes": 5986304,
+  "license": {
+    "code": "by-nc",
+    "version": "3.0",
+    "label": "CC BY-NC 3.0",
+    "url": "http://creativecommons.org/licenses/by-nc/3.0/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": true,
+    "shareAlike": false,
+    "publicDomain": false
+  },
+  "genre": "Trance",
+  "tags": [
+    "Hardhouse",
+    "Trance",
+    "Techno",
+    "Harddance",
+    "Hardtrance",
+    "On-mix",
+    "Mr.devo!",
+    "Sneek",
+    "The Netherlands",
+    "Straight component",
+    "Holland",
+    "Barto"
+  ],
+  "analysis": {
+    "durationSec": 249.42,
+    "bpm": 130,
+    "bpmConfidence": 1,
+    "beatOffset": 0.5197,
+    "key": {
+      "name": "C",
+      "camelot": "8B",
+      "confidence": 0.64
+    },
+    "rmsDb": -14,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

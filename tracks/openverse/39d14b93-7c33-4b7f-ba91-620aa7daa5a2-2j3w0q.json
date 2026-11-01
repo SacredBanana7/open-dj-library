@@ -1,0 +1,42 @@
+{
+  "version": 1,
+  "id": "openverse:39d14b93-7c33-4b7f-ba91-620aa7daa5a2",
+  "source": "openverse",
+  "provider": "jamendo",
+  "title": "Electronica",
+  "artist": "gjjo",
+  "artistUrl": "https://www.jamendo.com/artist/5163/gjjo",
+  "album": "La Cigale",
+  "pageUrl": "https://www.jamendo.com/track/152464",
+  "audioUrl": "https://prod-1.storage.jamendo.com/?trackid=152464&format=mp32",
+  "fileName": "gjjo - Electronica.mp3",
+  "license": {
+    "code": "by-nc-sa",
+    "version": "2.0",
+    "label": "CC BY-NC-SA 2.0 FR",
+    "url": "https://creativecommons.org/licenses/by-nc-sa/2.0/fr/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": true,
+    "shareAlike": true,
+    "publicDomain": false
+  },
+  "genre": "IDM / Electronica",
+  "tags": [
+    "instrumental"
+  ],
+  "analysis": {
+    "durationSec": 331.46,
+    "bpm": 136,
+    "bpmConfidence": 1,
+    "beatOffset": 1.3059,
+    "key": {
+      "name": "C",
+      "camelot": "8B",
+      "confidence": 0.75
+    },
+    "rmsDb": -19.6,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

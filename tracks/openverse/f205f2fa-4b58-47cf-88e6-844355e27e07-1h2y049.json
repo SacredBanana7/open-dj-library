@@ -1,0 +1,49 @@
+{
+  "version": 1,
+  "id": "openverse:f205f2fa-4b58-47cf-88e6-844355e27e07",
+  "source": "openverse",
+  "provider": "jamendo",
+  "title": "instrumental beat hip hop 2015 v-zen",
+  "artist": "Vzen instrumental beat",
+  "artistUrl": "https://www.jamendo.com/artist/343154/instrumentales",
+  "album": "V-ZEN PRODUCTIOS 2015",
+  "pageUrl": "https://www.jamendo.com/track/1209995",
+  "audioUrl": "https://prod-1.storage.jamendo.com/?trackid=1209995&format=mp32",
+  "fileName": "Vzen instrumental beat - instrumental beat hip hop 2015 v-zen.mp3",
+  "license": {
+    "code": "by-nc-nd",
+    "version": "3.0",
+    "label": "CC BY-NC-ND 3.0",
+    "url": "https://creativecommons.org/licenses/by-nc-nd/3.0/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": false,
+    "shareAlike": false,
+    "publicDomain": false
+  },
+  "genre": "Hip Hop",
+  "tags": [
+    "advertising",
+    "brass",
+    "dark",
+    "drums",
+    "energetic",
+    "instrumental",
+    "speed_medium"
+  ],
+  "analysis": {
+    "durationSec": 176.68,
+    "bpm": 87.19,
+    "bpmConfidence": 0.42,
+    "beatOffset": 0.1125,
+    "key": {
+      "name": "Dm",
+      "camelot": "7A",
+      "confidence": 0.74
+    },
+    "rmsDb": -13.2,
+    "analyzer": "pulsar-dj/analysis-worker 0.1",
+    "tempoFolded": 0.5
+  },
+  "added": "2026-11-01"
+}

@@ -1,0 +1,45 @@
+{
+  "version": 1,
+  "id": "archive.org:ca327_a/01_Hunny_Bunny_Two.mp3",
+  "source": "archive.org",
+  "title": "01 - Hunny Bunny Two",
+  "artist": "Afterthem",
+  "album": "ca327 - Afterthem - Time Is Fun When You're Having Flies",
+  "pageUrl": "https://archive.org/details/ca327_a",
+  "audioUrl": "https://archive.org/download/ca327_a/01_Hunny_Bunny_Two.mp3",
+  "fileName": "01_Hunny_Bunny_Two.mp3",
+  "sizeBytes": 9834619,
+  "license": {
+    "code": "by-nc-nd",
+    "version": "3.0",
+    "label": "CC BY-NC-ND 3.0",
+    "url": "http://creativecommons.org/licenses/by-nc-nd/3.0/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": false,
+    "shareAlike": false,
+    "publicDomain": false
+  },
+  "genre": "Disco / Funk",
+  "tags": [
+    "avant-garde",
+    "progressive",
+    "funk",
+    "jazz",
+    "experimental"
+  ],
+  "analysis": {
+    "durationSec": 245.81,
+    "bpm": 125.8,
+    "bpmConfidence": 1,
+    "beatOffset": 1.5277,
+    "key": {
+      "name": "D#",
+      "camelot": "5B",
+      "confidence": 0.7
+    },
+    "rmsDb": -18.2,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

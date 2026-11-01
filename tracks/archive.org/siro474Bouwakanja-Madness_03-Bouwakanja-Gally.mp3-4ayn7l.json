@@ -1,0 +1,44 @@
+{
+  "version": 1,
+  "id": "archive.org:siro474Bouwakanja-Madness/03-Bouwakanja-Gally.mp3",
+  "source": "archive.org",
+  "title": "Gally",
+  "artist": "Bouwakanja",
+  "album": "Madness",
+  "pageUrl": "https://archive.org/details/siro474Bouwakanja-Madness",
+  "audioUrl": "https://archive.org/download/siro474Bouwakanja-Madness/03-Bouwakanja-Gally.mp3",
+  "fileName": "03-Bouwakanja-Gally.mp3",
+  "sizeBytes": 13195372,
+  "license": {
+    "code": "by-nc-nd",
+    "version": "3.0",
+    "label": "CC BY-NC-ND 3.0",
+    "url": "http://creativecommons.org/licenses/by-nc-nd/3.0/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": false,
+    "shareAlike": false,
+    "publicDomain": false
+  },
+  "genre": "Breakbeat",
+  "tags": [
+    "Abstract",
+    "Breaks",
+    "Acid",
+    "Braindance "
+  ],
+  "analysis": {
+    "durationSec": 297.67,
+    "bpm": 125,
+    "bpmConfidence": 0.8,
+    "beatOffset": 0.0305,
+    "key": {
+      "name": "Am",
+      "camelot": "8A",
+      "confidence": 0.71
+    },
+    "rmsDb": -9.6,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

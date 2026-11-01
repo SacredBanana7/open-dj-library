@@ -1,0 +1,45 @@
+{
+  "version": 1,
+  "id": "openverse:2483ac10-247c-49fa-91bb-2b82f7e8f9f9",
+  "source": "openverse",
+  "provider": "jamendo",
+  "title": "Shadows of light (Trance)",
+  "artist": "Atomic cat",
+  "artistUrl": "https://www.jamendo.com/artist/2034/atomic.cat",
+  "album": "Shadows of Light",
+  "pageUrl": "https://www.jamendo.com/track/382587",
+  "audioUrl": "https://prod-1.storage.jamendo.com/?trackid=382587&format=mp32",
+  "fileName": "Atomic cat - Shadows of light (Trance).mp3",
+  "license": {
+    "code": "by-nc-nd",
+    "version": "3.0",
+    "label": "CC BY-NC-ND 3.0",
+    "url": "https://creativecommons.org/licenses/by-nc-nd/3.0/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": false,
+    "shareAlike": false,
+    "publicDomain": false
+  },
+  "genre": "Trance",
+  "tags": [
+    "energetic",
+    "instrumental",
+    "neutral",
+    "speed_high"
+  ],
+  "analysis": {
+    "durationSec": 343.67,
+    "bpm": 145,
+    "bpmConfidence": 0.53,
+    "beatOffset": 0.9705,
+    "key": {
+      "name": "F#m",
+      "camelot": "11A",
+      "confidence": 0.83
+    },
+    "rmsDb": -11.5,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

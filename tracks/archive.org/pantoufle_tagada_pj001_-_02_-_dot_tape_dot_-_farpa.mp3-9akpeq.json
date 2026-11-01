@@ -1,0 +1,52 @@
+{
+  "version": 1,
+  "id": "archive.org:pantoufle_tagada/pj001_-_02_-_dot_tape_dot_-_farpa.mp3",
+  "source": "archive.org",
+  "title": "farpa (toy harp & plastic trumpet serenade)",
+  "artist": "dot tape dot",
+  "album": "[pj001] Pantoufle Tagada",
+  "pageUrl": "https://archive.org/details/pantoufle_tagada",
+  "audioUrl": "https://archive.org/download/pantoufle_tagada/pj001_-_02_-_dot_tape_dot_-_farpa.mp3",
+  "fileName": "pj001_-_02_-_dot_tape_dot_-_farpa.mp3",
+  "sizeBytes": 6445056,
+  "license": {
+    "code": "by-nc-sa",
+    "version": "3.0",
+    "label": "CC BY-NC-SA 3.0",
+    "url": "http://creativecommons.org/licenses/by-nc-sa/3.0/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": true,
+    "shareAlike": true,
+    "publicDomain": false
+  },
+  "genre": "IDM / Electronica",
+  "tags": [
+    "various",
+    "artists",
+    "petite",
+    "jolie",
+    "naive",
+    "cute",
+    "electronica",
+    "glitch",
+    "idm",
+    "folktronica",
+    "pop",
+    "folk"
+  ],
+  "analysis": {
+    "durationSec": 268.51,
+    "bpm": 135.2,
+    "bpmConfidence": 0.41,
+    "beatOffset": 0.5699,
+    "key": {
+      "name": "E",
+      "camelot": "12B",
+      "confidence": 0.69
+    },
+    "rmsDb": -18.3,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

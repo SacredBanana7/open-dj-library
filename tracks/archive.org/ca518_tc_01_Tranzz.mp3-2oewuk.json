@@ -1,0 +1,43 @@
+{
+  "version": 1,
+  "id": "archive.org:ca518_tc/01_Tranzz.mp3",
+  "source": "archive.org",
+  "title": "Tranzz",
+  "artist": "This Co.",
+  "album": "This Co. - More",
+  "pageUrl": "https://archive.org/details/ca518_tc",
+  "audioUrl": "https://archive.org/download/ca518_tc/01_Tranzz.mp3",
+  "fileName": "01_Tranzz.mp3",
+  "sizeBytes": 11606643,
+  "license": {
+    "code": "by-nc-nd",
+    "version": "3.0",
+    "label": "CC BY-NC-ND 3.0",
+    "url": "http://creativecommons.org/licenses/by-nc-nd/3.0/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": false,
+    "shareAlike": false,
+    "publicDomain": false
+  },
+  "genre": "Disco / Funk",
+  "tags": [
+    "electronica",
+    "dark disco",
+    "new wave rave"
+  ],
+  "analysis": {
+    "durationSec": 286.51,
+    "bpm": 118,
+    "bpmConfidence": 1,
+    "beatOffset": 0.4519,
+    "key": {
+      "name": "Am",
+      "camelot": "8A",
+      "confidence": 0.88
+    },
+    "rmsDb": -11.6,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

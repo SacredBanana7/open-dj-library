@@ -1,0 +1,45 @@
+{
+  "version": 1,
+  "id": "archive.org:escala19_vvaa_escala_no_uniforme/01-Sustainer_-_Diametro.mp3",
+  "source": "archive.org",
+  "title": "Diámetro",
+  "artist": "Sustainer",
+  "album": "[escala 1:9] escala no uniforme",
+  "pageUrl": "https://archive.org/details/escala19_vvaa_escala_no_uniforme",
+  "audioUrl": "https://archive.org/download/escala19_vvaa_escala_no_uniforme/01-Sustainer_-_Diametro.mp3",
+  "fileName": "01-Sustainer_-_Diametro.mp3",
+  "sizeBytes": 14838135,
+  "license": {
+    "code": "by-nc-sa",
+    "version": "3.0",
+    "label": "CC BY-NC-SA 3.0",
+    "url": "http://creativecommons.org/licenses/by-nc-sa/3.0/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": true,
+    "shareAlike": true,
+    "publicDomain": false
+  },
+  "genre": "IDM / Electronica",
+  "tags": [
+    "electronic",
+    "idm",
+    "minimal",
+    "ambient",
+    "experimental"
+  ],
+  "analysis": {
+    "durationSec": 368.61,
+    "bpm": 120,
+    "bpmConfidence": 1,
+    "beatOffset": 1.3368,
+    "key": {
+      "name": "G#",
+      "camelot": "4B",
+      "confidence": 0.76
+    },
+    "rmsDb": -18.4,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

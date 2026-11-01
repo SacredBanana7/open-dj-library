@@ -1,0 +1,49 @@
+{
+  "version": 1,
+  "id": "archive.org:AstouAndChimaWonderfullWorld/AstouEtChima04-daztroyah----8bit-frustration-mix.mp3",
+  "source": "archive.org",
+  "title": "AstouEtChima04-daztroyah----8bit-frustration-mix",
+  "artist": "daztroyah",
+  "album": "astou and chima wonderfull world",
+  "pageUrl": "https://archive.org/details/AstouAndChimaWonderfullWorld",
+  "audioUrl": "https://archive.org/download/AstouAndChimaWonderfullWorld/AstouEtChima04-daztroyah----8bit-frustration-mix.mp3",
+  "fileName": "AstouEtChima04-daztroyah----8bit-frustration-mix.mp3",
+  "sizeBytes": 8997032,
+  "license": {
+    "code": "by-nc-sa",
+    "version": "2.0",
+    "label": "CC BY-NC-SA 2.0",
+    "url": "http://creativecommons.org/licenses/by-nc-sa/2.0/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": true,
+    "shareAlike": true,
+    "publicDomain": false
+  },
+  "genre": "Drum & Bass",
+  "tags": [
+    "A Cappella",
+    "Dance",
+    "Easy Listening",
+    "IDM",
+    "Children's",
+    "Electro/DnB",
+    "Digital Hardcore",
+    "Humor",
+    "lyric poetry"
+  ],
+  "analysis": {
+    "durationSec": 281.13,
+    "bpm": 146,
+    "bpmConfidence": 0.56,
+    "beatOffset": 0.9435,
+    "key": {
+      "name": "E",
+      "camelot": "12B",
+      "confidence": 0.41
+    },
+    "rmsDb": -12.4,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

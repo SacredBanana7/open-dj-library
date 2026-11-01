@@ -1,0 +1,46 @@
+{
+  "version": 1,
+  "id": "archive.org:jpt003/JPT003-1-Colleen-Ill_Read_You_A_Story.mp3",
+  "source": "archive.org",
+  "title": "Colleen - I'll Read You A Story",
+  "artist": "Colleen",
+  "album": "John Peel Tribute: Session #3",
+  "pageUrl": "https://archive.org/details/jpt003",
+  "audioUrl": "https://archive.org/download/jpt003/JPT003-1-Colleen-Ill_Read_You_A_Story.mp3",
+  "fileName": "JPT003-1-Colleen-Ill_Read_You_A_Story.mp3",
+  "sizeBytes": 16449536,
+  "license": {
+    "code": "by-nc-nd",
+    "version": "2.5",
+    "label": "CC BY-NC-ND 2.5",
+    "url": "http://creativecommons.org/licenses/by-nc-nd/2.5/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": false,
+    "shareAlike": false,
+    "publicDomain": false
+  },
+  "genre": "Hip Hop",
+  "tags": [
+    "Noise",
+    "Ambient",
+    "Organic IDM",
+    "IDM",
+    "Hip Hop"
+  ],
+  "analysis": {
+    "durationSec": 411.17,
+    "bpm": 87.06,
+    "bpmConfidence": 0.38,
+    "beatOffset": 1.3547,
+    "key": {
+      "name": "G#m",
+      "camelot": "1A",
+      "confidence": 0.87
+    },
+    "rmsDb": -14.8,
+    "analyzer": "pulsar-dj/analysis-worker 0.1",
+    "tempoFolded": 0.5
+  },
+  "added": "2026-11-01"
+}

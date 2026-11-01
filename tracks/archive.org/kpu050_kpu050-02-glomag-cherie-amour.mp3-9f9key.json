@@ -1,0 +1,41 @@
+{
+  "version": 1,
+  "id": "archive.org:kpu050/kpu050-02-glomag-cherie-amour.mp3",
+  "source": "archive.org",
+  "title": "Cherie Amour",
+  "artist": "Glomag",
+  "album": "Kikapu Gold Standard",
+  "pageUrl": "https://archive.org/details/kpu050",
+  "audioUrl": "https://archive.org/download/kpu050/kpu050-02-glomag-cherie-amour.mp3",
+  "fileName": "kpu050-02-glomag-cherie-amour.mp3",
+  "sizeBytes": 9581570,
+  "license": {
+    "code": "by-nc-nd",
+    "version": "2.5",
+    "label": "CC BY-NC-ND 2.5",
+    "url": "http://creativecommons.org/licenses/by-nc-nd/2.5/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": false,
+    "shareAlike": false,
+    "publicDomain": false
+  },
+  "genre": "Electro",
+  "tags": [
+    "Electro, IDM, Experimental"
+  ],
+  "analysis": {
+    "durationSec": 282.24,
+    "bpm": 152,
+    "bpmConfidence": 0.73,
+    "beatOffset": 0.5817,
+    "key": {
+      "name": "A#m",
+      "camelot": "3A",
+      "confidence": 0.61
+    },
+    "rmsDb": -11.2,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

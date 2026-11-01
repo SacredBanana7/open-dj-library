@@ -1,0 +1,46 @@
+{
+  "version": 1,
+  "id": "archive.org:slc36.chuzausen-mr_default/02.Chuzausen-Elektro_Attitude-MrDefault-SLC36.mp3",
+  "source": "archive.org",
+  "title": "Elektro Attitude",
+  "artist": "Chuzausen",
+  "album": "Mr. Default",
+  "pageUrl": "https://archive.org/details/slc36.chuzausen-mr_default",
+  "audioUrl": "https://archive.org/download/slc36.chuzausen-mr_default/02.Chuzausen-Elektro_Attitude-MrDefault-SLC36.mp3",
+  "fileName": "02.Chuzausen-Elektro_Attitude-MrDefault-SLC36.mp3",
+  "sizeBytes": 13472640,
+  "license": {
+    "code": "by-nc-sa",
+    "version": "4.0",
+    "label": "CC BY-NC-SA 4.0",
+    "url": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": true,
+    "shareAlike": true,
+    "publicDomain": false
+  },
+  "genre": "Ambient",
+  "tags": [
+    "electronic",
+    "downtempo",
+    "acid",
+    "Chuzausen",
+    "soisloscerdos",
+    "ambient"
+  ],
+  "analysis": {
+    "durationSec": 329,
+    "bpm": 133.34,
+    "bpmConfidence": 0.71,
+    "beatOffset": 1.5806,
+    "key": {
+      "name": "G#m",
+      "camelot": "1A",
+      "confidence": 0.66
+    },
+    "rmsDb": -11.2,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

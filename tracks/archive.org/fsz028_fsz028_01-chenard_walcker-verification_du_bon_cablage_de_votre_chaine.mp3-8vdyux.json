@@ -1,0 +1,46 @@
+{
+  "version": 1,
+  "id": "archive.org:fsz028/fsz028_01-chenard_walcker-verification_du_bon_cablage_de_votre_chaine.mp3",
+  "source": "archive.org",
+  "title": "Verification du Bon Cablage de Votre Chaine",
+  "artist": "Chenard Walcker",
+  "album": "Testez Votre Chaine Hi-Fi Avec Chenard Walcker [fsz028]",
+  "pageUrl": "https://archive.org/details/fsz028",
+  "audioUrl": "https://archive.org/download/fsz028/fsz028_01-chenard_walcker-verification_du_bon_cablage_de_votre_chaine.mp3",
+  "fileName": "fsz028_01-chenard_walcker-verification_du_bon_cablage_de_votre_chaine.mp3",
+  "sizeBytes": 12910592,
+  "license": {
+    "code": "by-nc",
+    "version": "2.5",
+    "label": "CC BY-NC 2.5",
+    "url": "http://creativecommons.org/licenses/by-nc/2.5/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": true,
+    "shareAlike": false,
+    "publicDomain": false
+  },
+  "genre": "Disco / Funk",
+  "tags": [
+    "Alternative",
+    "Avantgarde",
+    "Jazz+Funk",
+    "Sample Madness",
+    "Plunderphonics",
+    "Sound Art"
+  ],
+  "analysis": {
+    "durationSec": 537.89,
+    "bpm": 103,
+    "bpmConfidence": 1,
+    "beatOffset": 2.1309,
+    "key": {
+      "name": "F#",
+      "camelot": "2B",
+      "confidence": 0.65
+    },
+    "rmsDb": -15,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

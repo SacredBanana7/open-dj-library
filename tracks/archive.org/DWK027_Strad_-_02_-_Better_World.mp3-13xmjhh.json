@@ -1,0 +1,49 @@
+{
+  "version": 1,
+  "id": "archive.org:DWK027/Strad_-_02_-_Better_World.mp3",
+  "source": "archive.org",
+  "title": "Better World",
+  "artist": "Strad",
+  "album": "Post-Apocaliptic Beats EP",
+  "pageUrl": "https://archive.org/details/DWK027",
+  "audioUrl": "https://archive.org/download/DWK027/Strad_-_02_-_Better_World.mp3",
+  "fileName": "Strad_-_02_-_Better_World.mp3",
+  "sizeBytes": 10202470,
+  "license": {
+    "code": "by-nc-nd",
+    "version": "3.0",
+    "label": "CC BY-NC-ND 3.0",
+    "url": "http://creativecommons.org/licenses/by-nc-nd/3.0/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": false,
+    "shareAlike": false,
+    "publicDomain": false
+  },
+  "genre": "Breakbeat",
+  "tags": [
+    "Dusted Wax Kingdom",
+    "Strad",
+    "trip-hop",
+    "big beat",
+    "downtempo",
+    "hip-hop",
+    "abstract",
+    "instrumental hip-hop",
+    "chilled beats"
+  ],
+  "analysis": {
+    "durationSec": 255.01,
+    "bpm": 126.66,
+    "bpmConfidence": 0.51,
+    "beatOffset": 0.4749,
+    "key": {
+      "name": "A#m",
+      "camelot": "3A",
+      "confidence": 0.75
+    },
+    "rmsDb": -17.1,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

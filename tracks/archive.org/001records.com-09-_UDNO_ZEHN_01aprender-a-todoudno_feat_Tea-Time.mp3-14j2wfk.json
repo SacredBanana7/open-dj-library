@@ -1,0 +1,50 @@
+{
+  "version": 1,
+  "id": "archive.org:001records.com-09-_UDNO_ZEHN/01aprender-a-todoudno_feat_Tea-Time.mp3",
+  "source": "archive.org",
+  "title": "Aprender a todo (Ud. No! feat TeaTime)",
+  "artist": "Ud.No! feat. Tea Time",
+  "album": "ZEHN",
+  "pageUrl": "https://archive.org/details/001records.com-09-_UDNO_ZEHN",
+  "audioUrl": "https://archive.org/download/001records.com-09-_UDNO_ZEHN/01aprender-a-todoudno_feat_Tea-Time.mp3",
+  "fileName": "01aprender-a-todoudno_feat_Tea-Time.mp3",
+  "sizeBytes": 8785204,
+  "license": {
+    "code": "by-nc-nd",
+    "version": "2.0",
+    "label": "CC BY-NC-ND 2.0 CL",
+    "url": "http://creativecommons.org/licenses/by-nc-nd/2.0/cl/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": false,
+    "shareAlike": false,
+    "publicDomain": false
+  },
+  "genre": "IDM / Electronica",
+  "tags": [
+    "001records",
+    "Electronica",
+    "Downtempo",
+    "Ud.No!",
+    "Claudio Perez",
+    "Michel Durot",
+    "Chilean Music",
+    "Instrumental",
+    "free music",
+    "mp3"
+  ],
+  "analysis": {
+    "durationSec": 218.78,
+    "bpm": 139.5,
+    "bpmConfidence": 0.48,
+    "beatOffset": 0.4455,
+    "key": {
+      "name": "Am",
+      "camelot": "8A",
+      "confidence": 0.9
+    },
+    "rmsDb": -17.4,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}
