@@ -1,0 +1,52 @@
+{
+  "version": 1,
+  "id": "archive.org:ca200_cjazz/102_The_Black_Hakawati__There_s_a_Hole_at_the_End_of_the_Tunnel.mp3",
+  "source": "archive.org",
+  "title": "102. The Black Hakawati - There’s a Hole at the End of the Tunnel",
+  "artist": "The Black Hakawati",
+  "album": "ca200 - Various - Clinical Jazz (CD1)",
+  "pageUrl": "https://archive.org/details/ca200_cjazz",
+  "audioUrl": "https://archive.org/download/ca200_cjazz/102_The_Black_Hakawati__There_s_a_Hole_at_the_End_of_the_Tunnel.mp3",
+  "fileName": "102_The_Black_Hakawati__There_s_a_Hole_at_the_End_of_the_Tunnel.mp3",
+  "sizeBytes": 12960054,
+  "license": {
+    "code": "by-nc-nd",
+    "version": "3.0",
+    "label": "CC BY-NC-ND 3.0",
+    "url": "http://creativecommons.org/licenses/by-nc-nd/3.0/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": false,
+    "shareAlike": false,
+    "publicDomain": false
+  },
+  "genre": "Disco / Funk",
+  "tags": [
+    "jazz",
+    "free jazz",
+    "avant-garde",
+    "free improv",
+    "structural improv",
+    "experimental",
+    "improvisation",
+    "electronic",
+    "big dub",
+    "sound textures",
+    "medusada",
+    "ambient"
+  ],
+  "analysis": {
+    "durationSec": 323.94,
+    "bpm": 120,
+    "bpmConfidence": 1,
+    "beatOffset": 0.3239,
+    "key": {
+      "name": "D",
+      "camelot": "10B",
+      "confidence": 0.83
+    },
+    "rmsDb": -13.1,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

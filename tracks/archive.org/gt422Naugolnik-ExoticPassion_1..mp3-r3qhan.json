@@ -1,0 +1,52 @@
+{
+  "version": 1,
+  "id": "archive.org:gt422Naugolnik-ExoticPassion/1..mp3",
+  "source": "archive.org",
+  "title": "Разговор ветра",
+  "artist": "Íàóãîëüíèê",
+  "album": "Ýêçîòè÷åñêàÿ ñòðàñòü",
+  "pageUrl": "https://archive.org/details/gt422Naugolnik-ExoticPassion",
+  "audioUrl": "https://archive.org/download/gt422Naugolnik-ExoticPassion/1..mp3",
+  "fileName": "1..mp3",
+  "sizeBytes": 3935739,
+  "license": {
+    "code": "cc0",
+    "version": "1.0",
+    "label": "CC0 1.0",
+    "url": "http://creativecommons.org/publicdomain/zero/1.0/",
+    "attribution": false,
+    "commercial": true,
+    "derivatives": true,
+    "shareAlike": false,
+    "publicDomain": true
+  },
+  "genre": "Trance",
+  "tags": [
+    "Genetic Trance",
+    "nauglonik",
+    "Ethnic",
+    "Ambient",
+    "Downtempo",
+    "Psychedelic",
+    "Lounge",
+    "Alternative",
+    "Techno",
+    "Industrial",
+    "experimental",
+    "avantgarde"
+  ],
+  "analysis": {
+    "durationSec": 160.34,
+    "bpm": 139.5,
+    "bpmConfidence": 0.39,
+    "beatOffset": 0.2429,
+    "key": {
+      "name": "Am",
+      "camelot": "8A",
+      "confidence": 0.65
+    },
+    "rmsDb": -27.9,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

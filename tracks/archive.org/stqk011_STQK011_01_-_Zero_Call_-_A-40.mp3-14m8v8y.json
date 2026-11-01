@@ -1,0 +1,52 @@
+{
+  "version": 1,
+  "id": "archive.org:stqk011/STQK011_01_-_Zero_Call_-_A-40.mp3",
+  "source": "archive.org",
+  "title": "A-40",
+  "artist": "Zero Call",
+  "album": "[STQK011] A Struggle Between Right or Wrong",
+  "pageUrl": "https://archive.org/details/stqk011",
+  "audioUrl": "https://archive.org/download/stqk011/STQK011_01_-_Zero_Call_-_A-40.mp3",
+  "fileName": "STQK011_01_-_Zero_Call_-_A-40.mp3",
+  "sizeBytes": 10743222,
+  "license": {
+    "code": "by-nc-sa",
+    "version": "3.0",
+    "label": "CC BY-NC-SA 3.0",
+    "url": "http://creativecommons.org/licenses/by-nc-sa/3.0/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": true,
+    "shareAlike": true,
+    "publicDomain": false
+  },
+  "genre": "Disco / Funk",
+  "tags": [
+    "starquake",
+    "netlabel",
+    "creative commons",
+    "zero call",
+    "zerocall",
+    "disco",
+    "nu disco",
+    "electro",
+    "synth",
+    "dark",
+    "kavinsky",
+    "anoraak"
+  ],
+  "analysis": {
+    "durationSec": 264.28,
+    "bpm": 138.66,
+    "bpmConfidence": 0.59,
+    "beatOffset": 0.5926,
+    "key": {
+      "name": "C#m",
+      "camelot": "12A",
+      "confidence": 0.93
+    },
+    "rmsDb": -9.8,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

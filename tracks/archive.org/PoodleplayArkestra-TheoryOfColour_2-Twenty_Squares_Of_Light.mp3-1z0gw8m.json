@@ -1,0 +1,44 @@
+{
+  "version": 1,
+  "id": "archive.org:PoodleplayArkestra-TheoryOfColour/2-Twenty_Squares_Of_Light.mp3",
+  "source": "archive.org",
+  "title": "Twenty Squares Of Light",
+  "artist": "Poodleplay Arkestra",
+  "album": "Theory Of Colour",
+  "pageUrl": "https://archive.org/details/PoodleplayArkestra-TheoryOfColour",
+  "audioUrl": "https://archive.org/download/PoodleplayArkestra-TheoryOfColour/2-Twenty_Squares_Of_Light.mp3",
+  "fileName": "2-Twenty_Squares_Of_Light.mp3",
+  "sizeBytes": 10044364,
+  "license": {
+    "code": "by-nc-nd",
+    "version": "3.0",
+    "label": "CC BY-NC-ND 3.0",
+    "url": "http://creativecommons.org/licenses/by-nc-nd/3.0/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": false,
+    "shareAlike": false,
+    "publicDomain": false
+  },
+  "genre": "Ambient",
+  "tags": [
+    "poodleplay arkestra",
+    "bfw",
+    "theory of colour",
+    "ambient, experimental"
+  ],
+  "analysis": {
+    "durationSec": 207.65,
+    "bpm": 149.64,
+    "bpmConfidence": 0.45,
+    "beatOffset": 1.547,
+    "key": {
+      "name": "Am",
+      "camelot": "8A",
+      "confidence": 0.88
+    },
+    "rmsDb": -18.9,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

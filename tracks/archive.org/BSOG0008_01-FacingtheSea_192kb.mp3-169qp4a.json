@@ -1,0 +1,52 @@
+{
+  "version": 1,
+  "id": "archive.org:BSOG0008/01-FacingtheSea_192kb.mp3",
+  "source": "archive.org",
+  "title": "01 - Facing the Sea",
+  "artist": "Garmisch",
+  "album": "Garmisch",
+  "pageUrl": "https://archive.org/details/BSOG0008",
+  "audioUrl": "https://archive.org/download/BSOG0008/01-FacingtheSea_192kb.mp3",
+  "fileName": "01-FacingtheSea_192kb.mp3",
+  "sizeBytes": 6625726,
+  "license": {
+    "code": "by-nc-nd",
+    "version": "3.0",
+    "label": "CC BY-NC-ND 3.0",
+    "url": "http://creativecommons.org/licenses/by-nc-nd/3.0/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": false,
+    "shareAlike": false,
+    "publicDomain": false
+  },
+  "genre": "Electro",
+  "tags": [
+    "blocsonic",
+    "garmisch",
+    "sweden",
+    "electropop",
+    "electro-pop",
+    "free",
+    "music",
+    "freemusic",
+    "ccmusic",
+    "creative commons",
+    "flac",
+    "ogg"
+  ],
+  "analysis": {
+    "durationSec": 230.4,
+    "bpm": 125,
+    "bpmConfidence": 0.89,
+    "beatOffset": 0.9659,
+    "key": {
+      "name": "Am",
+      "camelot": "8A",
+      "confidence": 0.72
+    },
+    "rmsDb": -24,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

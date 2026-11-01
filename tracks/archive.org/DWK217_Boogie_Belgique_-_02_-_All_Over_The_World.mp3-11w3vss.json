@@ -1,0 +1,49 @@
+{
+  "version": 1,
+  "id": "archive.org:DWK217/Boogie_Belgique_-_02_-_All_Over_The_World.mp3",
+  "source": "archive.org",
+  "title": "All Over The World",
+  "artist": "Boogie Belgique",
+  "album": "Nightwalker (Vol. 1) (LP)",
+  "pageUrl": "https://archive.org/details/DWK217",
+  "audioUrl": "https://archive.org/download/DWK217/Boogie_Belgique_-_02_-_All_Over_The_World.mp3",
+  "fileName": "Boogie_Belgique_-_02_-_All_Over_The_World.mp3",
+  "sizeBytes": 12133997,
+  "license": {
+    "code": "by-nc-nd",
+    "version": "3.0",
+    "label": "CC BY-NC-ND 3.0",
+    "url": "http://creativecommons.org/licenses/by-nc-nd/3.0/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": false,
+    "shareAlike": false,
+    "publicDomain": false
+  },
+  "genre": "Hip Hop",
+  "tags": [
+    "Boogie Belgique",
+    "Dusted Wax Kingdom",
+    "downtempo",
+    "trip-hop",
+    "instrumental hip-hop",
+    "jazz",
+    "swing",
+    "lo-fi"
+  ],
+  "analysis": {
+    "durationSec": 284.24,
+    "bpm": 67.67,
+    "bpmConfidence": 0.51,
+    "beatOffset": 1.5396,
+    "key": {
+      "name": "Am",
+      "camelot": "8A",
+      "confidence": 0.64
+    },
+    "rmsDb": -14.6,
+    "analyzer": "pulsar-dj/analysis-worker 0.1",
+    "tempoFolded": 0.5
+  },
+  "added": "2026-11-01"
+}

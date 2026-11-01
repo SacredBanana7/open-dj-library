@@ -1,0 +1,50 @@
+{
+  "version": 1,
+  "id": "archive.org:gt459AnchoreState-ChangesOfLifeEp/3.DeepForest.mp3",
+  "source": "archive.org",
+  "title": "Deep forest",
+  "artist": "Anchore State",
+  "album": "Changes of life EP",
+  "pageUrl": "https://archive.org/details/gt459AnchoreState-ChangesOfLifeEp",
+  "audioUrl": "https://archive.org/download/gt459AnchoreState-ChangesOfLifeEp/3.DeepForest.mp3",
+  "fileName": "3.DeepForest.mp3",
+  "sizeBytes": 7387136,
+  "license": {
+    "code": "cc0",
+    "version": "1.0",
+    "label": "CC0 1.0",
+    "url": "http://creativecommons.org/publicdomain/zero/1.0/",
+    "attribution": false,
+    "commercial": true,
+    "derivatives": true,
+    "shareAlike": false,
+    "publicDomain": true
+  },
+  "genre": "Dubstep",
+  "tags": [
+    "Genetic Trance",
+    "anchore state",
+    "moscow",
+    "russia",
+    "dubstep",
+    "grime",
+    "experimental",
+    "ambient",
+    "dark",
+    "experimental"
+  ],
+  "analysis": {
+    "durationSec": 225.48,
+    "bpm": 140,
+    "bpmConfidence": 0.55,
+    "beatOffset": 0.046,
+    "key": {
+      "name": "Cm",
+      "camelot": "5A",
+      "confidence": 0.88
+    },
+    "rmsDb": -16.6,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

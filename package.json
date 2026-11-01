@@ -1,0 +1,16 @@
+{
+  "name": "open-dj-library",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Offener, DJ-fertiger Katalog legal freier Musik (BPM, Beatgrid, Tonart, Lizenz)",
+  "type": "module",
+  "scripts": {
+    "build": "node tools/build-catalog.mjs",
+    "add": "node tools/add-tracks.mjs",
+    "seed": "sh tools/seed.sh"
+  },
+  "dependencies": {
+    "mpg123-decoder": "^1.0.3"
+  },
+  "license": "GPL-3.0-or-later"
+}

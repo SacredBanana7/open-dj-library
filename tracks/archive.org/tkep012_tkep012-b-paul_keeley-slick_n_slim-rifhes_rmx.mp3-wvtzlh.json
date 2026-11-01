@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "id": "archive.org:tkep012/tkep012-b-paul_keeley-slick_n_slim-rifhes_rmx.mp3",
+  "source": "archive.org",
+  "title": "Slick and slim (Rifhes rmx)",
+  "artist": "paul keeley",
+  "album": "tkep012",
+  "pageUrl": "https://archive.org/details/tkep012",
+  "audioUrl": "https://archive.org/download/tkep012/tkep012-b-paul_keeley-slick_n_slim-rifhes_rmx.mp3",
+  "fileName": "tkep012-b-paul_keeley-slick_n_slim-rifhes_rmx.mp3",
+  "sizeBytes": 12355584,
+  "license": {
+    "code": "by-nc-nd",
+    "version": "3.0",
+    "label": "CC BY-NC-ND 3.0",
+    "url": "http://creativecommons.org/licenses/by-nc-nd/3.0/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": false,
+    "shareAlike": false,
+    "publicDomain": false
+  },
+  "genre": "Drum & Bass",
+  "tags": [
+    "drum and bass",
+    "remix",
+    "rifhes",
+    "d-fender",
+    "paul keeley",
+    "techkilla",
+    "mexico",
+    "montreal"
+  ],
+  "analysis": {
+    "durationSec": 514.74,
+    "bpm": 120,
+    "bpmConfidence": 0.56,
+    "beatOffset": 0.3905,
+    "key": {
+      "name": "Cm",
+      "camelot": "5A",
+      "confidence": 0.72
+    },
+    "rmsDb": -12.8,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

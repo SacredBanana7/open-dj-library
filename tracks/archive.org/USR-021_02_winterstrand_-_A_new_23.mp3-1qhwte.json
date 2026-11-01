@@ -1,0 +1,45 @@
+{
+  "version": 1,
+  "id": "archive.org:USR-021/02_winterstrand_-_A_new_23.mp3",
+  "source": "archive.org",
+  "title": "Winterstrand - A New 23",
+  "artist": "Winterstrand",
+  "album": "Just Be Yourself! An Urban Sprawl Records Compilation",
+  "pageUrl": "https://archive.org/details/USR-021",
+  "audioUrl": "https://archive.org/download/USR-021/02_winterstrand_-_A_new_23.mp3",
+  "fileName": "02_winterstrand_-_A_new_23.mp3",
+  "sizeBytes": 6729728,
+  "license": {
+    "code": "by",
+    "version": "2.5",
+    "label": "CC BY 2.5",
+    "url": "http://creativecommons.org/licenses/by/2.5/",
+    "attribution": true,
+    "commercial": true,
+    "derivatives": true,
+    "shareAlike": false,
+    "publicDomain": false
+  },
+  "genre": "Hip Hop",
+  "tags": [
+    "IDM",
+    "Indie",
+    "Hip-Hop",
+    "Ambient"
+  ],
+  "analysis": {
+    "durationSec": 280.27,
+    "bpm": 79.29,
+    "bpmConfidence": 0.43,
+    "beatOffset": 1.1209,
+    "key": {
+      "name": "F",
+      "camelot": "7B",
+      "confidence": 0.86
+    },
+    "rmsDb": -14,
+    "analyzer": "pulsar-dj/analysis-worker 0.1",
+    "tempoFolded": 0.5
+  },
+  "added": "2026-11-01"
+}

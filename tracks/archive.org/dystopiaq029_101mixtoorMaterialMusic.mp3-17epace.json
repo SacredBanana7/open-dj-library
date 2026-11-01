@@ -1,0 +1,47 @@
+{
+  "version": 1,
+  "id": "archive.org:dystopiaq029/101mixtoorMaterialMusic.mp3",
+  "source": "archive.org",
+  "title": "Material Music",
+  "artist": "mix-toor",
+  "album": "mix-toor presents: This is material music.I do your condition",
+  "pageUrl": "https://archive.org/details/dystopiaq029",
+  "audioUrl": "https://archive.org/download/dystopiaq029/101mixtoorMaterialMusic.mp3",
+  "fileName": "101mixtoorMaterialMusic.mp3",
+  "sizeBytes": 6935380,
+  "license": {
+    "code": "by-nc-nd",
+    "version": "3.0",
+    "label": "CC BY-NC-ND 3.0",
+    "url": "http://creativecommons.org/licenses/by-nc-nd/3.0/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": false,
+    "shareAlike": false,
+    "publicDomain": false
+  },
+  "genre": "Hip Hop",
+  "tags": [
+    "netaudio",
+    "netlabel",
+    "creative commons",
+    "instrumental hip-hop",
+    "hip-hop",
+    "illbient",
+    "abstract"
+  ],
+  "analysis": {
+    "durationSec": 173.45,
+    "bpm": 121.34,
+    "bpmConfidence": 0.59,
+    "beatOffset": 0.6968,
+    "key": {
+      "name": "D",
+      "camelot": "10B",
+      "confidence": 0.81
+    },
+    "rmsDb": -10.4,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

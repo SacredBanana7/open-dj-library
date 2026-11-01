@@ -1,0 +1,52 @@
+{
+  "version": 1,
+  "id": "archive.org:onmp142/01Oilboysaftersun_Shakeitdontbreakit.mp3",
+  "source": "archive.org",
+  "title": "Shake it, don't break it",
+  "artist": "Oilboy's aftersun",
+  "album": "Mr.DeVo!-Work in progress 5",
+  "pageUrl": "https://archive.org/details/onmp142",
+  "audioUrl": "https://archive.org/download/onmp142/01Oilboysaftersun_Shakeitdontbreakit.mp3",
+  "fileName": "01Oilboysaftersun_Shakeitdontbreakit.mp3",
+  "sizeBytes": 10422272,
+  "license": {
+    "code": "by",
+    "version": "3.0",
+    "label": "CC BY 3.0 NL",
+    "url": "http://creativecommons.org/licenses/by/3.0/nl/",
+    "attribution": true,
+    "commercial": true,
+    "derivatives": true,
+    "shareAlike": false,
+    "publicDomain": false
+  },
+  "genre": "Dubstep",
+  "tags": [
+    "Disco",
+    "Club",
+    "Samba",
+    "Tribal",
+    "Mr.DeVo!",
+    "Oilboy's aftersun",
+    "Practitune",
+    "Buzzy Boys",
+    "Zinoeki",
+    "Techno",
+    "Industrial",
+    "Terror"
+  ],
+  "analysis": {
+    "durationSec": 434.1,
+    "bpm": 130,
+    "bpmConfidence": 1,
+    "beatOffset": 0.9244,
+    "key": {
+      "name": "Bm",
+      "camelot": "10A",
+      "confidence": 0.56
+    },
+    "rmsDb": -13.3,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

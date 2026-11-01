@@ -1,0 +1,49 @@
+{
+  "version": 1,
+  "id": "archive.org:DWK217/Boogie_Belgique_-_01_-_Forever_and_Ever.mp3",
+  "source": "archive.org",
+  "title": "Forever & Ever",
+  "artist": "Boogie Belgique",
+  "album": "Nightwalker (Vol. 1) (LP)",
+  "pageUrl": "https://archive.org/details/DWK217",
+  "audioUrl": "https://archive.org/download/DWK217/Boogie_Belgique_-_01_-_Forever_and_Ever.mp3",
+  "fileName": "Boogie_Belgique_-_01_-_Forever_and_Ever.mp3",
+  "sizeBytes": 14770266,
+  "license": {
+    "code": "by-nc-nd",
+    "version": "3.0",
+    "label": "CC BY-NC-ND 3.0",
+    "url": "http://creativecommons.org/licenses/by-nc-nd/3.0/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": false,
+    "shareAlike": false,
+    "publicDomain": false
+  },
+  "genre": "Hip Hop",
+  "tags": [
+    "Boogie Belgique",
+    "Dusted Wax Kingdom",
+    "downtempo",
+    "trip-hop",
+    "instrumental hip-hop",
+    "jazz",
+    "swing",
+    "lo-fi"
+  ],
+  "analysis": {
+    "durationSec": 350.15,
+    "bpm": 77.86,
+    "bpmConfidence": 0.39,
+    "beatOffset": 0.0452,
+    "key": {
+      "name": "G#m",
+      "camelot": "1A",
+      "confidence": 0.92
+    },
+    "rmsDb": -14.1,
+    "analyzer": "pulsar-dj/analysis-worker 0.1",
+    "tempoFolded": 0.5
+  },
+  "added": "2026-11-01"
+}

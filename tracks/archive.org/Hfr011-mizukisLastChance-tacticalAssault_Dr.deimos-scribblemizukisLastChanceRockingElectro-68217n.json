@@ -1,0 +1,46 @@
+{
+  "version": 1,
+  "id": "archive.org:Hfr011-mizukisLastChance-tacticalAssault/Dr.deimos-scribblemizukisLastChanceRockingElectroRemix.mp3",
+  "source": "archive.org",
+  "title": "Dr.Deimos-Scribble (Mizuki's Last Chance Rocking Electro Remix)",
+  "artist": "Mizuki's Last Chance/Dr Deimos",
+  "album": "Tactical Assault",
+  "pageUrl": "https://archive.org/details/Hfr011-mizukisLastChance-tacticalAssault",
+  "audioUrl": "https://archive.org/download/Hfr011-mizukisLastChance-tacticalAssault/Dr.deimos-scribblemizukisLastChanceRockingElectroRemix.mp3",
+  "fileName": "Dr.deimos-scribblemizukisLastChanceRockingElectroRemix.mp3",
+  "sizeBytes": 10225593,
+  "license": {
+    "code": "by-nd",
+    "version": "2.0",
+    "label": "CC BY-ND 2.0 UK",
+    "url": "http://creativecommons.org/licenses/by-nd/2.0/uk/",
+    "attribution": true,
+    "commercial": true,
+    "derivatives": false,
+    "shareAlike": false,
+    "publicDomain": false
+  },
+  "genre": "Dubstep",
+  "tags": [
+    "Mizuki'sLastChance",
+    "TacticalAssault",
+    "dubstep",
+    "chiptune",
+    "houseflyrecords",
+    "uk"
+  ],
+  "analysis": {
+    "durationSec": 255.53,
+    "bpm": 125,
+    "bpmConfidence": 1,
+    "beatOffset": 1.911,
+    "key": {
+      "name": "Gm",
+      "camelot": "6A",
+      "confidence": 0.85
+    },
+    "rmsDb": -7.4,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

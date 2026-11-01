@@ -1,0 +1,45 @@
+{
+  "version": 1,
+  "id": "archive.org:unfound25/unfound25_01_-_omar_salgado_-_escarcha_en_el_cesped.mp3",
+  "source": "archive.org",
+  "title": "escarcha en el cesped",
+  "artist": "omar salgado",
+  "album": "[unfound25] unhappy anniversary v.2",
+  "pageUrl": "https://archive.org/details/unfound25",
+  "audioUrl": "https://archive.org/download/unfound25/unfound25_01_-_omar_salgado_-_escarcha_en_el_cesped.mp3",
+  "fileName": "unfound25_01_-_omar_salgado_-_escarcha_en_el_cesped.mp3",
+  "sizeBytes": 17127314,
+  "license": {
+    "code": "by-nc-nd",
+    "version": "2.5",
+    "label": "CC BY-NC-ND 2.5",
+    "url": "http://creativecommons.org/licenses/by-nc-nd/2.5/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": false,
+    "shareAlike": false,
+    "publicDomain": false
+  },
+  "genre": "House",
+  "tags": [
+    "techno",
+    "house",
+    "minimal",
+    "compilation",
+    "anniversary"
+  ],
+  "analysis": {
+    "durationSec": 428.15,
+    "bpm": 127,
+    "bpmConfidence": 1,
+    "beatOffset": 1.2252,
+    "key": {
+      "name": "Cm",
+      "camelot": "5A",
+      "confidence": 0.27
+    },
+    "rmsDb": -12.4,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

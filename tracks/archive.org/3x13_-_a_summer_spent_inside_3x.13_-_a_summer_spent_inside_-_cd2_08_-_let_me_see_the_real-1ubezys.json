@@ -1,0 +1,49 @@
+{
+  "version": 1,
+  "id": "archive.org:3x13_-_a_summer_spent_inside/3x.13_-_a_summer_spent_inside_-_cd2_08_-_let_me_see_the_real_you.mp3",
+  "source": "archive.org",
+  "title": "let me see the real you",
+  "artist": "3x!13",
+  "album": "A Summer Spent Inside CD2",
+  "pageUrl": "https://archive.org/details/3x13_-_a_summer_spent_inside",
+  "audioUrl": "https://archive.org/download/3x13_-_a_summer_spent_inside/3x.13_-_a_summer_spent_inside_-_cd2_08_-_let_me_see_the_real_you.mp3",
+  "fileName": "3x.13_-_a_summer_spent_inside_-_cd2_08_-_let_me_see_the_real_you.mp3",
+  "sizeBytes": 6338560,
+  "license": {
+    "code": "by-nc-nd",
+    "version": "2.5",
+    "label": "CC BY-NC-ND 2.5",
+    "url": "http://creativecommons.org/licenses/by-nc-nd/2.5/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": false,
+    "shareAlike": false,
+    "publicDomain": false
+  },
+  "genre": "House",
+  "tags": [
+    "postrock",
+    "triphop",
+    "electro",
+    "alternative",
+    "house",
+    "pop",
+    "lofi",
+    "3x!13",
+    "josh munson"
+  ],
+  "analysis": {
+    "durationSec": 264,
+    "bpm": 120,
+    "bpmConfidence": 0.54,
+    "beatOffset": 1.0111,
+    "key": {
+      "name": "G",
+      "camelot": "9B",
+      "confidence": 0.84
+    },
+    "rmsDb": -9,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

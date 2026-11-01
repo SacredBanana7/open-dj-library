@@ -1,0 +1,46 @@
+{
+  "version": 1,
+  "id": "archive.org:tkep010/tkep010-a-cubicle-there_are_days.mp3",
+  "source": "archive.org",
+  "title": "There are days",
+  "artist": "cubicle",
+  "album": "tkep010",
+  "pageUrl": "https://archive.org/details/tkep010",
+  "audioUrl": "https://archive.org/download/tkep010/tkep010-a-cubicle-there_are_days.mp3",
+  "fileName": "tkep010-a-cubicle-there_are_days.mp3",
+  "sizeBytes": 7768192,
+  "license": {
+    "code": "by-nc-nd",
+    "version": "3.0",
+    "label": "CC BY-NC-ND 3.0",
+    "url": "http://creativecommons.org/licenses/by-nc-nd/3.0/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": false,
+    "shareAlike": false,
+    "publicDomain": false
+  },
+  "genre": "Drum & Bass",
+  "tags": [
+    "TECHKILLA",
+    "drum and bass",
+    "dubstep",
+    "mexico",
+    "Isaac Maya",
+    "Cubicle"
+  ],
+  "analysis": {
+    "durationSec": 485.38,
+    "bpm": 120,
+    "bpmConfidence": 0.6,
+    "beatOffset": 1.365,
+    "key": {
+      "name": "Dm",
+      "camelot": "7A",
+      "confidence": 0.71
+    },
+    "rmsDb": -14.2,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

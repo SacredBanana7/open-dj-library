@@ -1,0 +1,46 @@
+{
+  "version": 1,
+  "id": "archive.org:Hfr011-mizukisLastChance-tacticalAssault/Yeah.mp3",
+  "source": "archive.org",
+  "title": "Yeah",
+  "artist": "Mizuki's Last Chance",
+  "album": "Tactical Assault",
+  "pageUrl": "https://archive.org/details/Hfr011-mizukisLastChance-tacticalAssault",
+  "audioUrl": "https://archive.org/download/Hfr011-mizukisLastChance-tacticalAssault/Yeah.mp3",
+  "fileName": "Yeah.mp3",
+  "sizeBytes": 8121169,
+  "license": {
+    "code": "by-nd",
+    "version": "2.0",
+    "label": "CC BY-ND 2.0 UK",
+    "url": "http://creativecommons.org/licenses/by-nd/2.0/uk/",
+    "attribution": true,
+    "commercial": true,
+    "derivatives": false,
+    "shareAlike": false,
+    "publicDomain": false
+  },
+  "genre": "Dubstep",
+  "tags": [
+    "Mizuki'sLastChance",
+    "TacticalAssault",
+    "dubstep",
+    "chiptune",
+    "houseflyrecords",
+    "uk"
+  ],
+  "analysis": {
+    "durationSec": 202.92,
+    "bpm": 140,
+    "bpmConfidence": 0.87,
+    "beatOffset": 1.5021,
+    "key": {
+      "name": "Gm",
+      "camelot": "6A",
+      "confidence": 0.7
+    },
+    "rmsDb": -7.9,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

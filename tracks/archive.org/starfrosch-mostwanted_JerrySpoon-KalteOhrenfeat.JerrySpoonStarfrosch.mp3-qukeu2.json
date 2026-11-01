@@ -1,0 +1,47 @@
+{
+  "version": 1,
+  "id": "archive.org:starfrosch-mostwanted/JerrySpoon-KalteOhrenfeat.JerrySpoonStarfrosch.mp3",
+  "source": "archive.org",
+  "title": "Jerry Spoon - Kalte Ohren (feat. Jerry Spoon, starfrosch)",
+  "artist": "Jerry Spoon",
+  "album": "starfrosch Most Wanted",
+  "pageUrl": "https://archive.org/details/starfrosch-mostwanted",
+  "audioUrl": "https://archive.org/download/starfrosch-mostwanted/JerrySpoon-KalteOhrenfeat.JerrySpoonStarfrosch.mp3",
+  "fileName": "JerrySpoon-KalteOhrenfeat.JerrySpoonStarfrosch.mp3",
+  "sizeBytes": 9379840,
+  "license": {
+    "code": "by-nc-nd",
+    "version": "3.0",
+    "label": "CC BY-NC-ND 3.0",
+    "url": "http://creativecommons.org/licenses/by-nc-nd/3.0/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": false,
+    "shareAlike": false,
+    "publicDomain": false
+  },
+  "genre": "Dubstep",
+  "tags": [
+    "starfrosch",
+    "electronic",
+    "dubstep",
+    "dance",
+    "pop",
+    "hiphop",
+    "dub"
+  ],
+  "analysis": {
+    "durationSec": 200.57,
+    "bpm": 121.36,
+    "bpmConfidence": 0.4,
+    "beatOffset": 0.0531,
+    "key": {
+      "name": "Em",
+      "camelot": "9A",
+      "confidence": 0.87
+    },
+    "rmsDb": -10.4,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

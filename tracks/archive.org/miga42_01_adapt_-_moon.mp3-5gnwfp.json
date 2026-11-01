@@ -1,0 +1,46 @@
+{
+  "version": 1,
+  "id": "archive.org:miga42/01_adapt_-_moon.mp3",
+  "source": "archive.org",
+  "title": "Moon",
+  "artist": "adapt",
+  "album": "[Miga42]",
+  "pageUrl": "https://archive.org/details/miga42",
+  "audioUrl": "https://archive.org/download/miga42/01_adapt_-_moon.mp3",
+  "fileName": "01_adapt_-_moon.mp3",
+  "sizeBytes": 10680842,
+  "license": {
+    "code": "by-nc-sa",
+    "version": "3.0",
+    "label": "CC BY-NC-SA 3.0",
+    "url": "http://creativecommons.org/licenses/by-nc-sa/3.0/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": true,
+    "shareAlike": true,
+    "publicDomain": false
+  },
+  "genre": "Dubstep",
+  "tags": [
+    "miga",
+    "adapt",
+    "dubstep",
+    "electronic music",
+    "miga-label",
+    "miga42"
+  ],
+  "analysis": {
+    "durationSec": 263.99,
+    "bpm": 132.2,
+    "bpmConfidence": 0.39,
+    "beatOffset": 1.0086,
+    "key": {
+      "name": "F",
+      "camelot": "7B",
+      "confidence": 0.72
+    },
+    "rmsDb": -12.9,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

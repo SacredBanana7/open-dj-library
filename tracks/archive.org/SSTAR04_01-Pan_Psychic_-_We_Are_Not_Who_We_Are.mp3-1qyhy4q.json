@@ -1,0 +1,44 @@
+{
+  "version": 1,
+  "id": "archive.org:SSTAR04/01-Pan_Psychic_-_We_Are_Not_Who_We_Are.mp3",
+  "source": "archive.org",
+  "title": "We Are Not Who We Are",
+  "artist": "Pan Psychic",
+  "album": "We Are Not Who We Are",
+  "pageUrl": "https://archive.org/details/SSTAR04",
+  "audioUrl": "https://archive.org/download/SSTAR04/01-Pan_Psychic_-_We_Are_Not_Who_We_Are.mp3",
+  "fileName": "01-Pan_Psychic_-_We_Are_Not_Who_We_Are.mp3",
+  "sizeBytes": 14521856,
+  "license": {
+    "code": "by-nc-nd",
+    "version": "3.0",
+    "label": "CC BY-NC-ND 3.0",
+    "url": "http://creativecommons.org/licenses/by-nc-nd/3.0/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": false,
+    "shareAlike": false,
+    "publicDomain": false
+  },
+  "genre": "Trance",
+  "tags": [
+    "goa",
+    "psytrance",
+    "goa-trance",
+    "downtempo"
+  ],
+  "analysis": {
+    "durationSec": 519.63,
+    "bpm": 148.06,
+    "bpmConfidence": 0.81,
+    "beatOffset": 0.1281,
+    "key": {
+      "name": "C",
+      "camelot": "8B",
+      "confidence": 0.49
+    },
+    "rmsDb": -10.2,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

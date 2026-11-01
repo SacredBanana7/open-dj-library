@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "id": "archive.org:DWK127/Kova_-_01_-_From_Dusk_Till_Dawn_Part_1.mp3",
+  "source": "archive.org",
+  "title": "From Dusk Till Dawn Part 1",
+  "artist": "Kova",
+  "album": "Cookin' Session (EP)",
+  "pageUrl": "https://archive.org/details/DWK127",
+  "audioUrl": "https://archive.org/download/DWK127/Kova_-_01_-_From_Dusk_Till_Dawn_Part_1.mp3",
+  "fileName": "Kova_-_01_-_From_Dusk_Till_Dawn_Part_1.mp3",
+  "sizeBytes": 28823313,
+  "license": {
+    "code": "by-nc-nd",
+    "version": "3.0",
+    "label": "CC BY-NC-ND 3.0",
+    "url": "http://creativecommons.org/licenses/by-nc-nd/3.0/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": false,
+    "shareAlike": false,
+    "publicDomain": false
+  },
+  "genre": "Hip Hop",
+  "tags": [
+    "Kova",
+    "Dusted Wax Kingdom",
+    "instrumental hip-hop",
+    "trip-hop",
+    "jazz",
+    "chilled",
+    "beats"
+  ],
+  "analysis": {
+    "durationSec": 716.26,
+    "bpm": 87.13,
+    "bpmConfidence": 0.39,
+    "beatOffset": 0.4066,
+    "key": {
+      "name": "Bm",
+      "camelot": "10A",
+      "confidence": 0.7
+    },
+    "rmsDb": -18.3,
+    "analyzer": "pulsar-dj/analysis-worker 0.1",
+    "tempoFolded": 0.5
+  },
+  "added": "2026-11-01"
+}

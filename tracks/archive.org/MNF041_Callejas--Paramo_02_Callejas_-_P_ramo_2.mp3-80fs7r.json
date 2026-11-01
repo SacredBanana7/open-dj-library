@@ -1,0 +1,52 @@
+{
+  "version": 1,
+  "id": "archive.org:MNF041_Callejas--Paramo/02_Callejas_-_Páramo_2.mp3",
+  "source": "archive.org",
+  "title": "Páramo 2",
+  "artist": "Callejas",
+  "album": "Páramo",
+  "pageUrl": "https://archive.org/details/MNF041_Callejas--Paramo",
+  "audioUrl": "https://archive.org/download/MNF041_Callejas--Paramo/02_Callejas_-_P%C3%A1ramo_2.mp3",
+  "fileName": "02_Callejas_-_Páramo_2.mp3",
+  "sizeBytes": 12082421,
+  "license": {
+    "code": "by-sa",
+    "version": "4.0",
+    "label": "CC BY-SA 4.0",
+    "url": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "attribution": true,
+    "commercial": true,
+    "derivatives": true,
+    "shareAlike": true,
+    "publicDomain": false
+  },
+  "genre": "Breakbeat",
+  "tags": [
+    "monofonicos",
+    "netlabel",
+    "colombia",
+    "house",
+    "techno",
+    "minimal",
+    "dub techno",
+    "deep house",
+    "deep",
+    "deep techno",
+    "dub",
+    "garage house"
+  ],
+  "analysis": {
+    "durationSec": 301.97,
+    "bpm": 122,
+    "bpmConfidence": 1,
+    "beatOffset": 0.9907,
+    "key": {
+      "name": "G#",
+      "camelot": "4B",
+      "confidence": 0.63
+    },
+    "rmsDb": -12,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

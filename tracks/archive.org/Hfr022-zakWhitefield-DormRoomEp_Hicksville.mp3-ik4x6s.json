@@ -1,0 +1,52 @@
+{
+  "version": 1,
+  "id": "archive.org:Hfr022-zakWhitefield-DormRoomEp/Hicksville.mp3",
+  "source": "archive.org",
+  "title": "Hicksville",
+  "artist": "Zak Whitefield",
+  "album": "Dorm Room EP",
+  "pageUrl": "https://archive.org/details/Hfr022-zakWhitefield-DormRoomEp",
+  "audioUrl": "https://archive.org/download/Hfr022-zakWhitefield-DormRoomEp/Hicksville.mp3",
+  "fileName": "Hicksville.mp3",
+  "sizeBytes": 9038386,
+  "license": {
+    "code": "by-nd",
+    "version": "2.0",
+    "label": "CC BY-ND 2.0 UK",
+    "url": "http://creativecommons.org/licenses/by-nd/2.0/uk/",
+    "attribution": true,
+    "commercial": true,
+    "derivatives": false,
+    "shareAlike": false,
+    "publicDomain": false
+  },
+  "genre": "Ambient",
+  "tags": [
+    "Acoustic",
+    "guitar",
+    "chillout",
+    "Zak",
+    "Zakwhitefield",
+    "Housefly",
+    "HouseflyRecords UK",
+    "NorthernIreland",
+    "Dungannon",
+    "John Mayer",
+    "Ambulance LTD",
+    "Fall Out Boy"
+  ],
+  "analysis": {
+    "durationSec": 225.8,
+    "bpm": 131,
+    "bpmConfidence": 0.5,
+    "beatOffset": 0.474,
+    "key": {
+      "name": "F#m",
+      "camelot": "11A",
+      "confidence": 0.64
+    },
+    "rmsDb": -14,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

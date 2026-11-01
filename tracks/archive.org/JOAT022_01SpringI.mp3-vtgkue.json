@@ -1,0 +1,52 @@
+{
+  "version": 1,
+  "id": "archive.org:JOAT022/01SpringI.mp3",
+  "source": "archive.org",
+  "title": "Spring I",
+  "artist": "Memphis",
+  "album": "Memphis presents The Four Seasons",
+  "pageUrl": "https://archive.org/details/JOAT022",
+  "audioUrl": "https://archive.org/download/JOAT022/01SpringI.mp3",
+  "fileName": "01SpringI.mp3",
+  "sizeBytes": 11089672,
+  "license": {
+    "code": "by-sa",
+    "version": "3.0",
+    "label": "CC BY-SA 3.0",
+    "url": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "attribution": true,
+    "commercial": true,
+    "derivatives": true,
+    "shareAlike": true,
+    "publicDomain": false
+  },
+  "genre": "Techno",
+  "tags": [
+    "memphis",
+    "jerky oats",
+    "experimental",
+    "electronic",
+    "ambient",
+    "techno",
+    "electro",
+    "seasons",
+    "spring",
+    "summer",
+    "autumn",
+    "winter"
+  ],
+  "analysis": {
+    "durationSec": 277.37,
+    "bpm": 120.8,
+    "bpmConfidence": 0.4,
+    "beatOffset": 0.5702,
+    "key": {
+      "name": "Am",
+      "camelot": "8A",
+      "confidence": 0.77
+    },
+    "rmsDb": -20.8,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

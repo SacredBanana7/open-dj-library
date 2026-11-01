@@ -1,0 +1,52 @@
+{
+  "version": 1,
+  "id": "archive.org:stqk011/STQK011_02_-_Zero_Call_-_Battle_of_Young.mp3",
+  "source": "archive.org",
+  "title": "Battle of Young",
+  "artist": "Zero Call",
+  "album": "[STQK011] A Struggle Between Right or Wrong",
+  "pageUrl": "https://archive.org/details/stqk011",
+  "audioUrl": "https://archive.org/download/stqk011/STQK011_02_-_Zero_Call_-_Battle_of_Young.mp3",
+  "fileName": "STQK011_02_-_Zero_Call_-_Battle_of_Young.mp3",
+  "sizeBytes": 9919528,
+  "license": {
+    "code": "by-nc-sa",
+    "version": "3.0",
+    "label": "CC BY-NC-SA 3.0",
+    "url": "http://creativecommons.org/licenses/by-nc-sa/3.0/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": true,
+    "shareAlike": true,
+    "publicDomain": false
+  },
+  "genre": "Disco / Funk",
+  "tags": [
+    "starquake",
+    "netlabel",
+    "creative commons",
+    "zero call",
+    "zerocall",
+    "disco",
+    "nu disco",
+    "electro",
+    "synth",
+    "dark",
+    "kavinsky",
+    "anoraak"
+  ],
+  "analysis": {
+    "durationSec": 244.22,
+    "bpm": 116,
+    "bpmConfidence": 1,
+    "beatOffset": 0.0244,
+    "key": {
+      "name": "Bm",
+      "camelot": "10A",
+      "confidence": 0.75
+    },
+    "rmsDb": -13.4,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

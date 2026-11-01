@@ -1,0 +1,44 @@
+{
+  "version": 1,
+  "id": "archive.org:diginet001/diginet001_-_02_djpici_-_quadro.mp3",
+  "source": "archive.org",
+  "title": "quadro",
+  "artist": "djpici",
+  "album": "[diginet001] kind of edits ep",
+  "pageUrl": "https://archive.org/details/diginet001",
+  "audioUrl": "https://archive.org/download/diginet001/diginet001_-_02_djpici_-_quadro.mp3",
+  "fileName": "diginet001_-_02_djpici_-_quadro.mp3",
+  "sizeBytes": 15491072,
+  "license": {
+    "code": "by-nc-nd",
+    "version": "2.5",
+    "label": "CC BY-NC-ND 2.5",
+    "url": "http://creativecommons.org/licenses/by-nc-nd/2.5/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": false,
+    "shareAlike": false,
+    "publicDomain": false
+  },
+  "genre": "Techno",
+  "tags": [
+    "digilog",
+    "djPiCi",
+    "techno",
+    "tech-house"
+  ],
+  "analysis": {
+    "durationSec": 484,
+    "bpm": 127,
+    "bpmConfidence": 1,
+    "beatOffset": 0.96,
+    "key": {
+      "name": "Bm",
+      "camelot": "10A",
+      "confidence": 0.28
+    },
+    "rmsDb": -12.1,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

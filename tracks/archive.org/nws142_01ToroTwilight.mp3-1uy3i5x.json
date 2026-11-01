@@ -1,0 +1,45 @@
+{
+  "version": 1,
+  "id": "archive.org:nws142/01ToroTwilight.mp3",
+  "source": "archive.org",
+  "title": "Toro Twilight",
+  "artist": "Enigma of Sound",
+  "album": "[FNet006] Pick 'n Mix 2",
+  "pageUrl": "https://archive.org/details/nws142",
+  "audioUrl": "https://archive.org/download/nws142/01ToroTwilight.mp3",
+  "fileName": "01ToroTwilight.mp3",
+  "sizeBytes": 15487965,
+  "license": {
+    "code": "by-nc-sa",
+    "version": "3.0",
+    "label": "CC BY-NC-SA 3.0",
+    "url": "http://creativecommons.org/licenses/by-nc-sa/3.0/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": true,
+    "shareAlike": true,
+    "publicDomain": false
+  },
+  "genre": "House",
+  "tags": [
+    "electronic",
+    "idm",
+    "techhouse",
+    "deep house",
+    "lounge"
+  ],
+  "analysis": {
+    "durationSec": 346.41,
+    "bpm": 140,
+    "bpmConfidence": 0.96,
+    "beatOffset": 0.0741,
+    "key": {
+      "name": "C",
+      "camelot": "8B",
+      "confidence": 0.82
+    },
+    "rmsDb": -15.8,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

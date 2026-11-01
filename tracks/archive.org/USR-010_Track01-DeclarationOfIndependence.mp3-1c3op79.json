@@ -1,0 +1,42 @@
+{
+  "version": 1,
+  "id": "archive.org:USR-010/Track01-DeclarationOfIndependence.mp3",
+  "source": "archive.org",
+  "title": "Declaration Of Independence",
+  "artist": "Abraham Lincoln",
+  "album": "Declaration of Independence LP",
+  "pageUrl": "https://archive.org/details/USR-010",
+  "audioUrl": "https://archive.org/download/USR-010/Track01-DeclarationOfIndependence.mp3",
+  "fileName": "Track01-DeclarationOfIndependence.mp3",
+  "sizeBytes": 6197248,
+  "license": {
+    "code": "by",
+    "version": "2.5",
+    "label": "CC BY 2.5",
+    "url": "http://creativecommons.org/licenses/by/2.5/",
+    "attribution": true,
+    "commercial": true,
+    "derivatives": true,
+    "shareAlike": false,
+    "publicDomain": false
+  },
+  "genre": "Hip Hop",
+  "tags": [
+    "Hip-Hop"
+  ],
+  "analysis": {
+    "durationSec": 258.06,
+    "bpm": 72.4,
+    "bpmConfidence": 0.42,
+    "beatOffset": 1.223,
+    "key": {
+      "name": "G#m",
+      "camelot": "1A",
+      "confidence": 0.51
+    },
+    "rmsDb": -12.9,
+    "analyzer": "pulsar-dj/analysis-worker 0.1",
+    "tempoFolded": 0.5
+  },
+  "added": "2026-11-01"
+}

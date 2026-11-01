@@ -1,0 +1,45 @@
+{
+  "version": 1,
+  "id": "archive.org:USR-021/01_Cellardoor_-_The_Filmstrip.mp3",
+  "source": "archive.org",
+  "title": "CellarDoor - The Filmstrip",
+  "artist": "CellarDoor",
+  "album": "Just Be Yourself! An Urban Sprawl Records Compilation",
+  "pageUrl": "https://archive.org/details/USR-021",
+  "audioUrl": "https://archive.org/download/USR-021/01_Cellardoor_-_The_Filmstrip.mp3",
+  "fileName": "01_Cellardoor_-_The_Filmstrip.mp3",
+  "sizeBytes": 8413184,
+  "license": {
+    "code": "by",
+    "version": "2.5",
+    "label": "CC BY 2.5",
+    "url": "http://creativecommons.org/licenses/by/2.5/",
+    "attribution": true,
+    "commercial": true,
+    "derivatives": true,
+    "shareAlike": false,
+    "publicDomain": false
+  },
+  "genre": "Hip Hop",
+  "tags": [
+    "IDM",
+    "Indie",
+    "Hip-Hop",
+    "Ambient"
+  ],
+  "analysis": {
+    "durationSec": 350.46,
+    "bpm": 66.66,
+    "bpmConfidence": 0.61,
+    "beatOffset": 1.6556,
+    "key": {
+      "name": "Am",
+      "camelot": "8A",
+      "confidence": 0.74
+    },
+    "rmsDb": -17.5,
+    "analyzer": "pulsar-dj/analysis-worker 0.1",
+    "tempoFolded": 0.5
+  },
+  "added": "2026-11-01"
+}

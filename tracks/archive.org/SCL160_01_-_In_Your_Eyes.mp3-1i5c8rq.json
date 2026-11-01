@@ -1,0 +1,45 @@
+{
+  "version": 1,
+  "id": "archive.org:SCL160/01_-_In_Your_Eyes.mp3",
+  "source": "archive.org",
+  "title": "In Your Eyes",
+  "artist": "Tigerberry",
+  "album": "Cold Wave",
+  "pageUrl": "https://archive.org/details/SCL160",
+  "audioUrl": "https://archive.org/download/SCL160/01_-_In_Your_Eyes.mp3",
+  "fileName": "01_-_In_Your_Eyes.mp3",
+  "sizeBytes": 9106773,
+  "license": {
+    "code": "by-nc-sa",
+    "version": "4.0",
+    "label": "CC BY-NC-SA 4.0",
+    "url": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": true,
+    "shareAlike": true,
+    "publicDomain": false
+  },
+  "genre": "House",
+  "tags": [
+    "vaporwave",
+    "indie rock",
+    "indietronic",
+    "synthpop",
+    "witch house"
+  ],
+  "analysis": {
+    "durationSec": 246.65,
+    "bpm": 126,
+    "bpmConfidence": 0.39,
+    "beatOffset": 0.8542,
+    "key": {
+      "name": "Em",
+      "camelot": "9A",
+      "confidence": 0.9
+    },
+    "rmsDb": -9.5,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

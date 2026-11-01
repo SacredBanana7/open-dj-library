@@ -1,0 +1,49 @@
+{
+  "version": 1,
+  "id": "archive.org:nullbomb/A-class-music1.mp3",
+  "source": "archive.org",
+  "title": "A-class-music",
+  "artist": "Nullbomb",
+  "album": "Nullbomb",
+  "pageUrl": "https://archive.org/details/nullbomb",
+  "audioUrl": "https://archive.org/download/nullbomb/A-class-music1.mp3",
+  "fileName": "A-class-music1.mp3",
+  "sizeBytes": 4964324,
+  "license": {
+    "code": "by",
+    "version": "2.5",
+    "label": "CC BY 2.5",
+    "url": "http://creativecommons.org/licenses/by/2.5/",
+    "attribution": true,
+    "commercial": true,
+    "derivatives": true,
+    "shareAlike": false,
+    "publicDomain": false
+  },
+  "genre": "IDM / Electronica",
+  "tags": [
+    "electronic",
+    "grind",
+    "grindcore",
+    "experimental",
+    "noise",
+    "breakcore",
+    "taiwan",
+    "idm",
+    "taipei"
+  ],
+  "analysis": {
+    "durationSec": 206.76,
+    "bpm": 172,
+    "bpmConfidence": 0.9,
+    "beatOffset": 0.0242,
+    "key": {
+      "name": "A#",
+      "camelot": "6B",
+      "confidence": 0.42
+    },
+    "rmsDb": -7.2,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

@@ -1,0 +1,44 @@
+{
+  "version": 1,
+  "id": "archive.org:tkep017/tkep017-a1-blokone-gio_bleue.mp3",
+  "source": "archive.org",
+  "title": "Gio Bleue",
+  "artist": "Blok One",
+  "album": "The Expedition EP",
+  "pageUrl": "https://archive.org/details/tkep017",
+  "audioUrl": "https://archive.org/download/tkep017/tkep017-a1-blokone-gio_bleue.mp3",
+  "fileName": "tkep017-a1-blokone-gio_bleue.mp3",
+  "sizeBytes": 19187804,
+  "license": {
+    "code": "by-nc-nd",
+    "version": "3.0",
+    "label": "CC BY-NC-ND 3.0",
+    "url": "http://creativecommons.org/licenses/by-nc-nd/3.0/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": false,
+    "shareAlike": false,
+    "publicDomain": false
+  },
+  "genre": "Drum & Bass",
+  "tags": [
+    "neurofunk",
+    "drum and bass",
+    "mexico",
+    "techkilla"
+  ],
+  "analysis": {
+    "durationSec": 480.1,
+    "bpm": 176,
+    "bpmConfidence": 0.72,
+    "beatOffset": 0.942,
+    "key": {
+      "name": "C#m",
+      "camelot": "12A",
+      "confidence": 0.89
+    },
+    "rmsDb": -10.8,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

@@ -1,0 +1,52 @@
+{
+  "version": 1,
+  "id": "archive.org:puMpL008_-_postunder_records_va_-_these_boots_are_made_for_stomping/va_-_these_boots_are_made_for_stomping_-_1_jikkenteki_-_turning_pages.mp3",
+  "source": "archive.org",
+  "title": "Turning Pages",
+  "artist": "Jikkenteki",
+  "album": "Postunder Records VA - These Boots Are Made For Stomping",
+  "pageUrl": "https://archive.org/details/puMpL008_-_postunder_records_va_-_these_boots_are_made_for_stomping",
+  "audioUrl": "https://archive.org/download/puMpL008_-_postunder_records_va_-_these_boots_are_made_for_stomping/va_-_these_boots_are_made_for_stomping_-_1_jikkenteki_-_turning_pages.mp3",
+  "fileName": "va_-_these_boots_are_made_for_stomping_-_1_jikkenteki_-_turning_pages.mp3",
+  "sizeBytes": 16246784,
+  "license": {
+    "code": "by-nc-nd",
+    "version": "2.5",
+    "label": "CC BY-NC-ND 2.5",
+    "url": "http://creativecommons.org/licenses/by-nc-nd/2.5/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": false,
+    "shareAlike": false,
+    "publicDomain": false
+  },
+  "genre": "Trance",
+  "tags": [
+    "postunder",
+    "electronic",
+    "psytrance",
+    "goa",
+    "prog",
+    "trance",
+    "dark",
+    "suomi",
+    "dark psy",
+    "psy",
+    "rave",
+    "dance"
+  ],
+  "analysis": {
+    "durationSec": 508.19,
+    "bpm": 145,
+    "bpmConfidence": 1,
+    "beatOffset": 0.6532,
+    "key": {
+      "name": "B",
+      "camelot": "1B",
+      "confidence": 0.75
+    },
+    "rmsDb": -11.3,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

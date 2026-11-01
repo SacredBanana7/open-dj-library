@@ -1,0 +1,52 @@
+{
+  "version": 1,
+  "id": "archive.org:TFR55-LechonesSangrientosAndVulgarDisease-VidaYonqui-LiveAtPaultoolMadrigueras/02-LechonesSangrientosVulgarDisease-ChanclotDancerMarihuana.mp3",
+  "source": "archive.org",
+  "title": "02 - Lechones Sangrientos & Vulgar Disease - Chanclot Dancer Marihuana",
+  "artist": "Lechones Sangrientos & Vulgar Disease",
+  "album": "Vida Yonqui (Live at Paultool Madrigueras)",
+  "pageUrl": "https://archive.org/details/TFR55-LechonesSangrientosAndVulgarDisease-VidaYonqui-LiveAtPaultoolMadrigueras",
+  "audioUrl": "https://archive.org/download/TFR55-LechonesSangrientosAndVulgarDisease-VidaYonqui-LiveAtPaultoolMadrigueras/02-LechonesSangrientosVulgarDisease-ChanclotDancerMarihuana.mp3",
+  "fileName": "02-LechonesSangrientosVulgarDisease-ChanclotDancerMarihuana.mp3",
+  "sizeBytes": 17767761,
+  "license": {
+    "code": "by-nc-nd",
+    "version": "3.0",
+    "label": "CC BY-NC-ND 3.0",
+    "url": "http://creativecommons.org/licenses/by-nc-nd/3.0/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": false,
+    "shareAlike": false,
+    "publicDomain": false
+  },
+  "genre": "Ambient",
+  "tags": [
+    "Electrónicos",
+    "Poderosos",
+    "Tacos",
+    "Ambient",
+    "ChicaNoise",
+    "Enchiladas",
+    "Harsh",
+    "Power",
+    "Hot",
+    "Chilaquiles",
+    "Hardcore",
+    "Tabasco"
+  ],
+  "analysis": {
+    "durationSec": 555.21,
+    "bpm": 120,
+    "bpmConfidence": 0.39,
+    "beatOffset": 0.1526,
+    "key": {
+      "name": "Cm",
+      "camelot": "5A",
+      "confidence": 0.37
+    },
+    "rmsDb": -0.6,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

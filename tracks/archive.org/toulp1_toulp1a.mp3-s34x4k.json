@@ -1,0 +1,52 @@
+{
+  "version": 1,
+  "id": "archive.org:toulp1/toulp1a.mp3",
+  "source": "archive.org",
+  "title": "Eternal Truth",
+  "artist": "Psychadelik Pedestrian",
+  "album": "Psychadelik Pedestrian",
+  "pageUrl": "https://archive.org/details/toulp1",
+  "audioUrl": "https://archive.org/download/toulp1/toulp1a.mp3",
+  "fileName": "toulp1a.mp3",
+  "sizeBytes": 10542464,
+  "license": {
+    "code": "by-sa",
+    "version": "3.0",
+    "label": "CC BY-SA 3.0",
+    "url": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "attribution": true,
+    "commercial": true,
+    "derivatives": true,
+    "shareAlike": true,
+    "publicDomain": false
+  },
+  "genre": "Drum & Bass",
+  "tags": [
+    "electronic",
+    "drum and bass",
+    "instrumental",
+    "uplifting",
+    "drum & bass",
+    "piano",
+    "melodic",
+    "chillout",
+    "trip hop",
+    "electronica",
+    "music",
+    "mp3"
+  ],
+  "analysis": {
+    "durationSec": 329.35,
+    "bpm": 166,
+    "bpmConfidence": 1,
+    "beatOffset": 0.1414,
+    "key": {
+      "name": "Fm",
+      "camelot": "4A",
+      "confidence": 0.77
+    },
+    "rmsDb": -14.8,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

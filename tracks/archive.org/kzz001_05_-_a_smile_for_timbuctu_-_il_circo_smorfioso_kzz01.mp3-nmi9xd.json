@@ -1,0 +1,52 @@
+{
+  "version": 1,
+  "id": "archive.org:kzz001/05_-_a_smile_for_timbuctu_-_il_circo_smorfioso_kzz01.mp3",
+  "source": "archive.org",
+  "title": "A Smile for Timbuctu - Il Circo Smorfioso",
+  "artist": "A Smile for Timbuctu",
+  "album": "VA - Silly Songs",
+  "pageUrl": "https://archive.org/details/kzz001",
+  "audioUrl": "https://archive.org/download/kzz001/05_-_a_smile_for_timbuctu_-_il_circo_smorfioso_kzz01.mp3",
+  "fileName": "05_-_a_smile_for_timbuctu_-_il_circo_smorfioso_kzz01.mp3",
+  "sizeBytes": 4587747,
+  "license": {
+    "code": "by-nc-sa",
+    "version": "3.0",
+    "label": "CC BY-NC-SA 3.0 US",
+    "url": "http://creativecommons.org/licenses/by-nc-sa/3.0/us/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": true,
+    "shareAlike": true,
+    "publicDomain": false
+  },
+  "genre": "Disco / Funk",
+  "tags": [
+    "children",
+    "silly songs",
+    "kids",
+    "free music",
+    "netlabel",
+    "kazoomzoom",
+    "A Smile for Timbuctu",
+    "The Bran Flakes",
+    "Brody and the Booger Brigade",
+    "Dave Girtsman",
+    "The Kazoo Funk Orchestra",
+    "Lee and Sheep"
+  ],
+  "analysis": {
+    "durationSec": 191.06,
+    "bpm": 170,
+    "bpmConfidence": 1,
+    "beatOffset": 0.0495,
+    "key": {
+      "name": "G",
+      "camelot": "9B",
+      "confidence": 0.83
+    },
+    "rmsDb": -14.4,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

@@ -1,0 +1,52 @@
+{
+  "version": 1,
+  "id": "archive.org:s27-043WeAreOne-Section27Netlabel/1-01JohnGabantin.mp3",
+  "source": "archive.org",
+  "title": "1-01 John Gabantin",
+  "artist": "Aramburu",
+  "album": "We Are One",
+  "pageUrl": "https://archive.org/details/s27-043WeAreOne-Section27Netlabel",
+  "audioUrl": "https://archive.org/download/s27-043WeAreOne-Section27Netlabel/1-01JohnGabantin.mp3",
+  "fileName": "1-01JohnGabantin.mp3",
+  "sizeBytes": 7831805,
+  "license": {
+    "code": "by-nc-nd",
+    "version": "3.0",
+    "label": "CC BY-NC-ND 3.0",
+    "url": "http://creativecommons.org/licenses/by-nc-nd/3.0/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": false,
+    "shareAlike": false,
+    "publicDomain": false
+  },
+  "genre": "Breakbeat",
+  "tags": [
+    "We",
+    "Are",
+    "One",
+    "Section27",
+    "Netlabel",
+    "Compilation",
+    "[S27-043]",
+    "IDM",
+    "Glitch",
+    "Micro",
+    "Ambient",
+    "Space"
+  ],
+  "analysis": {
+    "durationSec": 195.68,
+    "bpm": 152.54,
+    "bpmConfidence": 0.43,
+    "beatOffset": 0.3839,
+    "key": {
+      "name": "G#m",
+      "camelot": "1A",
+      "confidence": 0.38
+    },
+    "rmsDb": -18.2,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

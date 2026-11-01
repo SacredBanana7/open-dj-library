@@ -1,0 +1,52 @@
+{
+  "version": 1,
+  "id": "archive.org:s27-043WeAreOne-Section27Netlabel/2-01JupiterFinalV3.mp3",
+  "source": "archive.org",
+  "title": "2-01 Jupiter Final v3",
+  "artist": "Pay-per-frog",
+  "album": "We Are One",
+  "pageUrl": "https://archive.org/details/s27-043WeAreOne-Section27Netlabel",
+  "audioUrl": "https://archive.org/download/s27-043WeAreOne-Section27Netlabel/2-01JupiterFinalV3.mp3",
+  "fileName": "2-01JupiterFinalV3.mp3",
+  "sizeBytes": 8008194,
+  "license": {
+    "code": "by-nc-nd",
+    "version": "3.0",
+    "label": "CC BY-NC-ND 3.0",
+    "url": "http://creativecommons.org/licenses/by-nc-nd/3.0/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": false,
+    "shareAlike": false,
+    "publicDomain": false
+  },
+  "genre": "Drum & Bass",
+  "tags": [
+    "We",
+    "Are",
+    "One",
+    "Section27",
+    "Netlabel",
+    "Compilation",
+    "[S27-043]",
+    "IDM",
+    "Glitch",
+    "Micro",
+    "Ambient",
+    "Space"
+  ],
+  "analysis": {
+    "durationSec": 249.26,
+    "bpm": 174.26,
+    "bpmConfidence": 0.4,
+    "beatOffset": 0.1273,
+    "key": {
+      "name": "Cm",
+      "camelot": "5A",
+      "confidence": 0.83
+    },
+    "rmsDb": -12.9,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

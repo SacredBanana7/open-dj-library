@@ -1,0 +1,42 @@
+{
+  "version": 1,
+  "id": "archive.org:BB23-doudouboy---erste-schalplatte/doudouboy---erste-schalplatte-track03.mp3",
+  "source": "archive.org",
+  "title": "altar of sacrifice",
+  "artist": "doudouboy",
+  "album": "erste schalplatte",
+  "pageUrl": "https://archive.org/details/BB23-doudouboy---erste-schalplatte",
+  "audioUrl": "https://archive.org/download/BB23-doudouboy---erste-schalplatte/doudouboy---erste-schalplatte-track03.mp3",
+  "fileName": "doudouboy---erste-schalplatte-track03.mp3",
+  "sizeBytes": 8475368,
+  "license": {
+    "code": "by-sa",
+    "version": "2.0",
+    "label": "CC BY-SA 2.0",
+    "url": "http://creativecommons.org/licenses/by-sa/2.0/",
+    "attribution": true,
+    "commercial": true,
+    "derivatives": true,
+    "shareAlike": true,
+    "publicDomain": false
+  },
+  "genre": "Electro",
+  "tags": [
+    "Easy Listening",
+    "Electro"
+  ],
+  "analysis": {
+    "durationSec": 264.83,
+    "bpm": 175,
+    "bpmConfidence": 0.46,
+    "beatOffset": 0.4077,
+    "key": {
+      "name": "C",
+      "camelot": "8B",
+      "confidence": 0.62
+    },
+    "rmsDb": -16.4,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

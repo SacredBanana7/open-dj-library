@@ -1,0 +1,43 @@
+{
+  "version": 1,
+  "id": "archive.org:siro463SisterSoleil-HauntedEp/01-SisterSoleil-Eyesfeat.Dolphin.mp3",
+  "source": "archive.org",
+  "title": "Eyes (Feat. Dolphin)",
+  "artist": "Sister Soleil",
+  "album": "Haunted EP",
+  "pageUrl": "https://archive.org/details/siro463SisterSoleil-HauntedEp",
+  "audioUrl": "https://archive.org/download/siro463SisterSoleil-HauntedEp/01-SisterSoleil-Eyesfeat.Dolphin.mp3",
+  "fileName": "01-SisterSoleil-Eyesfeat.Dolphin.mp3",
+  "sizeBytes": 10500982,
+  "license": {
+    "code": "by-nc-nd",
+    "version": "3.0",
+    "label": "CC BY-NC-ND 3.0",
+    "url": "http://creativecommons.org/licenses/by-nc-nd/3.0/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": false,
+    "shareAlike": false,
+    "publicDomain": false
+  },
+  "genre": "Ambient",
+  "tags": [
+    "Alternative Rock",
+    "Ambient",
+    "Trip-Hop"
+  ],
+  "analysis": {
+    "durationSec": 260.88,
+    "bpm": 126.66,
+    "bpmConfidence": 0.44,
+    "beatOffset": 0.376,
+    "key": {
+      "name": "Fm",
+      "camelot": "4A",
+      "confidence": 0.84
+    },
+    "rmsDb": -11.9,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

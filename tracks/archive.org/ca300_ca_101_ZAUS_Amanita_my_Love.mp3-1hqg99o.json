@@ -1,0 +1,52 @@
+{
+  "version": 1,
+  "id": "archive.org:ca300_ca/101_ZAUS__Amanita_my_Love.mp3",
+  "source": "archive.org",
+  "title": "101 - Zaus - Amanita, My Love!",
+  "artist": "Various",
+  "album": "ca300 - Various - Clinical Anthology (2006-2009) (CD1)",
+  "pageUrl": "https://archive.org/details/ca300_ca",
+  "audioUrl": "https://archive.org/download/ca300_ca/101_ZAUS__Amanita_my_Love.mp3",
+  "fileName": "101_ZAUS__Amanita_my_Love.mp3",
+  "sizeBytes": 10855621,
+  "license": {
+    "code": "by-nc-nd",
+    "version": "3.0",
+    "label": "CC BY-NC-ND 3.0",
+    "url": "http://creativecommons.org/licenses/by-nc-nd/3.0/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": false,
+    "shareAlike": false,
+    "publicDomain": false
+  },
+  "genre": "Disco / Funk",
+  "tags": [
+    "abstract",
+    "avant-garde",
+    "alternative",
+    "indie",
+    "intuition improvisation",
+    "free improv",
+    "jazz fusion",
+    "jazz",
+    "electronic jazz",
+    "free jazz",
+    "funk rocktronica",
+    "jam band"
+  ],
+  "analysis": {
+    "durationSec": 271.33,
+    "bpm": 140.9,
+    "bpmConfidence": 0.38,
+    "beatOffset": 0.7642,
+    "key": {
+      "name": "Bm",
+      "camelot": "10A",
+      "confidence": 0.68
+    },
+    "rmsDb": -9.7,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

@@ -1,0 +1,52 @@
+{
+  "version": 1,
+  "id": "archive.org:s27-027Sectioned/1-01WeTheDamaged.mp3",
+  "source": "archive.org",
+  "title": "1-01 We The Damaged",
+  "artist": "Nonima & theAudiologist",
+  "album": "[S27-027] Sectioned Disc 1",
+  "pageUrl": "https://archive.org/details/s27-027Sectioned",
+  "audioUrl": "https://archive.org/download/s27-027Sectioned/1-01WeTheDamaged.mp3",
+  "fileName": "1-01WeTheDamaged.mp3",
+  "sizeBytes": 19118950,
+  "license": {
+    "code": "by-nc-nd",
+    "version": "3.0",
+    "label": "CC BY-NC-ND 3.0",
+    "url": "http://creativecommons.org/licenses/by-nc-nd/3.0/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": false,
+    "shareAlike": false,
+    "publicDomain": false
+  },
+  "genre": "Dubstep",
+  "tags": [
+    "Sectioned",
+    "Section27",
+    "Netlabel",
+    "Compilation",
+    "[S27-027]",
+    "Nonima",
+    "theAudiologist",
+    "NICKR61",
+    "CutRepeat",
+    "CountDuckula",
+    "PornophonikPK",
+    "JimmyTheHideousPenguin"
+  ],
+  "analysis": {
+    "durationSec": 597.16,
+    "bpm": 133.34,
+    "bpmConfidence": 0.47,
+    "beatOffset": 1.567,
+    "key": {
+      "name": "A#",
+      "camelot": "6B",
+      "confidence": 0.68
+    },
+    "rmsDb": -12.5,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

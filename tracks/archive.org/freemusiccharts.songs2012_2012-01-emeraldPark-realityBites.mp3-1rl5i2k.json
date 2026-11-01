@@ -1,0 +1,50 @@
+{
+  "version": 1,
+  "id": "archive.org:freemusiccharts.songs2012/2012-01-emeraldPark-realityBites.mp3",
+  "source": "archive.org",
+  "title": "2012-01-Emerald Park-Reality Bites",
+  "artist": "Emerald Park",
+  "album": "Reality Bites",
+  "pageUrl": "https://archive.org/details/freemusiccharts.songs2012",
+  "audioUrl": "https://archive.org/download/freemusiccharts.songs2012/2012-01-emeraldPark-realityBites.mp3",
+  "fileName": "2012-01-emeraldPark-realityBites.mp3",
+  "sizeBytes": 8453452,
+  "license": {
+    "code": "by-nc-sa",
+    "version": "3.0",
+    "label": "CC BY-NC-SA 3.0 DE",
+    "url": "http://creativecommons.org/licenses/by-nc-sa/3.0/de/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": true,
+    "shareAlike": true,
+    "publicDomain": false
+  },
+  "genre": "Electro",
+  "tags": [
+    "Free Music",
+    "darkerradio",
+    "Creative Commons",
+    "Charts",
+    "Alternative",
+    "Rock",
+    "Electro",
+    "Gothic",
+    "Indie",
+    "Wave"
+  ],
+  "analysis": {
+    "durationSec": 199.97,
+    "bpm": 133.34,
+    "bpmConfidence": 0.47,
+    "beatOffset": 1.7733,
+    "key": {
+      "name": "C",
+      "camelot": "8B",
+      "confidence": 0.88
+    },
+    "rmsDb": -14,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

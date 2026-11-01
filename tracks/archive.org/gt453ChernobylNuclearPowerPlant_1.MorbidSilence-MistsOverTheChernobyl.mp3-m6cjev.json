@@ -1,0 +1,52 @@
+{
+  "version": 1,
+  "id": "archive.org:gt453ChernobylNuclearPowerPlant/1.MorbidSilence-MistsOverTheChernobyl.mp3",
+  "source": "archive.org",
+  "title": "1. Morbid Silence - Mists Over The Chernobyl",
+  "artist": "Morbid Silence",
+  "album": "Chernobyl Nuclear Power Plant",
+  "pageUrl": "https://archive.org/details/gt453ChernobylNuclearPowerPlant",
+  "audioUrl": "https://archive.org/download/gt453ChernobylNuclearPowerPlant/1.MorbidSilence-MistsOverTheChernobyl.mp3",
+  "fileName": "1.MorbidSilence-MistsOverTheChernobyl.mp3",
+  "sizeBytes": 8616795,
+  "license": {
+    "code": "cc0",
+    "version": "1.0",
+    "label": "CC0 1.0",
+    "url": "http://creativecommons.org/publicdomain/zero/1.0/",
+    "attribution": false,
+    "commercial": true,
+    "derivatives": true,
+    "shareAlike": false,
+    "publicDomain": true
+  },
+  "genre": "Trance",
+  "tags": [
+    "Genetic Trance",
+    "morbid silence",
+    "ptomain",
+    "Radio Noiseville",
+    "RMSS Systems Inc.",
+    "nevar",
+    "dark",
+    "ambient",
+    "darkwave",
+    "ethereal",
+    "experimental",
+    "industrial"
+  ],
+  "analysis": {
+    "durationSec": 504.66,
+    "bpm": 150,
+    "bpmConfidence": 0.42,
+    "beatOffset": 0.3398,
+    "key": {
+      "name": "Cm",
+      "camelot": "5A",
+      "confidence": 0.47
+    },
+    "rmsDb": -21.9,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

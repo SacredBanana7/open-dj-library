@@ -1,0 +1,49 @@
+{
+  "version": 1,
+  "id": "archive.org:afm004_allmyfaults_neonoir/02canyouhearthesefootsteps.mp3",
+  "source": "archive.org",
+  "title": "Can you hear these footsteps coming upstairs at night?",
+  "artist": "all:my:faults",
+  "album": "neo.NøiR",
+  "pageUrl": "https://archive.org/details/afm004_allmyfaults_neonoir",
+  "audioUrl": "https://archive.org/download/afm004_allmyfaults_neonoir/02canyouhearthesefootsteps.mp3",
+  "fileName": "02canyouhearthesefootsteps.mp3",
+  "sizeBytes": 7725056,
+  "license": {
+    "code": "by-nc-sa",
+    "version": "2.0",
+    "label": "CC BY-NC-SA 2.0 DE",
+    "url": "http://creativecommons.org/licenses/by-nc-sa/2.0/de/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": true,
+    "shareAlike": true,
+    "publicDomain": false
+  },
+  "genre": "Electro",
+  "tags": [
+    "Alternative",
+    "Electronic",
+    "Electro",
+    "Darkwave",
+    "Gothic",
+    "Rock",
+    "Industrial",
+    "afmusic:",
+    "all:my:faults"
+  ],
+  "analysis": {
+    "durationSec": 320.49,
+    "bpm": 125,
+    "bpmConfidence": 0.59,
+    "beatOffset": 1.65,
+    "key": {
+      "name": "Em",
+      "camelot": "9A",
+      "confidence": 0.81
+    },
+    "rmsDb": -9.4,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

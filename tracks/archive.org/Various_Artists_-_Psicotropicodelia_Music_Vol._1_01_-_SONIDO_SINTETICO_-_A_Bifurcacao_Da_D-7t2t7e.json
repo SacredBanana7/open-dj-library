@@ -1,0 +1,52 @@
+{
+  "version": 1,
+  "id": "archive.org:Various_Artists_-_Psicotropicodelia_Music_Vol._1/01_-_SONIDO_SINTETICO_-_A_Bifurcacao_Da_Dobra_Quantica.mp3",
+  "source": "archive.org",
+  "title": "A Bifurcacao Da Dobra Quantica",
+  "artist": "Sonido Sintetico",
+  "album": "Psicotropicodelia Music Vol. 1",
+  "pageUrl": "https://archive.org/details/Various_Artists_-_Psicotropicodelia_Music_Vol._1",
+  "audioUrl": "https://archive.org/download/Various_Artists_-_Psicotropicodelia_Music_Vol._1/01_-_SONIDO_SINTETICO_-_A_Bifurcacao_Da_Dobra_Quantica.mp3",
+  "fileName": "01_-_SONIDO_SINTETICO_-_A_Bifurcacao_Da_Dobra_Quantica.mp3",
+  "sizeBytes": 8175744,
+  "license": {
+    "code": "by",
+    "version": "3.0",
+    "label": "CC BY 3.0",
+    "url": "http://creativecommons.org/licenses/by/3.0/",
+    "attribution": true,
+    "commercial": true,
+    "derivatives": true,
+    "shareAlike": false,
+    "publicDomain": false
+  },
+  "genre": "Electro",
+  "tags": [
+    "psicotropicodelia",
+    "experimental",
+    "melrah",
+    "music",
+    "breakcore",
+    "electro",
+    "idm",
+    "ambient",
+    "noise",
+    "core",
+    "extreme",
+    "fun"
+  ],
+  "analysis": {
+    "durationSec": 340.48,
+    "bpm": 134,
+    "bpmConfidence": 1,
+    "beatOffset": 0.3063,
+    "key": {
+      "name": "Am",
+      "camelot": "8A",
+      "confidence": 0.76
+    },
+    "rmsDb": -16.1,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

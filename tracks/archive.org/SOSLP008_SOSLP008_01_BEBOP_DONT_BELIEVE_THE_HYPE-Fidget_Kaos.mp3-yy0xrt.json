@@ -1,0 +1,41 @@
+{
+  "version": 1,
+  "id": "archive.org:SOSLP008/SOSLP008_01_BEBOP_DONT_BELIEVE_THE_HYPE-Fidget_Kaos.mp3",
+  "source": "archive.org",
+  "title": "Fidget Kaos",
+  "artist": "Bebop",
+  "album": "Dont believe the hype",
+  "pageUrl": "https://archive.org/details/SOSLP008",
+  "audioUrl": "https://archive.org/download/SOSLP008/SOSLP008_01_BEBOP_DONT_BELIEVE_THE_HYPE-Fidget_Kaos.mp3",
+  "fileName": "SOSLP008_01_BEBOP_DONT_BELIEVE_THE_HYPE-Fidget_Kaos.mp3",
+  "sizeBytes": 8412581,
+  "license": {
+    "code": "by-nc-nd",
+    "version": "2.5",
+    "label": "CC BY-NC-ND 2.5 IT",
+    "url": "http://creativecommons.org/licenses/by-nc-nd/2.5/it/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": false,
+    "shareAlike": false,
+    "publicDomain": false
+  },
+  "genre": "Electro",
+  "tags": [
+    "soslp008, sostanze records, electro, fidget, break,breakbeat"
+  ],
+  "analysis": {
+    "durationSec": 210.29,
+    "bpm": 130,
+    "bpmConfidence": 1,
+    "beatOffset": 0.4924,
+    "key": {
+      "name": "G#m",
+      "camelot": "1A",
+      "confidence": 0.55
+    },
+    "rmsDb": -14.3,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

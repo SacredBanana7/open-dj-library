@@ -1,0 +1,44 @@
+{
+  "version": 1,
+  "id": "archive.org:pcr089EmilDavydov-Sketches/pcr089_03_emil_davydov_sketch_no3.mp3",
+  "source": "archive.org",
+  "title": "Sketch No.3",
+  "artist": "Emil Davydov",
+  "album": "(PCR089) Sketches",
+  "pageUrl": "https://archive.org/details/pcr089EmilDavydov-Sketches",
+  "audioUrl": "https://archive.org/download/pcr089EmilDavydov-Sketches/pcr089_03_emil_davydov_sketch_no3.mp3",
+  "fileName": "pcr089_03_emil_davydov_sketch_no3.mp3",
+  "sizeBytes": 7492834,
+  "license": {
+    "code": "by-nd",
+    "version": "3.0",
+    "label": "CC BY-ND 3.0 DE",
+    "url": "http://creativecommons.org/licenses/by-nd/3.0/de/",
+    "attribution": true,
+    "commercial": true,
+    "derivatives": false,
+    "shareAlike": false,
+    "publicDomain": false
+  },
+  "genre": "Ambient",
+  "tags": [
+    "Pharmacom Records",
+    "Experimental",
+    "Classic",
+    "Ambient"
+  ],
+  "analysis": {
+    "durationSec": 178.34,
+    "bpm": 140,
+    "bpmConfidence": 1,
+    "beatOffset": 1.536,
+    "key": {
+      "name": "Gm",
+      "camelot": "6A",
+      "confidence": 0.74
+    },
+    "rmsDb": -12.2,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

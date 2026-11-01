@@ -1,0 +1,45 @@
+{
+  "version": 1,
+  "id": "archive.org:epa039/02_klaruz.mp3",
+  "source": "archive.org",
+  "title": "02_klaruz",
+  "artist": "edd_gordon",
+  "album": "[epa039] canto_nativo",
+  "pageUrl": "https://archive.org/details/epa039",
+  "audioUrl": "https://archive.org/download/epa039/02_klaruz.mp3",
+  "fileName": "02_klaruz.mp3",
+  "sizeBytes": 10373120,
+  "license": {
+    "code": "by-nc",
+    "version": "3.0",
+    "label": "CC BY-NC 3.0",
+    "url": "http://creativecommons.org/licenses/by-nc/3.0/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": true,
+    "shareAlike": false,
+    "publicDomain": false
+  },
+  "genre": "Trance",
+  "tags": [
+    "edd_gordon",
+    "canto nativo",
+    "epa039",
+    "epa sonidos",
+    "psytrance"
+  ],
+  "analysis": {
+    "durationSec": 432.17,
+    "bpm": 145.36,
+    "bpmConfidence": 0.81,
+    "beatOffset": 0.1724,
+    "key": {
+      "name": "A",
+      "camelot": "11B",
+      "confidence": 0.64
+    },
+    "rmsDb": -14,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

@@ -1,0 +1,45 @@
+{
+  "version": 1,
+  "id": "archive.org:nws142/02Hz.mp3",
+  "source": "archive.org",
+  "title": "HZ",
+  "artist": "Neonicle",
+  "album": "[RTSW13] Synthetic Voodoo Night",
+  "pageUrl": "https://archive.org/details/nws142",
+  "audioUrl": "https://archive.org/download/nws142/02Hz.mp3",
+  "fileName": "02Hz.mp3",
+  "sizeBytes": 12574928,
+  "license": {
+    "code": "by-nc-sa",
+    "version": "3.0",
+    "label": "CC BY-NC-SA 3.0",
+    "url": "http://creativecommons.org/licenses/by-nc-sa/3.0/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": true,
+    "shareAlike": true,
+    "publicDomain": false
+  },
+  "genre": "House",
+  "tags": [
+    "electronic",
+    "idm",
+    "techhouse",
+    "deep house",
+    "lounge"
+  ],
+  "analysis": {
+    "durationSec": 353,
+    "bpm": 132,
+    "bpmConfidence": 0.69,
+    "beatOffset": 0.0307,
+    "key": {
+      "name": "Em",
+      "camelot": "9A",
+      "confidence": 0.48
+    },
+    "rmsDb": -13,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

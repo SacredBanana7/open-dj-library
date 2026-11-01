@@ -1,0 +1,51 @@
+{
+  "version": 1,
+  "id": "archive.org:m3d049_baudOfPassion_by_xik/m3d049_bopSrc_01_synchronizedToYourEyes_by_xik.mp3",
+  "source": "archive.org",
+  "title": "synchronized to your eyes",
+  "artist": "x|k",
+  "album": "baud of passion (individual tracks)",
+  "pageUrl": "https://archive.org/details/m3d049_baudOfPassion_by_xik",
+  "audioUrl": "https://archive.org/download/m3d049_baudOfPassion_by_xik/m3d049_bopSrc_01_synchronizedToYourEyes_by_xik.mp3",
+  "fileName": "m3d049_bopSrc_01_synchronizedToYourEyes_by_xik.mp3",
+  "sizeBytes": 10217974,
+  "license": {
+    "code": "by-sa",
+    "version": "3.0",
+    "label": "CC BY-SA 3.0 US",
+    "url": "http://creativecommons.org/licenses/by-sa/3.0/us/",
+    "attribution": true,
+    "commercial": true,
+    "derivatives": true,
+    "shareAlike": true,
+    "publicDomain": false
+  },
+  "genre": "House",
+  "tags": [
+    "nes",
+    "chip music",
+    "midines",
+    "midi nes",
+    "techno",
+    "140bpm",
+    "140 bpm",
+    "140",
+    "house",
+    "jackin",
+    "maximum minimal"
+  ],
+  "analysis": {
+    "durationSec": 425.48,
+    "bpm": 140,
+    "bpmConfidence": 1,
+    "beatOffset": 0.8575,
+    "key": {
+      "name": "B",
+      "camelot": "1B",
+      "confidence": 0.69
+    },
+    "rmsDb": -13.9,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

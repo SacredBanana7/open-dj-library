@@ -1,0 +1,47 @@
+{
+  "version": 1,
+  "id": "archive.org:mt006/02_-_Etwas_Funky.mp3",
+  "source": "archive.org",
+  "title": "Etwas Funky",
+  "artist": "Doc",
+  "album": "Nein Absolut Nicht",
+  "pageUrl": "https://archive.org/details/mt006",
+  "audioUrl": "https://archive.org/download/mt006/02_-_Etwas_Funky.mp3",
+  "fileName": "02_-_Etwas_Funky.mp3",
+  "sizeBytes": 6375424,
+  "license": {
+    "code": "by",
+    "version": "2.5",
+    "label": "CC BY 2.5",
+    "url": "http://creativecommons.org/licenses/by/2.5/",
+    "attribution": true,
+    "commercial": true,
+    "derivatives": true,
+    "shareAlike": false,
+    "publicDomain": false
+  },
+  "genre": "Disco / Funk",
+  "tags": [
+    "electronica",
+    "experimental electronica",
+    "found sounds",
+    "field recordings",
+    "disco",
+    "retro disco",
+    "dance"
+  ],
+  "analysis": {
+    "durationSec": 220.48,
+    "bpm": 100,
+    "bpmConfidence": 1,
+    "beatOffset": 1.2087,
+    "key": {
+      "name": "Am",
+      "camelot": "8A",
+      "confidence": 0.58
+    },
+    "rmsDb": -15.2,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

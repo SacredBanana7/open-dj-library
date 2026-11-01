@@ -1,0 +1,51 @@
+{
+  "version": 1,
+  "id": "archive.org:AORAORYoullNeverTakeMeAlive/01__Rogue.mp3",
+  "source": "archive.org",
+  "title": "Rogue",
+  "artist": "Apostles of Robespierre",
+  "album": "You'll Never Take Me Alive",
+  "pageUrl": "https://archive.org/details/AORAORYoullNeverTakeMeAlive",
+  "audioUrl": "https://archive.org/download/AORAORYoullNeverTakeMeAlive/01__Rogue.mp3",
+  "fileName": "01__Rogue.mp3",
+  "sizeBytes": 7952244,
+  "license": {
+    "code": "pd",
+    "label": "Public Domain",
+    "url": "http://creativecommons.org/licenses/publicdomain/",
+    "attribution": false,
+    "commercial": true,
+    "derivatives": true,
+    "shareAlike": false,
+    "publicDomain": true
+  },
+  "genre": "Drum & Bass",
+  "tags": [
+    "Ambient",
+    "Drum & Bass",
+    "Electronic",
+    "Breakbeat",
+    "Beyond Classification",
+    "Political",
+    "Full Album",
+    "House",
+    "Drum and Bass",
+    "Noise",
+    "Experimental",
+    "Ambient"
+  ],
+  "analysis": {
+    "durationSec": 331.53,
+    "bpm": 118,
+    "bpmConfidence": 0.81,
+    "beatOffset": 1.0174,
+    "key": {
+      "name": "Em",
+      "camelot": "9A",
+      "confidence": 0.76
+    },
+    "rmsDb": -11.6,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

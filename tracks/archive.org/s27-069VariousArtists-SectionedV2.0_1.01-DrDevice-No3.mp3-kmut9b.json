@@ -1,0 +1,52 @@
+{
+  "version": 1,
+  "id": "archive.org:s27-069VariousArtists-SectionedV2.0/1.01-DrDevice-No3.mp3",
+  "source": "archive.org",
+  "title": "1.01 - Dr Device - No3",
+  "artist": "Dr Device",
+  "album": "Sectioned v2.0",
+  "pageUrl": "https://archive.org/details/s27-069VariousArtists-SectionedV2.0",
+  "audioUrl": "https://archive.org/download/s27-069VariousArtists-SectionedV2.0/1.01-DrDevice-No3.mp3",
+  "fileName": "1.01-DrDevice-No3.mp3",
+  "sizeBytes": 14652433,
+  "license": {
+    "code": "by-nc-nd",
+    "version": "3.0",
+    "label": "CC BY-NC-ND 3.0",
+    "url": "http://creativecommons.org/licenses/by-nc-nd/3.0/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": false,
+    "shareAlike": false,
+    "publicDomain": false
+  },
+  "genre": "Dubstep",
+  "tags": [
+    "Various",
+    "Artists",
+    "Section 27",
+    "Sectioned",
+    "v2.0",
+    "Compilation",
+    "Dr Device",
+    "Trills",
+    "Enabl.ed",
+    "RNDM5",
+    "Illocanblo",
+    "Swarm Intelligence"
+  ],
+  "analysis": {
+    "durationSec": 348.73,
+    "bpm": 160,
+    "bpmConfidence": 0.82,
+    "beatOffset": 0.2673,
+    "key": {
+      "name": "D",
+      "camelot": "10B",
+      "confidence": 0.59
+    },
+    "rmsDb": -12,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

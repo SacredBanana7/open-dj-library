@@ -1,0 +1,46 @@
+{
+  "version": 1,
+  "id": "archive.org:Vkrsnl037CandlegravityAMomentForMyself/Candlegravity-AMomentForMyself-02-LoveBreaks.mp3",
+  "source": "archive.org",
+  "title": "Love Breaks",
+  "artist": "Candlegravity",
+  "album": "A Moment for Myself",
+  "pageUrl": "https://archive.org/details/Vkrsnl037CandlegravityAMomentForMyself",
+  "audioUrl": "https://archive.org/download/Vkrsnl037CandlegravityAMomentForMyself/Candlegravity-AMomentForMyself-02-LoveBreaks.mp3",
+  "fileName": "Candlegravity-AMomentForMyself-02-LoveBreaks.mp3",
+  "sizeBytes": 10527389,
+  "license": {
+    "code": "by-nc-nd",
+    "version": "3.0",
+    "label": "CC BY-NC-ND 3.0",
+    "url": "http://creativecommons.org/licenses/by-nc-nd/3.0/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": false,
+    "shareAlike": false,
+    "publicDomain": false
+  },
+  "genre": "IDM / Electronica",
+  "tags": [
+    "VKRS",
+    "Candlegravity",
+    "Electronica",
+    "Downtempo",
+    "Ambient",
+    "Netlabel"
+  ],
+  "analysis": {
+    "durationSec": 301.84,
+    "bpm": 160,
+    "bpmConfidence": 0.78,
+    "beatOffset": 0.1151,
+    "key": {
+      "name": "Dm",
+      "camelot": "7A",
+      "confidence": 0.88
+    },
+    "rmsDb": -16.3,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

@@ -1,0 +1,51 @@
+{
+  "version": 1,
+  "id": "archive.org:decent/04-you_cant_win.mp3",
+  "source": "archive.org",
+  "title": "You Can't Win",
+  "artist": "Scrap Heap",
+  "album": "Decent",
+  "pageUrl": "https://archive.org/details/decent",
+  "audioUrl": "https://archive.org/download/decent/04-you_cant_win.mp3",
+  "fileName": "04-you_cant_win.mp3",
+  "sizeBytes": 5814272,
+  "license": {
+    "code": "pd",
+    "label": "Public Domain",
+    "url": "http://creativecommons.org/licenses/publicdomain/",
+    "attribution": false,
+    "commercial": true,
+    "derivatives": true,
+    "shareAlike": false,
+    "publicDomain": true
+  },
+  "genre": "Breakbeat",
+  "tags": [
+    "album-a-day",
+    "electronic",
+    "experimental",
+    "breakbeat",
+    "dark breaks",
+    "heavy",
+    "beat-oriented",
+    "bohlen-pierce",
+    "noise",
+    "full album",
+    "self-produced",
+    "public domain"
+  ],
+  "analysis": {
+    "durationSec": 227.6,
+    "bpm": 136.62,
+    "bpmConfidence": 0.68,
+    "beatOffset": 0.6797,
+    "key": {
+      "name": "A#m",
+      "camelot": "3A",
+      "confidence": 0.5
+    },
+    "rmsDb": -8,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

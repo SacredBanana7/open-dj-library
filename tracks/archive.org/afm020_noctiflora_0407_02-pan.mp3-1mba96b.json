@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "id": "archive.org:afm020_noctiflora_0407/02-pan.mp3",
+  "source": "archive.org",
+  "title": "Pan",
+  "artist": "Noctiflora",
+  "album": "04/07",
+  "pageUrl": "https://archive.org/details/afm020_noctiflora_0407",
+  "audioUrl": "https://archive.org/download/afm020_noctiflora_0407/02-pan.mp3",
+  "fileName": "02-pan.mp3",
+  "sizeBytes": 8564864,
+  "license": {
+    "code": "by-nc-sa",
+    "version": "2.0",
+    "label": "CC BY-NC-SA 2.0 DE",
+    "url": "http://creativecommons.org/licenses/by-nc-sa/2.0/de/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": true,
+    "shareAlike": true,
+    "publicDomain": false
+  },
+  "genre": "Electro",
+  "tags": [
+    "Alternative",
+    "Electronic",
+    "Electro",
+    "Darkwave",
+    "Gothic",
+    "Rock",
+    "Industrial",
+    "afmusic"
+  ],
+  "analysis": {
+    "durationSec": 356.73,
+    "bpm": 154,
+    "bpmConfidence": 0.39,
+    "beatOffset": 0.0541,
+    "key": {
+      "name": "Am",
+      "camelot": "8A",
+      "confidence": 0.97
+    },
+    "rmsDb": -11.9,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

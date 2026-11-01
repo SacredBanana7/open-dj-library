@@ -1,0 +1,46 @@
+{
+  "version": 1,
+  "id": "archive.org:miga42/02_adapt_-_jupiter_in_dub.mp3",
+  "source": "archive.org",
+  "title": "Jupiter in dub",
+  "artist": "adapt",
+  "album": "[Miga42]",
+  "pageUrl": "https://archive.org/details/miga42",
+  "audioUrl": "https://archive.org/download/miga42/02_adapt_-_jupiter_in_dub.mp3",
+  "fileName": "02_adapt_-_jupiter_in_dub.mp3",
+  "sizeBytes": 10655785,
+  "license": {
+    "code": "by-nc-sa",
+    "version": "3.0",
+    "label": "CC BY-NC-SA 3.0",
+    "url": "http://creativecommons.org/licenses/by-nc-sa/3.0/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": true,
+    "shareAlike": true,
+    "publicDomain": false
+  },
+  "genre": "Dubstep",
+  "tags": [
+    "miga",
+    "adapt",
+    "dubstep",
+    "electronic music",
+    "miga-label",
+    "miga42"
+  ],
+  "analysis": {
+    "durationSec": 263.37,
+    "bpm": 169,
+    "bpmConfidence": 0.41,
+    "beatOffset": 1.0186,
+    "key": {
+      "name": "D",
+      "camelot": "10B",
+      "confidence": 0.8
+    },
+    "rmsDb": -14.4,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

@@ -1,0 +1,52 @@
+{
+  "version": 1,
+  "id": "archive.org:ca015_va_cs/102.Toby_Dammit_I_Corpi_Presentano_Tracce.mp3",
+  "source": "archive.org",
+  "title": "102.Toby_Dammit_I_Corpi_Presentano_Tracce",
+  "artist": "Toby Dammit",
+  "album": "ca015 - Various - Clinical Sounds - Vol.1",
+  "pageUrl": "https://archive.org/details/ca015_va_cs",
+  "audioUrl": "https://archive.org/download/ca015_va_cs/102.Toby_Dammit_I_Corpi_Presentano_Tracce.mp3",
+  "fileName": "102.Toby_Dammit_I_Corpi_Presentano_Tracce.mp3",
+  "sizeBytes": 6485442,
+  "license": {
+    "code": "by-nc-nd",
+    "version": "3.0",
+    "label": "CC BY-NC-ND 3.0",
+    "url": "http://creativecommons.org/licenses/by-nc-nd/3.0/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": false,
+    "shareAlike": false,
+    "publicDomain": false
+  },
+  "genre": "Trance",
+  "tags": [
+    "illogical",
+    "eclectic",
+    "noise",
+    "abstract",
+    "free improvisation",
+    "dark ambient",
+    "ambient",
+    "industrial",
+    "electronica",
+    "field recordings",
+    "glitch",
+    "microsound"
+  ],
+  "analysis": {
+    "durationSec": 270.13,
+    "bpm": 158.68,
+    "bpmConfidence": 0.39,
+    "beatOffset": 0.297,
+    "key": {
+      "name": "G",
+      "camelot": "9B",
+      "confidence": 0.22
+    },
+    "rmsDb": -2.3,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

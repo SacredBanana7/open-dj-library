@@ -1,0 +1,45 @@
+{
+  "version": 1,
+  "id": "archive.org:epa039/03_now_no.mp3",
+  "source": "archive.org",
+  "title": "03_now_no",
+  "artist": "edd_gordon",
+  "album": "[epa039] canto_nativo",
+  "pageUrl": "https://archive.org/details/epa039",
+  "audioUrl": "https://archive.org/download/epa039/03_now_no.mp3",
+  "fileName": "03_now_no.mp3",
+  "sizeBytes": 11560960,
+  "license": {
+    "code": "by-nc",
+    "version": "3.0",
+    "label": "CC BY-NC 3.0",
+    "url": "http://creativecommons.org/licenses/by-nc/3.0/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": true,
+    "shareAlike": false,
+    "publicDomain": false
+  },
+  "genre": "Trance",
+  "tags": [
+    "edd_gordon",
+    "canto nativo",
+    "epa039",
+    "epa sonidos",
+    "psytrance"
+  ],
+  "analysis": {
+    "durationSec": 481.62,
+    "bpm": 147.28,
+    "bpmConfidence": 0.4,
+    "beatOffset": 1.4267,
+    "key": {
+      "name": "C",
+      "camelot": "8B",
+      "confidence": 0.53
+    },
+    "rmsDb": -13.5,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

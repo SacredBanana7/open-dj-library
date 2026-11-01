@@ -1,0 +1,45 @@
+{
+  "version": 1,
+  "id": "archive.org:DWK149/Boogie_Belgique_-_01_-_Dance_With_The_Democrat.mp3",
+  "source": "archive.org",
+  "title": "Dance With The Democrat",
+  "artist": "Boogie Belgique",
+  "album": "Blueberry Hill (LP)",
+  "pageUrl": "https://archive.org/details/DWK149",
+  "audioUrl": "https://archive.org/download/DWK149/Boogie_Belgique_-_01_-_Dance_With_The_Democrat.mp3",
+  "fileName": "Boogie_Belgique_-_01_-_Dance_With_The_Democrat.mp3",
+  "sizeBytes": 8425098,
+  "license": {
+    "code": "by-nc-nd",
+    "version": "3.0",
+    "label": "CC BY-NC-ND 3.0",
+    "url": "http://creativecommons.org/licenses/by-nc-nd/3.0/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": false,
+    "shareAlike": false,
+    "publicDomain": false
+  },
+  "genre": "Electro",
+  "tags": [
+    "Boogie Belgique",
+    "Dusted Wax Kingdom",
+    "instrumental hip-hop",
+    "electro swing",
+    "jazz"
+  ],
+  "analysis": {
+    "durationSec": 210.57,
+    "bpm": 114,
+    "bpmConfidence": 1,
+    "beatOffset": 0.0231,
+    "key": {
+      "name": "Gm",
+      "camelot": "6A",
+      "confidence": 0.73
+    },
+    "rmsDb": -13.4,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

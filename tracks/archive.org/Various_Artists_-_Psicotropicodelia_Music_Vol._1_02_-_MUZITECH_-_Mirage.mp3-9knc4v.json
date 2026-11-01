@@ -1,0 +1,52 @@
+{
+  "version": 1,
+  "id": "archive.org:Various_Artists_-_Psicotropicodelia_Music_Vol._1/02_-_MUZITECH_-_Mirage.mp3",
+  "source": "archive.org",
+  "title": "Mirage",
+  "artist": "Muzitech",
+  "album": "Psicotropicodelia Music Vol. 1",
+  "pageUrl": "https://archive.org/details/Various_Artists_-_Psicotropicodelia_Music_Vol._1",
+  "audioUrl": "https://archive.org/download/Various_Artists_-_Psicotropicodelia_Music_Vol._1/02_-_MUZITECH_-_Mirage.mp3",
+  "fileName": "02_-_MUZITECH_-_Mirage.mp3",
+  "sizeBytes": 4605869,
+  "license": {
+    "code": "by",
+    "version": "3.0",
+    "label": "CC BY 3.0",
+    "url": "http://creativecommons.org/licenses/by/3.0/",
+    "attribution": true,
+    "commercial": true,
+    "derivatives": true,
+    "shareAlike": false,
+    "publicDomain": false
+  },
+  "genre": "Electro",
+  "tags": [
+    "psicotropicodelia",
+    "experimental",
+    "melrah",
+    "music",
+    "breakcore",
+    "electro",
+    "idm",
+    "ambient",
+    "noise",
+    "core",
+    "extreme",
+    "fun"
+  ],
+  "analysis": {
+    "durationSec": 191.84,
+    "bpm": 140,
+    "bpmConfidence": 1,
+    "beatOffset": 0.4153,
+    "key": {
+      "name": "G",
+      "camelot": "9B",
+      "confidence": 0.66
+    },
+    "rmsDb": -12.5,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

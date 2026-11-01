@@ -1,0 +1,44 @@
+{
+  "version": 1,
+  "id": "archive.org:MIXG016/02_-_Thend_-_Chromatic_Sins.mp3",
+  "source": "archive.org",
+  "title": "Chromatic Sins",
+  "artist": "Th.e n.d",
+  "album": "Metaphors",
+  "pageUrl": "https://archive.org/details/MIXG016",
+  "audioUrl": "https://archive.org/download/MIXG016/02_-_Thend_-_Chromatic_Sins.mp3",
+  "fileName": "02_-_Thend_-_Chromatic_Sins.mp3",
+  "sizeBytes": 11915407,
+  "license": {
+    "code": "by-nc",
+    "version": "3.0",
+    "label": "CC BY-NC 3.0",
+    "url": "http://creativecommons.org/licenses/by-nc/3.0/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": true,
+    "shareAlike": false,
+    "publicDomain": false
+  },
+  "genre": "Breakbeat",
+  "tags": [
+    "downtempo",
+    "trip-hop",
+    "breaks",
+    "electroacoustic"
+  ],
+  "analysis": {
+    "durationSec": 295.73,
+    "bpm": 125,
+    "bpmConfidence": 0.9,
+    "beatOffset": 0.0258,
+    "key": {
+      "name": "F#",
+      "camelot": "2B",
+      "confidence": 0.85
+    },
+    "rmsDb": -14.9,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

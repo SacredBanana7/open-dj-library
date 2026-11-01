@@ -1,0 +1,46 @@
+{
+  "version": 1,
+  "id": "archive.org:elevatormusic/elevatormusic.mp3",
+  "source": "archive.org",
+  "title": "elevatormusic",
+  "artist": "Digi Hartatak",
+  "album": "Elevator Music",
+  "pageUrl": "https://archive.org/details/elevatormusic",
+  "audioUrl": "https://archive.org/download/elevatormusic/elevatormusic.mp3",
+  "fileName": "elevatormusic.mp3",
+  "sizeBytes": 4103680,
+  "license": {
+    "code": "by",
+    "version": "3.0",
+    "label": "CC BY 3.0",
+    "url": "http://creativecommons.org/licenses/by/3.0/",
+    "attribution": true,
+    "commercial": true,
+    "derivatives": true,
+    "shareAlike": false,
+    "publicDomain": false
+  },
+  "genre": "Drum & Bass",
+  "tags": [
+    "weird",
+    "instrumental",
+    "experimental",
+    "drone",
+    "jungle",
+    "electronic"
+  ],
+  "analysis": {
+    "durationSec": 178.18,
+    "bpm": 132,
+    "bpmConfidence": 0.93,
+    "beatOffset": 0.0024,
+    "key": {
+      "name": "Em",
+      "camelot": "9A",
+      "confidence": 0.74
+    },
+    "rmsDb": -15.3,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

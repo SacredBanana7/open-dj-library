@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "id": "archive.org:Vkrsnl038MirandaShvangiradzeTalkToMeEp/2TalkToMe.mp3",
+  "source": "archive.org",
+  "title": "Talk to me",
+  "artist": "Miranda Shvangiradze",
+  "album": "Talk to Me EP",
+  "pageUrl": "https://archive.org/details/Vkrsnl038MirandaShvangiradzeTalkToMeEp",
+  "audioUrl": "https://archive.org/download/Vkrsnl038MirandaShvangiradzeTalkToMeEp/2TalkToMe.mp3",
+  "fileName": "2TalkToMe.mp3",
+  "sizeBytes": 9436476,
+  "license": {
+    "code": "by-nc-nd",
+    "version": "3.0",
+    "label": "CC BY-NC-ND 3.0",
+    "url": "http://creativecommons.org/licenses/by-nc-nd/3.0/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": false,
+    "shareAlike": false,
+    "publicDomain": false
+  },
+  "genre": "IDM / Electronica",
+  "tags": [
+    "Miranda Shvangiradze",
+    "VKRS",
+    "classical",
+    "piano",
+    "compositions",
+    "Electronica",
+    "Lounge",
+    "Downtempo"
+  ],
+  "analysis": {
+    "durationSec": 290.53,
+    "bpm": 100,
+    "bpmConfidence": 0.86,
+    "beatOffset": 0.0806,
+    "key": {
+      "name": "Dm",
+      "camelot": "7A",
+      "confidence": 0.84
+    },
+    "rmsDb": -22.7,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

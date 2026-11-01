@@ -1,0 +1,50 @@
+{
+  "version": 1,
+  "id": "archive.org:freemusiccharts.songs2012/2012-01-h.Zombie-taxiDriver.mp3",
+  "source": "archive.org",
+  "title": "2012-01-H. Zombie-Taxi Driver",
+  "artist": "H. Zombie",
+  "album": "Mutation",
+  "pageUrl": "https://archive.org/details/freemusiccharts.songs2012",
+  "audioUrl": "https://archive.org/download/freemusiccharts.songs2012/2012-01-h.Zombie-taxiDriver.mp3",
+  "fileName": "2012-01-h.Zombie-taxiDriver.mp3",
+  "sizeBytes": 13126717,
+  "license": {
+    "code": "by-nc-sa",
+    "version": "3.0",
+    "label": "CC BY-NC-SA 3.0 DE",
+    "url": "http://creativecommons.org/licenses/by-nc-sa/3.0/de/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": true,
+    "shareAlike": true,
+    "publicDomain": false
+  },
+  "genre": "Electro",
+  "tags": [
+    "Free Music",
+    "darkerradio",
+    "Creative Commons",
+    "Charts",
+    "Alternative",
+    "Rock",
+    "Electro",
+    "Gothic",
+    "Indie",
+    "Wave"
+  ],
+  "analysis": {
+    "durationSec": 328.34,
+    "bpm": 130,
+    "bpmConfidence": 1,
+    "beatOffset": 0.0205,
+    "key": {
+      "name": "Bm",
+      "camelot": "10A",
+      "confidence": 0.84
+    },
+    "rmsDb": -11.2,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

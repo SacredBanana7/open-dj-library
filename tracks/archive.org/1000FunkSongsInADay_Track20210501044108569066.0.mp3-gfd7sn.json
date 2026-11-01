@@ -1,0 +1,44 @@
+{
+  "version": 1,
+  "id": "archive.org:1000FunkSongsInADay/Track20210501044108569066.0.mp3",
+  "source": "archive.org",
+  "title": "Track20210501044108569066.0",
+  "artist": "DJ_Iterate",
+  "album": "1000 Funk Songs (In A Day)",
+  "pageUrl": "https://archive.org/details/1000FunkSongsInADay",
+  "audioUrl": "https://archive.org/download/1000FunkSongsInADay/Track20210501044108569066.0.mp3",
+  "fileName": "Track20210501044108569066.0.mp3",
+  "sizeBytes": 7232276,
+  "license": {
+    "code": "pdm",
+    "version": "1.0",
+    "label": "Public Domain Mark 1.0",
+    "url": "http://creativecommons.org/publicdomain/mark/1.0/",
+    "attribution": false,
+    "commercial": true,
+    "derivatives": true,
+    "shareAlike": false,
+    "publicDomain": true
+  },
+  "genre": "Disco / Funk",
+  "tags": [
+    "Thomas Park",
+    "generative",
+    "public domain",
+    "funk"
+  ],
+  "analysis": {
+    "durationSec": 301.26,
+    "bpm": 160.08,
+    "bpmConfidence": 0.45,
+    "beatOffset": 0.6811,
+    "key": {
+      "name": "F",
+      "camelot": "7B",
+      "confidence": 0.89
+    },
+    "rmsDb": -21.9,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

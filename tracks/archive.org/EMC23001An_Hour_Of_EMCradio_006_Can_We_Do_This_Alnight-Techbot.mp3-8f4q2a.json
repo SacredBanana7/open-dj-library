@@ -1,0 +1,41 @@
+{
+  "version": 1,
+  "id": "archive.org:EMC23001An_Hour_Of_EMCradio/006_Can_We_Do_This_Alnight-Techbot.mp3",
+  "source": "archive.org",
+  "title": "Can We Do This Alnight",
+  "artist": "Techbot",
+  "album": "An Hour Of EMCradio",
+  "pageUrl": "https://archive.org/details/EMC23001An_Hour_Of_EMCradio",
+  "audioUrl": "https://archive.org/download/EMC23001An_Hour_Of_EMCradio/006_Can_We_Do_This_Alnight-Techbot.mp3",
+  "fileName": "006_Can_We_Do_This_Alnight-Techbot.mp3",
+  "sizeBytes": 3461735,
+  "license": {
+    "code": "by-nc-nd",
+    "version": "2.5",
+    "label": "CC BY-NC-ND 2.5",
+    "url": "http://creativecommons.org/licenses/by-nc-nd/2.5/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": false,
+    "shareAlike": false,
+    "publicDomain": false
+  },
+  "genre": "Breakbeat",
+  "tags": [
+    "Eclectic, Radio, Ambient, Pop , Breakbeat,"
+  ],
+  "analysis": {
+    "durationSec": 288.1,
+    "bpm": 146.66,
+    "bpmConfidence": 0.78,
+    "beatOffset": 0.3335,
+    "key": {
+      "name": "Am",
+      "camelot": "8A",
+      "confidence": 0.73
+    },
+    "rmsDb": -12.5,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

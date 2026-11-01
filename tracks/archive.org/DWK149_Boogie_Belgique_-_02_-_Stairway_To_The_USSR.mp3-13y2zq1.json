@@ -1,0 +1,45 @@
+{
+  "version": 1,
+  "id": "archive.org:DWK149/Boogie_Belgique_-_02_-_Stairway_To_The_USSR.mp3",
+  "source": "archive.org",
+  "title": "Stairway To The USSR",
+  "artist": "Boogie Belgique",
+  "album": "Blueberry Hill (LP)",
+  "pageUrl": "https://archive.org/details/DWK149",
+  "audioUrl": "https://archive.org/download/DWK149/Boogie_Belgique_-_02_-_Stairway_To_The_USSR.mp3",
+  "fileName": "Boogie_Belgique_-_02_-_Stairway_To_The_USSR.mp3",
+  "sizeBytes": 6682209,
+  "license": {
+    "code": "by-nc-nd",
+    "version": "3.0",
+    "label": "CC BY-NC-ND 3.0",
+    "url": "http://creativecommons.org/licenses/by-nc-nd/3.0/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": false,
+    "shareAlike": false,
+    "publicDomain": false
+  },
+  "genre": "Electro",
+  "tags": [
+    "Boogie Belgique",
+    "Dusted Wax Kingdom",
+    "instrumental hip-hop",
+    "electro swing",
+    "jazz"
+  ],
+  "analysis": {
+    "durationSec": 167,
+    "bpm": 92,
+    "bpmConfidence": 1,
+    "beatOffset": 0.6693,
+    "key": {
+      "name": "Gm",
+      "camelot": "6A",
+      "confidence": 0.9
+    },
+    "rmsDb": -12.9,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

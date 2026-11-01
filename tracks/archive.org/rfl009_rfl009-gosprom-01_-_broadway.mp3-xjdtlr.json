@@ -1,0 +1,50 @@
+{
+  "version": 1,
+  "id": "archive.org:rfl009/rfl009-gosprom-01_-_broadway.mp3",
+  "source": "archive.org",
+  "title": "rfl009-gosprom-01_-_broadway",
+  "artist": "Gosprom",
+  "album": "Broadway",
+  "pageUrl": "https://archive.org/details/rfl009",
+  "audioUrl": "https://archive.org/download/rfl009/rfl009-gosprom-01_-_broadway.mp3",
+  "fileName": "rfl009-gosprom-01_-_broadway.mp3",
+  "sizeBytes": 4493436,
+  "license": {
+    "code": "by-sa",
+    "version": "3.0",
+    "label": "CC BY-SA 3.0",
+    "url": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "attribution": true,
+    "commercial": true,
+    "derivatives": true,
+    "shareAlike": true,
+    "publicDomain": false
+  },
+  "genre": "Hip Hop",
+  "tags": [
+    "Russian",
+    "Ukraine",
+    "hip hop",
+    "folk",
+    "jazz",
+    "poetry",
+    "Kharkov",
+    "Random Flow",
+    "scratches"
+  ],
+  "analysis": {
+    "durationSec": 187.06,
+    "bpm": 87.4,
+    "bpmConfidence": 0.42,
+    "beatOffset": 0.0447,
+    "key": {
+      "name": "Am",
+      "camelot": "8A",
+      "confidence": 0.87
+    },
+    "rmsDb": -11.4,
+    "analyzer": "pulsar-dj/analysis-worker 0.1",
+    "tempoFolded": 0.5
+  },
+  "added": "2026-11-01"
+}

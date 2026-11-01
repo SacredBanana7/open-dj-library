@@ -1,0 +1,52 @@
+{
+  "version": 1,
+  "id": "archive.org:gt536Maelstrom-ThePassage/01-Maelstrom-InAPaintedBlackWorld.mp3",
+  "source": "archive.org",
+  "title": "In a Painted Black World",
+  "artist": "Maelstrom",
+  "album": "The Passage",
+  "pageUrl": "https://archive.org/details/gt536Maelstrom-ThePassage",
+  "audioUrl": "https://archive.org/download/gt536Maelstrom-ThePassage/01-Maelstrom-InAPaintedBlackWorld.mp3",
+  "fileName": "01-Maelstrom-InAPaintedBlackWorld.mp3",
+  "sizeBytes": 13224064,
+  "license": {
+    "code": "cc0",
+    "version": "1.0",
+    "label": "CC0 1.0",
+    "url": "http://creativecommons.org/publicdomain/zero/1.0/",
+    "attribution": false,
+    "commercial": true,
+    "derivatives": true,
+    "shareAlike": false,
+    "publicDomain": true
+  },
+  "genre": "Trance",
+  "tags": [
+    "genetic trance",
+    "postrock",
+    "postmetal",
+    "metalgaze",
+    "avantgarde",
+    "experimental",
+    "shoegaze",
+    "sludge",
+    "alternative",
+    "indie",
+    "rock",
+    "atmospheric"
+  ],
+  "analysis": {
+    "durationSec": 329.4,
+    "bpm": 140,
+    "bpmConfidence": 0.48,
+    "beatOffset": 1.2383,
+    "key": {
+      "name": "Am",
+      "camelot": "8A",
+      "confidence": 0.66
+    },
+    "rmsDb": -15.2,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

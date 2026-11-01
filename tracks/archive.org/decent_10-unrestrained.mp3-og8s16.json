@@ -1,0 +1,51 @@
+{
+  "version": 1,
+  "id": "archive.org:decent/10-unrestrained.mp3",
+  "source": "archive.org",
+  "title": "Unrestrained",
+  "artist": "Scrap Heap",
+  "album": "Decent",
+  "pageUrl": "https://archive.org/details/decent",
+  "audioUrl": "https://archive.org/download/decent/10-unrestrained.mp3",
+  "fileName": "10-unrestrained.mp3",
+  "sizeBytes": 5051392,
+  "license": {
+    "code": "pd",
+    "label": "Public Domain",
+    "url": "http://creativecommons.org/licenses/publicdomain/",
+    "attribution": false,
+    "commercial": true,
+    "derivatives": true,
+    "shareAlike": false,
+    "publicDomain": true
+  },
+  "genre": "Breakbeat",
+  "tags": [
+    "album-a-day",
+    "electronic",
+    "experimental",
+    "breakbeat",
+    "dark breaks",
+    "heavy",
+    "beat-oriented",
+    "bohlen-pierce",
+    "noise",
+    "full album",
+    "self-produced",
+    "public domain"
+  ],
+  "analysis": {
+    "durationSec": 208.8,
+    "bpm": 163.74,
+    "bpmConfidence": 0.39,
+    "beatOffset": 0.4441,
+    "key": {
+      "name": "Gm",
+      "camelot": "6A",
+      "confidence": 0.62
+    },
+    "rmsDb": -10.5,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

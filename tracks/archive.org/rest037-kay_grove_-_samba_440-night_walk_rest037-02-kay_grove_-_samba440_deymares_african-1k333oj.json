@@ -1,0 +1,44 @@
+{
+  "version": 1,
+  "id": "archive.org:rest037-kay_grove_-_samba_440-night_walk/rest037-02-kay_grove_-_samba440_deymares_african_samba_remix.mp3",
+  "source": "archive.org",
+  "title": "Samba 440 (Deymare's African Samba Remix)",
+  "artist": "Kay Grove",
+  "album": "[rest037] Samba 440/Night Walk",
+  "pageUrl": "https://archive.org/details/rest037-kay_grove_-_samba_440-night_walk",
+  "audioUrl": "https://archive.org/download/rest037-kay_grove_-_samba_440-night_walk/rest037-02-kay_grove_-_samba440_deymares_african_samba_remix.mp3",
+  "fileName": "rest037-02-kay_grove_-_samba440_deymares_african_samba_remix.mp3",
+  "sizeBytes": 17924096,
+  "license": {
+    "code": "by-nc-nd",
+    "version": "3.0",
+    "label": "CC BY-NC-ND 3.0",
+    "url": "http://creativecommons.org/licenses/by-nc-nd/3.0/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": false,
+    "shareAlike": false,
+    "publicDomain": false
+  },
+  "genre": "House",
+  "tags": [
+    "Latin House",
+    "House",
+    "Deep House",
+    "Tech House"
+  ],
+  "analysis": {
+    "durationSec": 448,
+    "bpm": 120,
+    "bpmConfidence": 1,
+    "beatOffset": 1.0046,
+    "key": {
+      "name": "Bm",
+      "camelot": "10A",
+      "confidence": 0.8
+    },
+    "rmsDb": -15.5,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

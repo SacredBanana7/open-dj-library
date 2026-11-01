@@ -1,0 +1,52 @@
+{
+  "version": 1,
+  "id": "archive.org:PsicotropicodeliaMusicVol.3jan232008/1.02_-_N0_C0P5_C0RP0R4T10N_-_Biodynamic__A-TEK_Remix__-_The_Running_Man.mp3",
+  "source": "archive.org",
+  "title": "NO COP5 CORPOR4+10N - Biodynamic (A-TEK Remix) / The Running Man (split tracks)",
+  "artist": "NO COP5 CORPOR4+10N",
+  "album": "PSICOTROPICODELIA MUSIC # 3: Psicotropic",
+  "pageUrl": "https://archive.org/details/PsicotropicodeliaMusicVol.3jan232008",
+  "audioUrl": "https://archive.org/download/PsicotropicodeliaMusicVol.3jan232008/1.02_-_N0_C0P5_C0RP0R4T10N_-_Biodynamic__A-TEK_Remix__-_The_Running_Man.mp3",
+  "fileName": "1.02_-_N0_C0P5_C0RP0R4T10N_-_Biodynamic__A-TEK_Remix__-_The_Running_Man.mp3",
+  "sizeBytes": 16545792,
+  "license": {
+    "code": "by-nc-sa",
+    "version": "2.5",
+    "label": "CC BY-NC-SA 2.5 BR",
+    "url": "http://creativecommons.org/licenses/by-nc-sa/2.5/br/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": true,
+    "shareAlike": true,
+    "publicDomain": false
+  },
+  "genre": "Breakbeat",
+  "tags": [
+    "psicotropicodelia",
+    "electropunk",
+    "industrial",
+    "dubstep",
+    "experimental",
+    "melrah",
+    "music",
+    "breakcore",
+    "electro",
+    "idm",
+    "ambient",
+    "noise"
+  ],
+  "analysis": {
+    "durationSec": 413.57,
+    "bpm": 158.08,
+    "bpmConfidence": 0.53,
+    "beatOffset": 1.4725,
+    "key": {
+      "name": "G",
+      "camelot": "9B",
+      "confidence": 0.64
+    },
+    "rmsDb": -9.5,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

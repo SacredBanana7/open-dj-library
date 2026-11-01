@@ -1,0 +1,41 @@
+{
+  "version": 1,
+  "id": "archive.org:SOSLP008/SOSLP008_02_INNYU_DONT_BELIEVE_THE_HYPE-For_The_Hell_Of_It.mp3",
+  "source": "archive.org",
+  "title": "For The Hell Of It",
+  "artist": "Innyu",
+  "album": "Dont believe the hype",
+  "pageUrl": "https://archive.org/details/SOSLP008",
+  "audioUrl": "https://archive.org/download/SOSLP008/SOSLP008_02_INNYU_DONT_BELIEVE_THE_HYPE-For_The_Hell_Of_It.mp3",
+  "fileName": "SOSLP008_02_INNYU_DONT_BELIEVE_THE_HYPE-For_The_Hell_Of_It.mp3",
+  "sizeBytes": 12469919,
+  "license": {
+    "code": "by-nc-nd",
+    "version": "2.5",
+    "label": "CC BY-NC-ND 2.5 IT",
+    "url": "http://creativecommons.org/licenses/by-nc-nd/2.5/it/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": false,
+    "shareAlike": false,
+    "publicDomain": false
+  },
+  "genre": "Electro",
+  "tags": [
+    "soslp008, sostanze records, electro, fidget, break,breakbeat"
+  ],
+  "analysis": {
+    "durationSec": 311.72,
+    "bpm": 128,
+    "bpmConfidence": 0.85,
+    "beatOffset": 0.9681,
+    "key": {
+      "name": "Cm",
+      "camelot": "5A",
+      "confidence": 0.58
+    },
+    "rmsDb": -14.1,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

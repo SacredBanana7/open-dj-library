@@ -1,0 +1,46 @@
+{
+  "version": 1,
+  "id": "archive.org:chenard_walcker-sweet_kali_breathe/01-chenard_walcker-sweet_kali_breathe.mp3",
+  "source": "archive.org",
+  "title": "Sweet Kali Breathe",
+  "artist": "Chenard Walcker",
+  "album": "Sweet Kali Breathe (EP)",
+  "pageUrl": "https://archive.org/details/chenard_walcker-sweet_kali_breathe",
+  "audioUrl": "https://archive.org/download/chenard_walcker-sweet_kali_breathe/01-chenard_walcker-sweet_kali_breathe.mp3",
+  "fileName": "01-chenard_walcker-sweet_kali_breathe.mp3",
+  "sizeBytes": 10031104,
+  "license": {
+    "code": "by",
+    "version": "2.0",
+    "label": "CC BY 2.0",
+    "url": "http://creativecommons.org/licenses/by/2.0/",
+    "attribution": true,
+    "commercial": true,
+    "derivatives": true,
+    "shareAlike": false,
+    "publicDomain": false
+  },
+  "genre": "Disco / Funk",
+  "tags": [
+    "Alternative",
+    "Avantgarde",
+    "Jazz+Funk",
+    "Sample Madness",
+    "Plunderphonics",
+    "tape collage"
+  ],
+  "analysis": {
+    "durationSec": 417.88,
+    "bpm": 152.3,
+    "bpmConfidence": 0.39,
+    "beatOffset": 0.1981,
+    "key": {
+      "name": "G",
+      "camelot": "9B",
+      "confidence": 0.88
+    },
+    "rmsDb": -14.4,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

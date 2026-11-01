@@ -1,0 +1,52 @@
+{
+  "version": 1,
+  "id": "archive.org:TFR100-VA-TornFleshRecordsPresentsVestigialSickness/04-GoreObsessed-CritterFromTheShitter.mp3",
+  "source": "archive.org",
+  "title": "04 - Gore Obsessed - Critter from the Shitter",
+  "artist": "Gore Obsessed",
+  "album": "Torn Flesh Records Presents Vestigial Sickness",
+  "pageUrl": "https://archive.org/details/TFR100-VA-TornFleshRecordsPresentsVestigialSickness",
+  "audioUrl": "https://archive.org/download/TFR100-VA-TornFleshRecordsPresentsVestigialSickness/04-GoreObsessed-CritterFromTheShitter.mp3",
+  "fileName": "04-GoreObsessed-CritterFromTheShitter.mp3",
+  "sizeBytes": 6119079,
+  "license": {
+    "code": "by-nc-nd",
+    "version": "3.0",
+    "label": "CC BY-NC-ND 3.0",
+    "url": "http://creativecommons.org/licenses/by-nc-nd/3.0/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": false,
+    "shareAlike": false,
+    "publicDomain": false
+  },
+  "genre": "IDM / Electronica",
+  "tags": [
+    "Torn",
+    "Flesh",
+    "Records",
+    "Vestigial",
+    "Sickness",
+    "Various",
+    "Artists, Compilation",
+    "Videos",
+    "Grindcore",
+    "Death",
+    "Noise",
+    "Electronic"
+  ],
+  "analysis": {
+    "durationSec": 152.84,
+    "bpm": 146.64,
+    "bpmConfidence": 0.48,
+    "beatOffset": 0.913,
+    "key": {
+      "name": "Bm",
+      "camelot": "10A",
+      "confidence": 0.57
+    },
+    "rmsDb": -12.9,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

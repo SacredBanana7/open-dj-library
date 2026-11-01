@@ -1,0 +1,49 @@
+{
+  "version": 1,
+  "id": "archive.org:afm004_allmyfaults_neonoir/01gesenkteshaupt.mp3",
+  "source": "archive.org",
+  "title": "Gesenktes Haupt//Geschlossene Augen",
+  "artist": "all:my:faults",
+  "album": "neo.NøiR",
+  "pageUrl": "https://archive.org/details/afm004_allmyfaults_neonoir",
+  "audioUrl": "https://archive.org/download/afm004_allmyfaults_neonoir/01gesenkteshaupt.mp3",
+  "fileName": "01gesenkteshaupt.mp3",
+  "sizeBytes": 6987776,
+  "license": {
+    "code": "by-nc-sa",
+    "version": "2.0",
+    "label": "CC BY-NC-SA 2.0 DE",
+    "url": "http://creativecommons.org/licenses/by-nc-sa/2.0/de/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": true,
+    "shareAlike": true,
+    "publicDomain": false
+  },
+  "genre": "Electro",
+  "tags": [
+    "Alternative",
+    "Electronic",
+    "Electro",
+    "Darkwave",
+    "Gothic",
+    "Rock",
+    "Industrial",
+    "afmusic:",
+    "all:my:faults"
+  ],
+  "analysis": {
+    "durationSec": 289.73,
+    "bpm": 154.16,
+    "bpmConfidence": 0.38,
+    "beatOffset": 0.2203,
+    "key": {
+      "name": "E",
+      "camelot": "12B",
+      "confidence": 0.78
+    },
+    "rmsDb": -10.3,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

@@ -1,0 +1,52 @@
+{
+  "version": 1,
+  "id": "archive.org:MoxEarlyGanglions/01_-_The_Forming_Of_An_Emotional_Sphere.mp3",
+  "source": "archive.org",
+  "title": "The Forming Of An Emotional Sphere",
+  "artist": "MOX",
+  "album": "Early Ganglions",
+  "pageUrl": "https://archive.org/details/MoxEarlyGanglions",
+  "audioUrl": "https://archive.org/download/MoxEarlyGanglions/01_-_The_Forming_Of_An_Emotional_Sphere.mp3",
+  "fileName": "01_-_The_Forming_Of_An_Emotional_Sphere.mp3",
+  "sizeBytes": 9715955,
+  "license": {
+    "code": "by-nc-nd",
+    "version": "2.0",
+    "label": "CC BY-NC-ND 2.0 UK",
+    "url": "http://creativecommons.org/licenses/by-nc-nd/2.0/uk/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": false,
+    "shareAlike": false,
+    "publicDomain": false
+  },
+  "genre": "IDM / Electronica",
+  "tags": [
+    "MOX",
+    "Salnikov",
+    "Tooth Kink",
+    "QUTH",
+    "Code Name Pollen",
+    "Freaking Book",
+    "dub",
+    "trip-hop",
+    "electronica",
+    "illbient",
+    "noisecore",
+    "Controlled Bleeding"
+  ],
+  "analysis": {
+    "durationSec": 303.6,
+    "bpm": 120,
+    "bpmConfidence": 0.78,
+    "beatOffset": 0.5594,
+    "key": {
+      "name": "F#",
+      "camelot": "2B",
+      "confidence": 0.63
+    },
+    "rmsDb": -15.8,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

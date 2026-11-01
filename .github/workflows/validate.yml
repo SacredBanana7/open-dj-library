@@ -1,0 +1,17 @@
+name: Katalog prüfen
+on: [push, pull_request]
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - run: npm ci
+      - run: node tools/build-catalog.mjs
+      - name: catalog.json muss aktuell sein
+        run: |
+          node -e "const a=require('./catalog.json');delete a.generated;process.stdout.write(JSON.stringify(a))" > /tmp/built.json
+          git show HEAD:catalog.json | node -e "let s='';process.stdin.on('data',d=>s+=d).on('end',()=>{const a=JSON.parse(s);delete a.generated;process.stdout.write(JSON.stringify(a))})" > /tmp/committed.json
+          cmp /tmp/built.json /tmp/committed.json || (echo "Bitte 'npm run build' ausführen und catalog.json mitcommitten." && exit 1)

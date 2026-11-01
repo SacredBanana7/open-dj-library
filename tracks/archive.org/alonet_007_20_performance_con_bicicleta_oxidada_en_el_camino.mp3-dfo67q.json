@@ -1,0 +1,41 @@
+{
+  "version": 1,
+  "id": "archive.org:alonet_007/20_performance_con_bicicleta_oxidada_en_el_camino.mp3",
+  "source": "archive.org",
+  "title": "20_performance_con_bicicleta_oxidada_en_el_camino",
+  "artist": "aloardi",
+  "album": "Puerto_Maldonado_2_Ruido_Al_Paso_2006",
+  "pageUrl": "https://archive.org/details/alonet_007",
+  "audioUrl": "https://archive.org/download/alonet_007/20_performance_con_bicicleta_oxidada_en_el_camino.mp3",
+  "fileName": "20_performance_con_bicicleta_oxidada_en_el_camino.mp3",
+  "sizeBytes": 8219065,
+  "license": {
+    "code": "by-nc-sa",
+    "version": "3.0",
+    "label": "CC BY-NC-SA 3.0",
+    "url": "http://creativecommons.org/licenses/by-nc-sa/3.0/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": true,
+    "shareAlike": true,
+    "publicDomain": false
+  },
+  "genre": "Drum & Bass",
+  "tags": [
+    "fields recordings, sound of the jungle, interview about nomade natives, ecology and ecosystems, experimental music, experimental practices"
+  ],
+  "analysis": {
+    "durationSec": 342.4,
+    "bpm": 150,
+    "bpmConfidence": 0.41,
+    "beatOffset": 0.4193,
+    "key": {
+      "name": "G#",
+      "camelot": "4B",
+      "confidence": 0.56
+    },
+    "rmsDb": -14.8,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

@@ -1,0 +1,51 @@
+{
+  "version": 1,
+  "id": "archive.org:MIXG032/01_Zipp_-_Pour_Quoi_Royale.mp3",
+  "source": "archive.org",
+  "title": "Pour Quoi Royale",
+  "artist": "Zipp",
+  "album": "Retrovision",
+  "pageUrl": "https://archive.org/details/MIXG032",
+  "audioUrl": "https://archive.org/download/MIXG032/01_Zipp_-_Pour_Quoi_Royale.mp3",
+  "fileName": "01_Zipp_-_Pour_Quoi_Royale.mp3",
+  "sizeBytes": 8048010,
+  "license": {
+    "code": "by-nc",
+    "version": "3.0",
+    "label": "CC BY-NC 3.0",
+    "url": "http://creativecommons.org/licenses/by-nc/3.0/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": true,
+    "shareAlike": false,
+    "publicDomain": false
+  },
+  "genre": "Disco / Funk",
+  "tags": [
+    "retro",
+    "vintage",
+    "jazz",
+    "blues",
+    "lo-fi",
+    "lounge",
+    "easy listening",
+    "smooth jazz",
+    "funk",
+    "groove",
+    "nostalgia"
+  ],
+  "analysis": {
+    "durationSec": 174.92,
+    "bpm": 140,
+    "bpmConfidence": 0.86,
+    "beatOffset": 0.041,
+    "key": {
+      "name": "F#",
+      "camelot": "2B",
+      "confidence": 0.72
+    },
+    "rmsDb": -12.8,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

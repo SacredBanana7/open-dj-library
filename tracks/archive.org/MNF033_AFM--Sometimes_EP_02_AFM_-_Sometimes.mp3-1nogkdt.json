@@ -1,0 +1,52 @@
+{
+  "version": 1,
+  "id": "archive.org:MNF033_AFM--Sometimes_EP/02_AFM_-_Sometimes.mp3",
+  "source": "archive.org",
+  "title": "Sometimes",
+  "artist": "AFM",
+  "album": "Sometimes EP",
+  "pageUrl": "https://archive.org/details/MNF033_AFM--Sometimes_EP",
+  "audioUrl": "https://archive.org/download/MNF033_AFM--Sometimes_EP/02_AFM_-_Sometimes.mp3",
+  "fileName": "02_AFM_-_Sometimes.mp3",
+  "sizeBytes": 17069791,
+  "license": {
+    "code": "by-sa",
+    "version": "4.0",
+    "label": "CC BY-SA 4.0",
+    "url": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "attribution": true,
+    "commercial": true,
+    "derivatives": true,
+    "shareAlike": true,
+    "publicDomain": false
+  },
+  "genre": "House",
+  "tags": [
+    "monofonicos",
+    "netlabel",
+    "colombia",
+    "house",
+    "techno",
+    "minimal",
+    "dub techno",
+    "deep house",
+    "deep",
+    "dub",
+    "garage house",
+    "experimental"
+  ],
+  "analysis": {
+    "durationSec": 424.4,
+    "bpm": 123,
+    "bpmConfidence": 1,
+    "beatOffset": 1.4642,
+    "key": {
+      "name": "Bm",
+      "camelot": "10A",
+      "confidence": 0.73
+    },
+    "rmsDb": -12.4,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

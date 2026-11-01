@@ -1,0 +1,49 @@
+{
+  "version": 1,
+  "id": "archive.org:3x13_-_a_summer_spent_inside/3x.13_-_a_summer_spent_inside_-_cd1_05_-_car_chase.mp3",
+  "source": "archive.org",
+  "title": "car chase",
+  "artist": "3x!13",
+  "album": "A Summer Spent Inside CD1",
+  "pageUrl": "https://archive.org/details/3x13_-_a_summer_spent_inside",
+  "audioUrl": "https://archive.org/download/3x13_-_a_summer_spent_inside/3x.13_-_a_summer_spent_inside_-_cd1_05_-_car_chase.mp3",
+  "fileName": "3x.13_-_a_summer_spent_inside_-_cd1_05_-_car_chase.mp3",
+  "sizeBytes": 7659520,
+  "license": {
+    "code": "by-nc-nd",
+    "version": "2.5",
+    "label": "CC BY-NC-ND 2.5",
+    "url": "http://creativecommons.org/licenses/by-nc-nd/2.5/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": false,
+    "shareAlike": false,
+    "publicDomain": false
+  },
+  "genre": "House",
+  "tags": [
+    "postrock",
+    "triphop",
+    "electro",
+    "alternative",
+    "house",
+    "pop",
+    "lofi",
+    "3x!13",
+    "josh munson"
+  ],
+  "analysis": {
+    "durationSec": 319.02,
+    "bpm": 169.24,
+    "bpmConfidence": 0.37,
+    "beatOffset": 1.2349,
+    "key": {
+      "name": "C#",
+      "camelot": "3B",
+      "confidence": 0.82
+    },
+    "rmsDb": -9.3,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

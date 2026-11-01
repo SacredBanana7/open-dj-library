@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "id": "archive.org:tkep012/tkep012-a-d_fender_and_rifhes-warp_factory.mp3",
+  "source": "archive.org",
+  "title": "Warp factory",
+  "artist": "d-fender + rifhes",
+  "album": "tkep012",
+  "pageUrl": "https://archive.org/details/tkep012",
+  "audioUrl": "https://archive.org/download/tkep012/tkep012-a-d_fender_and_rifhes-warp_factory.mp3",
+  "fileName": "tkep012-a-d_fender_and_rifhes-warp_factory.mp3",
+  "sizeBytes": 10358784,
+  "license": {
+    "code": "by-nc-nd",
+    "version": "3.0",
+    "label": "CC BY-NC-ND 3.0",
+    "url": "http://creativecommons.org/licenses/by-nc-nd/3.0/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": false,
+    "shareAlike": false,
+    "publicDomain": false
+  },
+  "genre": "Drum & Bass",
+  "tags": [
+    "drum and bass",
+    "remix",
+    "rifhes",
+    "d-fender",
+    "paul keeley",
+    "techkilla",
+    "mexico",
+    "montreal"
+  ],
+  "analysis": {
+    "durationSec": 431.47,
+    "bpm": 173.32,
+    "bpmConfidence": 0.38,
+    "beatOffset": 0.1489,
+    "key": {
+      "name": "D#",
+      "camelot": "5B",
+      "confidence": 0.74
+    },
+    "rmsDb": -9.3,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

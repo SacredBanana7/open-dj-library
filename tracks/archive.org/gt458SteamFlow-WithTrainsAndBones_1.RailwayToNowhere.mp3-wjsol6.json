@@ -1,0 +1,49 @@
+{
+  "version": 1,
+  "id": "archive.org:gt458SteamFlow-WithTrainsAndBones/1.RailwayToNowhere.mp3",
+  "source": "archive.org",
+  "title": "Railway To Nowhere",
+  "artist": "Steam flow",
+  "album": "With Trains And Bones",
+  "pageUrl": "https://archive.org/details/gt458SteamFlow-WithTrainsAndBones",
+  "audioUrl": "https://archive.org/download/gt458SteamFlow-WithTrainsAndBones/1.RailwayToNowhere.mp3",
+  "fileName": "1.RailwayToNowhere.mp3",
+  "sizeBytes": 3807232,
+  "license": {
+    "code": "cc0",
+    "version": "1.0",
+    "label": "CC0 1.0",
+    "url": "http://creativecommons.org/publicdomain/zero/1.0/",
+    "attribution": false,
+    "commercial": true,
+    "derivatives": true,
+    "shareAlike": false,
+    "publicDomain": true
+  },
+  "genre": "Trance",
+  "tags": [
+    "Genetic Trance",
+    "deafness",
+    "steam flow",
+    "russia",
+    "nihilistic delusion",
+    "ambient",
+    "dark",
+    "industrial",
+    "saintpetersburg"
+  ],
+  "analysis": {
+    "durationSec": 180.09,
+    "bpm": 138.9,
+    "bpmConfidence": 0.39,
+    "beatOffset": 0.8649,
+    "key": {
+      "name": "Bm",
+      "camelot": "10A",
+      "confidence": 0.34
+    },
+    "rmsDb": -21.9,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}
