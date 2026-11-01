@@ -1,0 +1,41 @@
+{
+  "version": 1,
+  "id": "archive.org:USR-002/USR-002_1_Monoculture_-_Trophy_wife_64kb.mp3",
+  "source": "archive.org",
+  "title": "Trophy wife",
+  "artist": "MonoCulture",
+  "album": "Smoke and Mirrors",
+  "pageUrl": "https://archive.org/details/USR-002",
+  "audioUrl": "https://archive.org/download/USR-002/USR-002_1_Monoculture_-_Trophy_wife_64kb.mp3",
+  "fileName": "USR-002_1_Monoculture_-_Trophy_wife_64kb.mp3",
+  "sizeBytes": 1391376,
+  "license": {
+    "code": "by",
+    "version": "2.5",
+    "label": "CC BY 2.5",
+    "url": "http://creativecommons.org/licenses/by/2.5/",
+    "attribution": true,
+    "commercial": true,
+    "derivatives": true,
+    "shareAlike": false,
+    "publicDomain": false
+  },
+  "genre": "Ambient",
+  "tags": [
+    "Ambient"
+  ],
+  "analysis": {
+    "durationSec": 173.79,
+    "bpm": 173.92,
+    "bpmConfidence": 0.43,
+    "beatOffset": 0.1666,
+    "key": {
+      "name": "D",
+      "camelot": "10B",
+      "confidence": 0.66
+    },
+    "rmsDb": -20.3,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

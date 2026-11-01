@@ -1,0 +1,52 @@
+{
+  "version": 1,
+  "id": "archive.org:In_Vitro_-_Phantastico_Dogma_Remixes/brhnet13_01_In_Vitro_-_Cuix_amo_nican_nica_nimonantzin_horiso_rmx.mp3",
+  "source": "archive.org",
+  "title": "Cuix amo nican nica nimonantzin (horiso remix)",
+  "artist": "In Vitro",
+  "album": "Phantastico Dogma Remixes",
+  "pageUrl": "https://archive.org/details/In_Vitro_-_Phantastico_Dogma_Remixes",
+  "audioUrl": "https://archive.org/download/In_Vitro_-_Phantastico_Dogma_Remixes/brhnet13_01_In_Vitro_-_Cuix_amo_nican_nica_nimonantzin_horiso_rmx.mp3",
+  "fileName": "brhnet13_01_In_Vitro_-_Cuix_amo_nican_nica_nimonantzin_horiso_rmx.mp3",
+  "sizeBytes": 8887168,
+  "license": {
+    "code": "by-sa",
+    "version": "3.0",
+    "label": "CC BY-SA 3.0",
+    "url": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "attribution": true,
+    "commercial": true,
+    "derivatives": true,
+    "shareAlike": true,
+    "publicDomain": false
+  },
+  "genre": "IDM / Electronica",
+  "tags": [
+    "Phasen",
+    "Ray Garrido",
+    "Frallar",
+    "Lezet",
+    "horiso",
+    "In Vitro",
+    "Vela",
+    "downtempo",
+    "electronic",
+    "ambient",
+    "experimental",
+    "idm"
+  ],
+  "analysis": {
+    "durationSec": 211.51,
+    "bpm": 157.26,
+    "bpmConfidence": 0.41,
+    "beatOffset": 0.3717,
+    "key": {
+      "name": "D",
+      "camelot": "10B",
+      "confidence": 0.82
+    },
+    "rmsDb": -19.7,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

@@ -1,0 +1,52 @@
+{
+  "version": 1,
+  "id": "archive.org:In_Vitro_-_Phantastico_Dogma_Remixes/brhnet13_02_In_Vitro_-_Cuix_amo_nican_nica_nimonantzin_Phasens_Super_Chill_Dub.mp3",
+  "source": "archive.org",
+  "title": "Cuix amo nican nica nimonantzin (Phasen's Super Chill Dub)",
+  "artist": "In Vitro",
+  "album": "Phantastico Dogma Remixes",
+  "pageUrl": "https://archive.org/details/In_Vitro_-_Phantastico_Dogma_Remixes",
+  "audioUrl": "https://archive.org/download/In_Vitro_-_Phantastico_Dogma_Remixes/brhnet13_02_In_Vitro_-_Cuix_amo_nican_nica_nimonantzin_Phasens_Super_Chill_Dub.mp3",
+  "fileName": "brhnet13_02_In_Vitro_-_Cuix_amo_nican_nica_nimonantzin_Phasens_Super_Chill_Dub.mp3",
+  "sizeBytes": 17293400,
+  "license": {
+    "code": "by-sa",
+    "version": "3.0",
+    "label": "CC BY-SA 3.0",
+    "url": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "attribution": true,
+    "commercial": true,
+    "derivatives": true,
+    "shareAlike": true,
+    "publicDomain": false
+  },
+  "genre": "Ambient",
+  "tags": [
+    "Phasen",
+    "Ray Garrido",
+    "Frallar",
+    "Lezet",
+    "horiso",
+    "In Vitro",
+    "Vela",
+    "downtempo",
+    "electronic",
+    "ambient",
+    "experimental",
+    "idm"
+  ],
+  "analysis": {
+    "durationSec": 421.67,
+    "bpm": 111,
+    "bpmConfidence": 1,
+    "beatOffset": 1.6477,
+    "key": {
+      "name": "G",
+      "camelot": "9B",
+      "confidence": 0.84
+    },
+    "rmsDb": -18.8,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

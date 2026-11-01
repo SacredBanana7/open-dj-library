@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "id": "archive.org:SPNet071-PHANTASMNOCTURNES-CANNIBALRITES/Spnet071-PhantasmNocturnes-CannibalRites-02-TheHunt.mp3",
+  "source": "archive.org",
+  "title": "The Hunt",
+  "artist": "PHANTASM NOCTURNES",
+  "album": "CANNIBAL RITES",
+  "pageUrl": "https://archive.org/details/SPNet071-PHANTASMNOCTURNES-CANNIBALRITES",
+  "audioUrl": "https://archive.org/download/SPNet071-PHANTASMNOCTURNES-CANNIBALRITES/Spnet071-PhantasmNocturnes-CannibalRites-02-TheHunt.mp3",
+  "fileName": "Spnet071-PhantasmNocturnes-CannibalRites-02-TheHunt.mp3",
+  "sizeBytes": 8427678,
+  "license": {
+    "code": "by-sa",
+    "version": "3.0",
+    "label": "CC BY-SA 3.0",
+    "url": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "attribution": true,
+    "commercial": true,
+    "derivatives": true,
+    "shareAlike": true,
+    "publicDomain": false
+  },
+  "genre": "Ambient",
+  "tags": [
+    "sp net",
+    "phantasm nocturnes",
+    "dark ambient",
+    "tribal",
+    "psy-electronic",
+    "cannibalism",
+    "cannibal holocause",
+    "cannibal ferox"
+  ],
+  "analysis": {
+    "durationSec": 210.23,
+    "bpm": 163.64,
+    "bpmConfidence": 0.39,
+    "beatOffset": 1.3383,
+    "key": {
+      "name": "G",
+      "camelot": "9B",
+      "confidence": 0.48
+    },
+    "rmsDb": -10.5,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

@@ -1,0 +1,41 @@
+{
+  "version": 1,
+  "id": "archive.org:USR-019/01_-_monoculture_-_peace_city.mp3",
+  "source": "archive.org",
+  "title": "Peace City",
+  "artist": "MonoCulture",
+  "album": "The Animal Economy",
+  "pageUrl": "https://archive.org/details/USR-019",
+  "audioUrl": "https://archive.org/download/USR-019/01_-_monoculture_-_peace_city.mp3",
+  "fileName": "01_-_monoculture_-_peace_city.mp3",
+  "sizeBytes": 3817472,
+  "license": {
+    "code": "by",
+    "version": "2.5",
+    "label": "CC BY 2.5",
+    "url": "http://creativecommons.org/licenses/by/2.5/",
+    "attribution": true,
+    "commercial": true,
+    "derivatives": true,
+    "shareAlike": false,
+    "publicDomain": false
+  },
+  "genre": "IDM / Electronica",
+  "tags": [
+    "IDM"
+  ],
+  "analysis": {
+    "durationSec": 159.19,
+    "bpm": 100,
+    "bpmConfidence": 1,
+    "beatOffset": 1.4473,
+    "key": {
+      "name": "Gm",
+      "camelot": "6A",
+      "confidence": 0.52
+    },
+    "rmsDb": -17.4,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

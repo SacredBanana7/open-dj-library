@@ -1,0 +1,43 @@
+{
+  "version": 1,
+  "id": "archive.org:alg010/alg010_06.mp3",
+  "source": "archive.org",
+  "title": "el rio oculto",
+  "artist": "aNACRUSa",
+  "album": "el borde del silencio",
+  "pageUrl": "https://archive.org/details/alg010",
+  "audioUrl": "https://archive.org/download/alg010/alg010_06.mp3",
+  "fileName": "alg010_06.mp3",
+  "sizeBytes": 6607076,
+  "license": {
+    "code": "by-sa",
+    "version": "2.5",
+    "label": "CC BY-SA 2.5",
+    "url": "http://creativecommons.org/licenses/by-sa/2.5/",
+    "attribution": true,
+    "commercial": true,
+    "derivatives": true,
+    "shareAlike": true,
+    "publicDomain": false
+  },
+  "genre": "Ambient",
+  "tags": [
+    "Drones",
+    "ambient",
+    "Abstract"
+  ],
+  "analysis": {
+    "durationSec": 275.2,
+    "bpm": 150.42,
+    "bpmConfidence": 0.45,
+    "beatOffset": 0.9776,
+    "key": {
+      "name": "Cm",
+      "camelot": "5A",
+      "confidence": 0.76
+    },
+    "rmsDb": -18,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}

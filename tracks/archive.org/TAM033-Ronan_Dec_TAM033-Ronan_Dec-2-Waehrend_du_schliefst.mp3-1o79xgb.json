@@ -1,0 +1,41 @@
+{
+  "version": 1,
+  "id": "archive.org:TAM033-Ronan_Dec/TAM033-Ronan_Dec-2-Waehrend_du_schliefst.mp3",
+  "source": "archive.org",
+  "title": "TAM033-Ronan_Dec-2-Waehrend_du_schliefst",
+  "artist": "ronan dec",
+  "album": "Hirnwald EP",
+  "pageUrl": "https://archive.org/details/TAM033-Ronan_Dec",
+  "audioUrl": "https://archive.org/download/TAM033-Ronan_Dec/TAM033-Ronan_Dec-2-Waehrend_du_schliefst.mp3",
+  "fileName": "TAM033-Ronan_Dec-2-Waehrend_du_schliefst.mp3",
+  "sizeBytes": 12008263,
+  "license": {
+    "code": "by-sa",
+    "version": "2.0",
+    "label": "CC BY-SA 2.0 DE",
+    "url": "http://creativecommons.org/licenses/by-sa/2.0/de/",
+    "attribution": true,
+    "commercial": true,
+    "derivatives": true,
+    "shareAlike": true,
+    "publicDomain": false
+  },
+  "genre": "IDM / Electronica",
+  "tags": [
+    "Electronica"
+  ],
+  "analysis": {
+    "durationSec": 375.67,
+    "bpm": 121.34,
+    "bpmConfidence": 1,
+    "beatOffset": 0.9743,
+    "key": {
+      "name": "C",
+      "camelot": "8B",
+      "confidence": 0.78
+    },
+    "rmsDb": -13.4,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-01"
+}
