@@ -1,0 +1,43 @@
+{
+  "version": 1,
+  "id": "openverse:b2a93d64-873c-423f-a3a0-803e59ea9214",
+  "source": "openverse",
+  "provider": "jamendo",
+  "title": "Disco Ball",
+  "artist": "Waltteri",
+  "artistUrl": "https://www.jamendo.com/artist/337629/Waltteri",
+  "album": "Disco Ball",
+  "pageUrl": "https://www.jamendo.com/track/664009",
+  "audioUrl": "https://prod-1.storage.jamendo.com/?trackid=664009&format=mp32",
+  "fileName": "Waltteri - Disco Ball.mp3",
+  "license": {
+    "code": "by-nc-sa",
+    "version": "3.0",
+    "label": "CC BY-NC-SA 3.0",
+    "url": "https://creativecommons.org/licenses/by-nc-sa/3.0/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": true,
+    "shareAlike": true,
+    "publicDomain": false
+  },
+  "genre": "Disco / Funk",
+  "tags": [
+    "instrumental",
+    "speed_medium"
+  ],
+  "analysis": {
+    "durationSec": 317.74,
+    "bpm": 125,
+    "bpmConfidence": 1,
+    "beatOffset": 0.4816,
+    "key": {
+      "name": "C#",
+      "camelot": "3B",
+      "confidence": 0.75
+    },
+    "rmsDb": -10.4,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-02"
+}

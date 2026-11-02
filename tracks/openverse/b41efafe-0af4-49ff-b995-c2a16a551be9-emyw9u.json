@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "id": "openverse:b41efafe-0af4-49ff-b995-c2a16a551be9",
+  "source": "openverse",
+  "provider": "jamendo",
+  "title": "Disco racerz",
+  "artist": "Cyborgjeff",
+  "artistUrl": "https://www.jamendo.com/artist/3581/cyborgjeff",
+  "album": "Pixelization (2002)",
+  "pageUrl": "https://www.jamendo.com/track/40661",
+  "audioUrl": "https://prod-1.storage.jamendo.com/?trackid=40661&format=mp32",
+  "fileName": "Cyborgjeff - Disco racerz.mp3",
+  "license": {
+    "code": "by-nc-nd",
+    "version": "3.0",
+    "label": "CC BY-NC-ND 3.0",
+    "url": "https://creativecommons.org/licenses/by-nc-nd/3.0/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": false,
+    "shareAlike": false,
+    "publicDomain": false
+  },
+  "genre": "Disco / Funk",
+  "tags": [
+    "8bits",
+    "computer",
+    "energetic",
+    "happy",
+    "instrumental",
+    "speed_high",
+    "videogame"
+  ],
+  "analysis": {
+    "durationSec": 234.39,
+    "bpm": 132,
+    "bpmConfidence": 1,
+    "beatOffset": 1.3549,
+    "key": {
+      "name": "Em",
+      "camelot": "9A",
+      "confidence": 0.81
+    },
+    "rmsDb": -18.6,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-02"
+}

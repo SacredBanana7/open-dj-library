@@ -1,0 +1,45 @@
+{
+  "version": 1,
+  "id": "openverse:fd93ba08-4c9a-49a5-8129-26947b843e69",
+  "source": "openverse",
+  "provider": "jamendo",
+  "title": "Late For Disco (80s Mix)",
+  "artist": "REC",
+  "artistUrl": "https://www.jamendo.com/artist/462491/REC_(3)",
+  "album": "STARTER",
+  "pageUrl": "https://www.jamendo.com/track/1199525",
+  "audioUrl": "https://prod-1.storage.jamendo.com/?trackid=1199525&format=mp32",
+  "fileName": "REC - Late For Disco (80s Mix).mp3",
+  "license": {
+    "code": "by",
+    "version": "3.0",
+    "label": "CC BY 3.0",
+    "url": "https://creativecommons.org/licenses/by/3.0/",
+    "attribution": true,
+    "commercial": true,
+    "derivatives": true,
+    "shareAlike": false,
+    "publicDomain": false
+  },
+  "genre": "Disco / Funk",
+  "tags": [
+    "80s",
+    "discohouse",
+    "instrumental",
+    "speed_medium"
+  ],
+  "analysis": {
+    "durationSec": 385.64,
+    "bpm": 117,
+    "bpmConfidence": 1,
+    "beatOffset": 1.0289,
+    "key": {
+      "name": "Cm",
+      "camelot": "5A",
+      "confidence": 0.86
+    },
+    "rmsDb": -11.2,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-02"
+}

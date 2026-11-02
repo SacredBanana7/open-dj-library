@@ -1,0 +1,45 @@
+{
+  "version": 1,
+  "id": "openverse:d663c1f7-ee2e-4ec1-9d9f-686d1a4f0aaa",
+  "source": "openverse",
+  "provider": "jamendo",
+  "title": "i love disco disco",
+  "artist": "Lohmé",
+  "artistUrl": "https://www.jamendo.com/artist/337090/Lohme",
+  "album": "i love disco disco",
+  "pageUrl": "https://www.jamendo.com/track/103583",
+  "audioUrl": "https://prod-1.storage.jamendo.com/?trackid=103583&format=mp32",
+  "fileName": "Lohmé - i love disco disco.mp3",
+  "license": {
+    "code": "by-nc-nd",
+    "version": "3.0",
+    "label": "CC BY-NC-ND 3.0",
+    "url": "https://creativecommons.org/licenses/by-nc-nd/3.0/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": false,
+    "shareAlike": false,
+    "publicDomain": false
+  },
+  "genre": "Disco / Funk",
+  "tags": [
+    "independant",
+    "male",
+    "speed_medium",
+    "vocal"
+  ],
+  "analysis": {
+    "durationSec": 210.99,
+    "bpm": 162,
+    "bpmConfidence": 0.39,
+    "beatOffset": 0.8312,
+    "key": {
+      "name": "Gm",
+      "camelot": "6A",
+      "confidence": 0.73
+    },
+    "rmsDb": -10.8,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-02"
+}

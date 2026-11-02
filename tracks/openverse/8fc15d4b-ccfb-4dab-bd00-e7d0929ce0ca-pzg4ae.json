@@ -1,0 +1,44 @@
+{
+  "version": 1,
+  "id": "openverse:8fc15d4b-ccfb-4dab-bd00-e7d0929ce0ca",
+  "source": "openverse",
+  "provider": "jamendo",
+  "title": "Funky Now Disco",
+  "artist": "Perrocker",
+  "artistUrl": "https://www.jamendo.com/artist/3180/perrocker",
+  "album": "Only More Only",
+  "pageUrl": "https://www.jamendo.com/track/22737",
+  "audioUrl": "https://prod-1.storage.jamendo.com/?trackid=22737&format=mp32",
+  "fileName": "Perrocker - Funky Now Disco.mp3",
+  "license": {
+    "code": "by-nc-sa",
+    "version": "2.5",
+    "label": "CC BY-NC-SA 2.5",
+    "url": "https://creativecommons.org/licenses/by-nc-sa/2.5/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": true,
+    "shareAlike": true,
+    "publicDomain": false
+  },
+  "genre": "Disco / Funk",
+  "tags": [
+    "male",
+    "speed_medium",
+    "vocal"
+  ],
+  "analysis": {
+    "durationSec": 243.37,
+    "bpm": 130.06,
+    "bpmConfidence": 0.92,
+    "beatOffset": 0.9207,
+    "key": {
+      "name": "D",
+      "camelot": "10B",
+      "confidence": 0.75
+    },
+    "rmsDb": -13.3,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-02"
+}

@@ -1,0 +1,45 @@
+{
+  "version": 1,
+  "id": "openverse:8e19c800-ad41-4a06-83d2-96f9712a7280",
+  "source": "openverse",
+  "provider": "jamendo",
+  "title": "Disco 1",
+  "artist": "Marcos Cala",
+  "artistUrl": "https://www.jamendo.com/artist/342234/Marcos_Cala",
+  "album": "Sentimientos",
+  "pageUrl": "https://www.jamendo.com/track/222444",
+  "audioUrl": "https://prod-1.storage.jamendo.com/?trackid=222444&format=mp32",
+  "fileName": "Marcos Cala - Disco 1.mp3",
+  "license": {
+    "code": "by-nc-nd",
+    "version": "3.0",
+    "label": "CC BY-NC-ND 3.0",
+    "url": "https://creativecommons.org/licenses/by-nc-nd/3.0/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": false,
+    "shareAlike": false,
+    "publicDomain": false
+  },
+  "genre": "Disco / Funk",
+  "tags": [
+    "happy",
+    "instrumental",
+    "neutral",
+    "speed_medium"
+  ],
+  "analysis": {
+    "durationSec": 224.44,
+    "bpm": 133.34,
+    "bpmConfidence": 0.64,
+    "beatOffset": 1.5104,
+    "key": {
+      "name": "Dm",
+      "camelot": "7A",
+      "confidence": 0.88
+    },
+    "rmsDb": -16.4,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-02"
+}

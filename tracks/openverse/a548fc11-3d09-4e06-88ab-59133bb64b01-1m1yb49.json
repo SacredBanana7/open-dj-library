@@ -1,0 +1,44 @@
+{
+  "version": 1,
+  "id": "openverse:a548fc11-3d09-4e06-88ab-59133bb64b01",
+  "source": "openverse",
+  "provider": "jamendo",
+  "title": "CJ Vlam Newman - Disco Rithm part III",
+  "artist": "CJ Vlam Newman",
+  "artistUrl": "https://www.jamendo.com/artist/350000/CJ_Vlam_Newman",
+  "album": "Disco Rithm",
+  "pageUrl": "https://www.jamendo.com/track/337321",
+  "audioUrl": "https://prod-1.storage.jamendo.com/?trackid=337321&format=mp32",
+  "fileName": "CJ Vlam Newman - CJ Vlam Newman - Disco Rithm part III.mp3",
+  "license": {
+    "code": "by-nc",
+    "version": "3.0",
+    "label": "CC BY-NC 3.0",
+    "url": "https://creativecommons.org/licenses/by-nc/3.0/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": true,
+    "shareAlike": false,
+    "publicDomain": false
+  },
+  "genre": "Disco / Funk",
+  "tags": [
+    "discofunkyjazzy",
+    "instrumental",
+    "speed_medium"
+  ],
+  "analysis": {
+    "durationSec": 270.44,
+    "bpm": 110,
+    "bpmConfidence": 1,
+    "beatOffset": 0.0023,
+    "key": {
+      "name": "Cm",
+      "camelot": "5A",
+      "confidence": 0.91
+    },
+    "rmsDb": -14.9,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-02"
+}

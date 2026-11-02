@@ -1,0 +1,44 @@
+{
+  "version": 1,
+  "id": "openverse:1c8d6ea9-9f83-452a-a39b-abb3c8eace43",
+  "source": "openverse",
+  "provider": "jamendo",
+  "title": "Nastya House - Disco L.O.V.E (House version)",
+  "artist": "Nastya House",
+  "artistUrl": "https://www.jamendo.com/artist/439242/Nastya_House",
+  "album": "Disco L.O.V.E",
+  "pageUrl": "https://www.jamendo.com/track/1167342",
+  "audioUrl": "https://prod-1.storage.jamendo.com/?trackid=1167342&format=mp32",
+  "fileName": "Nastya House - Nastya House - Disco L.O.V.E (House version).mp3",
+  "license": {
+    "code": "by-nc",
+    "version": "3.0",
+    "label": "CC BY-NC 3.0",
+    "url": "https://creativecommons.org/licenses/by-nc/3.0/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": true,
+    "shareAlike": false,
+    "publicDomain": false
+  },
+  "genre": "Disco / Funk",
+  "tags": [
+    "female",
+    "speed_medium",
+    "vocal"
+  ],
+  "analysis": {
+    "durationSec": 203.52,
+    "bpm": 120,
+    "bpmConfidence": 1,
+    "beatOffset": 1.8748,
+    "key": {
+      "name": "Am",
+      "camelot": "8A",
+      "confidence": 0.75
+    },
+    "rmsDb": -11.6,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-02"
+}

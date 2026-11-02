@@ -1,0 +1,46 @@
+{
+  "version": 1,
+  "id": "openverse:6235df94-9bab-4908-95b9-c7aa458aa87b",
+  "source": "openverse",
+  "provider": "jamendo",
+  "title": "Discord Disco",
+  "artist": "Shearer",
+  "artistUrl": "https://www.jamendo.com/artist/2485/shearer",
+  "album": "Monument",
+  "pageUrl": "https://www.jamendo.com/track/603759",
+  "audioUrl": "https://prod-1.storage.jamendo.com/?trackid=603759&format=mp32",
+  "fileName": "Shearer - Discord Disco.mp3",
+  "license": {
+    "code": "by-nc-sa",
+    "version": "2.0",
+    "label": "CC BY-NC-SA 2.0 DE",
+    "url": "https://creativecommons.org/licenses/by-nc-sa/2.0/de/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": true,
+    "shareAlike": true,
+    "publicDomain": false
+  },
+  "genre": "Disco / Funk",
+  "tags": [
+    "drums",
+    "electricguitar",
+    "male",
+    "speed_veryhigh",
+    "vocal"
+  ],
+  "analysis": {
+    "durationSec": 154.3,
+    "bpm": 90.5,
+    "bpmConfidence": 1,
+    "beatOffset": 2.3269,
+    "key": {
+      "name": "C",
+      "camelot": "8B",
+      "confidence": 0.74
+    },
+    "rmsDb": -12.9,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-02"
+}

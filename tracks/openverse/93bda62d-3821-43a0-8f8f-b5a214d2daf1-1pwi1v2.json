@@ -1,0 +1,43 @@
+{
+  "version": 1,
+  "id": "openverse:93bda62d-3821-43a0-8f8f-b5a214d2daf1",
+  "source": "openverse",
+  "provider": "jamendo",
+  "title": "We are always crazy in the disco",
+  "artist": "mizuki wada",
+  "artistUrl": "https://www.jamendo.com/artist/342458/Artist_(8)",
+  "album": "We are always crazy in the disco e.p.",
+  "pageUrl": "https://www.jamendo.com/track/224975",
+  "audioUrl": "https://prod-1.storage.jamendo.com/?trackid=224975&format=mp32",
+  "fileName": "mizuki wada - We are always crazy in the disco.mp3",
+  "license": {
+    "code": "by-sa",
+    "version": "2.1",
+    "label": "CC BY-SA 2.1 JP",
+    "url": "https://creativecommons.org/licenses/by-sa/2.1/jp/",
+    "attribution": true,
+    "commercial": true,
+    "derivatives": true,
+    "shareAlike": true,
+    "publicDomain": false
+  },
+  "genre": "Disco / Funk",
+  "tags": [
+    "instrumental",
+    "speed_medium"
+  ],
+  "analysis": {
+    "durationSec": 205.14,
+    "bpm": 145,
+    "bpmConfidence": 1,
+    "beatOffset": 0.0007,
+    "key": {
+      "name": "Am",
+      "camelot": "8A",
+      "confidence": 0.65
+    },
+    "rmsDb": -23.8,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-02"
+}
