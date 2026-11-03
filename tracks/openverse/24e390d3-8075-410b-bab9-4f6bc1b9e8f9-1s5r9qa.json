@@ -1,0 +1,46 @@
+{
+  "version": 1,
+  "id": "openverse:24e390d3-8075-410b-bab9-4f6bc1b9e8f9",
+  "source": "openverse",
+  "provider": "jamendo",
+  "title": "Experimentation",
+  "artist": "ioeo",
+  "artistUrl": "https://www.jamendo.com/artist/2824/ioeo",
+  "album": "Instrumental Works",
+  "pageUrl": "https://www.jamendo.com/track/23080",
+  "audioUrl": "https://prod-1.storage.jamendo.com/?trackid=23080&format=mp32",
+  "fileName": "ioeo - Experimentation.mp3",
+  "license": {
+    "code": "by-nc-nd",
+    "version": "2.5",
+    "label": "CC BY-NC-ND 2.5",
+    "url": "https://creativecommons.org/licenses/by-nc-nd/2.5/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": false,
+    "shareAlike": false,
+    "publicDomain": false
+  },
+  "genre": "Experimental",
+  "tags": [
+    "female",
+    "lounge",
+    "peaceful",
+    "speed_medium",
+    "vocal"
+  ],
+  "analysis": {
+    "durationSec": 177.88,
+    "bpm": 120,
+    "bpmConfidence": 0.47,
+    "beatOffset": 1.4616,
+    "key": {
+      "name": "Gm",
+      "camelot": "6A",
+      "confidence": 0.88
+    },
+    "rmsDb": -11.1,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-03"
+}

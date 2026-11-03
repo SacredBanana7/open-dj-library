@@ -1,0 +1,43 @@
+{
+  "version": 1,
+  "id": "openverse:7d744019-ee3d-4bb7-a70d-3fc0bd18a17b",
+  "source": "openverse",
+  "provider": "jamendo",
+  "title": "R2`-experimental",
+  "artist": "R2```",
+  "artistUrl": "https://www.jamendo.com/artist/365578/R2'''",
+  "album": "2010",
+  "pageUrl": "https://www.jamendo.com/track/705211",
+  "audioUrl": "https://prod-1.storage.jamendo.com/?trackid=705211&format=mp32",
+  "fileName": "R2``` - R2`-experimental.mp3",
+  "license": {
+    "code": "by-sa",
+    "version": "3.0",
+    "label": "CC BY-SA 3.0",
+    "url": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "attribution": true,
+    "commercial": true,
+    "derivatives": true,
+    "shareAlike": true,
+    "publicDomain": false
+  },
+  "genre": "Experimental",
+  "tags": [
+    "instrumental",
+    "speed_high"
+  ],
+  "analysis": {
+    "durationSec": 151.14,
+    "bpm": 138.46,
+    "bpmConfidence": 0.39,
+    "beatOffset": 0.105,
+    "key": {
+      "name": "C",
+      "camelot": "8B",
+      "confidence": 0.75
+    },
+    "rmsDb": -8,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-03"
+}

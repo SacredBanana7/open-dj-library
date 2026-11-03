@@ -1,0 +1,47 @@
+{
+  "version": 1,
+  "id": "openverse:c048a7cb-e02a-4fc5-9d7a-ac842adb54bc",
+  "source": "openverse",
+  "provider": "jamendo",
+  "title": "Experimental",
+  "artist": "Defenix 21",
+  "artistUrl": "https://www.jamendo.com/artist/467309/Defenix_21",
+  "album": "Experimental",
+  "pageUrl": "https://www.jamendo.com/track/1428843",
+  "audioUrl": "https://prod-1.storage.jamendo.com/?trackid=1428843&format=mp32",
+  "fileName": "Defenix 21 - Experimental.mp3",
+  "license": {
+    "code": "by-nc-nd",
+    "version": "3.0",
+    "label": "CC BY-NC-ND 3.0",
+    "url": "https://creativecommons.org/licenses/by-nc-nd/3.0/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": false,
+    "shareAlike": false,
+    "publicDomain": false
+  },
+  "genre": "Experimental",
+  "tags": [
+    "80s",
+    "90s",
+    "instrumental",
+    "neutral",
+    "speed_medium",
+    "synthesizer"
+  ],
+  "analysis": {
+    "durationSec": 400,
+    "bpm": 166.66,
+    "bpmConfidence": 0.76,
+    "beatOffset": 0.019,
+    "key": {
+      "name": "Cm",
+      "camelot": "5A",
+      "confidence": 0.83
+    },
+    "rmsDb": -9.7,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-03"
+}

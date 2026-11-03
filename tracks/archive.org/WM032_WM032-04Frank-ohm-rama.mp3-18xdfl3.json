@@ -1,0 +1,45 @@
+{
+  "version": 1,
+  "id": "archive.org:WM032/WM032-04Frank-ohm-rama.mp3",
+  "source": "archive.org",
+  "title": "Frank-ohm-rama",
+  "artist": "Saskia von Klitzing",
+  "album": "Zum Geburtstag von Moritz R und Frank F",
+  "pageUrl": "https://archive.org/details/WM032",
+  "audioUrl": "https://archive.org/download/WM032/WM032-04Frank-ohm-rama.mp3",
+  "fileName": "WM032-04Frank-ohm-rama.mp3",
+  "sizeBytes": 6095394,
+  "license": {
+    "code": "by-nc-sa",
+    "version": "2.5",
+    "label": "CC BY-NC-SA 2.5",
+    "url": "http://creativecommons.org/licenses/by-nc-sa/2.5/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": true,
+    "shareAlike": true,
+    "publicDomain": false
+  },
+  "genre": "Experimental",
+  "tags": [
+    "weirdomusic",
+    "experimental",
+    "weird",
+    "compilation",
+    "german"
+  ],
+  "analysis": {
+    "durationSec": 253.88,
+    "bpm": 164.06,
+    "bpmConfidence": 0.39,
+    "beatOffset": 0.5424,
+    "key": {
+      "name": "E",
+      "camelot": "12B",
+      "confidence": 0.58
+    },
+    "rmsDb": -9.2,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-03"
+}

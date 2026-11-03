@@ -1,0 +1,43 @@
+{
+  "version": 1,
+  "id": "openverse:e8f0ecdb-6d84-43ad-98ba-f13fecf778fd",
+  "source": "openverse",
+  "provider": "jamendo",
+  "title": "Funk experimental",
+  "artist": "Experimental",
+  "artistUrl": "https://www.jamendo.com/artist/375096/experimental",
+  "album": "experimental",
+  "pageUrl": "https://www.jamendo.com/track/875436",
+  "audioUrl": "https://prod-1.storage.jamendo.com/?trackid=875436&format=mp32",
+  "fileName": "Experimental - Funk experimental.mp3",
+  "license": {
+    "code": "by-nc-sa",
+    "version": "3.0",
+    "label": "CC BY-NC-SA 3.0",
+    "url": "https://creativecommons.org/licenses/by-nc-sa/3.0/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": true,
+    "shareAlike": true,
+    "publicDomain": false
+  },
+  "genre": "Experimental",
+  "tags": [
+    "instrumental",
+    "speed_medium"
+  ],
+  "analysis": {
+    "durationSec": 222.04,
+    "bpm": 91.88,
+    "bpmConfidence": 1,
+    "beatOffset": 0.0225,
+    "key": {
+      "name": "Gm",
+      "camelot": "6A",
+      "confidence": 0.37
+    },
+    "rmsDb": -16.5,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-03"
+}

@@ -1,0 +1,43 @@
+{
+  "version": 1,
+  "id": "openverse:2e537030-7967-451b-babc-cd55e5d43dde",
+  "source": "openverse",
+  "provider": "jamendo",
+  "title": "Dubstep experimental",
+  "artist": "Experimental",
+  "artistUrl": "https://www.jamendo.com/artist/375096/experimental",
+  "album": "experimental",
+  "pageUrl": "https://www.jamendo.com/track/875367",
+  "audioUrl": "https://prod-1.storage.jamendo.com/?trackid=875367&format=mp32",
+  "fileName": "Experimental - Dubstep experimental.mp3",
+  "license": {
+    "code": "by-nc-sa",
+    "version": "3.0",
+    "label": "CC BY-NC-SA 3.0",
+    "url": "https://creativecommons.org/licenses/by-nc-sa/3.0/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": true,
+    "shareAlike": true,
+    "publicDomain": false
+  },
+  "genre": "Experimental",
+  "tags": [
+    "instrumental",
+    "speed_medium"
+  ],
+  "analysis": {
+    "durationSec": 471.71,
+    "bpm": 138.86,
+    "bpmConfidence": 1,
+    "beatOffset": 1.2296,
+    "key": {
+      "name": "A#m",
+      "camelot": "3A",
+      "confidence": 0.8
+    },
+    "rmsDb": -14,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-03"
+}

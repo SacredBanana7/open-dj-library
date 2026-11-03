@@ -1,0 +1,43 @@
+{
+  "version": 1,
+  "id": "openverse:6410fe9a-c533-4716-852a-8c9212cc9e70",
+  "source": "openverse",
+  "provider": "jamendo",
+  "title": "Electro-midi-disco-prog-experimental-nujazz",
+  "artist": "Electric Fitness",
+  "artistUrl": "https://www.jamendo.com/artist/363443/Electric_Fitness",
+  "album": "Electric Fitness First Promo",
+  "pageUrl": "https://www.jamendo.com/track/658171",
+  "audioUrl": "https://prod-1.storage.jamendo.com/?trackid=658171&format=mp32",
+  "fileName": "Electric Fitness - Electro-midi-disco-prog-experimental-nujazz.mp3",
+  "license": {
+    "code": "by-sa",
+    "version": "3.0",
+    "label": "CC BY-SA 3.0",
+    "url": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "attribution": true,
+    "commercial": true,
+    "derivatives": true,
+    "shareAlike": true,
+    "publicDomain": false
+  },
+  "genre": "Experimental",
+  "tags": [
+    "instrumental",
+    "speed_medium"
+  ],
+  "analysis": {
+    "durationSec": 154.28,
+    "bpm": 140,
+    "bpmConfidence": 1,
+    "beatOffset": 0.8506,
+    "key": {
+      "name": "F",
+      "camelot": "7B",
+      "confidence": 0.77
+    },
+    "rmsDb": -13.5,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-03"
+}

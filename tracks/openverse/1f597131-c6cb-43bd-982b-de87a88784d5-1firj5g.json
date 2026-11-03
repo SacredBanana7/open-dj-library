@@ -1,0 +1,45 @@
+{
+  "version": 1,
+  "id": "openverse:1f597131-c6cb-43bd-982b-de87a88784d5",
+  "source": "openverse",
+  "provider": "jamendo",
+  "title": "DeKa3r. Experimental Experience (Original Mix) 2007",
+  "artist": "DeKa3r",
+  "artistUrl": "https://www.jamendo.com/artist/487878/D4v-DeKa3r",
+  "album": "Classic Collection - DeKa3r",
+  "pageUrl": "https://www.jamendo.com/track/1323228",
+  "audioUrl": "https://prod-1.storage.jamendo.com/?trackid=1323228&format=mp32",
+  "fileName": "DeKa3r - DeKa3r. Experimental Experience (Original Mix) 2007.mp3",
+  "license": {
+    "code": "by-sa",
+    "version": "3.0",
+    "label": "CC BY-SA 3.0",
+    "url": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "attribution": true,
+    "commercial": true,
+    "derivatives": true,
+    "shareAlike": true,
+    "publicDomain": false
+  },
+  "genre": "Experimental",
+  "tags": [
+    "deka3r",
+    "instrumental",
+    "neutral",
+    "speed_medium"
+  ],
+  "analysis": {
+    "durationSec": 380.54,
+    "bpm": 140,
+    "bpmConfidence": 0.54,
+    "beatOffset": 0.5952,
+    "key": {
+      "name": "G#",
+      "camelot": "4B",
+      "confidence": 0.49
+    },
+    "rmsDb": -14.6,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-03"
+}

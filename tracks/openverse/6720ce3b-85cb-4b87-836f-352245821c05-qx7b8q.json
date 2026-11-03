@@ -1,0 +1,43 @@
+{
+  "version": 1,
+  "id": "openverse:6720ce3b-85cb-4b87-836f-352245821c05",
+  "source": "openverse",
+  "provider": "jamendo",
+  "title": "artez8 (experimental ; electronica) 5.44mn 149bpm",
+  "artist": "T.A.G.E.O.",
+  "artistUrl": "https://www.jamendo.com/artist/432545/T.A.G.E.O.",
+  "album": "Electro Vol3",
+  "pageUrl": "https://www.jamendo.com/track/1052256",
+  "audioUrl": "https://prod-1.storage.jamendo.com/?trackid=1052256&format=mp32",
+  "fileName": "T.A.G.E.O. - artez8 (experimental ; electronica) 5.44mn 149bpm.mp3",
+  "license": {
+    "code": "by-nd",
+    "version": "2.0",
+    "label": "CC BY-ND 2.0 BE",
+    "url": "https://creativecommons.org/licenses/by-nd/2.0/be/",
+    "attribution": true,
+    "commercial": true,
+    "derivatives": false,
+    "shareAlike": false,
+    "publicDomain": false
+  },
+  "genre": "Experimental",
+  "tags": [
+    "instrumental",
+    "speed_medium"
+  ],
+  "analysis": {
+    "durationSec": 343.55,
+    "bpm": 148.1,
+    "bpmConfidence": 0.62,
+    "beatOffset": 0.0092,
+    "key": {
+      "name": "A#m",
+      "camelot": "3A",
+      "confidence": 0.61
+    },
+    "rmsDb": -13.9,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-03"
+}

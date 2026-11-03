@@ -1,0 +1,44 @@
+{
+  "version": 1,
+  "id": "openverse:d0073dfa-7f82-43fc-a22e-70e38a5653fa",
+  "source": "openverse",
+  "provider": "jamendo",
+  "title": "IDM Dance (experimental)",
+  "artist": "PAKO",
+  "artistUrl": "https://www.jamendo.com/artist/3025/pako",
+  "album": "09 PIN PART Vol.03",
+  "pageUrl": "https://www.jamendo.com/track/386878",
+  "audioUrl": "https://prod-1.storage.jamendo.com/?trackid=386878&format=mp32",
+  "fileName": "PAKO - IDM Dance (experimental).mp3",
+  "license": {
+    "code": "by-nc-nd",
+    "version": "3.0",
+    "label": "CC BY-NC-ND 3.0",
+    "url": "https://creativecommons.org/licenses/by-nc-nd/3.0/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": false,
+    "shareAlike": false,
+    "publicDomain": false
+  },
+  "genre": "Experimental",
+  "tags": [
+    "instrumental",
+    "minimal",
+    "speed_medium"
+  ],
+  "analysis": {
+    "durationSec": 395.22,
+    "bpm": 126,
+    "bpmConfidence": 0.64,
+    "beatOffset": 0.9291,
+    "key": {
+      "name": "G",
+      "camelot": "9B",
+      "confidence": 0.6
+    },
+    "rmsDb": -14,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-03"
+}
