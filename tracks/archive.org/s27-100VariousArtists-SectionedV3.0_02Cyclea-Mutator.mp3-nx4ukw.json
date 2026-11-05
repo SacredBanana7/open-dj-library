@@ -1,0 +1,52 @@
+{
+  "version": 1,
+  "id": "archive.org:s27-100VariousArtists-SectionedV3.0/02Cyclea-Mutator.mp3",
+  "source": "archive.org",
+  "title": "Mutator",
+  "artist": "Cyclea",
+  "album": "[S27-100] Sectioned v3.0",
+  "pageUrl": "https://archive.org/details/s27-100VariousArtists-SectionedV3.0",
+  "audioUrl": "https://archive.org/download/s27-100VariousArtists-SectionedV3.0/02Cyclea-Mutator.mp3",
+  "fileName": "02Cyclea-Mutator.mp3",
+  "sizeBytes": 8211955,
+  "license": {
+    "code": "by-nc-nd",
+    "version": "3.0",
+    "label": "CC BY-NC-ND 3.0",
+    "url": "http://creativecommons.org/licenses/by-nc-nd/3.0/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": false,
+    "shareAlike": false,
+    "publicDomain": false
+  },
+  "genre": "Dubstep",
+  "tags": [
+    "Ventolyn & Becotyde",
+    "Cyclea",
+    "Dissolved",
+    "Caulkhead",
+    "Aramburu",
+    "Archos",
+    "Adviruz",
+    "Night Owl Committee",
+    "Shadow Priest",
+    "Deltason",
+    "Konuvvi",
+    "Dolphin Omega"
+  ],
+  "analysis": {
+    "durationSec": 201.38,
+    "bpm": 124.84,
+    "bpmConfidence": 0.43,
+    "beatOffset": 0.8826,
+    "key": {
+      "name": "C",
+      "camelot": "8B",
+      "confidence": 0.73
+    },
+    "rmsDb": -14.3,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-05"
+}

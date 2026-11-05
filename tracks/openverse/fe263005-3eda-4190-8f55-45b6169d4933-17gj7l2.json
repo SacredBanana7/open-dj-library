@@ -1,0 +1,49 @@
+{
+  "version": 1,
+  "id": "openverse:fe263005-3eda-4190-8f55-45b6169d4933",
+  "source": "openverse",
+  "provider": "jamendo",
+  "title": "Springtime Lovers - Chill Guitar Hip Hop Beat Lounge Vlog (Full Track)",
+  "artist": "Ronin_Production",
+  "artistUrl": "https://www.jamendo.com/artist/540757/Ronin_Production",
+  "album": "Springtime Lovers",
+  "pageUrl": "https://www.jamendo.com/track/1907340",
+  "audioUrl": "https://prod-1.storage.jamendo.com/?trackid=1907340&format=mp32",
+  "fileName": "Ronin_Production - Springtime Lovers - Chill Guitar Hip Hop Beat Lounge Vlog (Full Track).mp3",
+  "license": {
+    "code": "by-nc-nd",
+    "version": "3.0",
+    "label": "CC BY-NC-ND 3.0",
+    "url": "https://creativecommons.org/licenses/by-nc-nd/3.0/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": false,
+    "shareAlike": false,
+    "publicDomain": false
+  },
+  "genre": "Hip Hop",
+  "tags": [
+    "electricguitar",
+    "guitar",
+    "instrumental",
+    "neutral",
+    "relaxing",
+    "speed_low",
+    "vlog"
+  ],
+  "analysis": {
+    "durationSec": 172.29,
+    "bpm": 72.58,
+    "bpmConfidence": 0.42,
+    "beatOffset": 0.3254,
+    "key": {
+      "name": "F",
+      "camelot": "7B",
+      "confidence": 0.88
+    },
+    "rmsDb": -13.8,
+    "analyzer": "pulsar-dj/analysis-worker 0.1",
+    "tempoFolded": 0.5
+  },
+  "added": "2026-11-05"
+}

@@ -1,0 +1,46 @@
+{
+  "version": 1,
+  "id": "openverse:19043c01-cec4-458c-bd38-8c89401156f5",
+  "source": "openverse",
+  "provider": "jamendo",
+  "title": "Hip-Hop 1",
+  "artist": "Deff Syndicate",
+  "artistUrl": "https://www.jamendo.com/artist/339445/Deff_Syndicate",
+  "album": "Instrumental Hip-Hop Vol. 1",
+  "pageUrl": "https://www.jamendo.com/track/164177",
+  "audioUrl": "https://prod-1.storage.jamendo.com/?trackid=164177&format=mp32",
+  "fileName": "Deff Syndicate - Hip-Hop 1.mp3",
+  "license": {
+    "code": "by",
+    "version": "3.0",
+    "label": "CC BY 3.0",
+    "url": "https://creativecommons.org/licenses/by/3.0/",
+    "attribution": true,
+    "commercial": true,
+    "derivatives": true,
+    "shareAlike": false,
+    "publicDomain": false
+  },
+  "genre": "Hip Hop",
+  "tags": [
+    "happy",
+    "instrumental",
+    "neutral",
+    "speed_medium"
+  ],
+  "analysis": {
+    "durationSec": 240,
+    "bpm": 72,
+    "bpmConfidence": 0.39,
+    "beatOffset": 0.1143,
+    "key": {
+      "name": "D",
+      "camelot": "10B",
+      "confidence": 0.76
+    },
+    "rmsDb": -8.5,
+    "analyzer": "pulsar-dj/analysis-worker 0.1",
+    "tempoFolded": 0.5
+  },
+  "added": "2026-11-05"
+}

@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "id": "openverse:516bbabb-17cd-453c-8775-882b637c8d14",
+  "source": "openverse",
+  "provider": "jamendo",
+  "title": "Wild Strawberry - Summer Chill Fashion Lo Fi Hip Hop (Full Track)",
+  "artist": "Ronin_Production",
+  "artistUrl": "https://www.jamendo.com/artist/540757/Ronin_Production",
+  "album": "Wild Strawberry",
+  "pageUrl": "https://www.jamendo.com/track/1900221",
+  "audioUrl": "https://prod-1.storage.jamendo.com/?trackid=1900221&format=mp32",
+  "fileName": "Ronin_Production - Wild Strawberry - Summer Chill Fashion Lo Fi Hip Hop (Full Track).mp3",
+  "license": {
+    "code": "by-nc-nd",
+    "version": "3.0",
+    "label": "CC BY-NC-ND 3.0",
+    "url": "https://creativecommons.org/licenses/by-nc-nd/3.0/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": false,
+    "shareAlike": false,
+    "publicDomain": false
+  },
+  "genre": "Hip Hop",
+  "tags": [
+    "cheerful",
+    "guitar",
+    "instrumental",
+    "peaceful",
+    "speed_medium",
+    "summer"
+  ],
+  "analysis": {
+    "durationSec": 170.82,
+    "bpm": 85,
+    "bpmConfidence": 1,
+    "beatOffset": 0.3551,
+    "key": {
+      "name": "F#",
+      "camelot": "2B",
+      "confidence": 0.82
+    },
+    "rmsDb": -12.3,
+    "analyzer": "pulsar-dj/analysis-worker 0.1",
+    "tempoFolded": 0.5
+  },
+  "added": "2026-11-05"
+}

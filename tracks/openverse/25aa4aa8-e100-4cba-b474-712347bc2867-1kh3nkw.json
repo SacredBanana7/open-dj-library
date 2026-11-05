@@ -1,0 +1,47 @@
+{
+  "version": 1,
+  "id": "openverse:25aa4aa8-e100-4cba-b474-712347bc2867",
+  "source": "openverse",
+  "provider": "jamendo",
+  "title": "Old school Jazz Hip Hop",
+  "artist": "Auditone Music Library",
+  "artistUrl": "https://www.jamendo.com/artist/448643/DormouseMusic_(2)",
+  "album": "Instrumental HipHop 001 (Old School Jazz)",
+  "pageUrl": "https://www.jamendo.com/track/1137270",
+  "audioUrl": "https://prod-1.storage.jamendo.com/?trackid=1137270&format=mp32",
+  "fileName": "Auditone Music Library - Old school Jazz Hip Hop.mp3",
+  "license": {
+    "code": "by-nc-sa",
+    "version": "3.0",
+    "label": "CC BY-NC-SA 3.0",
+    "url": "https://creativecommons.org/licenses/by-nc-sa/3.0/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": true,
+    "shareAlike": true,
+    "publicDomain": false
+  },
+  "genre": "Hip Hop",
+  "tags": [
+    "advertising",
+    "drums",
+    "instrumental",
+    "speed_medium",
+    "synthesizer"
+  ],
+  "analysis": {
+    "durationSec": 151.01,
+    "bpm": 87.15,
+    "bpmConfidence": 0.47,
+    "beatOffset": 0.1167,
+    "key": {
+      "name": "Cm",
+      "camelot": "5A",
+      "confidence": 0.64
+    },
+    "rmsDb": -16.6,
+    "analyzer": "pulsar-dj/analysis-worker 0.1",
+    "tempoFolded": 0.5
+  },
+  "added": "2026-11-05"
+}

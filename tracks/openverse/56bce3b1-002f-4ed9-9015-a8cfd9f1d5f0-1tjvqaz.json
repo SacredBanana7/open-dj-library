@@ -1,0 +1,45 @@
+{
+  "version": 1,
+  "id": "openverse:56bce3b1-002f-4ed9-9015-a8cfd9f1d5f0",
+  "source": "openverse",
+  "provider": "jamendo",
+  "title": "Hip-Hop 2",
+  "artist": "Deff Syndicate",
+  "artistUrl": "https://www.jamendo.com/artist/339445/Deff_Syndicate",
+  "album": "Instrumental Hip-Hop Vol. 1",
+  "pageUrl": "https://www.jamendo.com/track/163760",
+  "audioUrl": "https://prod-1.storage.jamendo.com/?trackid=163760&format=mp32",
+  "fileName": "Deff Syndicate - Hip-Hop 2.mp3",
+  "license": {
+    "code": "by",
+    "version": "3.0",
+    "label": "CC BY 3.0",
+    "url": "https://creativecommons.org/licenses/by/3.0/",
+    "attribution": true,
+    "commercial": true,
+    "derivatives": true,
+    "shareAlike": false,
+    "publicDomain": false
+  },
+  "genre": "Hip Hop",
+  "tags": [
+    "instrumental",
+    "neutral",
+    "speed_medium",
+    "synthesizer"
+  ],
+  "analysis": {
+    "durationSec": 228.62,
+    "bpm": 126.66,
+    "bpmConfidence": 0.55,
+    "beatOffset": 0.1408,
+    "key": {
+      "name": "F",
+      "camelot": "7B",
+      "confidence": 0.81
+    },
+    "rmsDb": -10.1,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-05"
+}

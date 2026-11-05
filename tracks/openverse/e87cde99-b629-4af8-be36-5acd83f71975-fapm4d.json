@@ -1,0 +1,43 @@
+{
+  "version": 1,
+  "id": "openverse:e87cde99-b629-4af8-be36-5acd83f71975",
+  "source": "openverse",
+  "provider": "jamendo",
+  "title": "hip hop",
+  "artist": "pithon",
+  "artistUrl": "https://www.jamendo.com/artist/355286/pithon",
+  "album": "sphere",
+  "pageUrl": "https://www.jamendo.com/track/472604",
+  "audioUrl": "https://prod-1.storage.jamendo.com/?trackid=472604&format=mp32",
+  "fileName": "pithon - hip hop.mp3",
+  "license": {
+    "code": "by-sa",
+    "version": "3.0",
+    "label": "CC BY-SA 3.0",
+    "url": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "attribution": true,
+    "commercial": true,
+    "derivatives": true,
+    "shareAlike": true,
+    "publicDomain": false
+  },
+  "genre": "Hip Hop",
+  "tags": [
+    "instrumental",
+    "speed_medium"
+  ],
+  "analysis": {
+    "durationSec": 587.75,
+    "bpm": 90,
+    "bpmConfidence": 0.78,
+    "beatOffset": 1.7459,
+    "key": {
+      "name": "C#",
+      "camelot": "3B",
+      "confidence": 0.79
+    },
+    "rmsDb": -7.4,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-05"
+}

@@ -1,0 +1,46 @@
+{
+  "version": 1,
+  "id": "openverse:959cc603-f890-4762-933d-352978f02dab",
+  "source": "openverse",
+  "provider": "jamendo",
+  "title": "Rap Beat Hip Hop Instrumental - Eminem Type Beat (prod. Eddie TheFoxold)",
+  "artist": "Eddie TheFoxold",
+  "artistUrl": "https://www.jamendo.com/artist/495444/Eddie_TheFoxold",
+  "album": "Revival (instrumental beats produced by EddieTheFoxold)",
+  "pageUrl": "https://www.jamendo.com/track/1398988",
+  "audioUrl": "https://prod-1.storage.jamendo.com/?trackid=1398988&format=mp32",
+  "fileName": "Eddie TheFoxold - Rap Beat Hip Hop Instrumental - Eminem Type Beat (prod. Eddie TheFoxold).mp3",
+  "license": {
+    "code": "by-nc-sa",
+    "version": "3.0",
+    "label": "CC BY-NC-SA 3.0",
+    "url": "https://creativecommons.org/licenses/by-nc-sa/3.0/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": true,
+    "shareAlike": true,
+    "publicDomain": false
+  },
+  "genre": "Hip Hop",
+  "tags": [
+    "instrumental",
+    "neutral",
+    "speed_medium",
+    "westcoastrap"
+  ],
+  "analysis": {
+    "durationSec": 191.69,
+    "bpm": 77,
+    "bpmConfidence": 1,
+    "beatOffset": 0.421,
+    "key": {
+      "name": "Dm",
+      "camelot": "7A",
+      "confidence": 0.76
+    },
+    "rmsDb": -21.4,
+    "analyzer": "pulsar-dj/analysis-worker 0.1",
+    "tempoFolded": 0.5
+  },
+  "added": "2026-11-05"
+}

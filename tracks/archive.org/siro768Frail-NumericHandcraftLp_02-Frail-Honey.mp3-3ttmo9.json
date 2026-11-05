@@ -1,0 +1,45 @@
+{
+  "version": 1,
+  "id": "archive.org:siro768Frail-NumericHandcraftLp/02-Frail-Honey.mp3",
+  "source": "archive.org",
+  "title": "Honey",
+  "artist": "FRAIL",
+  "album": "Numeric Handcraft LP",
+  "pageUrl": "https://archive.org/details/siro768Frail-NumericHandcraftLp",
+  "audioUrl": "https://archive.org/download/siro768Frail-NumericHandcraftLp/02-Frail-Honey.mp3",
+  "fileName": "02-Frail-Honey.mp3",
+  "sizeBytes": 11651896,
+  "license": {
+    "code": "by-nc-nd",
+    "version": "4.0",
+    "label": "CC BY-NC-ND 4.0",
+    "url": "http://creativecommons.org/licenses/by-nc-nd/4.0/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": false,
+    "shareAlike": false,
+    "publicDomain": false
+  },
+  "genre": "Dubstep",
+  "tags": [
+    "Ambient",
+    "Bass Music",
+    "Electronic",
+    "Dubstep",
+    "Other"
+  ],
+  "analysis": {
+    "durationSec": 286.41,
+    "bpm": 173,
+    "bpmConfidence": 0.38,
+    "beatOffset": 1.006,
+    "key": {
+      "name": "A#m",
+      "camelot": "3A",
+      "confidence": 0.66
+    },
+    "rmsDb": -11.6,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-05"
+}

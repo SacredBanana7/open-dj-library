@@ -1,0 +1,45 @@
+{
+  "version": 1,
+  "id": "openverse:3251f2d5-3cbb-483d-bb14-7790b0c9332f",
+  "source": "openverse",
+  "provider": "jamendo",
+  "title": "Hip-Hop Ala Mode {feat Joey Dynomite} {prod.Mr.Farricker}",
+  "artist": "Tab",
+  "artistUrl": "https://www.jamendo.com/artist/348835/Tab_(2)",
+  "album": "Dead Poets:The Empty Bottle Project",
+  "pageUrl": "https://www.jamendo.com/track/684002",
+  "audioUrl": "https://prod-1.storage.jamendo.com/?trackid=684002&format=mp32",
+  "fileName": "Tab - Hip-Hop Ala Mode {feat Joey Dynomite} {prod.Mr.Farricker}.mp3",
+  "license": {
+    "code": "by-nc-nd",
+    "version": "3.0",
+    "label": "CC BY-NC-ND 3.0",
+    "url": "https://creativecommons.org/licenses/by-nc-nd/3.0/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": false,
+    "shareAlike": false,
+    "publicDomain": false
+  },
+  "genre": "Hip Hop",
+  "tags": [
+    "male",
+    "speed_medium",
+    "vocal"
+  ],
+  "analysis": {
+    "durationSec": 208.5,
+    "bpm": 75,
+    "bpmConfidence": 1,
+    "beatOffset": 0.0024,
+    "key": {
+      "name": "G",
+      "camelot": "9B",
+      "confidence": 0.62
+    },
+    "rmsDb": -17.7,
+    "analyzer": "pulsar-dj/analysis-worker 0.1",
+    "tempoFolded": 0.5
+  },
+  "added": "2026-11-05"
+}

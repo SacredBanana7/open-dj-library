@@ -1,0 +1,45 @@
+{
+  "version": 1,
+  "id": "openverse:814c46a1-35b2-4ebd-859c-8121667cf77f",
+  "source": "openverse",
+  "provider": "jamendo",
+  "title": "Hip-Hop 3",
+  "artist": "Deff Syndicate",
+  "artistUrl": "https://www.jamendo.com/artist/339445/Deff_Syndicate",
+  "album": "Instrumental Hip-Hop Vol. 1",
+  "pageUrl": "https://www.jamendo.com/track/164839",
+  "audioUrl": "https://prod-1.storage.jamendo.com/?trackid=164839&format=mp32",
+  "fileName": "Deff Syndicate - Hip-Hop 3.mp3",
+  "license": {
+    "code": "by",
+    "version": "3.0",
+    "label": "CC BY 3.0",
+    "url": "https://creativecommons.org/licenses/by/3.0/",
+    "attribution": true,
+    "commercial": true,
+    "derivatives": true,
+    "shareAlike": false,
+    "publicDomain": false
+  },
+  "genre": "Hip Hop",
+  "tags": [
+    "instrumental",
+    "neutral",
+    "speed_medium"
+  ],
+  "analysis": {
+    "durationSec": 255.17,
+    "bpm": 87,
+    "bpmConfidence": 1,
+    "beatOffset": 0.3438,
+    "key": {
+      "name": "Am",
+      "camelot": "8A",
+      "confidence": 0.77
+    },
+    "rmsDb": -11.7,
+    "analyzer": "pulsar-dj/analysis-worker 0.1",
+    "tempoFolded": 0.5
+  },
+  "added": "2026-11-05"
+}

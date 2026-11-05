@@ -1,0 +1,45 @@
+{
+  "version": 1,
+  "id": "openverse:dd4e9641-4faa-4645-a29c-c2525b0a534a",
+  "source": "openverse",
+  "provider": "jamendo",
+  "title": "Antarctic Rhythms (Invincible Hip Hop Mix)",
+  "artist": "DJ Spooky",
+  "artistUrl": "https://www.jamendo.com/artist/433907/DJ_Spooky",
+  "album": "Of Water and Ice",
+  "pageUrl": "https://www.jamendo.com/track/1042139",
+  "audioUrl": "https://prod-1.storage.jamendo.com/?trackid=1042139&format=mp32",
+  "fileName": "DJ Spooky - Antarctic Rhythms (Invincible Hip Hop Mix).mp3",
+  "license": {
+    "code": "by-nc-sa",
+    "version": "3.0",
+    "label": "CC BY-NC-SA 3.0",
+    "url": "https://creativecommons.org/licenses/by-nc-sa/3.0/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": true,
+    "shareAlike": true,
+    "publicDomain": false
+  },
+  "genre": "Hip Hop",
+  "tags": [
+    "instrumental",
+    "neutral",
+    "speed_medium"
+  ],
+  "analysis": {
+    "durationSec": 256.8,
+    "bpm": 77.59,
+    "bpmConfidence": 0.4,
+    "beatOffset": 0.9195,
+    "key": {
+      "name": "F#m",
+      "camelot": "11A",
+      "confidence": 0.85
+    },
+    "rmsDb": -15.8,
+    "analyzer": "pulsar-dj/analysis-worker 0.1",
+    "tempoFolded": 0.5
+  },
+  "added": "2026-11-05"
+}

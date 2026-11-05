@@ -1,0 +1,44 @@
+{
+  "version": 1,
+  "id": "openverse:1f6deb5b-a732-49b5-940f-e6b3a0566f3f",
+  "source": "openverse",
+  "provider": "jamendo",
+  "title": "Dj Mixer Rap Brasília - (DESTAQUE) R.A.V - Combina Comigo part Hungria Hip Hop e Pacificadores",
+  "artist": "RapDf",
+  "artistUrl": "https://www.jamendo.com/artist/438239/Look_(3)",
+  "album": "RapBrasil",
+  "pageUrl": "https://www.jamendo.com/track/1109640",
+  "audioUrl": "https://prod-1.storage.jamendo.com/?trackid=1109640&format=mp32",
+  "fileName": "RapDf - Dj Mixer Rap Brasília - (DESTAQUE) R.A.V - Combina Comigo part Hungria Hip Hop e Pacificadores.mp3",
+  "license": {
+    "code": "by-sa",
+    "version": "3.0",
+    "label": "CC BY-SA 3.0",
+    "url": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "attribution": true,
+    "commercial": true,
+    "derivatives": true,
+    "shareAlike": true,
+    "publicDomain": false
+  },
+  "genre": "Hip Hop",
+  "tags": [
+    "male",
+    "speed_medium",
+    "vocal"
+  ],
+  "analysis": {
+    "durationSec": 349.83,
+    "bpm": 89.34,
+    "bpmConfidence": 1,
+    "beatOffset": 0.3152,
+    "key": {
+      "name": "G",
+      "camelot": "9B",
+      "confidence": 0.74
+    },
+    "rmsDb": -14.8,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-05"
+}

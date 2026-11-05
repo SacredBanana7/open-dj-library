@@ -1,0 +1,52 @@
+{
+  "version": 1,
+  "id": "archive.org:s27-100VariousArtists-SectionedV3.0/01VentolynBecotyde-TheVhsKids.mp3",
+  "source": "archive.org",
+  "title": "The V.H.S Kids",
+  "artist": "Ventolyn Becotyde",
+  "album": "[S27-100] Sectioned v3.0",
+  "pageUrl": "https://archive.org/details/s27-100VariousArtists-SectionedV3.0",
+  "audioUrl": "https://archive.org/download/s27-100VariousArtists-SectionedV3.0/01VentolynBecotyde-TheVhsKids.mp3",
+  "fileName": "01VentolynBecotyde-TheVhsKids.mp3",
+  "sizeBytes": 6247563,
+  "license": {
+    "code": "by-nc-nd",
+    "version": "3.0",
+    "label": "CC BY-NC-ND 3.0",
+    "url": "http://creativecommons.org/licenses/by-nc-nd/3.0/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": false,
+    "shareAlike": false,
+    "publicDomain": false
+  },
+  "genre": "Dubstep",
+  "tags": [
+    "Ventolyn & Becotyde",
+    "Cyclea",
+    "Dissolved",
+    "Caulkhead",
+    "Aramburu",
+    "Archos",
+    "Adviruz",
+    "Night Owl Committee",
+    "Shadow Priest",
+    "Deltason",
+    "Konuvvi",
+    "Dolphin Omega"
+  ],
+  "analysis": {
+    "durationSec": 152.2,
+    "bpm": 164,
+    "bpmConfidence": 1,
+    "beatOffset": 1.1254,
+    "key": {
+      "name": "C#",
+      "camelot": "3B",
+      "confidence": 0.66
+    },
+    "rmsDb": -15.2,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-05"
+}

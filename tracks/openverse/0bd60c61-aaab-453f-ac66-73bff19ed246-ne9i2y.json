@@ -1,0 +1,49 @@
+{
+  "version": 1,
+  "id": "openverse:0bd60c61-aaab-453f-ac66-73bff19ed246",
+  "source": "openverse",
+  "provider": "jamendo",
+  "title": "Hip Hop Story",
+  "artist": "ALM",
+  "artistUrl": "https://www.jamendo.com/artist/363592/ALM_(2)",
+  "album": "Free Instrumentals, Vol. 5",
+  "pageUrl": "https://www.jamendo.com/track/1609730",
+  "audioUrl": "https://prod-1.storage.jamendo.com/?trackid=1609730&format=mp32",
+  "fileName": "ALM - Hip Hop Story.mp3",
+  "license": {
+    "code": "by-nc-nd",
+    "version": "3.0",
+    "label": "CC BY-NC-ND 3.0",
+    "url": "https://creativecommons.org/licenses/by-nc-nd/3.0/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": false,
+    "shareAlike": false,
+    "publicDomain": false
+  },
+  "genre": "Hip Hop",
+  "tags": [
+    "90s",
+    "horn",
+    "instrumental",
+    "neutral",
+    "piano",
+    "speed_medium",
+    "sport",
+    "uplifting"
+  ],
+  "analysis": {
+    "durationSec": 314.77,
+    "bpm": 92,
+    "bpmConfidence": 1,
+    "beatOffset": 1.3057,
+    "key": {
+      "name": "Bm",
+      "camelot": "10A",
+      "confidence": 0.9
+    },
+    "rmsDb": -13,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-05"
+}
