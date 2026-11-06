@@ -1,0 +1,44 @@
+{
+  "version": 1,
+  "id": "openverse:620c7f79-5b32-4433-873b-6f5570270485",
+  "source": "openverse",
+  "provider": "jamendo",
+  "title": "Gabriel &amp; Kenny &amp; Piter - FOLKLORE [world/breakbeat]",
+  "artist": "Piter",
+  "artistUrl": "https://www.jamendo.com/artist/336573/Piter",
+  "album": "Piter and Friends",
+  "pageUrl": "https://www.jamendo.com/track/278070",
+  "audioUrl": "https://prod-1.storage.jamendo.com/?trackid=278070&format=mp32",
+  "fileName": "Piter - Gabriel &amp; Kenny &amp; Piter - FOLKLORE [world_breakbeat].mp3",
+  "license": {
+    "code": "by-nc-sa",
+    "version": "3.0",
+    "label": "CC BY-NC-SA 3.0",
+    "url": "https://creativecommons.org/licenses/by-nc-sa/3.0/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": true,
+    "shareAlike": true,
+    "publicDomain": false
+  },
+  "genre": "Breakbeat",
+  "tags": [
+    "breakbeats",
+    "instrumental",
+    "speed_medium"
+  ],
+  "analysis": {
+    "durationSec": 351.36,
+    "bpm": 170.68,
+    "bpmConfidence": 0.68,
+    "beatOffset": 0.7196,
+    "key": {
+      "name": "C",
+      "camelot": "8B",
+      "confidence": 0.79
+    },
+    "rmsDb": -12,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-06"
+}

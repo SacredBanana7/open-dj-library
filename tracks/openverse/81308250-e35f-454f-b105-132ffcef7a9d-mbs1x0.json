@@ -1,0 +1,44 @@
+{
+  "version": 1,
+  "id": "openverse:81308250-e35f-454f-b105-132ffcef7a9d",
+  "source": "openverse",
+  "provider": "jamendo",
+  "title": "Qvimera ft BXe - BreakBeat",
+  "artist": "BrunoXe",
+  "artistUrl": "https://www.jamendo.com/artist/1365/brunoxe",
+  "album": "Crear en balde",
+  "pageUrl": "https://www.jamendo.com/track/19869",
+  "audioUrl": "https://prod-1.storage.jamendo.com/?trackid=19869&format=mp32",
+  "fileName": "BrunoXe - Qvimera ft BXe - BreakBeat.mp3",
+  "license": {
+    "code": "by",
+    "version": "2.5",
+    "label": "CC BY 2.5",
+    "url": "https://creativecommons.org/licenses/by/2.5/",
+    "attribution": true,
+    "commercial": true,
+    "derivatives": true,
+    "shareAlike": false,
+    "publicDomain": false
+  },
+  "genre": "Breakbeat",
+  "tags": [
+    "instrumental",
+    "neutral",
+    "speed_veryhigh"
+  ],
+  "analysis": {
+    "durationSec": 151.31,
+    "bpm": 138,
+    "bpmConfidence": 0.94,
+    "beatOffset": 1.5197,
+    "key": {
+      "name": "Bm",
+      "camelot": "10A",
+      "confidence": 0.81
+    },
+    "rmsDb": -11.9,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-06"
+}

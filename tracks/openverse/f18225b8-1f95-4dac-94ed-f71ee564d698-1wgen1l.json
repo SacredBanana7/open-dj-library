@@ -1,0 +1,44 @@
+{
+  "version": 1,
+  "id": "openverse:f18225b8-1f95-4dac-94ed-f71ee564d698",
+  "source": "openverse",
+  "provider": "jamendo",
+  "title": "LA Style Breakbeat",
+  "artist": "Hasenchat",
+  "artistUrl": "https://www.jamendo.com/artist/386200/hasenchat",
+  "album": "Hollywood Raps 2",
+  "pageUrl": "https://www.jamendo.com/track/999673",
+  "audioUrl": "https://prod-1.storage.jamendo.com/?trackid=999673&format=mp32",
+  "fileName": "Hasenchat - LA Style Breakbeat.mp3",
+  "license": {
+    "code": "by-sa",
+    "version": "3.0",
+    "label": "CC BY-SA 3.0",
+    "url": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "attribution": true,
+    "commercial": true,
+    "derivatives": true,
+    "shareAlike": true,
+    "publicDomain": false
+  },
+  "genre": "Breakbeat",
+  "tags": [
+    "male",
+    "speed_medium",
+    "vocal"
+  ],
+  "analysis": {
+    "durationSec": 279.53,
+    "bpm": 170.3,
+    "bpmConfidence": 0.41,
+    "beatOffset": 1.0179,
+    "key": {
+      "name": "D",
+      "camelot": "10B",
+      "confidence": 0.78
+    },
+    "rmsDb": -17.3,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-06"
+}

@@ -1,0 +1,43 @@
+{
+  "version": 1,
+  "id": "openverse:7a80704f-c107-4dd1-8177-fa850bf99545",
+  "source": "openverse",
+  "provider": "jamendo",
+  "title": "B Electro",
+  "artist": "Hasenchat",
+  "artistUrl": "https://www.jamendo.com/artist/386200/hasenchat",
+  "album": "Dance Songs",
+  "pageUrl": "https://www.jamendo.com/track/973406",
+  "audioUrl": "https://prod-1.storage.jamendo.com/?trackid=973406&format=mp32",
+  "fileName": "Hasenchat - B Electro.mp3",
+  "license": {
+    "code": "by-sa",
+    "version": "3.0",
+    "label": "CC BY-SA 3.0",
+    "url": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "attribution": true,
+    "commercial": true,
+    "derivatives": true,
+    "shareAlike": true,
+    "publicDomain": false
+  },
+  "genre": "Electro",
+  "tags": [
+    "instrumental",
+    "speed_medium"
+  ],
+  "analysis": {
+    "durationSec": 290.29,
+    "bpm": 105,
+    "bpmConfidence": 1,
+    "beatOffset": 0.0021,
+    "key": {
+      "name": "A",
+      "camelot": "11B",
+      "confidence": 0.76
+    },
+    "rmsDb": -16.8,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-06"
+}

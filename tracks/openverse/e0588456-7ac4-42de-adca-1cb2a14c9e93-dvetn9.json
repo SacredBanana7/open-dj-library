@@ -1,0 +1,47 @@
+{
+  "version": 1,
+  "id": "openverse:e0588456-7ac4-42de-adca-1cb2a14c9e93",
+  "source": "openverse",
+  "provider": "jamendo",
+  "title": "Aquarius (Psychadelik Pedestrian breakbeat remix)",
+  "artist": "Phish Funk",
+  "artistUrl": "https://www.jamendo.com/artist/496178/Phish_Funk",
+  "album": "Aquarius",
+  "pageUrl": "https://www.jamendo.com/track/1418029",
+  "audioUrl": "https://prod-1.storage.jamendo.com/?trackid=1418029&format=mp32",
+  "fileName": "Phish Funk - Aquarius (Psychadelik Pedestrian breakbeat remix).mp3",
+  "license": {
+    "code": "by-nc-sa",
+    "version": "3.0",
+    "label": "CC BY-NC-SA 3.0",
+    "url": "https://creativecommons.org/licenses/by-nc-sa/3.0/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": true,
+    "shareAlike": true,
+    "publicDomain": false
+  },
+  "genre": "Breakbeat",
+  "tags": [
+    "female",
+    "happy",
+    "haunting",
+    "speed_medium",
+    "upbeat",
+    "vocal"
+  ],
+  "analysis": {
+    "durationSec": 241.24,
+    "bpm": 133,
+    "bpmConfidence": 0.64,
+    "beatOffset": 0.8713,
+    "key": {
+      "name": "Dm",
+      "camelot": "7A",
+      "confidence": 0.87
+    },
+    "rmsDb": -12.8,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-06"
+}

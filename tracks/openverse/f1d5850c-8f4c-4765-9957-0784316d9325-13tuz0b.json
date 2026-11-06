@@ -1,0 +1,47 @@
+{
+  "version": 1,
+  "id": "openverse:f1d5850c-8f4c-4765-9957-0784316d9325",
+  "source": "openverse",
+  "provider": "jamendo",
+  "title": "Zero Gravity (breakbeat remix)",
+  "artist": "Redmann",
+  "artistUrl": "https://www.jamendo.com/artist/371382/Redmann",
+  "album": "Zero Gravity",
+  "pageUrl": "https://www.jamendo.com/track/1156573",
+  "audioUrl": "https://prod-1.storage.jamendo.com/?trackid=1156573&format=mp32",
+  "fileName": "Redmann - Zero Gravity (breakbeat remix).mp3",
+  "license": {
+    "code": "by-nc-sa",
+    "version": "3.0",
+    "label": "CC BY-NC-SA 3.0",
+    "url": "https://creativecommons.org/licenses/by-nc-sa/3.0/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": true,
+    "shareAlike": true,
+    "publicDomain": false
+  },
+  "genre": "Breakbeat",
+  "tags": [
+    "drummachine",
+    "instrumental",
+    "party",
+    "speed_medium",
+    "synthesizer",
+    "uplifting"
+  ],
+  "analysis": {
+    "durationSec": 278.36,
+    "bpm": 137.7,
+    "bpmConfidence": 0.41,
+    "beatOffset": 0.5868,
+    "key": {
+      "name": "F",
+      "camelot": "7B",
+      "confidence": 0.72
+    },
+    "rmsDb": -13.2,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-06"
+}

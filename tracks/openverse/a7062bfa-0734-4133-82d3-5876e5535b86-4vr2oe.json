@@ -1,0 +1,45 @@
+{
+  "version": 1,
+  "id": "openverse:a7062bfa-0734-4133-82d3-5876e5535b86",
+  "source": "openverse",
+  "provider": "jamendo",
+  "title": "Electro maniac",
+  "artist": "Alexander Blu",
+  "artistUrl": "https://www.jamendo.com/artist/87/alexander.blu",
+  "album": "Electricity",
+  "pageUrl": "https://www.jamendo.com/track/103624",
+  "audioUrl": "https://prod-1.storage.jamendo.com/?trackid=103624&format=mp32",
+  "fileName": "Alexander Blu - Electro maniac.mp3",
+  "license": {
+    "code": "by-nc",
+    "version": "3.0",
+    "label": "CC BY-NC 3.0",
+    "url": "https://creativecommons.org/licenses/by-nc/3.0/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": true,
+    "shareAlike": false,
+    "publicDomain": false
+  },
+  "genre": "Electro",
+  "tags": [
+    "instrumental",
+    "neutral",
+    "speed_medium",
+    "synthesizer"
+  ],
+  "analysis": {
+    "durationSec": 245.51,
+    "bpm": 101,
+    "bpmConfidence": 0.9,
+    "beatOffset": 1.6797,
+    "key": {
+      "name": "D",
+      "camelot": "10B",
+      "confidence": 0.77
+    },
+    "rmsDb": -13.7,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-06"
+}

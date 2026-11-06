@@ -1,0 +1,49 @@
+{
+  "version": 1,
+  "id": "openverse:ba48b16b-1d0f-47e5-b3ad-4af52d44c317",
+  "source": "openverse",
+  "provider": "jamendo",
+  "title": "Halloween Party (Electro)",
+  "artist": "Capashen",
+  "artistUrl": "https://www.jamendo.com/artist/340768/Capashen",
+  "album": "Departure",
+  "pageUrl": "https://www.jamendo.com/track/1075893",
+  "audioUrl": "https://prod-1.storage.jamendo.com/?trackid=1075893&format=mp32",
+  "fileName": "Capashen - Halloween Party (Electro).mp3",
+  "license": {
+    "code": "by-nc-sa",
+    "version": "3.0",
+    "label": "CC BY-NC-SA 3.0",
+    "url": "https://creativecommons.org/licenses/by-nc-sa/3.0/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": true,
+    "shareAlike": true,
+    "publicDomain": false
+  },
+  "genre": "Electro",
+  "tags": [
+    "aggressive",
+    "bigbeat",
+    "electroamplified",
+    "groovy",
+    "instrumental",
+    "neutral",
+    "speed_medium",
+    "synthesizer"
+  ],
+  "analysis": {
+    "durationSec": 196.59,
+    "bpm": 130,
+    "bpmConfidence": 1,
+    "beatOffset": 0.0046,
+    "key": {
+      "name": "C#",
+      "camelot": "3B",
+      "confidence": 0.79
+    },
+    "rmsDb": -11.2,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-06"
+}

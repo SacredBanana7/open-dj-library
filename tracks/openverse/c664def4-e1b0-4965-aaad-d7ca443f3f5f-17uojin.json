@@ -1,0 +1,46 @@
+{
+  "version": 1,
+  "id": "openverse:c664def4-e1b0-4965-aaad-d7ca443f3f5f",
+  "source": "openverse",
+  "provider": "jamendo",
+  "title": "Bombay Ruby (Dirty electro)",
+  "artist": "Capashen",
+  "artistUrl": "https://www.jamendo.com/artist/340768/Capashen",
+  "album": "Departure",
+  "pageUrl": "https://www.jamendo.com/track/1075890",
+  "audioUrl": "https://prod-1.storage.jamendo.com/?trackid=1075890&format=mp32",
+  "fileName": "Capashen - Bombay Ruby (Dirty electro).mp3",
+  "license": {
+    "code": "by-nc-sa",
+    "version": "3.0",
+    "label": "CC BY-NC-SA 3.0",
+    "url": "https://creativecommons.org/licenses/by-nc-sa/3.0/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": true,
+    "shareAlike": true,
+    "publicDomain": false
+  },
+  "genre": "Electro",
+  "tags": [
+    "bass",
+    "bigbeat",
+    "drums",
+    "instrumental",
+    "speed_medium"
+  ],
+  "analysis": {
+    "durationSec": 255.27,
+    "bpm": 110,
+    "bpmConfidence": 1,
+    "beatOffset": 0.5491,
+    "key": {
+      "name": "C#",
+      "camelot": "3B",
+      "confidence": 0.82
+    },
+    "rmsDb": -12.3,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-06"
+}

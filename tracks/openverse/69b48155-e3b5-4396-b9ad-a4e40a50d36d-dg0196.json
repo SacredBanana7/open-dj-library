@@ -1,0 +1,43 @@
+{
+  "version": 1,
+  "id": "openverse:69b48155-e3b5-4396-b9ad-a4e40a50d36d",
+  "source": "openverse",
+  "provider": "jamendo",
+  "title": "Disco Boutique - Club Anthem 2011 (Original Mix)",
+  "artist": "Disco Boutique",
+  "artistUrl": "https://www.jamendo.com/artist/369192/Disco_Boutique",
+  "album": "1st",
+  "pageUrl": "https://www.jamendo.com/track/788076",
+  "audioUrl": "https://prod-1.storage.jamendo.com/?trackid=788076&format=mp32",
+  "fileName": "Disco Boutique - Disco Boutique - Club Anthem 2011 (Original Mix).mp3",
+  "license": {
+    "code": "by-nc-nd",
+    "version": "2.5",
+    "label": "CC BY-NC-ND 2.5 PL",
+    "url": "https://creativecommons.org/licenses/by-nc-nd/2.5/pl/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": false,
+    "shareAlike": false,
+    "publicDomain": false
+  },
+  "genre": "Disco / Funk",
+  "tags": [
+    "instrumental",
+    "speed_medium"
+  ],
+  "analysis": {
+    "durationSec": 363.24,
+    "bpm": 130,
+    "bpmConfidence": 1,
+    "beatOffset": 0.9305,
+    "key": {
+      "name": "F#",
+      "camelot": "2B",
+      "confidence": 0.77
+    },
+    "rmsDb": -10.5,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-06"
+}

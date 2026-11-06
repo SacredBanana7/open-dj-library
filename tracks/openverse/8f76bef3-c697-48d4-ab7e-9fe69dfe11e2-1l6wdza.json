@@ -1,0 +1,47 @@
+{
+  "version": 1,
+  "id": "openverse:8f76bef3-c697-48d4-ab7e-9fe69dfe11e2",
+  "source": "openverse",
+  "provider": "jamendo",
+  "title": "Electro House Epic Club Night",
+  "artist": "PremiumMusic (Instrumental Version)",
+  "artistUrl": "https://www.jamendo.com/artist/420766/PremiumMusic",
+  "album": "Futuristic Electro Dance House Minimal Techno Party Producer",
+  "pageUrl": "https://www.jamendo.com/track/985631",
+  "audioUrl": "https://prod-1.storage.jamendo.com/?trackid=985631&format=mp32",
+  "fileName": "PremiumMusic (Instrumental Version) - Electro House Epic Club Night.mp3",
+  "license": {
+    "code": "by-nc-nd",
+    "version": "3.0",
+    "label": "CC BY-NC-ND 3.0",
+    "url": "https://creativecommons.org/licenses/by-nc-nd/3.0/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": false,
+    "shareAlike": false,
+    "publicDomain": false
+  },
+  "genre": "Electro",
+  "tags": [
+    "happy",
+    "instrumental",
+    "neutral",
+    "party",
+    "speed_high",
+    "summer"
+  ],
+  "analysis": {
+    "durationSec": 181.61,
+    "bpm": 130,
+    "bpmConfidence": 1,
+    "beatOffset": 1.0701,
+    "key": {
+      "name": "C",
+      "camelot": "8B",
+      "confidence": 0.82
+    },
+    "rmsDb": -12.6,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-06"
+}

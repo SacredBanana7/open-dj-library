@@ -1,0 +1,50 @@
+{
+  "version": 1,
+  "id": "openverse:52d7c789-e2ca-4adf-bc5b-ae0e387d94a9",
+  "source": "openverse",
+  "provider": "jamendo",
+  "title": "Falling (Breakbeat Mix)",
+  "artist": "JJMillon",
+  "artistUrl": "https://www.jamendo.com/artist/482929/JJMILLON",
+  "album": "Falling",
+  "pageUrl": "https://www.jamendo.com/track/1784935",
+  "audioUrl": "https://prod-1.storage.jamendo.com/?trackid=1784935&format=mp32",
+  "fileName": "JJMillon - Falling (Breakbeat Mix).mp3",
+  "license": {
+    "code": "by-sa",
+    "version": "3.0",
+    "label": "CC BY-SA 3.0",
+    "url": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "attribution": true,
+    "commercial": true,
+    "derivatives": true,
+    "shareAlike": true,
+    "publicDomain": false
+  },
+  "genre": "Breakbeat",
+  "tags": [
+    "70s",
+    "alboka",
+    "ballad",
+    "energetic",
+    "female",
+    "happy",
+    "speed_high",
+    "viola",
+    "vocal"
+  ],
+  "analysis": {
+    "durationSec": 253.71,
+    "bpm": 128,
+    "bpmConfidence": 0.89,
+    "beatOffset": 0.0013,
+    "key": {
+      "name": "F",
+      "camelot": "7B",
+      "confidence": 0.85
+    },
+    "rmsDb": -17.1,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-06"
+}

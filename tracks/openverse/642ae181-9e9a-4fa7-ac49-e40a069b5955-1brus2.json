@@ -1,0 +1,43 @@
+{
+  "version": 1,
+  "id": "openverse:642ae181-9e9a-4fa7-ac49-e40a069b5955",
+  "source": "openverse",
+  "provider": "jamendo",
+  "title": "untitled breakbeat",
+  "artist": "Batard Tronique",
+  "artistUrl": "https://www.jamendo.com/artist/349968/Batard_Tronique",
+  "album": "Don't be cruel EP",
+  "pageUrl": "https://www.jamendo.com/track/451650",
+  "audioUrl": "https://prod-1.storage.jamendo.com/?trackid=451650&format=mp32",
+  "fileName": "Batard Tronique - untitled breakbeat.mp3",
+  "license": {
+    "code": "by-nc-nd",
+    "version": "3.0",
+    "label": "CC BY-NC-ND 3.0",
+    "url": "https://creativecommons.org/licenses/by-nc-nd/3.0/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": false,
+    "shareAlike": false,
+    "publicDomain": false
+  },
+  "genre": "Breakbeat",
+  "tags": [
+    "instrumental",
+    "speed_medium"
+  ],
+  "analysis": {
+    "durationSec": 237.69,
+    "bpm": 136,
+    "bpmConfidence": 0.59,
+    "beatOffset": 0.3671,
+    "key": {
+      "name": "Gm",
+      "camelot": "6A",
+      "confidence": 0.83
+    },
+    "rmsDb": -14.5,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-06"
+}

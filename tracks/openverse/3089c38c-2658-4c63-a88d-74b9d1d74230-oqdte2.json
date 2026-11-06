@@ -1,0 +1,42 @@
+{
+  "version": 1,
+  "id": "openverse:3089c38c-2658-4c63-a88d-74b9d1d74230",
+  "source": "openverse",
+  "provider": "jamendo",
+  "title": "- Dj L$d... BreakBeat 2010",
+  "artist": "Dj Lsd...",
+  "artistUrl": "https://www.jamendo.com/artist/364049/Dj_Lsd...",
+  "album": "Эйфория",
+  "pageUrl": "https://www.jamendo.com/track/687386",
+  "audioUrl": "https://prod-1.storage.jamendo.com/?trackid=687386&format=mp32",
+  "fileName": "Dj Lsd... - - Dj L$d... BreakBeat 2010.mp3",
+  "license": {
+    "code": "by-sa",
+    "version": "3.0",
+    "label": "CC BY-SA 3.0",
+    "url": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "attribution": true,
+    "commercial": true,
+    "derivatives": true,
+    "shareAlike": true,
+    "publicDomain": false
+  },
+  "genre": "Breakbeat",
+  "tags": [
+    "speed_veryhigh"
+  ],
+  "analysis": {
+    "durationSec": 309.88,
+    "bpm": 147.54,
+    "bpmConfidence": 0.4,
+    "beatOffset": 0.1382,
+    "key": {
+      "name": "Am",
+      "camelot": "8A",
+      "confidence": 0.73
+    },
+    "rmsDb": -7.5,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-06"
+}

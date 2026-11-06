@@ -1,0 +1,47 @@
+{
+  "version": 1,
+  "id": "openverse:4eb04506-97cd-4b6e-9242-01afa9a34e69",
+  "source": "openverse",
+  "provider": "jamendo",
+  "title": "Get To Kill [dirty electro]",
+  "artist": "Capashen",
+  "artistUrl": "https://www.jamendo.com/artist/340768/Capashen",
+  "album": "All-in",
+  "pageUrl": "https://www.jamendo.com/track/948204",
+  "audioUrl": "https://prod-1.storage.jamendo.com/?trackid=948204&format=mp32",
+  "fileName": "Capashen - Get To Kill [dirty electro].mp3",
+  "license": {
+    "code": "by-nc-sa",
+    "version": "3.0",
+    "label": "CC BY-NC-SA 3.0",
+    "url": "https://creativecommons.org/licenses/by-nc-sa/3.0/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": true,
+    "shareAlike": true,
+    "publicDomain": false
+  },
+  "genre": "Electro",
+  "tags": [
+    "electroamplified",
+    "energetic",
+    "fat",
+    "instrumental",
+    "speed_medium",
+    "synthesizer"
+  ],
+  "analysis": {
+    "durationSec": 227.34,
+    "bpm": 128,
+    "bpmConfidence": 0.57,
+    "beatOffset": 1.4026,
+    "key": {
+      "name": "D#m",
+      "camelot": "2A",
+      "confidence": 0.83
+    },
+    "rmsDb": -7.6,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-06"
+}

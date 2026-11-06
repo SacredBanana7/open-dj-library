@@ -1,0 +1,43 @@
+{
+  "version": 1,
+  "id": "openverse:5a5bc148-dfa2-4369-aafb-61f8ca6444e2",
+  "source": "openverse",
+  "provider": "jamendo",
+  "title": "70's Disco",
+  "artist": "DjPac",
+  "artistUrl": "https://www.jamendo.com/artist/5348/djpac",
+  "album": "Loss Ideas",
+  "pageUrl": "https://www.jamendo.com/track/39001",
+  "audioUrl": "https://prod-1.storage.jamendo.com/?trackid=39001&format=mp32",
+  "fileName": "DjPac - 70's Disco.mp3",
+  "license": {
+    "code": "by-nc-sa",
+    "version": "3.0",
+    "label": "CC BY-NC-SA 3.0",
+    "url": "https://creativecommons.org/licenses/by-nc-sa/3.0/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": true,
+    "shareAlike": true,
+    "publicDomain": false
+  },
+  "genre": "Disco / Funk",
+  "tags": [
+    "instrumental",
+    "speed_medium"
+  ],
+  "analysis": {
+    "durationSec": 171.86,
+    "bpm": 130,
+    "bpmConfidence": 1,
+    "beatOffset": 0.4584,
+    "key": {
+      "name": "Gm",
+      "camelot": "6A",
+      "confidence": 0.73
+    },
+    "rmsDb": -14.4,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-06"
+}

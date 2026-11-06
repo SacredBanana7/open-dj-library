@@ -1,0 +1,46 @@
+{
+  "version": 1,
+  "id": "openverse:dc8f7bd7-4f50-47f4-b339-872d6842cb24",
+  "source": "openverse",
+  "provider": "jamendo",
+  "title": "Big Disco Ball (Instrumental Version)",
+  "artist": "Josh Woodward (Instrumental Versions)",
+  "artistUrl": "https://www.jamendo.com/artist/354648/Josh_Woodward_(Instrumental_Versions)",
+  "album": "Crawford Street (Instrumental Version)",
+  "pageUrl": "https://www.jamendo.com/track/628320",
+  "audioUrl": "https://prod-1.storage.jamendo.com/?trackid=628320&format=mp32",
+  "fileName": "Josh Woodward (Instrumental Versions) - Big Disco Ball (Instrumental Version).mp3",
+  "license": {
+    "code": "by",
+    "version": "3.0",
+    "label": "CC BY 3.0",
+    "url": "https://creativecommons.org/licenses/by/3.0/",
+    "attribution": true,
+    "commercial": true,
+    "derivatives": true,
+    "shareAlike": false,
+    "publicDomain": false
+  },
+  "genre": "Disco / Funk",
+  "tags": [
+    "electricguitar",
+    "electroamplified",
+    "instrumental",
+    "neutral",
+    "speed_medium"
+  ],
+  "analysis": {
+    "durationSec": 235.94,
+    "bpm": 123.74,
+    "bpmConfidence": 0.48,
+    "beatOffset": 1.5728,
+    "key": {
+      "name": "G",
+      "camelot": "9B",
+      "confidence": 0.94
+    },
+    "rmsDb": -16.3,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-06"
+}

@@ -1,0 +1,43 @@
+{
+  "version": 1,
+  "id": "openverse:ee056000-d1fc-407a-990d-009f15a47a1b",
+  "source": "openverse",
+  "provider": "jamendo",
+  "title": "Breakbeat sonate",
+  "artist": "Bonnie",
+  "artistUrl": "https://www.jamendo.com/artist/358870/Bonnie_(2)",
+  "album": "Crossover",
+  "pageUrl": "https://www.jamendo.com/track/769203",
+  "audioUrl": "https://prod-1.storage.jamendo.com/?trackid=769203&format=mp32",
+  "fileName": "Bonnie - Breakbeat sonate.mp3",
+  "license": {
+    "code": "by-sa",
+    "version": "3.0",
+    "label": "CC BY-SA 3.0",
+    "url": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "attribution": true,
+    "commercial": true,
+    "derivatives": true,
+    "shareAlike": true,
+    "publicDomain": false
+  },
+  "genre": "Breakbeat",
+  "tags": [
+    "instrumental",
+    "speed_medium"
+  ],
+  "analysis": {
+    "durationSec": 239.97,
+    "bpm": 117.34,
+    "bpmConfidence": 1,
+    "beatOffset": 0.3223,
+    "key": {
+      "name": "F#",
+      "camelot": "2B",
+      "confidence": 0.67
+    },
+    "rmsDb": -15,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-06"
+}

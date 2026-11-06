@@ -1,0 +1,45 @@
+{
+  "version": 1,
+  "id": "openverse:8b67bb34-10f0-4b4d-9d05-24a48ad73c8f",
+  "source": "openverse",
+  "provider": "jamendo",
+  "title": "Electro-Nick - Istra Train",
+  "artist": "Tunguska Electronic Music Society",
+  "artistUrl": "https://www.jamendo.com/artist/343607/Tunguska_Chillout_Grooves_vol.1",
+  "album": "Tunguska Chillout Grooves vol. 3 (Lilith & Selena)",
+  "pageUrl": "https://www.jamendo.com/track/326423",
+  "audioUrl": "https://prod-1.storage.jamendo.com/?trackid=326423&format=mp32",
+  "fileName": "Tunguska Electronic Music Society - Electro-Nick - Istra Train.mp3",
+  "license": {
+    "code": "by-nd",
+    "version": "3.0",
+    "label": "CC BY-ND 3.0",
+    "url": "https://creativecommons.org/licenses/by-nd/3.0/",
+    "attribution": true,
+    "commercial": true,
+    "derivatives": false,
+    "shareAlike": false,
+    "publicDomain": false
+  },
+  "genre": "Electro",
+  "tags": [
+    "happy",
+    "instrumental",
+    "neutral",
+    "speed_medium"
+  ],
+  "analysis": {
+    "durationSec": 471.94,
+    "bpm": 164,
+    "bpmConfidence": 1,
+    "beatOffset": 0.7303,
+    "key": {
+      "name": "Am",
+      "camelot": "8A",
+      "confidence": 0.76
+    },
+    "rmsDb": -15,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-06"
+}

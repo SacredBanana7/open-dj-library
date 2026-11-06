@@ -1,0 +1,44 @@
+{
+  "version": 1,
+  "id": "openverse:9424aab2-47bc-4d2b-81ae-fc9a5c2aadbb",
+  "source": "openverse",
+  "provider": "jamendo",
+  "title": "Disco High",
+  "artist": "UltraCat",
+  "artistUrl": "https://www.jamendo.com/artist/340035/UltraCat",
+  "album": "Disco High",
+  "pageUrl": "https://www.jamendo.com/track/177570",
+  "audioUrl": "https://prod-1.storage.jamendo.com/?trackid=177570&format=mp32",
+  "fileName": "UltraCat - Disco High.mp3",
+  "license": {
+    "code": "by-nc-nd",
+    "version": "3.0",
+    "label": "CC BY-NC-ND 3.0",
+    "url": "https://creativecommons.org/licenses/by-nc-nd/3.0/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": false,
+    "shareAlike": false,
+    "publicDomain": false
+  },
+  "genre": "Disco / Funk",
+  "tags": [
+    "instrumental",
+    "neutral",
+    "speed_medium"
+  ],
+  "analysis": {
+    "durationSec": 276.27,
+    "bpm": 129,
+    "bpmConfidence": 1,
+    "beatOffset": 0.0019,
+    "key": {
+      "name": "A#m",
+      "camelot": "3A",
+      "confidence": 0.62
+    },
+    "rmsDb": -16.4,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-06"
+}

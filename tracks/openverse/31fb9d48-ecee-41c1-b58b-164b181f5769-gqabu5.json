@@ -1,0 +1,46 @@
+{
+  "version": 1,
+  "id": "openverse:31fb9d48-ecee-41c1-b58b-164b181f5769",
+  "source": "openverse",
+  "provider": "jamendo",
+  "title": "19 Was it You ( Breakbeat Mix )",
+  "artist": "Hasenchat",
+  "artistUrl": "https://www.jamendo.com/artist/386200/hasenchat",
+  "album": "Techno Trax - Episode 6",
+  "pageUrl": "https://www.jamendo.com/track/1246311",
+  "audioUrl": "https://prod-1.storage.jamendo.com/?trackid=1246311&format=mp32",
+  "fileName": "Hasenchat - 19 Was it You ( Breakbeat Mix ).mp3",
+  "license": {
+    "code": "by",
+    "version": "3.0",
+    "label": "CC BY 3.0",
+    "url": "https://creativecommons.org/licenses/by/3.0/",
+    "attribution": true,
+    "commercial": true,
+    "derivatives": true,
+    "shareAlike": false,
+    "publicDomain": false
+  },
+  "genre": "Breakbeat",
+  "tags": [
+    "breackbeat",
+    "female",
+    "neutral",
+    "speed_medium",
+    "vocal"
+  ],
+  "analysis": {
+    "durationSec": 474.86,
+    "bpm": 140,
+    "bpmConfidence": 0.89,
+    "beatOffset": 0.0133,
+    "key": {
+      "name": "B",
+      "camelot": "1B",
+      "confidence": 0.57
+    },
+    "rmsDb": -14.8,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-06"
+}

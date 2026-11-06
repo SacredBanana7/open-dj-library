@@ -1,0 +1,43 @@
+{
+  "version": 1,
+  "id": "openverse:fc85d35c-12c1-4dc6-8897-2d5b988dc589",
+  "source": "openverse",
+  "provider": "jamendo",
+  "title": "Disco Candy",
+  "artist": "Hasenchat",
+  "artistUrl": "https://www.jamendo.com/artist/386200/hasenchat",
+  "album": "Rap and Hip Hop 2",
+  "pageUrl": "https://www.jamendo.com/track/996385",
+  "audioUrl": "https://prod-1.storage.jamendo.com/?trackid=996385&format=mp32",
+  "fileName": "Hasenchat - Disco Candy.mp3",
+  "license": {
+    "code": "by-sa",
+    "version": "3.0",
+    "label": "CC BY-SA 3.0",
+    "url": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "attribution": true,
+    "commercial": true,
+    "derivatives": true,
+    "shareAlike": true,
+    "publicDomain": false
+  },
+  "genre": "Disco / Funk",
+  "tags": [
+    "speed_medium",
+    "vocal"
+  ],
+  "analysis": {
+    "durationSec": 304.22,
+    "bpm": 128,
+    "bpmConfidence": 1,
+    "beatOffset": 1.6422,
+    "key": {
+      "name": "Am",
+      "camelot": "8A",
+      "confidence": 0.68
+    },
+    "rmsDb": -16.8,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-06"
+}

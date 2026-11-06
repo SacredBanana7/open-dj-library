@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "id": "openverse:19a643a7-2d70-4830-a858-46f17ed3b416",
+  "source": "openverse",
+  "provider": "jamendo",
+  "title": "DANSE DISCO",
+  "artist": "I'M FRESH! YOU'RE PRETTY!",
+  "artistUrl": "https://www.jamendo.com/artist/439729/imfreshyourepretty",
+  "album": "NEW YORK JE T'ADORE",
+  "pageUrl": "https://www.jamendo.com/track/1086669",
+  "audioUrl": "https://prod-1.storage.jamendo.com/?trackid=1086669&format=mp32",
+  "fileName": "I'M FRESH! YOU'RE PRETTY! - DANSE DISCO.mp3",
+  "license": {
+    "code": "by-sa",
+    "version": "3.0",
+    "label": "CC BY-SA 3.0",
+    "url": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "attribution": true,
+    "commercial": true,
+    "derivatives": true,
+    "shareAlike": true,
+    "publicDomain": false
+  },
+  "genre": "Disco / Funk",
+  "tags": [
+    "bass",
+    "danse",
+    "happy",
+    "male",
+    "speed_high",
+    "synthesizer",
+    "vocal"
+  ],
+  "analysis": {
+    "durationSec": 182,
+    "bpm": 142,
+    "bpmConfidence": 1,
+    "beatOffset": 1.1804,
+    "key": {
+      "name": "A#m",
+      "camelot": "3A",
+      "confidence": 0.8
+    },
+    "rmsDb": -11.5,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-06"
+}

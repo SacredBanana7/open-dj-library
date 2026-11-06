@@ -1,0 +1,43 @@
+{
+  "version": 1,
+  "id": "openverse:3e45cb1e-2643-41c8-8360-38c4d4653b9f",
+  "source": "openverse",
+  "provider": "jamendo",
+  "title": "Disco Is Back (Bonus Track)",
+  "artist": "Fhernando",
+  "artistUrl": "https://www.jamendo.com/artist/342507/Fhernando_(2)",
+  "album": "Sweet Addiction (Bonus Track Version)",
+  "pageUrl": "https://www.jamendo.com/track/288279",
+  "audioUrl": "https://prod-1.storage.jamendo.com/?trackid=288279&format=mp32",
+  "fileName": "Fhernando - Disco Is Back (Bonus Track).mp3",
+  "license": {
+    "code": "by-nc-sa",
+    "version": "3.0",
+    "label": "CC BY-NC-SA 3.0",
+    "url": "https://creativecommons.org/licenses/by-nc-sa/3.0/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": true,
+    "shareAlike": true,
+    "publicDomain": false
+  },
+  "genre": "Disco / Funk",
+  "tags": [
+    "instrumental",
+    "speed_medium"
+  ],
+  "analysis": {
+    "durationSec": 253.4,
+    "bpm": 116,
+    "bpmConfidence": 1,
+    "beatOffset": 1.2026,
+    "key": {
+      "name": "A",
+      "camelot": "11B",
+      "confidence": 0.75
+    },
+    "rmsDb": -18.7,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-06"
+}

@@ -1,0 +1,45 @@
+{
+  "version": 1,
+  "id": "openverse:b0a5f0ae-e68d-46de-b4a8-e70cf2c0441c",
+  "source": "openverse",
+  "provider": "jamendo",
+  "title": "Swingboy (Electro mix)",
+  "artist": "Skullcap",
+  "artistUrl": "https://www.jamendo.com/artist/358133/Skullcap",
+  "album": "We Can Do Everything",
+  "pageUrl": "https://www.jamendo.com/track/535919",
+  "audioUrl": "https://prod-1.storage.jamendo.com/?trackid=535919&format=mp32",
+  "fileName": "Skullcap - Swingboy (Electro mix).mp3",
+  "license": {
+    "code": "by-sa",
+    "version": "3.0",
+    "label": "CC BY-SA 3.0",
+    "url": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "attribution": true,
+    "commercial": true,
+    "derivatives": true,
+    "shareAlike": true,
+    "publicDomain": false
+  },
+  "genre": "Electro",
+  "tags": [
+    "happy",
+    "instrumental",
+    "neutral",
+    "speed_medium"
+  ],
+  "analysis": {
+    "durationSec": 237.61,
+    "bpm": 126,
+    "bpmConfidence": 0.76,
+    "beatOffset": 1.4163,
+    "key": {
+      "name": "Am",
+      "camelot": "8A",
+      "confidence": 0.66
+    },
+    "rmsDb": -11.4,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-06"
+}

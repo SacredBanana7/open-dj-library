@@ -1,0 +1,45 @@
+{
+  "version": 1,
+  "id": "openverse:95934563-52ba-4f09-84c5-e3f511041be5",
+  "source": "openverse",
+  "provider": "jamendo",
+  "title": "Electro blues",
+  "artist": "Alexander Blu",
+  "artistUrl": "https://www.jamendo.com/artist/87/alexander.blu",
+  "album": "Some of my works from 1995-2005",
+  "pageUrl": "https://www.jamendo.com/track/4636",
+  "audioUrl": "https://prod-1.storage.jamendo.com/?trackid=4636&format=mp32",
+  "fileName": "Alexander Blu - Electro blues.mp3",
+  "license": {
+    "code": "by-nc",
+    "version": "3.0",
+    "label": "CC BY-NC 3.0",
+    "url": "https://creativecommons.org/licenses/by-nc/3.0/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": true,
+    "shareAlike": false,
+    "publicDomain": false
+  },
+  "genre": "Electro",
+  "tags": [
+    "instrumental",
+    "lounge",
+    "neutral",
+    "speed_medium"
+  ],
+  "analysis": {
+    "durationSec": 239.67,
+    "bpm": 118.66,
+    "bpmConfidence": 0.77,
+    "beatOffset": 0.9765,
+    "key": {
+      "name": "Gm",
+      "camelot": "6A",
+      "confidence": 0.73
+    },
+    "rmsDb": -15.6,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-06"
+}

@@ -1,0 +1,44 @@
+{
+  "version": 1,
+  "id": "openverse:f6d67f25-81a7-47c3-9c8d-d2a8ba71e386",
+  "source": "openverse",
+  "provider": "jamendo",
+  "title": "La Musica Disco",
+  "artist": "ZigiZigi",
+  "artistUrl": "https://www.jamendo.com/artist/344239/Zigizigi",
+  "album": "Zigizigi Tonight",
+  "pageUrl": "https://www.jamendo.com/track/247122",
+  "audioUrl": "https://prod-1.storage.jamendo.com/?trackid=247122&format=mp32",
+  "fileName": "ZigiZigi - La Musica Disco.mp3",
+  "license": {
+    "code": "by",
+    "version": "3.0",
+    "label": "CC BY 3.0",
+    "url": "https://creativecommons.org/licenses/by/3.0/",
+    "attribution": true,
+    "commercial": true,
+    "derivatives": true,
+    "shareAlike": false,
+    "publicDomain": false
+  },
+  "genre": "Disco / Funk",
+  "tags": [
+    "female",
+    "speed_medium",
+    "vocal"
+  ],
+  "analysis": {
+    "durationSec": 315.7,
+    "bpm": 128,
+    "bpmConfidence": 1,
+    "beatOffset": 1.192,
+    "key": {
+      "name": "Em",
+      "camelot": "9A",
+      "confidence": 0.68
+    },
+    "rmsDb": -14,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-06"
+}

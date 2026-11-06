@@ -1,0 +1,44 @@
+{
+  "version": 1,
+  "id": "openverse:a4c6a357-836c-4010-a7c9-08c565cc4975",
+  "source": "openverse",
+  "provider": "jamendo",
+  "title": "Breakbeat",
+  "artist": "Hasenchat",
+  "artistUrl": "https://www.jamendo.com/artist/386200/hasenchat",
+  "album": "Female Vocal 1",
+  "pageUrl": "https://www.jamendo.com/track/986611",
+  "audioUrl": "https://prod-1.storage.jamendo.com/?trackid=986611&format=mp32",
+  "fileName": "Hasenchat - Breakbeat.mp3",
+  "license": {
+    "code": "by-sa",
+    "version": "3.0",
+    "label": "CC BY-SA 3.0",
+    "url": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "attribution": true,
+    "commercial": true,
+    "derivatives": true,
+    "shareAlike": true,
+    "publicDomain": false
+  },
+  "genre": "Breakbeat",
+  "tags": [
+    "female",
+    "speed_veryhigh",
+    "vocal"
+  ],
+  "analysis": {
+    "durationSec": 260.2,
+    "bpm": 174,
+    "bpmConfidence": 1,
+    "beatOffset": 0.6939,
+    "key": {
+      "name": "A",
+      "camelot": "11B",
+      "confidence": 0.75
+    },
+    "rmsDb": -16.6,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-06"
+}

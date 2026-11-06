@@ -1,0 +1,44 @@
+{
+  "version": 1,
+  "id": "openverse:49e3ac6f-5d21-4a25-a900-7477cf497fdb",
+  "source": "openverse",
+  "provider": "jamendo",
+  "title": "GJ3 - Disco Pneumonia",
+  "artist": "Margin of Safety",
+  "artistUrl": "https://www.jamendo.com/artist/1009/mos",
+  "album": "Where's the Station?",
+  "pageUrl": "https://www.jamendo.com/track/20154",
+  "audioUrl": "https://prod-1.storage.jamendo.com/?trackid=20154&format=mp32",
+  "fileName": "Margin of Safety - GJ3 - Disco Pneumonia.mp3",
+  "license": {
+    "code": "by-nc-nd",
+    "version": "2.5",
+    "label": "CC BY-NC-ND 2.5",
+    "url": "https://creativecommons.org/licenses/by-nc-nd/2.5/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": false,
+    "shareAlike": false,
+    "publicDomain": false
+  },
+  "genre": "Disco / Funk",
+  "tags": [
+    "instrumental",
+    "psychedelic",
+    "speed_medium"
+  ],
+  "analysis": {
+    "durationSec": 574.72,
+    "bpm": 120,
+    "bpmConfidence": 0.44,
+    "beatOffset": 0.9855,
+    "key": {
+      "name": "Bm",
+      "camelot": "10A",
+      "confidence": 0.53
+    },
+    "rmsDb": -17.8,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-06"
+}

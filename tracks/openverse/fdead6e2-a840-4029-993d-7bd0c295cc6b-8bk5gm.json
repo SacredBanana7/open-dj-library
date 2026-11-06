@@ -1,0 +1,45 @@
+{
+  "version": 1,
+  "id": "openverse:fdead6e2-a840-4029-993d-7bd0c295cc6b",
+  "source": "openverse",
+  "provider": "jamendo",
+  "title": "Electro-Nick - Night Drizzle",
+  "artist": "Tunguska Electronic Music Society",
+  "artistUrl": "https://www.jamendo.com/artist/343607/Tunguska_Chillout_Grooves_vol.1",
+  "album": "Tunguska Artefacts: Orange Tram",
+  "pageUrl": "https://www.jamendo.com/track/739842",
+  "audioUrl": "https://prod-1.storage.jamendo.com/?trackid=739842&format=mp32",
+  "fileName": "Tunguska Electronic Music Society - Electro-Nick - Night Drizzle.mp3",
+  "license": {
+    "code": "by-nd",
+    "version": "3.0",
+    "label": "CC BY-ND 3.0",
+    "url": "https://creativecommons.org/licenses/by-nd/3.0/",
+    "attribution": true,
+    "commercial": true,
+    "derivatives": false,
+    "shareAlike": false,
+    "publicDomain": false
+  },
+  "genre": "Electro",
+  "tags": [
+    "instrumental",
+    "quirky",
+    "speed_medium",
+    "trippy"
+  ],
+  "analysis": {
+    "durationSec": 214,
+    "bpm": 160,
+    "bpmConfidence": 0.87,
+    "beatOffset": 0.7517,
+    "key": {
+      "name": "Dm",
+      "camelot": "7A",
+      "confidence": 0.92
+    },
+    "rmsDb": -13.6,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-06"
+}

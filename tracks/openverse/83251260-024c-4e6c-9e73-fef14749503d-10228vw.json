@@ -1,0 +1,43 @@
+{
+  "version": 1,
+  "id": "openverse:83251260-024c-4e6c-9e73-fef14749503d",
+  "source": "openverse",
+  "provider": "jamendo",
+  "title": "Coactive [wauterboi - Underwater Breakbeats]",
+  "artist": "SGX",
+  "artistUrl": "https://www.jamendo.com/artist/4079/sgx",
+  "album": "SGXRMX2 - SGX Remix Project 2.0",
+  "pageUrl": "https://www.jamendo.com/track/46301",
+  "audioUrl": "https://prod-1.storage.jamendo.com/?trackid=46301&format=mp32",
+  "fileName": "SGX - Coactive [wauterboi - Underwater Breakbeats].mp3",
+  "license": {
+    "code": "by-nc-sa",
+    "version": "3.0",
+    "label": "CC BY-NC-SA 3.0",
+    "url": "https://creativecommons.org/licenses/by-nc-sa/3.0/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": true,
+    "shareAlike": true,
+    "publicDomain": false
+  },
+  "genre": "Breakbeat",
+  "tags": [
+    "instrumental",
+    "speed_medium"
+  ],
+  "analysis": {
+    "durationSec": 219.09,
+    "bpm": 170,
+    "bpmConfidence": 0.82,
+    "beatOffset": 0.13,
+    "key": {
+      "name": "D#m",
+      "camelot": "2A",
+      "confidence": 0.88
+    },
+    "rmsDb": -15.9,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-06"
+}

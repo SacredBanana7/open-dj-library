@@ -1,0 +1,47 @@
+{
+  "version": 1,
+  "id": "openverse:fd2924a7-75b6-44b4-bd95-56cbaa3f8938",
+  "source": "openverse",
+  "provider": "jamendo",
+  "title": "Igor Pumphonia - Disco Scout",
+  "artist": "Igor Pumphonia",
+  "artistUrl": "https://www.jamendo.com/artist/475967/ChillRecords",
+  "album": "Igor Pumphonia - 070770",
+  "pageUrl": "https://www.jamendo.com/track/1696209",
+  "audioUrl": "https://prod-1.storage.jamendo.com/?trackid=1696209&format=mp32",
+  "fileName": "Igor Pumphonia - Igor Pumphonia - Disco Scout.mp3",
+  "license": {
+    "code": "by-nc-nd",
+    "version": "3.0",
+    "label": "CC BY-NC-ND 3.0",
+    "url": "https://creativecommons.org/licenses/by-nc-nd/3.0/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": false,
+    "shareAlike": false,
+    "publicDomain": false
+  },
+  "genre": "Disco / Funk",
+  "tags": [
+    "energetic",
+    "instrumental",
+    "neutral",
+    "piano",
+    "speed_medium",
+    "synthesizer"
+  ],
+  "analysis": {
+    "durationSec": 241.72,
+    "bpm": 105,
+    "bpmConfidence": 1,
+    "beatOffset": 0.5866,
+    "key": {
+      "name": "Bm",
+      "camelot": "10A",
+      "confidence": 0.92
+    },
+    "rmsDb": -12.5,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-06"
+}

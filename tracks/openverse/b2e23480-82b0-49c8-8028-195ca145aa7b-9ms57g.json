@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "id": "openverse:b2e23480-82b0-49c8-8028-195ca145aa7b",
+  "source": "openverse",
+  "provider": "jamendo",
+  "title": "Electro Pop Dance Party 3",
+  "artist": "Auditone Music Library",
+  "artistUrl": "https://www.jamendo.com/artist/448643/DormouseMusic_(2)",
+  "album": "Electro/Pop/Dance Vol.1",
+  "pageUrl": "https://www.jamendo.com/track/1250057",
+  "audioUrl": "https://prod-1.storage.jamendo.com/?trackid=1250057&format=mp32",
+  "fileName": "Auditone Music Library - Electro Pop Dance Party 3.mp3",
+  "license": {
+    "code": "by-nc-nd",
+    "version": "3.0",
+    "label": "CC BY-NC-ND 3.0",
+    "url": "https://creativecommons.org/licenses/by-nc-nd/3.0/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": false,
+    "shareAlike": false,
+    "publicDomain": false
+  },
+  "genre": "Electro",
+  "tags": [
+    "bass",
+    "energetic",
+    "instrumental",
+    "neutral",
+    "party",
+    "speed_medium",
+    "synthesizer"
+  ],
+  "analysis": {
+    "durationSec": 157.5,
+    "bpm": 128,
+    "bpmConfidence": 1,
+    "beatOffset": 0.9402,
+    "key": {
+      "name": "E",
+      "camelot": "12B",
+      "confidence": 0.92
+    },
+    "rmsDb": -13.6,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-06"
+}

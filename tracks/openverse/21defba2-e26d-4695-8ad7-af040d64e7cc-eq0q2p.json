@@ -1,0 +1,43 @@
+{
+  "version": 1,
+  "id": "openverse:21defba2-e26d-4695-8ad7-af040d64e7cc",
+  "source": "openverse",
+  "provider": "jamendo",
+  "title": "DJ Dinar - Electro Freestyle",
+  "artist": "DJ Dinar",
+  "artistUrl": "https://www.jamendo.com/artist/360894/DJ_Dinar",
+  "album": "DJ Dinar",
+  "pageUrl": "https://www.jamendo.com/track/600229",
+  "audioUrl": "https://prod-1.storage.jamendo.com/?trackid=600229&format=mp32",
+  "fileName": "DJ Dinar - DJ Dinar - Electro Freestyle.mp3",
+  "license": {
+    "code": "by-sa",
+    "version": "3.0",
+    "label": "CC BY-SA 3.0",
+    "url": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "attribution": true,
+    "commercial": true,
+    "derivatives": true,
+    "shareAlike": true,
+    "publicDomain": false
+  },
+  "genre": "Electro",
+  "tags": [
+    "instrumental",
+    "speed_medium"
+  ],
+  "analysis": {
+    "durationSec": 221.96,
+    "bpm": 173.34,
+    "bpmConfidence": 1,
+    "beatOffset": 0.2363,
+    "key": {
+      "name": "G",
+      "camelot": "9B",
+      "confidence": 0.66
+    },
+    "rmsDb": -15,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-06"
+}
