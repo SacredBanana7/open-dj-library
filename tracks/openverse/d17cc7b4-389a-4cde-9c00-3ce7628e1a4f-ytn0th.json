@@ -1,0 +1,45 @@
+{
+  "version": 1,
+  "id": "openverse:d17cc7b4-389a-4cde-9c00-3ce7628e1a4f",
+  "source": "openverse",
+  "provider": "jamendo",
+  "title": "You Are My Love (energy,powerful,movement,EDM,happy electro)",
+  "artist": "Pilot K",
+  "artistUrl": "https://www.jamendo.com/artist/430957/PilotK",
+  "album": "Movment",
+  "pageUrl": "https://www.jamendo.com/track/1432572",
+  "audioUrl": "https://prod-1.storage.jamendo.com/?trackid=1432572&format=mp32",
+  "fileName": "Pilot K - You Are My Love (energy,powerful,movement,EDM,happy electro).mp3",
+  "license": {
+    "code": "by-nc-nd",
+    "version": "3.0",
+    "label": "CC BY-NC-ND 3.0",
+    "url": "https://creativecommons.org/licenses/by-nc-nd/3.0/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": false,
+    "shareAlike": false,
+    "publicDomain": false
+  },
+  "genre": "Electro",
+  "tags": [
+    "energetic",
+    "happy",
+    "instrumental",
+    "speed_medium"
+  ],
+  "analysis": {
+    "durationSec": 235.87,
+    "bpm": 136,
+    "bpmConfidence": 0.38,
+    "beatOffset": 0.273,
+    "key": {
+      "name": "D#m",
+      "camelot": "2A",
+      "confidence": 0.82
+    },
+    "rmsDb": -11.1,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-10"
+}

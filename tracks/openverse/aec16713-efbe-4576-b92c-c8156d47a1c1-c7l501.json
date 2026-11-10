@@ -1,0 +1,43 @@
+{
+  "version": 1,
+  "id": "openverse:aec16713-efbe-4576-b92c-c8156d47a1c1",
+  "source": "openverse",
+  "provider": "jamendo",
+  "title": "Disco Boutique - The Bounce Is Back (Original Mix)",
+  "artist": "Disco Boutique",
+  "artistUrl": "https://www.jamendo.com/artist/369192/Disco_Boutique",
+  "album": "1st",
+  "pageUrl": "https://www.jamendo.com/track/788079",
+  "audioUrl": "https://prod-1.storage.jamendo.com/?trackid=788079&format=mp32",
+  "fileName": "Disco Boutique - Disco Boutique - The Bounce Is Back (Original Mix).mp3",
+  "license": {
+    "code": "by-nc-nd",
+    "version": "2.5",
+    "label": "CC BY-NC-ND 2.5 PL",
+    "url": "https://creativecommons.org/licenses/by-nc-nd/2.5/pl/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": false,
+    "shareAlike": false,
+    "publicDomain": false
+  },
+  "genre": "Disco / Funk",
+  "tags": [
+    "instrumental",
+    "speed_medium"
+  ],
+  "analysis": {
+    "durationSec": 392.57,
+    "bpm": 129,
+    "bpmConfidence": 1,
+    "beatOffset": 0.0023,
+    "key": {
+      "name": "B",
+      "camelot": "1B",
+      "confidence": 0.73
+    },
+    "rmsDb": -8,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-10"
+}

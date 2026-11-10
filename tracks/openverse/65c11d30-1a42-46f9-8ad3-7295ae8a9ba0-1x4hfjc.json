@@ -1,0 +1,46 @@
+{
+  "version": 1,
+  "id": "openverse:65c11d30-1a42-46f9-8ad3-7295ae8a9ba0",
+  "source": "openverse",
+  "provider": "jamendo",
+  "title": "Disco Vibes",
+  "artist": "Secondhead",
+  "artistUrl": "https://www.jamendo.com/artist/366862/Secondhead",
+  "album": "Amperage",
+  "pageUrl": "https://www.jamendo.com/track/934392",
+  "audioUrl": "https://prod-1.storage.jamendo.com/?trackid=934392&format=mp32",
+  "fileName": "Secondhead - Disco Vibes.mp3",
+  "license": {
+    "code": "by-nc",
+    "version": "3.0",
+    "label": "CC BY-NC 3.0",
+    "url": "https://creativecommons.org/licenses/by-nc/3.0/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": true,
+    "shareAlike": false,
+    "publicDomain": false
+  },
+  "genre": "Disco / Funk",
+  "tags": [
+    "atmospheric",
+    "instrumental",
+    "mp3",
+    "neutral",
+    "speed_medium"
+  ],
+  "analysis": {
+    "durationSec": 315.43,
+    "bpm": 140,
+    "bpmConfidence": 0.77,
+    "beatOffset": 0.0904,
+    "key": {
+      "name": "Cm",
+      "camelot": "5A",
+      "confidence": 0.64
+    },
+    "rmsDb": -11.4,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-10"
+}

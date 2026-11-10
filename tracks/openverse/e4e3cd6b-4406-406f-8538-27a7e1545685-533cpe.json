@@ -1,0 +1,43 @@
+{
+  "version": 1,
+  "id": "openverse:e4e3cd6b-4406-406f-8538-27a7e1545685",
+  "source": "openverse",
+  "provider": "jamendo",
+  "title": "Disco Boutique - Sunrise (Original Mix)",
+  "artist": "Disco Boutique",
+  "artistUrl": "https://www.jamendo.com/artist/369192/Disco_Boutique",
+  "album": "1st",
+  "pageUrl": "https://www.jamendo.com/track/788078",
+  "audioUrl": "https://prod-1.storage.jamendo.com/?trackid=788078&format=mp32",
+  "fileName": "Disco Boutique - Disco Boutique - Sunrise (Original Mix).mp3",
+  "license": {
+    "code": "by-nc-nd",
+    "version": "2.5",
+    "label": "CC BY-NC-ND 2.5 PL",
+    "url": "https://creativecommons.org/licenses/by-nc-nd/2.5/pl/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": false,
+    "shareAlike": false,
+    "publicDomain": false
+  },
+  "genre": "Disco / Funk",
+  "tags": [
+    "instrumental",
+    "speed_medium"
+  ],
+  "analysis": {
+    "durationSec": 330.04,
+    "bpm": 128,
+    "bpmConfidence": 1,
+    "beatOffset": 0.9435,
+    "key": {
+      "name": "Gm",
+      "camelot": "6A",
+      "confidence": 0.81
+    },
+    "rmsDb": -10.9,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-10"
+}
