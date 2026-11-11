@@ -1,0 +1,41 @@
+{
+  "version": 1,
+  "id": "archive.org:TAM033-Ronan_Dec/TAM033-Ronan_Dec-1-Supernova.mp3",
+  "source": "archive.org",
+  "title": "TAM033-Ronan_Dec-1-Supernova",
+  "artist": "ronan dec",
+  "album": "Hirnwald EP",
+  "pageUrl": "https://archive.org/details/TAM033-Ronan_Dec",
+  "audioUrl": "https://archive.org/download/TAM033-Ronan_Dec/TAM033-Ronan_Dec-1-Supernova.mp3",
+  "fileName": "TAM033-Ronan_Dec-1-Supernova.mp3",
+  "sizeBytes": 8438638,
+  "license": {
+    "code": "by-sa",
+    "version": "2.0",
+    "label": "CC BY-SA 2.0 DE",
+    "url": "http://creativecommons.org/licenses/by-sa/2.0/de/",
+    "attribution": true,
+    "commercial": true,
+    "derivatives": true,
+    "shareAlike": true,
+    "publicDomain": false
+  },
+  "genre": "IDM / Electronica",
+  "tags": [
+    "Electronica"
+  ],
+  "analysis": {
+    "durationSec": 263.99,
+    "bpm": 172.8,
+    "bpmConfidence": 0.48,
+    "beatOffset": 0.6526,
+    "key": {
+      "name": "G#m",
+      "camelot": "1A",
+      "confidence": 0.93
+    },
+    "rmsDb": -10.2,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-11"
+}
