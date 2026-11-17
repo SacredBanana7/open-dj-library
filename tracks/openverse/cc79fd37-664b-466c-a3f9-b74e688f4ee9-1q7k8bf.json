@@ -1,0 +1,45 @@
+{
+  "version": 1,
+  "id": "openverse:cc79fd37-664b-466c-a3f9-b74e688f4ee9",
+  "source": "openverse",
+  "provider": "jamendo",
+  "title": "Trance planet",
+  "artist": "NeXuS",
+  "artistUrl": "https://www.jamendo.com/artist/876/nexus",
+  "album": "Trance Planet",
+  "pageUrl": "https://www.jamendo.com/track/6621",
+  "audioUrl": "https://prod-1.storage.jamendo.com/?trackid=6621&format=mp32",
+  "fileName": "NeXuS - Trance planet.mp3",
+  "license": {
+    "code": "by-nc-nd",
+    "version": "2.0",
+    "label": "CC BY-NC-ND 2.0 FR",
+    "url": "https://creativecommons.org/licenses/by-nc-nd/2.0/fr/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": false,
+    "shareAlike": false,
+    "publicDomain": false
+  },
+  "genre": "Trance",
+  "tags": [
+    "female",
+    "neutral",
+    "speed_medium",
+    "vocal"
+  ],
+  "analysis": {
+    "durationSec": 295.88,
+    "bpm": 141,
+    "bpmConfidence": 1,
+    "beatOffset": 0.9324,
+    "key": {
+      "name": "A#m",
+      "camelot": "3A",
+      "confidence": 0.85
+    },
+    "rmsDb": -18.5,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-17"
+}
