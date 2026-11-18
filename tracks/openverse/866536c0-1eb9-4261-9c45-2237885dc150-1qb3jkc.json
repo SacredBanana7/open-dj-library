@@ -1,0 +1,39 @@
+{
+  "version": 1,
+  "id": "openverse:866536c0-1eb9-4261-9c45-2237885dc150",
+  "source": "openverse",
+  "provider": "jamendo",
+  "title": "JonFX - Aloma (J.O.R.B.I breakbeat dub mix bonus track)",
+  "artist": "J.O.R.B.I",
+  "artistUrl": "https://www.jamendo.com/artist/489133/J.O.R.B.I",
+  "album": "Inside the consciousness (2016)",
+  "pageUrl": "https://www.jamendo.com/track/1351649",
+  "audioUrl": "https://prod-1.storage.jamendo.com/?trackid=1351649&format=mp32",
+  "fileName": "J.O.R.B.I - JonFX - Aloma (J.O.R.B.I breakbeat dub mix bonus track).mp3",
+  "license": {
+    "code": "by-nc-sa",
+    "version": "3.0",
+    "label": "CC BY-NC-SA 3.0",
+    "url": "https://creativecommons.org/licenses/by-nc-sa/3.0/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": true,
+    "shareAlike": true,
+    "publicDomain": false
+  },
+  "genre": "Breakbeat",
+  "analysis": {
+    "durationSec": 276.07,
+    "bpm": 140,
+    "bpmConfidence": 0.69,
+    "beatOffset": 0.5579,
+    "key": {
+      "name": "F",
+      "camelot": "7B",
+      "confidence": 0.7
+    },
+    "rmsDb": -10.6,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-18"
+}

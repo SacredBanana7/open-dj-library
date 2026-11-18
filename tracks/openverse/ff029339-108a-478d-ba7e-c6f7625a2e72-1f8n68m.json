@@ -1,0 +1,39 @@
+{
+  "version": 1,
+  "id": "openverse:ff029339-108a-478d-ba7e-c6f7625a2e72",
+  "source": "openverse",
+  "provider": "jamendo",
+  "title": "Breakbeat Drum And Bass Jungle Futuristic Dark Floors",
+  "artist": "PremiumMusic (Instrumental Version)",
+  "artistUrl": "https://www.jamendo.com/artist/420766/PremiumMusic",
+  "album": "Breakbeat Trip Hop Dubstep Drum And Bass Jungle Dark Future",
+  "pageUrl": "https://www.jamendo.com/track/991153",
+  "audioUrl": "https://prod-1.storage.jamendo.com/?trackid=991153&format=mp32",
+  "fileName": "PremiumMusic (Instrumental Version) - Breakbeat Drum And Bass Jungle Futuristic Dark Floors.mp3",
+  "license": {
+    "code": "by-nc-nd",
+    "version": "3.0",
+    "label": "CC BY-NC-ND 3.0",
+    "url": "https://creativecommons.org/licenses/by-nc-nd/3.0/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": false,
+    "shareAlike": false,
+    "publicDomain": false
+  },
+  "genre": "Breakbeat",
+  "analysis": {
+    "durationSec": 337.71,
+    "bpm": 136,
+    "bpmConfidence": 0.57,
+    "beatOffset": 0.1202,
+    "key": {
+      "name": "G#m",
+      "camelot": "1A",
+      "confidence": 0.34
+    },
+    "rmsDb": -8.5,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-18"
+}

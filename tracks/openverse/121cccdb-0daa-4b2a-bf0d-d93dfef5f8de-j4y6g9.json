@@ -1,0 +1,43 @@
+{
+  "version": 1,
+  "id": "openverse:121cccdb-0daa-4b2a-bf0d-d93dfef5f8de",
+  "source": "openverse",
+  "provider": "jamendo",
+  "title": "Breakbeat 03",
+  "artist": "subtractor",
+  "artistUrl": "https://www.jamendo.com/artist/361013/subtractor",
+  "album": "new traks",
+  "pageUrl": "https://www.jamendo.com/track/603328",
+  "audioUrl": "https://prod-1.storage.jamendo.com/?trackid=603328&format=mp32",
+  "fileName": "subtractor - Breakbeat 03.mp3",
+  "license": {
+    "code": "by-nc-nd",
+    "version": "2.0",
+    "label": "CC BY-NC-ND 2.0 FR",
+    "url": "https://creativecommons.org/licenses/by-nc-nd/2.0/fr/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": false,
+    "shareAlike": false,
+    "publicDomain": false
+  },
+  "genre": "Breakbeat",
+  "tags": [
+    "instrumental",
+    "speed_medium"
+  ],
+  "analysis": {
+    "durationSec": 275.99,
+    "bpm": 140,
+    "bpmConfidence": 0.9,
+    "beatOffset": 1.0724,
+    "key": {
+      "name": "G",
+      "camelot": "9B",
+      "confidence": 0.48
+    },
+    "rmsDb": -13.8,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-18"
+}

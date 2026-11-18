@@ -1,0 +1,43 @@
+{
+  "version": 1,
+  "id": "openverse:cb651a3d-4efe-496f-9e1c-b5a84d2cea84",
+  "source": "openverse",
+  "provider": "jamendo",
+  "title": "Absolute Giganten (Breakbeat Mix)",
+  "artist": "Master M",
+  "artistUrl": "https://www.jamendo.com/artist/341896/Master_M",
+  "album": "Absolute Giganten EP",
+  "pageUrl": "https://www.jamendo.com/track/815718",
+  "audioUrl": "https://prod-1.storage.jamendo.com/?trackid=815718&format=mp32",
+  "fileName": "Master M - Absolute Giganten (Breakbeat Mix).mp3",
+  "license": {
+    "code": "by-nc-nd",
+    "version": "3.0",
+    "label": "CC BY-NC-ND 3.0",
+    "url": "https://creativecommons.org/licenses/by-nc-nd/3.0/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": false,
+    "shareAlike": false,
+    "publicDomain": false
+  },
+  "genre": "Breakbeat",
+  "tags": [
+    "instrumental",
+    "speed_medium"
+  ],
+  "analysis": {
+    "durationSec": 582.59,
+    "bpm": 171.82,
+    "bpmConfidence": 0.4,
+    "beatOffset": 0.1576,
+    "key": {
+      "name": "Em",
+      "camelot": "9A",
+      "confidence": 0.88
+    },
+    "rmsDb": -12,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-18"
+}

@@ -1,0 +1,44 @@
+{
+  "version": 1,
+  "id": "openverse:21d8c4e0-c540-4755-9113-b55a2e215029",
+  "source": "openverse",
+  "provider": "jamendo",
+  "title": "Demo Breakbeat",
+  "artist": "Areal Kollen",
+  "artistUrl": "https://www.jamendo.com/artist/456627/DJ_Areal_Kollen",
+  "album": "Old Demos Before",
+  "pageUrl": "https://www.jamendo.com/track/1225554",
+  "audioUrl": "https://prod-1.storage.jamendo.com/?trackid=1225554&format=mp32",
+  "fileName": "Areal Kollen - Demo Breakbeat.mp3",
+  "license": {
+    "code": "by-sa",
+    "version": "3.0",
+    "label": "CC BY-SA 3.0",
+    "url": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "attribution": true,
+    "commercial": true,
+    "derivatives": true,
+    "shareAlike": true,
+    "publicDomain": false
+  },
+  "genre": "Breakbeat",
+  "tags": [
+    "instrumental",
+    "neutral",
+    "speed_medium"
+  ],
+  "analysis": {
+    "durationSec": 188.47,
+    "bpm": 140,
+    "bpmConfidence": 1,
+    "beatOffset": 0.2108,
+    "key": {
+      "name": "Cm",
+      "camelot": "5A",
+      "confidence": 0.64
+    },
+    "rmsDb": -10.9,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-18"
+}
