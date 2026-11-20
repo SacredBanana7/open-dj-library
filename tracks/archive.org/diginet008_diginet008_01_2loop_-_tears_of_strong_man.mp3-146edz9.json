@@ -1,0 +1,44 @@
+{
+  "version": 1,
+  "id": "archive.org:diginet008/diginet008_01_2loop_-_tears_of_strong_man.mp3",
+  "source": "archive.org",
+  "title": "tears of strong man",
+  "artist": "2loop",
+  "album": "[diginet008] bedroom sessions",
+  "pageUrl": "https://archive.org/details/diginet008",
+  "audioUrl": "https://archive.org/download/diginet008/diginet008_01_2loop_-_tears_of_strong_man.mp3",
+  "fileName": "diginet008_01_2loop_-_tears_of_strong_man.mp3",
+  "sizeBytes": 12029952,
+  "license": {
+    "code": "by-nc-nd",
+    "version": "2.5",
+    "label": "CC BY-NC-ND 2.5",
+    "url": "http://creativecommons.org/licenses/by-nc-nd/2.5/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": false,
+    "shareAlike": false,
+    "publicDomain": false
+  },
+  "genre": "House",
+  "tags": [
+    "minimal",
+    "deep house",
+    "2loop",
+    "digilog"
+  ],
+  "analysis": {
+    "durationSec": 375.8,
+    "bpm": 120,
+    "bpmConfidence": 0.44,
+    "beatOffset": 1.4162,
+    "key": {
+      "name": "F#m",
+      "camelot": "11A",
+      "confidence": 0.93
+    },
+    "rmsDb": -12.8,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-20"
+}

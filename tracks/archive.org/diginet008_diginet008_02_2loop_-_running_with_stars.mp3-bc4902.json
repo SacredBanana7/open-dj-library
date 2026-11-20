@@ -1,0 +1,44 @@
+{
+  "version": 1,
+  "id": "archive.org:diginet008/diginet008_02_2loop_-_running_with_stars.mp3",
+  "source": "archive.org",
+  "title": "running with stars",
+  "artist": "2loop",
+  "album": "[diginet008] bedroom sessions",
+  "pageUrl": "https://archive.org/details/diginet008",
+  "audioUrl": "https://archive.org/download/diginet008/diginet008_02_2loop_-_running_with_stars.mp3",
+  "fileName": "diginet008_02_2loop_-_running_with_stars.mp3",
+  "sizeBytes": 16529408,
+  "license": {
+    "code": "by-nc-nd",
+    "version": "2.5",
+    "label": "CC BY-NC-ND 2.5",
+    "url": "http://creativecommons.org/licenses/by-nc-nd/2.5/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": false,
+    "shareAlike": false,
+    "publicDomain": false
+  },
+  "genre": "House",
+  "tags": [
+    "minimal",
+    "deep house",
+    "2loop",
+    "digilog"
+  ],
+  "analysis": {
+    "durationSec": 516.41,
+    "bpm": 120,
+    "bpmConfidence": 1,
+    "beatOffset": 0.5371,
+    "key": {
+      "name": "Fm",
+      "camelot": "4A",
+      "confidence": 0.82
+    },
+    "rmsDb": -13.3,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-20"
+}
