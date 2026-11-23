@@ -1,0 +1,44 @@
+{
+  "version": 1,
+  "id": "archive.org:DDW001/04_-_Built_From_Sticks_-_Half_steps.mp3",
+  "source": "archive.org",
+  "title": "tmp",
+  "artist": "Built From Sticks",
+  "album": "Half Steps",
+  "pageUrl": "https://archive.org/details/DDW001",
+  "audioUrl": "https://archive.org/download/DDW001/04_-_Built_From_Sticks_-_Half_steps.mp3",
+  "fileName": "04_-_Built_From_Sticks_-_Half_steps.mp3",
+  "sizeBytes": 4508160,
+  "license": {
+    "code": "by-nc-nd",
+    "version": "3.0",
+    "label": "CC BY-NC-ND 3.0",
+    "url": "http://creativecommons.org/licenses/by-nc-nd/3.0/",
+    "attribution": true,
+    "commercial": false,
+    "derivatives": false,
+    "shareAlike": false,
+    "publicDomain": false
+  },
+  "genre": "Ambient",
+  "tags": [
+    "Built From Sticks",
+    "Folk",
+    "Ambient",
+    "Brisbane"
+  ],
+  "analysis": {
+    "durationSec": 193.89,
+    "bpm": 120.32,
+    "bpmConfidence": 0.42,
+    "beatOffset": 0.1882,
+    "key": {
+      "name": "D#",
+      "camelot": "5B",
+      "confidence": 0.89
+    },
+    "rmsDb": -26.2,
+    "analyzer": "pulsar-dj/analysis-worker 0.1"
+  },
+  "added": "2026-11-23"
+}
